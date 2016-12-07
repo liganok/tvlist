@@ -3,13 +3,13 @@
 #EXTINF:0,########   Türk kanalları   ########
 #EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/ryypqw1462991911.png" group-title="Türk kanalları", TRT 1 HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14230.ts
-#EXTINF:-1, NTV HD
+#EXTINF:-1 tvg-logo="http://www.ntv.com.tr/content/img/ntv_logo_buyuk.jpg", NTV HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14233.ts
-#EXTINF:-1, CNN TÜRK HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/3/3b/20110201141238!CNN_Türk_logosu.png", CNN TÜRK HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14234.ts
-#EXTINF:-1, HABER TÜRK HD
+#EXTINF:-1 tvg-logo="http://www.logovector.org/wp-content/uploads/logos/png/h/haberturk_logo.png", HABER TÜRK HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14235.ts
-#EXTINF:-1, TV 8 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Tv8_new_logo.png", TV 8 HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14225.ts
 #EXTINF:-1, FOX HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14224.ts
@@ -37,7 +37,7 @@ http://clientportal.link:8080/live/B12dark/ydvp39MTNC/13665.ts
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/12755.ts
 #EXTINF:-1, TiviBu Spor 2 HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/12756.ts
-#EXTINF:-1, NTV Spor HD
+#EXTINF:-1 tvg-logo="http://basketdergisi.com/uploads/dosyalar/2016/05/e0d173ca5770ff0c010201816655427c.jpg", NTV Spor HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14221.ts
 #EXTINF:-1, TRT Spor HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14241.ts
