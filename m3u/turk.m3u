@@ -7,7 +7,7 @@ http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14230.ts
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14233.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/3/3b/20110201141238!CNN_Türk_logosu.png", CNN TÜRK HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14234.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/43/Habertürk_TV_logosu.png", HABER TÜRK HD
+#EXTINF:-1 tvg-logo="https://app.eventx.co/icons/htcalisanajans.png", HABER TÜRK HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14235.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Tv8_new_logo.png", TV 8 HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14225.ts
@@ -19,6 +19,8 @@ http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14222.ts
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14226.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Logo_Star_TV_ab_2011.svg/512px-Logo_Star_TV_ab_2011.svg.png", STAR HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14223.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Atv_logosu.png", A TV HD
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14221.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a8/Powertürk_TV_logosu.png", POWER TÜRK HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14242.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b5/Power_TV_logosu.png", POWER HD
@@ -38,7 +40,7 @@ http://clientportal.link:8080/live/B12dark/ydvp39MTNC/12755.ts
 #EXTINF:-1 tvg-logo="http://www.tivibuspor.com.tr/assets/i/header-logo.png", TiviBu Spor 2 HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/12756.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/7/7a/20130504105019!NTV_Spor_logosu.png", NTV Spor HD
-http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14221.ts
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14240.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/7/75/TRT_Spor_Yeni_Logo.png", TRT Spor HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14241.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e9/A_Spor_logosu.png", A Spor HD
