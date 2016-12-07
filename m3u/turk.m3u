@@ -3,27 +3,27 @@
 #EXTINF:0,########   Türk kanalları   ########
 #EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/ryypqw1462991911.png" group-title="Türk kanalları", TRT 1 HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14230.ts
-#EXTINF:-1 tvg-logo="http://www.ntv.com.tr/content/img/ntv_logo_buyuk.jpg", NTV HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png", NTV HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14233.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/3/3b/20110201141238!CNN_Türk_logosu.png", CNN TÜRK HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14234.ts
-#EXTINF:-1 tvg-logo="http://www.logovector.org/wp-content/uploads/logos/png/h/haberturk_logo.png", HABER TÜRK HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/43/Habertürk_TV_logosu.png", HABER TÜRK HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14235.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Tv8_new_logo.png", TV 8 HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14225.ts
-#EXTINF:-1, FOX HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/1832px-FOX_wordmark-red.svg.png", FOX HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14224.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/c/ca/Kanal_D_logo.svg/943px-Kanal_D_logo.svg.png", KANAL D HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14222.ts
-#EXTINF:-1, SHOW TV HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png", SHOW TV HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14226.ts
-#EXTINF:-1, STAR HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Logo_Star_TV_ab_2011.svg/512px-Logo_Star_TV_ab_2011.svg.png", STAR HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14223.ts
-#EXTINF:-1, POWER TÜRK HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a8/Powertürk_TV_logosu.png", POWER TÜRK HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14242.ts
-#EXTINF:-1, POWER HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b5/Power_TV_logosu.png", POWER HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14245.ts
-#EXTINF:-1, NR 1 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/%22Number_one_tv_logo%22.png", NR 1 HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14246.ts
 #EXTINF:-1, LIG TV 1 HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/6412.ts
