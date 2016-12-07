@@ -1,26 +1,48 @@
 #EXTM3U
 
 #EXTINF:0,########   Türk kanalları   ########
-#EXTINF:-1, TRT 1 HD
+#EXTINF:-1 group-title="Türk kanalları", TRT 1 HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14230.ts
-#EXTINF:-1, NTV HD
+#EXTINF:-1 group-title="Türk kanalları", NTV HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14233.ts
-#EXTINF:-1, CNN TURK HD
+#EXTINF:-1 group-title="Türk kanalları", CNN TÜRK HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14234.ts
-#EXTINF:-1, TV 8 HD
+#EXTINF:-1 group-title="Türk kanalları", HABER TÜRK HD
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14235.ts
+#EXTINF:-1 group-title="Türk kanalları", TV 8 HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14225.ts
-#EXTINF:-1, FOX HD
+#EXTINF:-1 group-title="Türk kanalları", FOX HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14224.ts
-#EXTINF:-1, KANAL D HD
+#EXTINF:-1 group-title="Türk kanalları", KANAL D HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14222.ts
-#EXTINF:-1, SHOW TV HD
+#EXTINF:-1 group-title="Türk kanalları", SHOW TV HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14226.ts
-#EXTINF:-1, STAR HD
+#EXTINF:-1 group-title="Türk kanalları", STAR HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14223.ts
 #EXTINF:-1, POWER TÜRK HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14242.ts
 #EXTINF:-1, POWER HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14245.ts
+#EXTINF:-1, NR 1 HD
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14246.ts
+#EXTINF:-1, LIG TV 1 HD
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/6412.ts
+#EXTINF:-1, LIG TV 2 HD
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/6413.ts
+#EXTINF:-1, LIG TV 3 HD
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/6414.ts
+#EXTINF:-1, LIG TV 4
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/13665.ts
+#EXTINF:-1, TiviBu Spor 1 HD
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/12755.ts
+#EXTINF:-1, TiviBu Spor 2 HD
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/12756.ts
+#EXTINF:-1, NTV Spor HD
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14221.ts
+#EXTINF:-1, TRT Spor HD
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14241.ts
+#EXTINF:-1, A Spor HD
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14239.ts
 
 #EXTINF:0,########   UK TV   ########
 
