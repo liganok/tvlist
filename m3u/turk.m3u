@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:0,########   Turk   ########
+#EXTINF:0,########   Türk kanalları   ########
 #EXTINF:-1, TRT 1 HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14230.ts
 #EXTINF:-1, NTV HD
@@ -17,13 +17,76 @@ http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14222.ts
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14226.ts
 #EXTINF:-1, STAR HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14223.ts
+#EXTINF:-1, POWER TÜRK HD
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14242.ts
+#EXTINF:-1, POWER HD
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14245.ts
 
 #EXTINF:0,########   UK TV   ########
+
+#EXTINF:-1, BBC 1 HD
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/1994.ts
+#EXTINF:-1, BBC 2 HD
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/12347.ts
 #EXTINF:-1, BBC 4 HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/1993.ts
+#EXTINF:-1, ITV 1 HD
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/1995.ts
+#EXTINF:-1, ITV 2 HD
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/12345.ts
+#EXTINF:-1, ITV 3 HD
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14292.ts
+#EXTINF:-1, ITV 4 HD
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/12346.ts
 
 #EXTINF:0,########   SPORT   ########
 #EXTINF:-1, SKY SPORTS 1 HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14651.ts
 #EXTINF:-1, SKY SPORTS 2 HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14652.ts
+#EXTINF:-1, SKY SPORTS 3 HD
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14653.ts
+#EXTINF:-1, SKY SPORTS 4 HD
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14654.ts
+#EXTINF:-1, SKY SPORTS 5 HD
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14655.ts
+#EXTINF:-1, BT SPORTS 1 HD
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14657.ts
+#EXTINF:-1, BT SPORTS 2 HD
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14658.ts
+#EXTINF:-1, BT SPORTS 3 HD
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14659.ts
+#EXTINF:-1, PREMIER SPORTS HD
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/1981.ts
+#EXTINF:-1, beIN SPORTS Espana HD
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/12729.ts
+#EXTINF:-1, beIN SPORTS LaLiga HD
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/12719.ts
+#EXTINF:-1, beIN SPORTS LaLiga 1 HD
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/13660.ts
+#EXTINF:-1, SKY SPORT 1 HD
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/7326.ts
+#EXTINF:-1, SKY SPORT 2 HD
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/7327.ts
+#EXTINF:-1, SKY SPORT 3 HD
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/7328.ts
+#EXTINF:-1, SKY SPORT 4 HD
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/7329.ts
+#EXTINF:-1, SKY SPORT 5 HD
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/7330.ts
+#EXTINF:-1, SKY SPORT 6 HD
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/7331.ts
+#EXTINF:-1, SKY SPORT 7 HD
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/7332.ts
+#EXTINF:-1, SKY SPORT 8 HD
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/7333.ts
+#EXTINF:-1, SKY SPORT 9 HD
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/7334.ts
+#EXTINF:-1, SKY SPORT 10 HD
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/7335.ts
+#EXTINF:-1, SKY SPORT 11 HD
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/7336.ts
+#EXTINF:-1, SKY SPORT Bundesliga 1 HD
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/7338.ts
+#EXTINF:-1, SKY SPORT Bundesliga 2 HD
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/7339.ts
