@@ -3,21 +3,21 @@
 #EXTINF:0,########   Türk kanalları   ########
 #EXTINF:-1 group-title="Türk kanalları", TRT 1 HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14230.ts
-#EXTINF:-1 group-title="Türk kanalları", NTV HD
+#EXTINF:-1, NTV HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14233.ts
-#EXTINF:-1 group-title="Türk kanalları", CNN TÜRK HD
+#EXTINF:-1, CNN TÜRK HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14234.ts
-#EXTINF:-1 group-title="Türk kanalları", HABER TÜRK HD
+#EXTINF:-1, HABER TÜRK HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14235.ts
-#EXTINF:-1 group-title="Türk kanalları", TV 8 HD
+#EXTINF:-1, TV 8 HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14225.ts
-#EXTINF:-1 group-title="Türk kanalları", FOX HD
+#EXTINF:-1, FOX HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14224.ts
-#EXTINF:-1 group-title="Türk kanalları", KANAL D HD
+#EXTINF:-1, KANAL D HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14222.ts
-#EXTINF:-1 group-title="Türk kanalları", SHOW TV HD
+#EXTINF:-1, SHOW TV HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14226.ts
-#EXTINF:-1 group-title="Türk kanalları", STAR HD
+#EXTINF:-1, STAR HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14223.ts
 #EXTINF:-1, POWER TÜRK HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14242.ts
@@ -46,7 +46,7 @@ http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14239.ts
 
 #EXTINF:0,########   UK TV   ########
 
-#EXTINF:-1, BBC 1 HD
+#EXTINF:-1 group-title="UK TV", BBC 1 HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/1994.ts
 #EXTINF:-1, BBC 2 HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/12347.ts
@@ -62,7 +62,7 @@ http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14292.ts
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/12346.ts
 
 #EXTINF:0,########   SPORT   ########
-#EXTINF:-1, SKY SPORTS 1 HD
+#EXTINF:-1 group-title="SPORT", SKY SPORTS 1 HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14651.ts
 #EXTINF:-1, SKY SPORTS 2 HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14652.ts
