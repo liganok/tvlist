@@ -56,15 +56,15 @@ http://clientportal.link:8080/live/B12dark/ydvp39MTNC/12347.ts
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/1993.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/ITV_logo_2013.svg/200px-ITV_logo_2013.svg.png", ITV 1 HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/1995.ts
-#EXTINF:-1 tvg-logo="http://news.images.itv.com/image/file/146645/image_update_cf1b3bbde6a6e687_1358133155_9j-4aaqsk.jpeg", ITV 2 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/ITV2_logo_2013.svg/248px-ITV2_logo_2013.svg.png", ITV 2 HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/12345.ts
-#EXTINF:-1, ITV 3 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/ITV3_logo_2013.svg/249px-ITV3_logo_2013.svg.png", ITV 3 HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14292.ts
-#EXTINF:-1, ITV 4 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/ITV4_logo_2013.svg/249px-ITV4_logo_2013.svg.png", ITV 4 HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/12346.ts
 
 #EXTINF:0,########   SPORT   ########
-#EXTINF:-1 group-title="SPORT", SKY SPORTS 1 HD
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-pcgRsJ6mEjY/UZdsDBj0J5I/AAAAAAAAALc/iNVH-d0a2F0/s1600/Sky+Sports+1.png" group-title="SPORT", SKY SPORTS 1 HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14651.ts
 #EXTINF:-1, SKY SPORTS 2 HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14652.ts
