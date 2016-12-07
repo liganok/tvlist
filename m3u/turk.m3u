@@ -1,5 +1,6 @@
 #EXTM3U
 
+#EXTINF:0,########   Turk   ########
 #EXTINF:-1, TRT 1 HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14230.ts
 #EXTINF:-1, NTV HD
@@ -16,8 +17,12 @@ http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14222.ts
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14226.ts
 #EXTINF:-1, STAR HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14223.ts
+
+#EXTINF:0,########   UK TV   ########
 #EXTINF:-1, BBC 4 HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/1993.ts
+
+#EXTINF:0,########   SPORT   ########
 #EXTINF:-1, SKY SPORTS 1 HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14651.ts
 #EXTINF:-1, SKY SPORTS 2 HD
