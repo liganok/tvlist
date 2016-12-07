@@ -25,36 +25,36 @@ http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14242.ts
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14245.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/%22Number_one_tv_logo%22.png", NR 1 HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14246.ts
-#EXTINF:-1, LIG TV 1 HD
+#EXTINF:-1 tvg-logo="http://www.digiturk.com.tr/icerik/2015logos/ligtv_hd.png", LIG TV 1 HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/6412.ts
-#EXTINF:-1, LIG TV 2 HD
+#EXTINF:-1 tvg-logo="http://www.digiturk.com.tr/icerik/2015logos/ligtv2_hd.png", LIG TV 2 HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/6413.ts
-#EXTINF:-1, LIG TV 3 HD
+#EXTINF:-1 tvg-logo="http://www.digiturk.com.tr/icerik/2015logos/ligtv3_hd.png", LIG TV 3 HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/6414.ts
-#EXTINF:-1, LIG TV 4
+#EXTINF:-1 tvg-logo="http://www.digiturk.com.tr/icerik/2015logos/ligtv4_hd.png", LIG TV 4 HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/13665.ts
-#EXTINF:-1, TiviBu Spor 1 HD
+#EXTINF:-1 tvg-logo="http://www.tivibuspor.com.tr/assets/i/header-logo.png", TiviBu Spor 1 HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/12755.ts
-#EXTINF:-1, TiviBu Spor 2 HD
+#EXTINF:-1 tvg-logo="http://www.tivibuspor.com.tr/assets/i/header-logo.png", TiviBu Spor 2 HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/12756.ts
-#EXTINF:-1 tvg-logo="http://basketdergisi.com/uploads/dosyalar/2016/05/e0d173ca5770ff0c010201816655427c.jpg", NTV Spor HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/7/7a/20130504105019!NTV_Spor_logosu.png", NTV Spor HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14221.ts
-#EXTINF:-1, TRT Spor HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/7/75/TRT_Spor_Yeni_Logo.png", TRT Spor HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14241.ts
-#EXTINF:-1, A Spor HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e9/A_Spor_logosu.png", A Spor HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14239.ts
 
 #EXTINF:0,########   UK TV   ########
 
-#EXTINF:-1 group-title="UK TV", BBC 1 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/BBC_One_logo.svg/878px-BBC_One_logo.svg.png" group-title="UK TV", BBC 1 HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/1994.ts
-#EXTINF:-1, BBC 2 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/BBC_Two.svg/994px-BBC_Two.svg.png", BBC 2 HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/12347.ts
-#EXTINF:-1, BBC 4 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/BBC_Four.svg/272px-BBC_Four.svg.png", BBC 4 HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/1993.ts
-#EXTINF:-1, ITV 1 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/ITV_logo_2013.svg/200px-ITV_logo_2013.svg.png", ITV 1 HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/1995.ts
-#EXTINF:-1, ITV 2 HD
+#EXTINF:-1 tvg-logo="http://news.images.itv.com/image/file/146645/image_update_cf1b3bbde6a6e687_1358133155_9j-4aaqsk.jpeg", ITV 2 HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/12345.ts
 #EXTINF:-1, ITV 3 HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14292.ts
