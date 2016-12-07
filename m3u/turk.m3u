@@ -1,0 +1,63 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fmodern\fcharset0 Courier-Bold;\f1\fmodern\fcharset0 Courier;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww15180\viewh12580\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\b\fs19\fsmilli9717 \cf2 \expnd0\expndtw0\kerning0
+#EXTM3U
+\f1\b0 \
+
+\f0\b #EXTINF:\uc0\u8722 1, TV 8 HD\
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14225.ts\
+#EXTINF:\uc0\u8722 1, TRT 1 HD\
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14230.ts\
+#EXTINF:\uc0\u8722 1, SHOW TV HD\
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14226.ts\
+#EXTINF:\uc0\u8722 1, STAR HD\
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14223.ts\
+#EXTINF:\uc0\u8722 1, Kanal D HD\
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14222.ts\
+#EXTINF:\uc0\u8722 1, FOX HD\
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14224.ts\
+\pard\pardeftab720\partightenfactor0
+\cf0 #EXTINF:\uc0\u8722 1, NTV HD\
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14233.ts\
+#EXTINF:\uc0\u8722 1, CNN T\'dcRK HD\
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14234.ts\
+#EXTINF:\uc0\u8722 1, POWER T\'dcRK HD\
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14245.ts\
+#EXTINF:\uc0\u8722 1, POWER HD\
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14245.ts\cf2 \
+\cf0 #EXTINF:\uc0\u8722 1, BBC 1 HD\
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/1994.ts\
+#EXTINF:\uc0\u8722 1, BBC 2 HD\
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/12347.ts\
+#EXTINF:\uc0\u8722 1, BBC 4 HD\
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/1993.ts\
+#EXTINF:\uc0\u8722 1, ITV 1 HD\
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/1995.ts\
+#EXTINF:\uc0\u8722 1, ITV 2 HD\
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/12345.ts\
+#EXTINF:\uc0\u8722 1, ITV 3 HD\
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14292.ts\
+#EXTINF:\uc0\u8722 1, ITV 4 HD\
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/12346.ts\cf2 \
+#EXTINF:\uc0\u8722 1, SKY SPORTS 1 HD\
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14651.ts\
+#EXTINF:\uc0\u8722 1, SKY SPORTS 2 HD\
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14652.ts\
+#EXTINF:\uc0\u8722 1, SKY SPORTS 3 HD\
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14653.ts\
+#EXTINF:\uc0\u8722 1, SKY SPORTS 4 HD\
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14654.ts\
+#EXTINF:\uc0\u8722 1, SKY SPORTS 5 HD\
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14655.ts\
+\cf0 #EXTINF:\uc0\u8722 1, BT SPORTS 1 HD\cf2 \
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14657.ts\
+\cf0 #EXTINF:\uc0\u8722 1, BT SPORTS 2 HD\
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14658.ts\
+#EXTINF:\uc0\u8722 1, BT SPORTS 3 HD\cf2 \
+http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14659.ts\
+}
