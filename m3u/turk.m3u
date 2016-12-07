@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:0,########   Türk kanalları   ########
-#EXTINF:-1 group-title="Türk kanalları", TRT 1 HD
+#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/ryypqw1462991911.png" group-title="Türk kanalları", TRT 1 HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14230.ts
 #EXTINF:-1, NTV HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14233.ts
@@ -13,7 +13,7 @@ http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14235.ts
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14225.ts
 #EXTINF:-1, FOX HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14224.ts
-#EXTINF:-1, KANAL D HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/c/ca/Kanal_D_logo.svg/943px-Kanal_D_logo.svg.png", KANAL D HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14222.ts
 #EXTINF:-1, SHOW TV HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14226.ts
