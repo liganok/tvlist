@@ -48,7 +48,7 @@ http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14239.ts
 
 #EXTINF:0,########   UK TV   ########
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/BBC_One_logo.svg/878px-BBC_One_logo.svg.png" group-title="UK TV", BBC 1 HD
+#EXTINF:-1 tvg-id="683" tvg-name="BBC1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/BBC_One_logo.svg/878px-BBC_One_logo.svg.png" group-title="UK TV", BBC1 HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/1994.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/BBC_Two.svg/994px-BBC_Two.svg.png", BBC 2 HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/12347.ts
