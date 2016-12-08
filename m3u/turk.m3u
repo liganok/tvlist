@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:0,########   Türk kanalları   ########
-#EXTINF:-1 tvg-name="TRT 1 HD" tvg-logo="https://www.thelogodb.com/images/media/logo/ryypqw1462991911.png" group-title="Türk kanalları",TRT 1 HD
+#EXTINF:-1 tvg-name="8222" tvg-logo="https://www.thelogodb.com/images/media/logo/ryypqw1462991911.png" group-title="Türk kanalları",TRT 1 HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14230.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png", NTV HD
 http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14233.ts
