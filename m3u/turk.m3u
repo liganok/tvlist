@@ -1,116 +1,657 @@
 #EXTM3U
-
-#EXTINF:0,########   Türk kanalları   ########
-#EXTINF:-1 tvg-name="8222" tvg-logo="https://www.thelogodb.com/images/media/logo/ryypqw1462991911.png" group-title="Türk kanalları",TRT 1 HD
-http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14230.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png", NTV HD
-http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14233.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/3/3b/20110201141238!CNN_Türk_logosu.png", CNN TÜRK HD
-http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14234.ts
-#EXTINF:-1 tvg-logo="https://app.eventx.co/icons/htcalisanajans.png", HABER TÜRK HD
-http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14235.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Tv8_new_logo.png", TV 8 HD
-http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14225.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/1832px-FOX_wordmark-red.svg.png", FOX HD
-http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14224.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/c/ca/Kanal_D_logo.svg/943px-Kanal_D_logo.svg.png", KANAL D HD
-http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14222.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png", SHOW TV HD
-http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14226.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Logo_Star_TV_ab_2011.svg/512px-Logo_Star_TV_ab_2011.svg.png", STAR HD
-http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14223.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Atv_logosu.png", A TV HD
-http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14221.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a8/Powertürk_TV_logosu.png", POWER TÜRK HD
-http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14242.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b5/Power_TV_logosu.png", POWER HD
-http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14245.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/%22Number_one_tv_logo%22.png", NR 1 HD
-http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14246.ts
-#EXTINF:-1 tvg-logo="http://www.digiturk.com.tr/icerik/2015logos/ligtv_hd.png", LIG TV 1 HD
-http://clientportal.link:8080/live/B12dark/ydvp39MTNC/6412.ts
-#EXTINF:-1 tvg-logo="http://www.digiturk.com.tr/icerik/2015logos/ligtv2_hd.png", LIG TV 2 HD
-http://clientportal.link:8080/live/B12dark/ydvp39MTNC/6413.ts
-#EXTINF:-1 tvg-logo="http://www.digiturk.com.tr/icerik/2015logos/ligtv3_hd.png", LIG TV 3 HD
-http://clientportal.link:8080/live/B12dark/ydvp39MTNC/6414.ts
-#EXTINF:-1 tvg-logo="http://www.digiturk.com.tr/icerik/2015logos/ligtv4_hd.png", LIG TV 4 HD
-http://clientportal.link:8080/live/B12dark/ydvp39MTNC/13665.ts
-#EXTINF:-1 tvg-logo="http://www.tivibuspor.com.tr/assets/i/header-logo.png", TiviBu Spor 1 HD
-http://clientportal.link:8080/live/B12dark/ydvp39MTNC/12755.ts
-#EXTINF:-1 tvg-logo="http://www.tivibuspor.com.tr/assets/i/header-logo.png", TiviBu Spor 2 HD
-http://clientportal.link:8080/live/B12dark/ydvp39MTNC/12756.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/7/7a/20130504105019!NTV_Spor_logosu.png", NTV Spor HD
-http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14240.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/7/75/TRT_Spor_Yeni_Logo.png", TRT Spor HD
-http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14241.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e9/A_Spor_logosu.png", A Spor HD
-http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14239.ts
-
-#EXTINF:0,########   UK TV   ########
-
-#EXTINF:-1 tvg-id="683" tvg-name="BBC1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/BBC_One_logo.svg/878px-BBC_One_logo.svg.png" group-title="UK TV", BBC1 HD
-http://clientportal.link:8080/live/B12dark/ydvp39MTNC/1994.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/BBC_Two.svg/994px-BBC_Two.svg.png", BBC 2 HD
-http://clientportal.link:8080/live/B12dark/ydvp39MTNC/12347.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/BBC_Four.svg/272px-BBC_Four.svg.png", BBC 4 HD
-http://clientportal.link:8080/live/B12dark/ydvp39MTNC/1993.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/ITV_logo_2013.svg/200px-ITV_logo_2013.svg.png", ITV 1 HD
-http://clientportal.link:8080/live/B12dark/ydvp39MTNC/1995.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/ITV2_logo_2013.svg/248px-ITV2_logo_2013.svg.png", ITV 2 HD
-http://clientportal.link:8080/live/B12dark/ydvp39MTNC/12345.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/ITV3_logo_2013.svg/249px-ITV3_logo_2013.svg.png", ITV 3 HD
-http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14292.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/ITV4_logo_2013.svg/249px-ITV4_logo_2013.svg.png", ITV 4 HD
-http://clientportal.link:8080/live/B12dark/ydvp39MTNC/12346.ts
-
-#EXTINF:0,########   SPORT   ########
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-pcgRsJ6mEjY/UZdsDBj0J5I/AAAAAAAAALc/iNVH-d0a2F0/s1600/Sky+Sports+1.png" group-title="SPORT", SKY SPORTS 1 HD
-http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14651.ts
-#EXTINF:-1, SKY SPORTS 2 HD
-http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14652.ts
-#EXTINF:-1, SKY SPORTS 3 HD
-http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14653.ts
-#EXTINF:-1, SKY SPORTS 4 HD
-http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14654.ts
-#EXTINF:-1, SKY SPORTS 5 HD
-http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14655.ts
-#EXTINF:-1, BT SPORTS 1 HD
-http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14657.ts
-#EXTINF:-1, BT SPORTS 2 HD
-http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14658.ts
-#EXTINF:-1, BT SPORTS 3 HD
-http://clientportal.link:8080/live/B12dark/ydvp39MTNC/14659.ts
-#EXTINF:-1, PREMIER SPORTS HD
-http://clientportal.link:8080/live/B12dark/ydvp39MTNC/1981.ts
-#EXTINF:-1, beIN SPORTS Espana HD
-http://clientportal.link:8080/live/B12dark/ydvp39MTNC/12729.ts
-#EXTINF:-1, beIN SPORTS LaLiga HD
-http://clientportal.link:8080/live/B12dark/ydvp39MTNC/12719.ts
-#EXTINF:-1, beIN SPORTS LaLiga 1 HD
-http://clientportal.link:8080/live/B12dark/ydvp39MTNC/13660.ts
-#EXTINF:-1, SKY SPORT 1 HD
-http://clientportal.link:8080/live/B12dark/ydvp39MTNC/7326.ts
-#EXTINF:-1, SKY SPORT 2 HD
-http://clientportal.link:8080/live/B12dark/ydvp39MTNC/7327.ts
-#EXTINF:-1, SKY SPORT 3 HD
-http://clientportal.link:8080/live/B12dark/ydvp39MTNC/7328.ts
-#EXTINF:-1, SKY SPORT 4 HD
-http://clientportal.link:8080/live/B12dark/ydvp39MTNC/7329.ts
-#EXTINF:-1, SKY SPORT 5 HD
-http://clientportal.link:8080/live/B12dark/ydvp39MTNC/7330.ts
-#EXTINF:-1, SKY SPORT 6 HD
-http://clientportal.link:8080/live/B12dark/ydvp39MTNC/7331.ts
-#EXTINF:-1, SKY SPORT 7 HD
-http://clientportal.link:8080/live/B12dark/ydvp39MTNC/7332.ts
-#EXTINF:-1, SKY SPORT 8 HD
-http://clientportal.link:8080/live/B12dark/ydvp39MTNC/7333.ts
-#EXTINF:-1, SKY SPORT 9 HD
-http://clientportal.link:8080/live/B12dark/ydvp39MTNC/7334.ts
-#EXTINF:-1, SKY SPORT 10 HD
-http://clientportal.link:8080/live/B12dark/ydvp39MTNC/7335.ts
-#EXTINF:-1, SKY SPORT 11 HD
-http://clientportal.link:8080/live/B12dark/ydvp39MTNC/7336.ts
-#EXTINF:-1, SKY SPORT Bundesliga 1 HD
-http://clientportal.link:8080/live/B12dark/ydvp39MTNC/7338.ts
-#EXTINF:-1, SKY SPORT Bundesliga 2 HD
-http://clientportal.link:8080/live/B12dark/ydvp39MTNC/7339.ts
+#EXTINF:-1,TR: TRT 1 HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2810.ts
+#EXTINF:-1,TR: TRT 1 HQ
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2639.ts
+#EXTINF:-1,TR: ATV HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2675.ts
+#EXTINF:-1,TR: ATV HQ
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2644.ts
+#EXTINF:-1,TR: Kanal D HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2779.ts
+#EXTINF:-1,TR: Kanal D HQ
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2642.ts
+#EXTINF:-1,TR: SHOW TV HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/9223.ts
+#EXTINF:-1,TR: Show Tv HQ
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2641.ts
+#EXTINF:-1,TR: Star TV HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2804.ts
+#EXTINF:-1,TR: Star Tv HQ
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2640.ts
+#EXTINF:-1,TR: Fox TV HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2673.ts
+#EXTINF:-1,TR: Fox TV HQ
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2643.ts
+#EXTINF:-1,TR: TV 8 HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2818.ts
+#EXTINF:-1,TR: TV 8 HQ
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2638.ts
+#EXTINF:-1,TR: TV 8.5 HQ
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/7547.ts
+#EXTINF:-1,TR: TV 8.5 HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3823.ts
+#EXTINF:-1,TR: FLASH TV HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2773.ts
+#EXTINF:-1,TR: FLASH TV HQ
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3399.ts
+#EXTINF:-1,TR: KANAL 7 HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/8906.ts
+#EXTINF:-1,TR: KANAL 7 HQ
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3403.ts
+#EXTINF:-1,TR: A2 HQ
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2633.ts
+#EXTINF:-1,TR: 360 TV
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/7568.ts
+#EXTINF:-1,TR: Beyaz Tv
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2765.ts
+#EXTINF:-1,TR: TV Net
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2819.ts
+#EXTINF:-1,TR: TV NET HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3326.ts
+#EXTINF:-1,TR: TV NET HQ
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/9042.ts
+#EXTINF:-1,TR: ULKE TV HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/8907.ts
+#EXTINF:-1,TR: ULKE TV HQ
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/9044.ts
+#EXTINF:-1,TR: TGRT
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3396.ts
+#EXTINF:-1,TR: Meltem TV
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3263.ts
+#EXTINF:-1,TR: MELTEM TV HQ
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/9043.ts
+#EXTINF:-1,TR: Mesaj TV
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3265.ts
+#EXTINF:-1,TR: Teve 2
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2817.ts
+#EXTINF:-1,TR: TV 2 HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3400.ts
+#EXTINF:-1,TR: A9 TV
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2652.ts
+#EXTINF:-1,TR: Halk Tv
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2775.ts
+#EXTINF:-1,TR: HALK TV HQ
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/9040.ts
+#EXTINF:-1,TR: ULUSAL KANAL
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/7761.ts
+#EXTINF:-1,TR: ULUSAL KANAL HQ
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/9041.ts
+#EXTINF:-1,TR: YABAN.TV
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3363.ts
+#EXTINF:-1,TR: Animaux
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2649.ts
+#EXTINF:-1,TR: Atlas Tv
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2736.ts
+#EXTINF:-1,TR: Bbc Eart HQ
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2755.ts
+#EXTINF:-1,TR: beIN Gurme
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2668.ts
+#EXTINF:-1,TR: beIN IZ TV HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2671.ts
+#EXTINF:-1,TR: Bengu Turk
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2764.ts
+#EXTINF:-1,TR: Best Tv
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2632.ts
+#EXTINF:-1,TR: Bloomberg HT
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2766.ts
+#EXTINF:-1,TR: Dost Tv
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2748.ts
+#EXTINF:-1,TR: Fil Tv
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2776.ts
+#EXTINF:-1,TR: Fox Crime
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2656.ts
+#EXTINF:-1,TR: Fox Life
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2655.ts
+#EXTINF:-1,TR: FX HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2654.ts
+#EXTINF:-1,TR: Hilal TV
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2733.ts
+#EXTINF:-1,TR: Lalegul Tv
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2758.ts
+#EXTINF:-1,TR: TRT DIYANET
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/6004.ts
+#EXTINF:-1,TR: Kanal Avrupa
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2731.ts
+#EXTINF:-1,TR: Lifetime TV Türkiye
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2685.ts
+#EXTINF:-1,TR: Showmax HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2651.ts
+#EXTINF:-1,TR: TLC
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2809.ts
+#EXTINF:-1,TR: KANAL AVRUPA HQ
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3280.ts
+#EXTINF:-1,TR: KAYSERI TV
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/7755.ts
+#EXTINF:-1,TR: KANAL 38
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/7758.ts
+#EXTINF:-1,TR: KABE TV
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/7759.ts
+#EXTINF:-1,TR: Trt Haber HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2813.ts
+#EXTINF:-1,TR: A Haber HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2762.ts
+#EXTINF:-1,TR: Ntv HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2792.ts
+#EXTINF:-1,TR: NTV HQ
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2636.ts
+#EXTINF:-1,TR: CNN Turk HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2637.ts
+#EXTINF:-1,TR: CNN Turk HQ
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2768.ts
+#EXTINF:-1,TR: CNN TURK
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3392.ts
+#EXTINF:-1,TR: CNN TURK HD TR
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3391.ts
+#EXTINF:-1,TR: Haber Turk HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2774.ts
+#EXTINF:-1,TR: TGRT Haber
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2806.ts
+#EXTINF:-1,TR: HABERTURK HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3389.ts
+#EXTINF:-1,TR: A HABER
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3388.ts
+#EXTINF:-1,TR: A HABER HQ
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3387.ts
+#EXTINF:-1,TR: TGRT HABER HQ
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3382.ts
+#EXTINF:-1,TR: ULKE TV
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/7756.ts
+#EXTINF:-1,TR: BLOOMBERG HT HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/7757.ts
+#EXTINF:-1,TR: Haber 24
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2760.ts
+#EXTINF:-1,TR: Haber 61
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2742.ts
+#EXTINF:-1,TR : HALK TV
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/7760.ts
+#EXTINF:-1,----BELGESEL----
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2826.ts
+#EXTINF:-1,TR: Discovery IDX
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2647.ts
+#EXTINF:-1,TR: History HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2697.ts
+#EXTINF:-1,TR: Nat Geo Wild
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2698.ts
+#EXTINF:-1,TR: National Geo HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2699.ts
+#EXTINF:-1,TR: Animal Planet HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2667.ts
+#EXTINF:-1,TR: Discovery Chanel HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2696.ts
+#EXTINF:-1,TR: Discovery Scienc
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2646.ts
+#EXTINF:-1,TR: Discovery Showcase HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2645.ts
+#EXTINF:-1,TR: Discovery Turbo Extra
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2759.ts
+#EXTINF:-1,TR: Travel Channel HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2663.ts
+#EXTINF:-1,TR: TRT Belgesel HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2811.ts
+#EXTINF:-1,TR: Nat Geo People HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2666.ts
+#EXTINF:-1,TR: World Travel Channel
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2680.ts
+#EXTINF:-1,TR: ANIMAL PLANET HD TR
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3365.ts
+#EXTINF:-1,TR: DISCOVERY CHANNEL HD TR
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3368.ts
+#EXTINF:-1,TR: DISCOVERY SCIENCE HD TR
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3372.ts
+#EXTINF:-1,TR: NAT GEO WILD HD TR
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3371.ts
+#EXTINF:-1,TR: NATIONAL GEO HD TR
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3370.ts
+#EXTINF:-1,TR: TGRT Belgesel
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3375.ts
+#EXTINF:-1,----COCUK----
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2829.ts
+#EXTINF:-1,TR: Baby Tv
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2674.ts
+#EXTINF:-1,TR: Disney HQ
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2660.ts
+#EXTINF:-1,TR: Disney JR
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2659.ts
+#EXTINF:-1,TR: minika COCUK
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2767.ts
+#EXTINF:-1,TR: Minika go
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2784.ts
+#EXTINF:-1,TR: Nickeloden HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2688.ts
+#EXTINF:-1,TR: Nickeloden JR
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2678.ts
+#EXTINF:-1,TR: TRT Cocuk
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2812.ts
+#EXTINF:-1,TR: Planet Cocuk HQ
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3360.ts
+#EXTINF:-1,TR: TRT COCUK HQ
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3355.ts
+#EXTINF:-1,TR: Minika Cocuk HQ
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3358.ts
+#EXTINF:-1,TR: Cartoon Network Turkey
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3357.ts
+#EXTINF:-1,TR: Minika GO HQ
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3359.ts
+#EXTINF:-1,TR: BABY TV TURK
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3356.ts
+#EXTINF:-1,TR: Cartoon Network
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2684.ts
+#EXTINF:-1,----MUZIK----
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2828.ts
+#EXTINF:-1,TR: Kral POP
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2682.ts
+#EXTINF:-1,TR: Kral Tv
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2681.ts
+#EXTINF:-1,TR: NR 1 TURK
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2791.ts
+#EXTINF:-1,TR: Dream Turk
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2770.ts
+#EXTINF:-1,TR: Dream TV
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2771.ts
+#EXTINF:-1,TR: Powerturk TV
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2794.ts
+#EXTINF:-1,TR: Trt Muzik
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2679.ts
+#EXTINF:-1,TR: DREAM TURK TV
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3345.ts
+#EXTINF:-1,TR: DREAM TURK TV HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3344.ts
+#EXTINF:-1,TR: DREAM TV HQ
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3347.ts
+#EXTINF:-1,TR: DREAMTV HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3346.ts
+#EXTINF:-1,TR: KRAL POP TV
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3348.ts
+#EXTINF:-1,TR: KRAL TV HQ
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3349.ts
+#EXTINF:-1,TR: POWER TURK HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3353.ts
+#EXTINF:-1,TR: TRT MUZIK HQ
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3302.ts
+#EXTINF:-1,TR: beIN Sport Haber
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/8642.ts
+#EXTINF:-1,TR: beIN Sports 1 HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/6399.ts
+#EXTINF:-1,TR: beIN Sports 1 HQ
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/6398.ts
+#EXTINF:-1,TR: beIN Sports 2 HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/6400.ts
+#EXTINF:-1,TR: beIN Sports 3 HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/6401.ts
+#EXTINF:-1,TR: beIN Sports 4 HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/6402.ts
+#EXTINF:-1,TR: beIN Sports 5 HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/6403.ts
+#EXTINF:-1,TR: beIN Sports Max
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/6410.ts
+#EXTINF:-1,TR: beIN Sports Max 2
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/6411.ts
+#EXTINF:-1,TR: Tivibu Spor 1 HQ
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2807.ts
+#EXTINF:-1,TR: Tivibu Spor 2 HQ
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2808.ts
+#EXTINF:-1,TR: Tivibu Spor 3 HQ
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2635.ts
+#EXTINF:-1,TR: Tivibu Spor 4 HQ
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2634.ts
+#EXTINF:-1,TR: Tivibu Spor 5 (82) HQ
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/8068.ts
+#EXTINF:-1,TR: S Spor 1 HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2664.ts
+#EXTINF:-1,TR: S Spor 2 HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2665.ts
+#EXTINF:-1,TR: BEIN SPORTS 1 BACKUP
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3428.ts
+#EXTINF:-1,TR: BEIN SPORTS 1 YEDEK
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3427.ts
+#EXTINF:-1,TR: BEIN SPORTS 2 BACK UP
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3426.ts
+#EXTINF:-1,TR: BEIN SPORTS 2 YEDEK
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3424.ts
+#EXTINF:-1,TR: BEIN SPORTS 3 YEDEK
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3423.ts
+#EXTINF:-1,TR: BEIN SPORTS 3 BACKUP
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3422.ts
+#EXTINF:-1,TR: BEIN SPORTS 4 YEDEK
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3421.ts
+#EXTINF:-1,TR: NTV SPOR
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3379.ts
+#EXTINF:-1,TR: NTV SPOR HQ
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3411.ts
+#EXTINF:-1,TR: S Sport HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3415.ts
+#EXTINF:-1,TR: Smart Spor HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3416.ts
+#EXTINF:-1,TR: TIVIBU SPOR 1 HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3420.ts
+#EXTINF:-1,TR: TIVIBU SPOR 2 HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3419.ts
+#EXTINF:-1,TR: TIVIBU SPOR 3 HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3418.ts
+#EXTINF:-1,TR: TIVIBU SPOR 4 HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3417.ts
+#EXTINF:-1,TR: DSMART SPOR BACKUP 1
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/6276.ts
+#EXTINF:-1,TR: DSMART SPOR BACKUP HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/6277.ts
+#EXTINF:-1,TR: Sports Tv HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2650.ts
+#EXTINF:-1,TR: BEIN SPORTS 2 BACKUP
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3425.ts
+#EXTINF:-1,TR: A Spor HQ
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2763.ts
+#EXTINF:-1,TR: BJK TV HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/7552.ts
+#EXTINF:-1,TR: BJK TV HQ
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2695.ts
+#EXTINF:-1,TR: GSTV HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3410.ts
+#EXTINF:-1,TR: GS TV HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2689.ts
+#EXTINF:-1,TR: FB TV HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2690.ts
+#EXTINF:-1,TR: FBTV
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3408.ts
+#EXTINF:-1,TR: Idman Tv
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2653.ts
+#EXTINF:-1,TR: NTV Spor HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2793.ts
+#EXTINF:-1,TR: TJK TV
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2805.ts
+#EXTINF:-1,TR: TRT Spor HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2815.ts
+#EXTINF:-1,TR: A SPOR
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3409.ts
+#EXTINF:-1,TR: A SPOR HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3412.ts
+#EXTINF:-1,TR: AB MOTORS HD TR
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3364.ts
+#EXTINF:-1,TR: Bein Sports 1 HD TR Yedek
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3429.ts
+#EXTINF:-1,TR: EUROSPORT HD TR
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3414.ts
+#EXTINF:-1,TR: Eurosport 2 HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2693.ts
+#EXTINF:-1,TR: Eurosport HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2694.ts
+#EXTINF:-1,TR: TRT-SPOR
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3378.ts
+#EXTINF:-1,TR: TRT-SPOR HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3413.ts
+#EXTINF:-1,TR: Eurosport1 HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/5051.ts
+#EXTINF:-1,TR: Eurosport2 HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/5052.ts
+#EXTINF:-1,----YEDEK YAYIN----
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2824.ts
+#EXTINF:-1,----SINEMA----
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2823.ts
+#EXTINF:-1,TR: beIN Box Office 1 HQ
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2795.ts
+#EXTINF:-1,TR: beIN Box Office 2 HQ
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2796.ts
+#EXTINF:-1,TR: beIN Box Office 3 HQ
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2797.ts
+#EXTINF:-1,TR: BeIn Movie Action HQ
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2753.ts
+#EXTINF:-1,TR: BeIn Movie Comedy
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2735.ts
+#EXTINF:-1,TR: BeIn Vizyon Turk
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2757.ts
+#EXTINF:-1,TR: LOCA 1
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2781.ts
+#EXTINF:-1,TR: LOCA 2
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2782.ts
+#EXTINF:-1,TR: LOCA 3
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2783.ts
+#EXTINF:-1,TR: Moviemax Action
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2799.ts
+#EXTINF:-1,TR: Moviemax Premier 2 HQ
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2788.ts
+#EXTINF:-1,TR: Moviemax Premier HQ
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2787.ts
+#EXTINF:-1,TR: Moviemax Stars 2 HQ
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2790.ts
+#EXTINF:-1,TR: Moviemax Stars HQ
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2789.ts
+#EXTINF:-1,TR: Moviemax Turk HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2670.ts
+#EXTINF:-1,TR: Moviesmart Family HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2677.ts
+#EXTINF:-1,TR: Moviesmart Festival
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2785.ts
+#EXTINF:-1,TR: MovieSmart Gold
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2786.ts
+#EXTINF:-1,TR: Moviesmart Turk HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2676.ts
+#EXTINF:-1,TR: Digimax HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2657.ts
+#EXTINF:-1,TR: Digimax 2 HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2683.ts
+#EXTINF:-1,TR: Dizi Tv
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2662.ts
+#EXTINF:-1,TR: Dizimax Sci-fi HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2658.ts
+#EXTINF:-1,TR: Nextbox Cinema Action
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2722.ts
+#EXTINF:-1,TR: Nextbox Cinema Animasyon
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2721.ts
+#EXTINF:-1,TR: Nextbox Cinema Festival
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2720.ts
+#EXTINF:-1,TR: Nextbox Cinema Gerilim
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2719.ts
+#EXTINF:-1,TR: Nextbox Cinema Premier
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2718.ts
+#EXTINF:-1,TR: Nextbox Cinema Stars
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2717.ts
+#EXTINF:-1,TR: Nextbox Cinema Viizyon
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2716.ts
+#EXTINF:-1,TR: Sine Karnaval HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2747.ts
+#EXTINF:-1,TR: Sinema TV 1001
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2800.ts
+#EXTINF:-1,TR: Sinema TV 2
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2801.ts
+#EXTINF:-1,TR: Sinema TV Aile
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2802.ts
+#EXTINF:-1,TR: Sinema TV Aksiyon
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2803.ts
+#EXTINF:-1,TR: Sinema TV HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2669.ts
+#EXTINF:-1,TR: Sinetivi 1 HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2746.ts
+#EXTINF:-1,TR: Sinetivi 2 HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2745.ts
+#EXTINF:-1,TR: Yesilcam Tv
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2772.ts
+#EXTINF:-1,TR: Movie Smart Premium HQ
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3319.ts
+#EXTINF:-1,TR: Movie Platin HQ
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3321.ts
+#EXTINF:-1,TR: Movie Premium HQ
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3320.ts
+#EXTINF:-1,TR: Dizi Premium HQ
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3323.ts
+#EXTINF:-1,TR: Sinema TV HQ
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3316.ts
+#EXTINF:-1,TR: Sinema TV 2 HQ
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3315.ts
+#EXTINF:-1,TR: SINEMA TV
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/9021.ts
+#EXTINF:-1,TR: SINEMA 1001
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/9020.ts
+#EXTINF:-1,TR: SINEMA AKSIYON TV
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/9022.ts
+#EXTINF:-1,----YORESEL----
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2825.ts
+#EXTINF:-1,TR: Ahi TV
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2738.ts
+#EXTINF:-1,TR: Ak?ll? TV
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2672.ts
+#EXTINF:-1,TR: Art? Tv
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2737.ts
+#EXTINF:-1,TR: Cay TV
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2734.ts
+#EXTINF:-1,TR: Cem Tv
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2686.ts
+#EXTINF:-1,TR: Chasse & Peche
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2754.ts
+#EXTINF:-1,TR: Da Vinci Learning
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2661.ts
+#EXTINF:-1,TR: Euro Atv
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2752.ts
+#EXTINF:-1,TR: Euro D
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2751.ts
+#EXTINF:-1,TR: Euro Star
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2750.ts
+#EXTINF:-1,TR: Istanbul TV
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2648.ts
+#EXTINF:-1,TR: Kanal 3
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2732.ts
+#EXTINF:-1,TR: Kanal A
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2778.ts
+#EXTINF:-1,TR: Kanal B
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2730.ts
+#EXTINF:-1,TR: Karadeniz Tv
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2729.ts
+#EXTINF:-1,TR: Kon Tv
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2749.ts
+#EXTINF:-1,TR: Oncu TV
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2728.ts
+#EXTINF:-1,TR: Ordu TV 52
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2740.ts
+#EXTINF:-1,TR: Semerkand Tv
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2741.ts
+#EXTINF:-1,TR: Sinetivi Adrenalin HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2687.ts
+#EXTINF:-1,TR: Sony Channel TV
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2739.ts
+#EXTINF:-1,TR: Tek Rumeli
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2727.ts
+#EXTINF:-1,TR: TRT Kurdi
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2814.ts
+#EXTINF:-1,TR: TRT Turk HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2816.ts
+#EXTINF:-1,TR: TV 5
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2780.ts
+#EXTINF:-1,TR: TV EM
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2743.ts
+#EXTINF:-1,TR: TV10
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2769.ts
+#EXTINF:-1,TR: TV21
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2756.ts
+#EXTINF:-1,TR: TV4
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2726.ts
+#EXTINF:-1,TR: Ulusal Tv
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2821.ts
+#EXTINF:-1,TR: Vatan tv
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2744.ts
+#EXTINF:-1,TR: Yaban Tv
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2822.ts
+#EXTINF:-1,TR: Yol TV
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/2798.ts
+#EXTINF:-1,TR: 2000-TV
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3243.ts
+#EXTINF:-1,TR: A2 TV
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3404.ts
+#EXTINF:-1,TR: A9 TV HQ
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3311.ts
+#EXTINF:-1,TR: AKILLI TV
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3305.ts
+#EXTINF:-1,TR: AKIT TV
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3341.ts
+#EXTINF:-1,TR: Altas TV
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3283.ts
+#EXTINF:-1,TR: ANIMAUX TR
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3366.ts
+#EXTINF:-1,TR: AS TV
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3386.ts
+#EXTINF:-1,TR: AV TV
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3308.ts
+#EXTINF:-1,TR: BEDIR TV
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3309.ts
+#EXTINF:-1,TR: Bein Gurme HQ
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3362.ts
+#EXTINF:-1,TR: BRTV
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3329.ts
+#EXTINF:-1,TR: CEM TV HQ
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3342.ts
+#EXTINF:-1,TR: CHASSE & PECCE HD TR
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3367.ts
+#EXTINF:-1,TR: EKIN TURK
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3300.ts
+#EXTINF:-1,TR: FM TV
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3294.ts
+#EXTINF:-1,TR: GAZIANTEP OLAY TV
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3297.ts
+#EXTINF:-1,TR: KADIRGA TV
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3293.ts
+#EXTINF:-1,TR: Kanal 15
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3273.ts
+#EXTINF:-1,TR: Kanal 32
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3276.ts
+#EXTINF:-1,TR: Kanal 5TU
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3279.ts
+#EXTINF:-1,TR: KANAL A HQ
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3385.ts
+#EXTINF:-1,TR: Kanal B HQ
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3281.ts
+#EXTINF:-1,TR: KANAL C
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3282.ts
+#EXTINF:-1,TR: KANAL FIRAT
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3284.ts
+#EXTINF:-1,TR: Kanal TEK
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3287.ts
+#EXTINF:-1,TR: KANAL V
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3289.ts
+#EXTINF:-1,TR: Kardelen TV
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3334.ts
+#EXTINF:-1,TR: Kocaeli TV
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3266.ts
+#EXTINF:-1,TR: Koy TV
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3268.ts
+#EXTINF:-1,TR: KOZA TV
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3269.ts
+#EXTINF:-1,TR: KRT TV
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3270.ts
+#EXTINF:-1,TR: KURAN TV
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3271.ts
+#EXTINF:-1,TR: LIFETIME
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3374.ts
+#EXTINF:-1,TR: MAVIKARADENIZ TV
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3261.ts
+#EXTINF:-1,TR: Max Premium HQ
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3322.ts
+#EXTINF:-1,TR: NBA TV HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3407.ts
+#EXTINF:-1,TR: NUMBER ONE TURK HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3352.ts
+#EXTINF:-1,TR: NUMBER ONE TV HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3351.ts
+#EXTINF:-1,TR: OLAY TV
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3256.ts
+#EXTINF:-1,TR: PAMUKKALE TV
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3258.ts
+#EXTINF:-1,TR: Planet Mutfak
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3252.ts
+#EXTINF:-1,TR: Planet PEMBE
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3253.ts
+#EXTINF:-1,TR: Planet TURK
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3254.ts
+#EXTINF:-1,TR: Rehber TV
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3339.ts
+#EXTINF:-1,TR: RUMELI TV
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3251.ts
+#EXTINF:-1,TR; SEMERKAND TV
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3248.ts
+#EXTINF:-1,TR: SIHHAT TV
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3250.ts
+#EXTINF:-1,TR: SRT Sivas
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3246.ts
+#EXTINF:-1,TR: SUNNA TV
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3245.ts
+#EXTINF:-1,TR: TREK TR
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3373.ts
+#EXTINF:-1,TR: TRT-TURK
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/3405.ts
