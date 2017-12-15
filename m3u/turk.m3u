@@ -91,6 +91,8 @@ http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/23169.ts
 http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/23167.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports 5 HD" tvg-logo="" group-title="-------- UK --------",UK: Sky Sports 5 HD
 http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/23166.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Eurosport 2 XTRA HD" tvg-logo="" group-title="-------- Germany --------",DE: Eurosport 2 XTRA HD
+http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22837.ts
 #EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 1 HD" tvg-logo="" group-title="-------- Germany --------",DE: Sky Bundesliga 1 HD
 http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22762.ts
 #EXTINF:-1 tvg-id="" tvg-name="DE: SKY BUNDESLIGA 2 HD" tvg-logo="" group-title="-------- Germany --------",DE: SKY BUNDESLIGA 2 HD
