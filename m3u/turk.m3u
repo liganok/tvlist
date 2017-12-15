@@ -1,60 +1,54 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="TR: 24 TV" tvg-logo="" group-title="-------- Turchi --------",TR: 24 TV
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22151.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: 360 TV" tvg-logo="" group-title="-------- Turchi --------",TR: 360 TV
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22152.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: A HABER HD" tvg-logo="" group-title="-------- Turchi --------",TR: A HABER HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22153.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: A SPOR HD" tvg-logo="" group-title="-------- Turchi --------",TR: A SPOR HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22154.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: A SPORT" tvg-logo="" group-title="-------- Turchi --------",TR: A SPORT
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22155.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: A2" tvg-logo="" group-title="-------- Turchi --------",TR: A2
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22156.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: A2 HD" tvg-logo="" group-title="-------- Turchi --------",TR: A2 HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22157.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: A9" tvg-logo="" group-title="-------- Turchi --------",TR: A9
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22158.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: AKILLI TV" tvg-logo="" group-title="-------- Turchi --------",TR: AKILLI TV
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22159.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: AKTIF TV HD" tvg-logo="" group-title="-------- Turchi --------",TR: AKTIF TV HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22160.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Animal Planet" tvg-logo="" group-title="-------- Turchi --------",TR: Animal Planet
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22161.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: ATV" tvg-logo="" group-title="-------- Turchi --------",TR: ATV
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22162.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 1 HD" tvg-logo="" group-title="-------- Turchi --------",TR: TRT 1 HD
+http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22339.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: ATV HD" tvg-logo="" group-title="-------- Turchi --------",TR: ATV HD
 http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22163.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: AV TV" tvg-logo="" group-title="-------- Turchi --------",TR: AV TV
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22164.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Baby First" tvg-logo="" group-title="-------- Turchi --------",TR: Baby First
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22165.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Baby TV" tvg-logo="" group-title="-------- Turchi --------",TR: Baby TV
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22166.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: BBC EARTH" tvg-logo="" group-title="-------- Turchi --------",TR: BBC EARTH
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22167.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Box Office 1 HD" tvg-logo="" group-title="-------- Turchi --------",TR: Bein Box Office 1 HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22168.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Box Office 2 HD" tvg-logo="" group-title="-------- Turchi --------",TR: Bein Box Office 2 HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22169.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Box Office 3 HD" tvg-logo="" group-title="-------- Turchi --------",TR: Bein Box Office 3 HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22170.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: FOX TV HD" tvg-logo="" group-title="-------- Turchi --------",TR: FOX TV HD
+http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22225.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL D HD" tvg-logo="" group-title="-------- Turchi --------",TR: KANAL D HD
+http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22240.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: SHOW TV HD" tvg-logo="" group-title="-------- Turchi --------",TR: SHOW TV HD
+http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22310.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 8 HD" tvg-logo="" group-title="-------- Turchi --------",TR: TV 8 HD
+http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22354.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: STAR TV HD" tvg-logo="" group-title="-------- Turchi --------",TR: STAR TV HD
+http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22325.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: NTV HD" tvg-logo="" group-title="-------- Turchi --------",TR: NTV HD
+http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22276.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: CNN TURK" tvg-logo="" group-title="-------- Turchi --------",TR: CNN TURK
+http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22196.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: HABER TURK HD" tvg-logo="" group-title="-------- Turchi --------",TR: HABER TURK HD
+http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22230.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: HALK TV" tvg-logo="" group-title="-------- Turchi --------",TR: HALK TV
+http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22231.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: A HABER HD" tvg-logo="" group-title="-------- Turchi --------",TR: A HABER HD
+http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22153.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEIN GURME HD" tvg-logo="" group-title="-------- Turchi --------",TR: BEIN GURME HD
 http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22171.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN IZ HD" tvg-logo="" group-title="-------- Turchi --------",TR: BEIN IZ HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22172.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Movies Action HD" tvg-logo="" group-title="-------- Turchi --------",TR: Bein Movies Action HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22173.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Movies Family HD" tvg-logo="" group-title="-------- Turchi --------",TR: Bein Movies Family HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22174.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: Bein Movies Premier HD" tvg-logo="" group-title="-------- Turchi --------",TR: Bein Movies Premier HD
 http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22175.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: Bein Movies Stars HD" tvg-logo="" group-title="-------- Turchi --------",TR: Bein Movies Stars HD
 http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22176.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: Bein Movies Turk HD" tvg-logo="" group-title="-------- Turchi --------",TR: Bein Movies Turk HD
 http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22177.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SERIES SC-FI" tvg-logo="" group-title="-------- Turchi --------",TR: BEIN SERIES SC-FI
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22178.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: POWER TURK HD" tvg-logo="" group-title="-------- Turchi --------",TR: POWER TURK HD
+http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22285.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Diyaet HD" tvg-logo="" group-title="-------- Turchi --------",TR: TRT Diyaet HD
+http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22344.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: BBC 1 HD" tvg-logo="" group-title="-------- UK --------",UK: BBC 1 HD
+http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/23274.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: BBC 2 HD" tvg-logo="" group-title="-------- UK --------",UK: BBC 2 HD
+http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/23273.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: ITV 1 HD" tvg-logo="" group-title="-------- UK --------",UK: ITV 1 HD
+http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/23226.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: ITV 2 HD" tvg-logo="" group-title="-------- UK --------",UK: ITV 2 HD
+http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/23224.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: ARD HD" tvg-logo="" group-title="-------- Germany --------",DE: ARD HD
+http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22867.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports News HD" tvg-logo="" group-title="-------- UK --------",UK: Sky Sports News HD
+http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/23161.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Sport News HD" tvg-logo="" group-title="-------- Germany --------",DE: SKY Sport News HD
+http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22709.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sports 1 HD" tvg-logo="" group-title="-------- Turchi --------",TR: Bein Sports 1 HD
 http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22179.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 2 HD" tvg-logo="" group-title="-------- Turchi --------",TR: BEIN SPORTS 2 HD
@@ -67,371 +61,81 @@ http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22182.ts
 http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22183.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS MAX 2 HD" tvg-logo="" group-title="-------- Turchi --------",TR: BEIN SPORTS MAX 2 HD
 http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22184.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: BENGUTURK" tvg-logo="" group-title="-------- Turchi --------",TR: BENGUTURK
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22185.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEYAZ TV HD" tvg-logo="" group-title="-------- Turchi --------",TR: BEYAZ TV HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22186.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: BJK TV" tvg-logo="" group-title="-------- Turchi --------",TR: BJK TV
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22187.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: BLOOMBERG HT HD" tvg-logo="" group-title="-------- Turchi --------",TR: BLOOMBERG HT HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22188.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOOMERANG HD" tvg-logo="" group-title="-------- Turchi --------",TR: BOOMERANG HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22189.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: BURSASPOR TV" tvg-logo="" group-title="-------- Turchi --------",TR: BURSASPOR TV
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22190.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: CARTOON NETWORK" tvg-logo="" group-title="-------- Turchi --------",TR: CARTOON NETWORK
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22191.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: CAY TV" tvg-logo="" group-title="-------- Turchi --------",TR: CAY TV
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22192.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: CEM TV" tvg-logo="" group-title="-------- Turchi --------",TR: CEM TV
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22193.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: CIFTCI TV" tvg-logo="" group-title="-------- Turchi --------",TR: CIFTCI TV
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22194.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: CINE STAR GELIRIM HD" tvg-logo="" group-title="-------- Turchi --------",TR: CINE STAR GELIRIM HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22195.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: CNN TURK" tvg-logo="" group-title="-------- Turchi --------",TR: CNN TURK
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22196.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: DA VINCI LEARNING" tvg-logo="" group-title="-------- Turchi --------",TR: DA VINCI LEARNING
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22197.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: DISCOVERY CHANNEL HD" tvg-logo="" group-title="-------- Turchi --------",TR: DISCOVERY CHANNEL HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22198.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Discovery Science" tvg-logo="" group-title="-------- Turchi --------",TR: Discovery Science
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22199.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Disney Channel" tvg-logo="" group-title="-------- Turchi --------",TR: Disney Channel
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22200.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Disney Junior" tvg-logo="" group-title="-------- Turchi --------",TR: Disney Junior
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22201.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Disney XD" tvg-logo="" group-title="-------- Turchi --------",TR: Disney XD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22202.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: DIZI TV" tvg-logo="" group-title="-------- Turchi --------",TR: DIZI TV
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22203.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: DiziSmart Premium HD" tvg-logo="" group-title="-------- Turchi --------",TR: DiziSmart Premium HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22204.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: DOCUBOX HD" tvg-logo="" group-title="-------- Turchi --------",TR: DOCUBOX HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22205.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM TURK TV" tvg-logo="" group-title="-------- Turchi --------",TR: DREAM TURK TV
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22206.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Dream TV" tvg-logo="" group-title="-------- Turchi --------",TR: Dream TV
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22207.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: DTX" tvg-logo="" group-title="-------- Turchi --------",TR: DTX
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22208.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: EURONEWS" tvg-logo="" group-title="-------- Turchi --------",TR: EURONEWS
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22209.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: EUROSPORT 1 HD" tvg-logo="" group-title="-------- Turchi --------",TR: EUROSPORT 1 HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22210.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: EUROSPORT 2" tvg-logo="" group-title="-------- Turchi --------",TR: EUROSPORT 2
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22211.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Fanatik TV" tvg-logo="" group-title="-------- Turchi --------",TR: Fanatik TV
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22212.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Fashion One Tv" tvg-logo="" group-title="-------- Turchi --------",TR: Fashion One Tv
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22213.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: FB TV" tvg-logo="" group-title="-------- Turchi --------",TR: FB TV
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22214.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: FENERBAHCE TV HD" tvg-logo="" group-title="-------- Turchi --------",TR: FENERBAHCE TV HD
 http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22215.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: FightBox HD" tvg-logo="" group-title="-------- Turchi --------",TR: FightBox HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22216.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: FIL TV" tvg-logo="" group-title="-------- Turchi --------",TR: FIL TV
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22217.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Filmbox Arthouse" tvg-logo="" group-title="-------- Turchi --------",TR: Filmbox Arthouse
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22218.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Filmbox Fantastic HD" tvg-logo="" group-title="-------- Turchi --------",TR: Filmbox Fantastic HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22219.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Filmbox HD" tvg-logo="" group-title="-------- Turchi --------",TR: Filmbox HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22220.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: FLASH TV" tvg-logo="" group-title="-------- Turchi --------",TR: FLASH TV
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22221.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Food Network" tvg-logo="" group-title="-------- Turchi --------",TR: Food Network
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22222.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Fox Crime" tvg-logo="" group-title="-------- Turchi --------",TR: Fox Crime
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22223.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Fox Life" tvg-logo="" group-title="-------- Turchi --------",TR: Fox Life
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22224.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: FOX TV HD" tvg-logo="" group-title="-------- Turchi --------",TR: FOX TV HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22225.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: FX" tvg-logo="" group-title="-------- Turchi --------",TR: FX
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22226.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: GALATASARAY TV" tvg-logo="" group-title="-------- Turchi --------",TR: GALATASARAY TV
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22227.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: GS TV" tvg-logo="" group-title="-------- Turchi --------",TR: GS TV
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22228.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: HABER TURK" tvg-logo="" group-title="-------- Turchi --------",TR: HABER TURK
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22229.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: HABER TURK HD" tvg-logo="" group-title="-------- Turchi --------",TR: HABER TURK HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22230.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: HALK TV" tvg-logo="" group-title="-------- Turchi --------",TR: HALK TV
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22231.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: HISTORY" tvg-logo="" group-title="-------- Turchi --------",TR: HISTORY
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22232.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: IDMAN TV" tvg-logo="" group-title="-------- Turchi --------",TR: IDMAN TV
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22233.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: IDX HD" tvg-logo="" group-title="-------- Turchi --------",TR: IDX HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22234.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: ISTANBUL TV" tvg-logo="" group-title="-------- Turchi --------",TR: ISTANBUL TV
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22235.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Kackar Karadeniz" tvg-logo="" group-title="-------- Turchi --------",TR: Kackar Karadeniz
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22236.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 24" tvg-logo="" group-title="-------- Turchi --------",TR: KANAL 24
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22237.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL A" tvg-logo="" group-title="-------- Turchi --------",TR: KANAL A
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22238.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL D" tvg-logo="" group-title="-------- Turchi --------",TR: KANAL D
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22239.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL D HD" tvg-logo="" group-title="-------- Turchi --------",TR: KANAL D HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22240.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL7 HD" tvg-logo="" group-title="-------- Turchi --------",TR: KANAL7 HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22241.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: KARADENIZTURK TV" tvg-logo="" group-title="-------- Turchi --------",TR: KARADENIZTURK TV
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22242.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: KEMAL SUNAL TV" tvg-logo="" group-title="-------- Turchi --------",TR: KEMAL SUNAL TV
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22243.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: KIDZ/ANIMEZ HD" tvg-logo="" group-title="-------- Turchi --------",TR: KIDZ/ANIMEZ HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22244.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: KRAL POP TV" tvg-logo="" group-title="-------- Turchi --------",TR: KRAL POP TV
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22245.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: KRAL TV" tvg-logo="" group-title="-------- Turchi --------",TR: KRAL TV
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22246.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: LALEGUL" tvg-logo="" group-title="-------- Turchi --------",TR: LALEGUL
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22247.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: LOCA 1" tvg-logo="" group-title="-------- Turchi --------",TR: LOCA 1
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22248.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: LOCA 2" tvg-logo="" group-title="-------- Turchi --------",TR: LOCA 2
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22249.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: LOCA 3" tvg-logo="" group-title="-------- Turchi --------",TR: LOCA 3
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22250.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: LOCA TURK HD" tvg-logo="" group-title="-------- Turchi --------",TR: LOCA TURK HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22251.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAGICBOX" tvg-logo="" group-title="-------- Turchi --------",TR: MAGICBOX
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22252.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Mavi Karadeniz" tvg-logo="" group-title="-------- Turchi --------",TR: Mavi Karadeniz
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22253.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Medine Tv" tvg-logo="" group-title="-------- Turchi --------",TR: Medine Tv
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22254.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Meltem TV HD" tvg-logo="" group-title="-------- Turchi --------",TR: Meltem TV HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22255.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Minika COCUK" tvg-logo="" group-title="-------- Turchi --------",TR: Minika COCUK
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22256.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Minika GO" tvg-logo="" group-title="-------- Turchi --------",TR: Minika GO
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22257.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: MovieMax Premier 2 HD" tvg-logo="" group-title="-------- Turchi --------",TR: MovieMax Premier 2 HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22258.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: MovieMax Turk" tvg-logo="" group-title="-------- Turchi --------",TR: MovieMax Turk
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22259.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIESMART Action HD" tvg-logo="" group-title="-------- Turchi --------",TR: MOVIESMART Action HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22260.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: MovieSmart Classic HD" tvg-logo="" group-title="-------- Turchi --------",TR: MovieSmart Classic HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22261.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIESMART Family HD" tvg-logo="" group-title="-------- Turchi --------",TR: MOVIESMART Family HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22262.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIESMART Platin 2 HD" tvg-logo="" group-title="-------- Turchi --------",TR: MOVIESMART Platin 2 HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22263.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIESMART Platin HD" tvg-logo="" group-title="-------- Turchi --------",TR: MOVIESMART Platin HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22264.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIESMART Premium 2 HD" tvg-logo="" group-title="-------- Turchi --------",TR: MOVIESMART Premium 2 HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22265.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIESMART Premium HD" tvg-logo="" group-title="-------- Turchi --------",TR: MOVIESMART Premium HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22266.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIESMART Turk HD" tvg-logo="" group-title="-------- Turchi --------",TR: MOVIESMART Turk HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22267.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Music TURK" tvg-logo="" group-title="-------- Turchi --------",TR: Music TURK
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22268.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: NAT GEO WILD" tvg-logo="" group-title="-------- Turchi --------",TR: NAT GEO WILD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22269.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: NATIONAL GEOGRAPHIC" tvg-logo="" group-title="-------- Turchi --------",TR: NATIONAL GEOGRAPHIC
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22270.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: NATIONAL GEOGRAPHIC PEOPLE HD" tvg-logo="" group-title="-------- Turchi --------",TR: NATIONAL GEOGRAPHIC PEOPLE HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22271.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Nick Junior" tvg-logo="" group-title="-------- Turchi --------",TR: Nick Junior
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22272.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: NICKELODEON HD" tvg-logo="" group-title="-------- Turchi --------",TR: NICKELODEON HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22273.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: NR1 HD" tvg-logo="" group-title="-------- Turchi --------",TR: NR1 HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22274.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: NTV HABER" tvg-logo="" group-title="-------- Turchi --------",TR: NTV HABER
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22275.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: NTV HD" tvg-logo="" group-title="-------- Turchi --------",TR: NTV HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22276.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: NTV SPOR" tvg-logo="" group-title="-------- Turchi --------",TR: NTV SPOR
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22277.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: NTV SPOR HD" tvg-logo="" group-title="-------- Turchi --------",TR: NTV SPOR HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22278.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Olay TV" tvg-logo="" group-title="-------- Turchi --------",TR: Olay TV
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22279.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: OUTDOOR" tvg-logo="" group-title="-------- Turchi --------",TR: OUTDOOR
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22280.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Pamukkale TV" tvg-logo="" group-title="-------- Turchi --------",TR: Pamukkale TV
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22281.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Planet Cocuk" tvg-logo="" group-title="-------- Turchi --------",TR: Planet Cocuk
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22282.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: PLANET MUTFAK" tvg-logo="" group-title="-------- Turchi --------",TR: PLANET MUTFAK
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22283.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Planet Turk" tvg-logo="" group-title="-------- Turchi --------",TR: Planet Turk
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22284.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: POWER TURK HD" tvg-logo="" group-title="-------- Turchi --------",TR: POWER TURK HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22285.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SALON 1" tvg-logo="" group-title="-------- Turchi --------",TR: SALON 1
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22286.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SALON 10" tvg-logo="" group-title="-------- Turchi --------",TR: SALON 10
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22287.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SALON 11" tvg-logo="" group-title="-------- Turchi --------",TR: SALON 11
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22288.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SALON 12" tvg-logo="" group-title="-------- Turchi --------",TR: SALON 12
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22289.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SALON 13" tvg-logo="" group-title="-------- Turchi --------",TR: SALON 13
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22290.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SALON 14" tvg-logo="" group-title="-------- Turchi --------",TR: SALON 14
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22291.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SALON 15" tvg-logo="" group-title="-------- Turchi --------",TR: SALON 15
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22292.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SALON 16" tvg-logo="" group-title="-------- Turchi --------",TR: SALON 16
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22293.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SALON 17" tvg-logo="" group-title="-------- Turchi --------",TR: SALON 17
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22294.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SALON 18" tvg-logo="" group-title="-------- Turchi --------",TR: SALON 18
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22295.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SALON 19" tvg-logo="" group-title="-------- Turchi --------",TR: SALON 19
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22296.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SALON 2" tvg-logo="" group-title="-------- Turchi --------",TR: SALON 2
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22297.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SALON 20" tvg-logo="" group-title="-------- Turchi --------",TR: SALON 20
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22298.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SALON 3" tvg-logo="" group-title="-------- Turchi --------",TR: SALON 3
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22299.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SALON 4" tvg-logo="" group-title="-------- Turchi --------",TR: SALON 4
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22300.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SALON 5" tvg-logo="" group-title="-------- Turchi --------",TR: SALON 5
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22301.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SALON 6" tvg-logo="" group-title="-------- Turchi --------",TR: SALON 6
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22302.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SALON 7" tvg-logo="" group-title="-------- Turchi --------",TR: SALON 7
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22303.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SALON 8" tvg-logo="" group-title="-------- Turchi --------",TR: SALON 8
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22304.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SALON 9" tvg-logo="" group-title="-------- Turchi --------",TR: SALON 9
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22305.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Salonda Ne Var" tvg-logo="" group-title="-------- Turchi --------",TR: Salonda Ne Var
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22306.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SEMERKAND" tvg-logo="" group-title="-------- Turchi --------",TR: SEMERKAND
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22307.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Seran Sport HD" tvg-logo="" group-title="-------- Turchi --------",TR: Seran Sport HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22308.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SHOW MAX" tvg-logo="" group-title="-------- Turchi --------",TR: SHOW MAX
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22309.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SHOW TV HD" tvg-logo="" group-title="-------- Turchi --------",TR: SHOW TV HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22310.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema 1001 Tv" tvg-logo="" group-title="-------- Turchi --------",TR: Sinema 1001 Tv
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22311.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema 2" tvg-logo="" group-title="-------- Turchi --------",TR: Sinema 2
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22312.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema Aile Tv" tvg-logo="" group-title="-------- Turchi --------",TR: Sinema Aile Tv
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22313.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema Aksiyon Tv" tvg-logo="" group-title="-------- Turchi --------",TR: Sinema Aksiyon Tv
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22314.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema Tv" tvg-logo="" group-title="-------- Turchi --------",TR: Sinema Tv
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22315.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV LOCA" tvg-logo="" group-title="-------- Turchi --------",TR: Sinema TV LOCA
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22316.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema Tv Platinum" tvg-logo="" group-title="-------- Turchi --------",TR: Sinema Tv Platinum
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22317.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SINETIVI" tvg-logo="" group-title="-------- Turchi --------",TR: SINETIVI
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22318.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SINETIVI Adrenalin HD" tvg-logo="" group-title="-------- Turchi --------",TR: SINETIVI Adrenalin HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22319.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SINETIVI KARNAVAL HD" tvg-logo="" group-title="-------- Turchi --------",TR: SINETIVI KARNAVAL HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22320.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SMART SPOR HD" tvg-logo="" group-title="-------- Turchi --------",TR: SMART SPOR HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22321.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SONY TV" tvg-logo="" group-title="-------- Turchi --------",TR: SONY TV
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22322.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SPORTS TV" tvg-logo="" group-title="-------- Turchi --------",TR: SPORTS TV
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22323.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: STAR TV" tvg-logo="" group-title="-------- Turchi --------",TR: STAR TV
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22324.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: STAR TV HD" tvg-logo="" group-title="-------- Turchi --------",TR: STAR TV HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22325.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TARIM TV" tvg-logo="" group-title="-------- Turchi --------",TR: TARIM TV
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22326.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TAY TV" tvg-logo="" group-title="-------- Turchi --------",TR: TAY TV
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22327.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TEVE 2" tvg-logo="" group-title="-------- Turchi --------",TR: TEVE 2
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22328.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TGRT BELGESEL" tvg-logo="" group-title="-------- Turchi --------",TR: TGRT BELGESEL
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22329.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TGRT HABER" tvg-logo="" group-title="-------- Turchi --------",TR: TGRT HABER
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22330.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR 1" tvg-logo="" group-title="-------- Turchi --------",TR: TIVIBU SPOR 1
 http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22331.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR 2" tvg-logo="" group-title="-------- Turchi --------",TR: TIVIBU SPOR 2
 http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22332.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR 4" tvg-logo="" group-title="-------- Turchi --------",TR: TIVIBU SPOR 4
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22333.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu Sport 3" tvg-logo="" group-title="-------- Turchi --------",TR: Tivibu Sport 3
 http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22334.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TJK TV" tvg-logo="" group-title="-------- Turchi --------",TR: TJK TV
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22335.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TLC" tvg-logo="" group-title="-------- Turchi --------",TR: TLC
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22336.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TMB" tvg-logo="" group-title="-------- Turchi --------",TR: TMB
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22337.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 1" tvg-logo="" group-title="-------- Turchi --------",TR: TRT 1
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22338.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 1 HD" tvg-logo="" group-title="-------- Turchi --------",TR: TRT 1 HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22339.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT ARAPCA" tvg-logo="" group-title="-------- Turchi --------",TR: TRT ARAPCA
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22340.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT AVAZ" tvg-logo="" group-title="-------- Turchi --------",TR: TRT AVAZ
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22341.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT BELGESEL HD" tvg-logo="" group-title="-------- Turchi --------",TR: TRT BELGESEL HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22342.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT COCUK" tvg-logo="" group-title="-------- Turchi --------",TR: TRT COCUK
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22343.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Diyaet HD" tvg-logo="" group-title="-------- Turchi --------",TR: TRT Diyaet HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22344.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT DIYANET" tvg-logo="" group-title="-------- Turchi --------",TR: TRT DIYANET
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22345.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT HABER" tvg-logo="" group-title="-------- Turchi --------",TR: TRT HABER
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22346.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT KURDI" tvg-logo="" group-title="-------- Turchi --------",TR: TRT KURDI
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22347.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT MUSIC" tvg-logo="" group-title="-------- Turchi --------",TR: TRT MUSIC
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22348.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR HD" tvg-logo="" group-title="-------- Turchi --------",TR: TRT SPOR HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22349.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT TURK" tvg-logo="" group-title="-------- Turchi --------",TR: TRT TURK
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22350.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT WORLD" tvg-logo="" group-title="-------- Turchi --------",TR: TRT WORLD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22351.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TV 2" tvg-logo="" group-title="-------- Turchi --------",TR: TV 2
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22352.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TV 4" tvg-logo="" group-title="-------- Turchi --------",TR: TV 4
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22353.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TV 8 HD" tvg-logo="" group-title="-------- Turchi --------",TR: TV 8 HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22354.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TV EM" tvg-logo="" group-title="-------- Turchi --------",TR: TV EM
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22355.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TVNET" tvg-logo="" group-title="-------- Turchi --------",TR: TVNET
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22356.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Ucan Kus Tv" tvg-logo="" group-title="-------- Turchi --------",TR: Ucan Kus Tv
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22357.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: ULKE TV HD" tvg-logo="" group-title="-------- Turchi --------",TR: ULKE TV HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22358.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: ULUSAL" tvg-logo="" group-title="-------- Turchi --------",TR: ULUSAL
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22359.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Viasat Explore" tvg-logo="" group-title="-------- Turchi --------",TR: Viasat Explore
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22360.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: VIASAT NATURA & VIASAT HISTORY HD" tvg-logo="" group-title="-------- Turchi --------",TR: VIASAT NATURA & VIASAT HISTORY HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22361.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: VIP CHANNEL 1 HD" tvg-logo="" group-title="-------- Turchi --------",TR: VIP CHANNEL 1 HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22362.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: VIZYON TURK" tvg-logo="" group-title="-------- Turchi --------",TR: VIZYON TURK
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22363.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: YABAN TV" tvg-logo="" group-title="-------- Turchi --------",TR: YABAN TV
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22364.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: YASIN TV" tvg-logo="" group-title="-------- Turchi --------",TR: YASIN TV
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22365.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: YAT TV" tvg-logo="" group-title="-------- Turchi --------",TR: YAT TV
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22366.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: YOL TV" tvg-logo="" group-title="-------- Turchi --------",TR: YOL TV
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22367.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: ZIRAAT TV" tvg-logo="" group-title="-------- Turchi --------",TR: ZIRAAT TV
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22368.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR 4" tvg-logo="" group-title="-------- Turchi --------",TR: TIVIBU SPOR 4
+http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22333.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Barca TV" tvg-logo="" group-title="-------- Spagnoli --------",ES: Barca TV
+http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/23006.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Bein LA LIGA TV 1" tvg-logo="" group-title="-------- Spagnoli --------",ES: Bein LA LIGA TV 1
+http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/23005.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 1 HD" tvg-logo="" group-title="-------- UK --------",UK: BT Sport 1 HD
+http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/23267.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sports 2 HD" tvg-logo="" group-title="-------- UK --------",UK: BT Sports 2 HD
+http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/23262.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 3 HD" tvg-logo="" group-title="-------- UK --------",UK: BT Sport 3 HD
+http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/23266.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS 1 HD" tvg-logo="" group-title="-------- UK --------",UK: SKY SPORTS 1 HD
+http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/23173.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports 2 HD" tvg-logo="" group-title="-------- UK --------",UK: Sky Sports 2 HD
+http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/23171.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports 3 HD" tvg-logo="" group-title="-------- UK --------",UK: Sky Sports 3 HD
+http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/23169.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports 4 HD" tvg-logo="" group-title="-------- UK --------",UK: Sky Sports 4 HD
+http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/23167.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports 5 HD" tvg-logo="" group-title="-------- UK --------",UK: Sky Sports 5 HD
+http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/23166.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 1 HD" tvg-logo="" group-title="-------- Germany --------",DE: Sky Bundesliga 1 HD
+http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22762.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY BUNDESLIGA 2 HD" tvg-logo="" group-title="-------- Germany --------",DE: SKY BUNDESLIGA 2 HD
+http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22760.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky BUNDESLIGA 3 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )" tvg-logo="" group-title="-------- Germany --------",DE: Sky BUNDESLIGA 3 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )
+http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22759.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky BUNDESLIGA 4 HD  ( OFFLINE WHEN NO PLAY BUNDESLIGA )" tvg-logo="" group-title="-------- Germany --------",DE: Sky BUNDESLIGA 4 HD  ( OFFLINE WHEN NO PLAY BUNDESLIGA )
+http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22758.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky BUNDESLIGA 5 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )" tvg-logo="" group-title="-------- Germany --------",DE: Sky BUNDESLIGA 5 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )
+http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22757.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky BUNDESLIGA 6 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )" tvg-logo="" group-title="-------- Germany --------",DE: Sky BUNDESLIGA 6 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )
+http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22756.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky BUNDESLIGA 7 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )" tvg-logo="" group-title="-------- Germany --------",DE: Sky BUNDESLIGA 7 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )
+http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22755.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky BUNDESLIGA 8 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )" tvg-logo="" group-title="-------- Germany --------",DE: Sky BUNDESLIGA 8 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )
+http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22754.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky BUNDESLIGA 9 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )" tvg-logo="" group-title="-------- Germany --------",DE: Sky BUNDESLIGA 9 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )
+http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22753.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky BUNDESLIGA 10 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )" tvg-logo="" group-title="-------- Germany --------",DE: Sky BUNDESLIGA 10 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )
+http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22761.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 1 HD" tvg-logo="" group-title="-------- Germany --------",DE: Sky Sport 1 HD
+http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22723.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 2" tvg-logo="" group-title="-------- Germany --------",DE: SKY SPORT 2
+http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22720.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 2 HD" tvg-logo="" group-title="-------- Germany --------",DE: Sky Sport 2 HD
+http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22719.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 3 HD ( OFFLINE WHEN NO PLAY FOOTBALL MATCH )" tvg-logo="" group-title="-------- Germany --------",DE: Sky Sport 3 HD ( OFFLINE WHEN NO PLAY FOOTBALL MATCH )
+http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22718.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 4 HD ( MATCH TIME )" tvg-logo="" group-title="-------- Germany --------",DE: Sky Sport 4 HD ( MATCH TIME )
+http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22717.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 5 HD  ( OFFLINE WHEN NO PLAY FOOTBALL MATCH )" tvg-logo="" group-title="-------- Germany --------",DE: Sky Sport 5 HD  ( OFFLINE WHEN NO PLAY FOOTBALL MATCH )
+http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22716.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 6 HD ( OFFLINE WHEN NO PLAY FOOTBALL MATCH )" tvg-logo="" group-title="-------- Germany --------",DE: Sky Sport 6 HD ( OFFLINE WHEN NO PLAY FOOTBALL MATCH )
+http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22715.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 7 HD ( OFFLINE WHEN NO PLAY FOOTBALL MATCH )" tvg-logo="" group-title="-------- Germany --------",DE: Sky Sport 7 HD ( OFFLINE WHEN NO PLAY FOOTBALL MATCH )
+http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22714.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 8 HD ( OFFLINE WHEN NO PLAY FOOTBALL MATCH )" tvg-logo="" group-title="-------- Germany --------",DE: Sky Sport 8 HD ( OFFLINE WHEN NO PLAY FOOTBALL MATCH )
+http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22713.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 9 HD ( OFFLINE WHEN NO PLAY FOOTBALL MATCH )" tvg-logo="" group-title="-------- Germany --------",DE: Sky Sport 9 HD ( OFFLINE WHEN NO PLAY FOOTBALL MATCH )
+http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22712.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 10 HD ( OFFLINE WHEN NO PLAY FOOTBALL MATCH )" tvg-logo="" group-title="-------- Germany --------",DE: Sky Sport 10 HD ( OFFLINE WHEN NO PLAY FOOTBALL MATCH )
+http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22721.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sport 1 HD" tvg-logo="" group-title="-------- Germany --------",DE: Sport 1 HD
+http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22701.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sport 1 US HD" tvg-logo="" group-title="-------- Germany --------",DE: Sport 1 US HD
+http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22700.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SPORTDIGITAL HD" tvg-logo="" group-title="-------- Germany --------",DE: SPORTDIGITAL HD
+http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22698.ts
