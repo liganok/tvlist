@@ -1,145 +1,339 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 1 HD" tvg-logo="" group-title="-------- Turchi --------",TR: TRT 1 HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22339.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: ATV HD" tvg-logo="" group-title="-------- Turchi --------",TR: ATV HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22163.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: FOX TV HD" tvg-logo="" group-title="-------- Turchi --------",TR: FOX TV HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22225.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL D HD" tvg-logo="" group-title="-------- Turchi --------",TR: KANAL D HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22240.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SHOW TV HD" tvg-logo="" group-title="-------- Turchi --------",TR: SHOW TV HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22310.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TV 8 HD" tvg-logo="" group-title="-------- Turchi --------",TR: TV 8 HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22354.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: STAR TV HD" tvg-logo="" group-title="-------- Turchi --------",TR: STAR TV HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22325.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: NTV HD" tvg-logo="" group-title="-------- Turchi --------",TR: NTV HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22276.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: CNN TURK" tvg-logo="" group-title="-------- Turchi --------",TR: CNN TURK
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22196.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: HABER TURK HD" tvg-logo="" group-title="-------- Turchi --------",TR: HABER TURK HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22230.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: HALK TV" tvg-logo="" group-title="-------- Turchi --------",TR: HALK TV
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22231.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: A HABER HD" tvg-logo="" group-title="-------- Turchi --------",TR: A HABER HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22153.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN GURME HD" tvg-logo="" group-title="-------- Turchi --------",TR: BEIN GURME HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22171.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Movies Premier HD" tvg-logo="" group-title="-------- Turchi --------",TR: Bein Movies Premier HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22175.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Movies Stars HD" tvg-logo="" group-title="-------- Turchi --------",TR: Bein Movies Stars HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22176.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Movies Turk HD" tvg-logo="" group-title="-------- Turchi --------",TR: Bein Movies Turk HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22177.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: POWER TURK HD" tvg-logo="" group-title="-------- Turchi --------",TR: POWER TURK HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22285.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Diyaet HD" tvg-logo="" group-title="-------- Turchi --------",TR: TRT Diyaet HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22344.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: BBC 1 HD" tvg-logo="" group-title="-------- UK --------",UK: BBC 1 HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/23274.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: BBC 2 HD" tvg-logo="" group-title="-------- UK --------",UK: BBC 2 HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/23273.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: ITV 1 HD" tvg-logo="" group-title="-------- UK --------",UK: ITV 1 HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/23226.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: ITV 2 HD" tvg-logo="" group-title="-------- UK --------",UK: ITV 2 HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/23224.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: ARD HD" tvg-logo="" group-title="-------- Germany --------",DE: ARD HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22867.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports News HD" tvg-logo="" group-title="-------- UK --------",UK: Sky Sports News HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/23161.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Sport News HD" tvg-logo="" group-title="-------- Germany --------",DE: SKY Sport News HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22709.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sports 1 HD" tvg-logo="" group-title="-------- Turchi --------",TR: Bein Sports 1 HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22179.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 2 HD" tvg-logo="" group-title="-------- Turchi --------",TR: BEIN SPORTS 2 HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22180.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sports 3 HD" tvg-logo="" group-title="-------- Turchi --------",TR: Bein Sports 3 HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22181.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 4 HD" tvg-logo="" group-title="-------- Turchi --------",TR: BEIN SPORTS 4 HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22182.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS MAX 1 HD" tvg-logo="" group-title="-------- Turchi --------",TR: BEIN SPORTS MAX 1 HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22183.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS MAX 2 HD" tvg-logo="" group-title="-------- Turchi --------",TR: BEIN SPORTS MAX 2 HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22184.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: FENERBAHCE TV HD" tvg-logo="" group-title="-------- Turchi --------",TR: FENERBAHCE TV HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22215.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR 1" tvg-logo="" group-title="-------- Turchi --------",TR: TIVIBU SPOR 1
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22331.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR 2" tvg-logo="" group-title="-------- Turchi --------",TR: TIVIBU SPOR 2
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22332.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu Sport 3" tvg-logo="" group-title="-------- Turchi --------",TR: Tivibu Sport 3
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22334.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR 4" tvg-logo="" group-title="-------- Turchi --------",TR: TIVIBU SPOR 4
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22333.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: A SPOR HD" tvg-logo="" group-title="-------- Turchi --------",TR: A SPOR HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22154.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: Barca TV" tvg-logo="" group-title="-------- Spagnoli --------",ES: Barca TV
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/23006.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: Bein LA LIGA TV 1" tvg-logo="" group-title="-------- Spagnoli --------",ES: Bein LA LIGA TV 1
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/23005.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 1 HD" tvg-logo="" group-title="-------- UK --------",UK: BT Sport 1 HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/23267.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sports 2 HD" tvg-logo="" group-title="-------- UK --------",UK: BT Sports 2 HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/23262.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 3 HD" tvg-logo="" group-title="-------- UK --------",UK: BT Sport 3 HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/23266.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS 1 HD" tvg-logo="" group-title="-------- UK --------",UK: SKY SPORTS 1 HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/23173.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports 2 HD" tvg-logo="" group-title="-------- UK --------",UK: Sky Sports 2 HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/23171.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports 3 HD" tvg-logo="" group-title="-------- UK --------",UK: Sky Sports 3 HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/23169.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports 4 HD" tvg-logo="" group-title="-------- UK --------",UK: Sky Sports 4 HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/23167.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports 5 HD" tvg-logo="" group-title="-------- UK --------",UK: Sky Sports 5 HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/23166.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Eurosport 2 XTRA HD" tvg-logo="" group-title="-------- Germany --------",DE: Eurosport 2 XTRA HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22837.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 1 HD" tvg-logo="" group-title="-------- Germany --------",DE: Sky Bundesliga 1 HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22762.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY BUNDESLIGA 2 HD" tvg-logo="" group-title="-------- Germany --------",DE: SKY BUNDESLIGA 2 HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22760.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky BUNDESLIGA 3 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )" tvg-logo="" group-title="-------- Germany --------",DE: Sky BUNDESLIGA 3 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22759.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky BUNDESLIGA 4 HD  ( OFFLINE WHEN NO PLAY BUNDESLIGA )" tvg-logo="" group-title="-------- Germany --------",DE: Sky BUNDESLIGA 4 HD  ( OFFLINE WHEN NO PLAY BUNDESLIGA )
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22758.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky BUNDESLIGA 5 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )" tvg-logo="" group-title="-------- Germany --------",DE: Sky BUNDESLIGA 5 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22757.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky BUNDESLIGA 6 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )" tvg-logo="" group-title="-------- Germany --------",DE: Sky BUNDESLIGA 6 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22756.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky BUNDESLIGA 7 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )" tvg-logo="" group-title="-------- Germany --------",DE: Sky BUNDESLIGA 7 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22755.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky BUNDESLIGA 8 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )" tvg-logo="" group-title="-------- Germany --------",DE: Sky BUNDESLIGA 8 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22754.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky BUNDESLIGA 9 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )" tvg-logo="" group-title="-------- Germany --------",DE: Sky BUNDESLIGA 9 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22753.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky BUNDESLIGA 10 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )" tvg-logo="" group-title="-------- Germany --------",DE: Sky BUNDESLIGA 10 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22761.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 1 HD" tvg-logo="" group-title="-------- Germany --------",DE: Sky Sport 1 HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22723.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 2" tvg-logo="" group-title="-------- Germany --------",DE: SKY SPORT 2
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22720.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 2 HD" tvg-logo="" group-title="-------- Germany --------",DE: Sky Sport 2 HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22719.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 3 HD ( OFFLINE WHEN NO PLAY FOOTBALL MATCH )" tvg-logo="" group-title="-------- Germany --------",DE: Sky Sport 3 HD ( OFFLINE WHEN NO PLAY FOOTBALL MATCH )
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22718.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 4 HD ( MATCH TIME )" tvg-logo="" group-title="-------- Germany --------",DE: Sky Sport 4 HD ( MATCH TIME )
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22717.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 5 HD  ( OFFLINE WHEN NO PLAY FOOTBALL MATCH )" tvg-logo="" group-title="-------- Germany --------",DE: Sky Sport 5 HD  ( OFFLINE WHEN NO PLAY FOOTBALL MATCH )
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22716.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 6 HD ( OFFLINE WHEN NO PLAY FOOTBALL MATCH )" tvg-logo="" group-title="-------- Germany --------",DE: Sky Sport 6 HD ( OFFLINE WHEN NO PLAY FOOTBALL MATCH )
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22715.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 7 HD ( OFFLINE WHEN NO PLAY FOOTBALL MATCH )" tvg-logo="" group-title="-------- Germany --------",DE: Sky Sport 7 HD ( OFFLINE WHEN NO PLAY FOOTBALL MATCH )
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22714.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 8 HD ( OFFLINE WHEN NO PLAY FOOTBALL MATCH )" tvg-logo="" group-title="-------- Germany --------",DE: Sky Sport 8 HD ( OFFLINE WHEN NO PLAY FOOTBALL MATCH )
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22713.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 9 HD ( OFFLINE WHEN NO PLAY FOOTBALL MATCH )" tvg-logo="" group-title="-------- Germany --------",DE: Sky Sport 9 HD ( OFFLINE WHEN NO PLAY FOOTBALL MATCH )
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22712.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 10 HD ( OFFLINE WHEN NO PLAY FOOTBALL MATCH )" tvg-logo="" group-title="-------- Germany --------",DE: Sky Sport 10 HD ( OFFLINE WHEN NO PLAY FOOTBALL MATCH )
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22721.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sport 1 HD" tvg-logo="" group-title="-------- Germany --------",DE: Sport 1 HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22701.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sport 1 US HD" tvg-logo="" group-title="-------- Germany --------",DE: Sport 1 US HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22700.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SPORTDIGITAL HD" tvg-logo="" group-title="-------- Germany --------",DE: SPORTDIGITAL HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22698.ts
+#EXTINF:-1,TR | BEIN SPORTS HD 1
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/2.ts
+
+#EXTINF:-1,TR | BEIN SPORTS HD 1 720p
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7685.ts
+
+#EXTINF:-1,TR | BEIN SPORTS HD 1-H.265.HVEC
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/51.ts
+
+#EXTINF:-1,TR | beIN SPORTS SD 1
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7683.ts
+
+#EXTINF:-1,TR | BEIN SPORTS HD 1 MOBILE
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7660.ts
+
+#EXTINF:-1,TR | beIN SPORTS 1 UHD
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/8291.ts
+
+#EXTINF:-1,TR | BEIN SPORTS HD 1 1080i
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7684.ts
+
+#EXTINF:-1,TR | BEIN SPORTS HD 2
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/3.ts
+
+#EXTINF:-1,TR | BEIN SPORTS SD 2
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/9196.ts
+
+#EXTINF:-1,TR | BEIN SPORTS HD 3
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/4.ts
+
+#EXTINF:-1,TR | BEIN SPORTS SD 3
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/9197.ts
+
+#EXTINF:-1,TR | BEIN SPORTS HD 4
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/220.ts
+
+#EXTINF:-1,TR | beIN SPORTS MAX HD
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7600.ts
+
+#EXTINF:-1,TR | beIN SPORTS MAX 2 HD
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7601.ts
+
+#EXTINF:-1,TR | BEIN SPORTS HABER HD
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/8201.ts
+
+#EXTINF:-1,TR | SMART SPORT HD ( DSMART )
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/10.ts
+
+#EXTINF:-1,TR | S SPORT 2 HD ( DSMART )
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/11.ts
+
+#EXTINF:-1,TR | TIVIBU SPOR 1 HD
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/186.ts
+
+#EXTINF:-1,TR | TIVIBU SPOR 2 HD
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/187.ts
+
+#EXTINF:-1,TR | TIVIBU SPOR 3 HD
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/188.ts
+
+#EXTINF:-1,TR | TIVIBU SPOR 4 HD
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/189.ts
+
+#EXTINF:-1,TR | TIVIBU Spor 5 HD
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/9637.ts
+
+#EXTINF:-1,TR | NBA TV HD ( DSMART )
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/12.ts
+
+#EXTINF:-1,TR | EUROSPORT 1 HD&nbsp; ( DSMART )
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/67.ts
+
+#EXTINF:-1,TR | EUROSPORT 2 ( DSMART )
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/29.ts
+
+#EXTINF:-1,TR | TRT SPOR HD
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/58.ts
+
+#EXTINF:-1,TR | TRT 3 SPOR HD
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/280.ts
+
+#EXTINF:-1,TR | NTV SPOR HD
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/79.ts
+
+#EXTINF:-1,TR | A SPOR
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/75.ts
+
+#EXTINF:-1,TR | GS TV
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/295.ts
+
+#EXTINF:-1,TR I BURSA SPOR TV
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/9577.ts
+
+#EXTINF:-1,TR | BJK TV
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/294.ts
+
+#EXTINF:-1,TR | TAY TV
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/214.ts
+
+#EXTINF:-1,TR | FENERBAHCE&nbsp; TV
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/84.ts
+
+#EXTINF:-1,TR | SPORTS TV HD
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/86.ts
+
+#EXTINF:-1,TR | Bein Movies Comedy HD
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/8274.ts
+
+#EXTINF:-1,TR | Moviemax Turk HD
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/143.ts
+
+#EXTINF:-1,TR | BEIN SERIES SCI-FI
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/38.ts
+
+#EXTINF:-1,TR | beIN PREMIER HD
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/4811.ts
+
+#EXTINF:-1,TR | beIN PREMIER 2 HD
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/4812.ts
+
+#EXTINF:-1,TR | beIN ACTION HD
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/4813.ts
+
+#EXTINF:-1,TR | beIN ACTION 2 HD
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/4814.ts
+
+#EXTINF:-1,TR | beIN STARS HD
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/4818.ts
+
+#EXTINF:-1,TR | beIN FESTIVAL HD
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/4816.ts
+
+#EXTINF:-1,TR | beIN FAMILY HD
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/4815.ts
+
+#EXTINF:-1,TR | beIN MOVIEMAX COMEDY HD
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/4817.ts
+
+#EXTINF:-1,TR | beIN MOVIEMAX TURK HD
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/4819.ts
+
+#EXTINF:-1,TR | MOVIEMAX PREMIER HD
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/6.ts
+
+#EXTINF:-1,TR | VIP CHANNEL HD
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/5.ts
+
+#EXTINF:-1,TR | BEIN BOX OFFICE 1 HD
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7.ts
+
+#EXTINF:-1,TR | BEIN BOX OFFICE 2 HD
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/8.ts
+
+#EXTINF:-1,TR | BEIN BOX OFFICE 3 HD
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/9.ts
+
+#EXTINF:-1,TR I SALON 3D HD
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/2349.ts
+
+#EXTINF:-1,TR | LOCA 1 HD
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/16.ts
+
+#EXTINF:-1,TR | LOCA 2 HD
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/149.ts
+
+#EXTINF:-1,TR | LOCA 3 HD
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/131.ts
+
+#EXTINF:-1,TR | TIVIBU TURK HD
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/9638.ts
+
+#EXTINF:-1,TR | VIP CHANNEL TURK HD
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/13.ts
+
+#EXTINF:-1,TR | YESILCAM 1 HD
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/14.ts
+
+#EXTINF:-1,TR | YESILCAM 2 HD
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/15.ts
+
+#EXTINF:-1,TR | SINEMA TV ( FILBOX )
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/2078.ts
+
+#EXTINF:-1,TR I MOVIESMART TURK ( DSMART )
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/72.ts
+
+#EXTINF:-1,TR I MOVIE PREMIUM HD ( DSMART )
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/92.ts
+
+#EXTINF:-1,TR | MOVIE PREMIUM 2 HD ( DSMART )
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/68.ts
+
+#EXTINF:-1,TR I MOVIE-FEST-DSMART
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/3995.ts
+
+#EXTINF:-1,TR | MOVIE PLATIN 2 HD&nbsp; ( DSMART )
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/159.ts
+
+#EXTINF:-1,TR | MOVIESMART FAMILY (DSMART) HD
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/23.ts
+
+#EXTINF:-1,TR I MOVIE ACTION-DSMART
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/3992.ts
+
+#EXTINF:-1,TR | DSMART FX
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/2367.ts
+
+#EXTINF:-1,TR | MOVIE SMART CLASSIC ( DSMART )
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/63.ts
+
+#EXTINF:-1,TR | DIZI PREMIUM HD ( DSMART )
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/73.ts
+
+#EXTINF:-1,TR | DIZI TV ( FILBOX )
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/66.ts
+
+#EXTINF:-1,TR I SINETIVI-ADRENALIN-HD
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/3993.ts
+
+#EXTINF:-1,TR | SiNETIVI KARNAVAL (TIVIBU)
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/88.ts
+
+#EXTINF:-1,TR | FILM TV HD
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/17.ts
+
+#EXTINF:-1,TR | ANIMASYON HD
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/20.ts
+
+#EXTINF:-1,TR | MOVIESMART GOLD ( DSMART )
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/65.ts
+
+#EXTINF:-1,TR | VIP CHANNEL 2 HD
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/19.ts
+
+#EXTINF:-1,TR | SINE TV HD-Tivibu
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/21.ts
+
+#EXTINF:-1,TR | SINEMATV AKSIYON HD ( FILBOX )
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/22.ts
+
+#EXTINF:-1,TR | MOVIEMAX PREMIER 2
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/2359.ts
+
+#EXTINF:-1,TR | MovieMax Oscar HD
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/2123.ts
+
+#EXTINF:-1,TR | SINEMATV-AILE-HD
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/82.ts
+
+#EXTINF:-1,TR | Vizion Premier HD
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/2122.ts
+
+#EXTINF:-1,TR I FX DIZI
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/2388.ts
+
+#EXTINF:-1,TR I HISTORY CHANNEL HD-tivibu
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/9636.ts
+
+#EXTINF:-1,TR | Belgesel-DTX
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/2364.ts
+
+#EXTINF:-1,TR | ID Xtra Europe HD-digiturk
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/3957.ts
+
+#EXTINF:-1,TR I NAT GEO HD ( DIGITURK )
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/2384.ts
+
+#EXTINF:-1,TR | VIASAT NATURE/HISTORY CH. HD-( FILBOX )
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/81.ts
+
+#EXTINF:-1,TR I History HD TR
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/2355.ts
+
+#EXTINF:-1,TR I DISCOVERY-SHOWCASE-HD
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/3959.ts
+
+#EXTINF:-1,TR | DISCOVERY CHANNEL HD ( DSMART )
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/191.ts
+
+#EXTINF:-1,TR | Animal Planet ( DSMART )
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/148.ts
+
+#EXTINF:-1,TR I NATIONAL GEOPRAFIC HD ( DIGITURK )
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/2366.ts
+
+#EXTINF:-1,TR | National Geographic Wild ( DSMART )
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/69.ts
+
+#EXTINF:-1,TR | BBC Earth HD (D-SMART)
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/192.ts
+
+#EXTINF:-1,TR | ID Xtra Europe HD ( DIJITURK )
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/24.ts
+
+#EXTINF:-1,TR | DAVINCI-LEARNING
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/3954.ts
+
+#EXTINF:-1,TR | TRT BELGESEL HD
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/125.ts
+
+#EXTINF:-1,TR | YABAN&nbsp; TV
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/90.ts
+
+#EXTINF:-1,TR | TRT 1
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/783.ts
+
+#EXTINF:-1,TR | TRT 1 SD
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/2354.ts
+
+#EXTINF:-1,TR | SHOW TV HD
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/25.ts
+
+#EXTINF:-1,TR | SHOW TV
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/97.ts
+
+#EXTINF:-1,TR | SHOW EURO
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/8287.ts
+
+#EXTINF:-1,TR | STAR HD
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/28.ts
+
+#EXTINF:-1,TR | STAR TV
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/98.ts
+
+#EXTINF:-1,TR | STAR EURO
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/8288.ts
+
+#EXTINF:-1,TR | ATV HD
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/1.ts
+
+#EXTINF:-1,TR | ATV
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/95.ts
+
+#EXTINF:-1,TR | ATV EURO
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/8285.ts
+
+#EXTINF:-1,TR | KANAL D HD
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/26.ts
