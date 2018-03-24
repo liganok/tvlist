@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC 1 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/yyqrvu1433940918.png/small" group-title="United Kingdom",BBC 1 HD
+http://epicstream.tv:7000/live/UBMP4QE27/THK8TZGPRR/4687.ts
+
+#EXTINF:-1 tvg-id="BBC2.uk" tvg-name="BBC 2 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/yvrqur1433940947.png/small" group-title="United Kingdom",BBC 2 HD
+http://epicstream.tv:7000/live/UBMP4QE27/THK8TZGPRR/4686.ts
+
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/wmomfs1515624181.png/small" group-title="United Kingdom",BBC News HD
+http://epicstream.tv:7000/live/UBMP4QE27/THK8TZGPRR/4684.ts
+
+#EXTINF:-1 tvg-id="ITV1Anglia.uk" tvg-name="ITV 1 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/wuwxss1433965997.png/small" group-title="United Kingdom",ITV 1 HD
+http://arapido.com:2500/live/m8FEcDciDk/S5NXVnesBF/16000.ts
+
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV 2 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/xpryxw1442161772.png/small" group-title="United Kingdom",ITV 2 HD
+http://arapido.com:2500/live/m8FEcDciDk/S5NXVnesBF/15995.ts
+
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/vqqxus1473153936.png/small" group-title="Turkey",ATV HD
+http://arapido.com:2500/live/m8FEcDciDk/S5NXVnesBF/1377.ts
+
+#EXTINF:-1 tvg-id="Fox.tr" tvg-name="FOX HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/um8d2j1509463340.png/small" group-title="Turkey",FOX HD
+http://arapido.com:2500/live/m8FEcDciDk/S5NXVnesBF/1369.ts
+
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="KANAL D HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/pe7kf51502590265.png/small" 
+group-title="Turkey",KANAL D HD
+http://arapido.com:2500/live/m8FEcDciDk/S5NXVnesBF/704.ts
