@@ -82,3 +82,9 @@ http://epicstream.tv:7000/live/UBMP4QE27/THK8TZGPRR/1.ts
 
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/uyswus1433941237.png/small" group-title="United States",CNN HD
 http://epicstream.tv:7000/live/UBMP4QE27/THK8TZGPRR/27.ts
+
+#EXTINF:-1 tvg-id="Eurosport2Xtra.de" tvg-name="Eurosport 2 HD Xtra" tvg-logo="https://www.thelogodb.com/images/media/logonew/xvuxxt1474667338.png/small" group-title="Germany",Eurosport 2 HD Xtra
+http://arapido.com:2500/live/m8FEcDciDk/S5NXVnesBF/15155.ts
+
+#EXTINF:-1 tvg-id="beINLaLiga.es" tvg-name="BEIN Sports La Liga HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/6dhxi81505469184.png/small" group-title="Spain",BEIN Sports La Liga HD
+http://arapido.com:2500/live/m8FEcDciDk/S5NXVnesBF/14574.ts
