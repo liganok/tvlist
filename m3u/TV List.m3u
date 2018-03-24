@@ -20,6 +20,5 @@ http://arapido.com:2500/live/m8FEcDciDk/S5NXVnesBF/1377.ts
 #EXTINF:-1 tvg-id="Fox.tr" tvg-name="FOX HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/um8d2j1509463340.png/small" group-title="Turkey",FOX HD
 http://arapido.com:2500/live/m8FEcDciDk/S5NXVnesBF/1369.ts
 
-#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="KANAL D HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/pe7kf51502590265.png/small" 
-group-title="Turkey",KANAL D HD
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="KANAL D HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/pe7kf51502590265.png/small" group-title="Turkey",KANAL D HD
 http://arapido.com:2500/live/m8FEcDciDk/S5NXVnesBF/704.ts
