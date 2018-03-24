@@ -22,3 +22,6 @@ http://arapido.com:2500/live/m8FEcDciDk/S5NXVnesBF/1369.ts
 
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="KANAL D HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/pe7kf51502590265.png/small" group-title="Turkey",KANAL D HD
 http://arapido.com:2500/live/m8FEcDciDk/S5NXVnesBF/704.ts
+
+#EXTINF:-1 tvg-id="beINSports1.tr" tvg-name="BEIN Sports 1 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/60olka1504234949.png/small" group-title="Turkey",BEIN Sports 1 HD
+http://arapido.com:2500/live/m8FEcDciDk/S5NXVnesBF/10641.ts
