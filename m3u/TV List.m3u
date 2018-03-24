@@ -14,14 +14,53 @@ http://arapido.com:2500/live/m8FEcDciDk/S5NXVnesBF/16000.ts
 #EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV 2 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/xpryxw1442161772.png/small" group-title="United Kingdom",ITV 2 HD
 http://arapido.com:2500/live/m8FEcDciDk/S5NXVnesBF/15995.ts
 
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="Sky Sports News HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/sxwwxv1433780905.png/small" group-title="United Kingdom",Sky Sports News HD
+http://epicstream.tv:7000/live/UBMP4QE27/THK8TZGPRR/9398.ts
+
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/mp44981502554837.png/small" group-title="United Kingdom",Sky Sports Main Event HD
+http://epicstream.tv:7000/live/UBMP4QE27/THK8TZGPRR/9400.ts
+
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/lnd1p01502554851.png/small" group-title="United Kingdom",Sky Sports Football HD
+http://epicstream.tv:7000/live/UBMP4QE27/THK8TZGPRR/9402.ts
+
+#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="Sky Sports Premier League HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/7e2lv21502554825.png/small" group-title="United Kingdom",Sky Sports Premier League HD
+http://epicstream.tv:7000/live/UBMP4QE27/THK8TZGPRR/9397.ts
+
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="Sky Sports Action HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/kf0oba1502554875.png/small" group-title="United Kingdom",Sky Sports Action HD
+http://epicstream.tv:7000/live/UBMP4QE27/THK8TZGPRR/9406.ts
+
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="Sky Sports Arena HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/kdr04z1502554338.png/small" group-title="United Kingdom",Sky Sports Arena HD
+http://epicstream.tv:7000/live/UBMP4QE27/THK8TZGPRR/9405.ts
+
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="Sky Sports Cricket HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/47d7os1502554865.png/small" group-title="United Kingdom",Sky Sports Cricket HD
+http://epicstream.tv:7000/live/UBMP4QE27/THK8TZGPRR/9404.ts
+
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="Sky Sports Mix HD" tvg-logo="" group-title="United Kingdom",Sky Sports Mix HD
+http://epicstream.tv:7000/live/UBMP4QE27/THK8TZGPRR/9399.ts
+
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/vqqxus1473153936.png/small" group-title="Turkey",ATV HD
 http://arapido.com:2500/live/m8FEcDciDk/S5NXVnesBF/1377.ts
 
 #EXTINF:-1 tvg-id="Fox.tr" tvg-name="FOX HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/um8d2j1509463340.png/small" group-title="Turkey",FOX HD
 http://arapido.com:2500/live/m8FEcDciDk/S5NXVnesBF/1369.ts
 
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="SHOW HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/vwysvt1433332550.png/small" group-title="Turkey",SHOW HD
+http://arapido.com:2500/live/m8FEcDciDk/S5NXVnesBF/1381.ts
+
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="STAR HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/txstww1433943055.png/small" group-title="Turkey",STAR HD
+http://arapido.com:2500/live/m8FEcDciDk/S5NXVnesBF/703.ts
+
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="KANAL D HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/pe7kf51502590265.png/small" group-title="Turkey",KANAL D HD
 http://arapido.com:2500/live/m8FEcDciDk/S5NXVnesBF/704.ts
+
+#EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV HD" tvg-logo="https://static.iptv-epg.com/tr/NTV.tr.png" group-title="Turkey",NTV HD
+http://arapido.com:2500/live/m8FEcDciDk/S5NXVnesBF/3541.ts
+
+#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="CNN Türk HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/qwwwxs1433945482.png/small" group-title="Turkey",CNN Türk HD
+http://arapido.com:2500/live/m8FEcDciDk/S5NXVnesBF/3542.ts
+
+#EXTINF:-1 tvg-id="Powerturk.tr" tvg-name="POWERTÜRK HD" tvg-logo="" group-title="Turkey",POWERTÜRK HD
+http://arapido.com:2500/live/m8FEcDciDk/S5NXVnesBF/1571.ts
 
 #EXTINF:-1 tvg-id="beINSports1.tr" tvg-name="BEIN Sports 1 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/60olka1504234949.png/small" group-title="Turkey",BEIN Sports 1 HD
 http://arapido.com:2500/live/m8FEcDciDk/S5NXVnesBF/6671.ts
@@ -38,5 +77,8 @@ http://arapido.com:2500/live/m8FEcDciDk/S5NXVnesBF/6668.ts
 #EXTINF:-1 tvg-id="TivibuSpor.tr" tvg-name="tivibu SPOR 1 HD" tvg-logo="" group-title="Turkey",tivibu SPOR 1 HD
 http://arapido.com:2500/live/m8FEcDciDk/S5NXVnesBF/6680.ts
 
-#EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV HD" tvg-logo="https://static.iptv-epg.com/tr/NTV.tr.png" group-title="Turkey",NTV HD
-http://arapido.com:2500/live/m8FEcDciDk/S5NXVnesBF/3541.ts
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/trytur1433451903.png/small" group-title="United States",MSNBC HD
+http://epicstream.tv:7000/live/UBMP4QE27/THK8TZGPRR/1.ts
+
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/uyswus1433941237.png/small" group-title="United States",CNN HD
+http://epicstream.tv:7000/live/UBMP4QE27/THK8TZGPRR/27.ts
