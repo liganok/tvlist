@@ -24,4 +24,13 @@ http://arapido.com:2500/live/m8FEcDciDk/S5NXVnesBF/1369.ts
 http://arapido.com:2500/live/m8FEcDciDk/S5NXVnesBF/704.ts
 
 #EXTINF:-1 tvg-id="beINSports1.tr" tvg-name="BEIN Sports 1 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/60olka1504234949.png/small" group-title="Turkey",BEIN Sports 1 HD
-http://arapido.com:2500/live/m8FEcDciDk/S5NXVnesBF/10641.ts
+http://arapido.com:2500/live/m8FEcDciDk/S5NXVnesBF/6671.ts
+
+#EXTINF:-1 tvg-id="beINSports2.tr" tvg-name="BEIN Sports 2 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/27h1lw1504234965.png/small" group-title="Turkey",BEIN Sports 2 HD
+http://arapido.com:2500/live/m8FEcDciDk/S5NXVnesBF/1105.ts
+
+#EXTINF:-1 tvg-id="beINSports3.tr" tvg-name="BEIN Sports 3 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/gmt9nj1504235003.png/small" group-title="Turkey",BEIN Sports 3 HD
+http://arapido.com:2500/live/m8FEcDciDk/S5NXVnesBF/6669.ts
+
+#EXTINF:-1 tvg-id="beINSports4.tr" tvg-name="BEIN Sports 4 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/akcwk91504235015.png/small" group-title="Turkey",BEIN Sports 4 HD
+http://arapido.com:2500/live/m8FEcDciDk/S5NXVnesBF/6668.ts
