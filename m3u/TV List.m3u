@@ -38,6 +38,9 @@ http://epicstream.tv:7000/live/UBMP4QE27/THK8TZGPRR/9404.ts
 #EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="Sky Sports Mix HD" tvg-logo="" group-title="United Kingdom",Sky Sports Mix HD
 http://epicstream.tv:7000/live/UBMP4QE27/THK8TZGPRR/9399.ts
 
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/ryypqw1462991911.png/small" group-title="Turkey",TRT 1 HD
+http://arapido.com:2500/live/m8FEcDciDk/S5NXVnesBF/10718.ts
+
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/vqqxus1473153936.png/small" group-title="Turkey",ATV HD
 http://arapido.com:2500/live/m8FEcDciDk/S5NXVnesBF/1377.ts
 
@@ -53,17 +56,26 @@ http://arapido.com:2500/live/m8FEcDciDk/S5NXVnesBF/703.ts
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="KANAL D HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/pe7kf51502590265.png/small" group-title="Turkey",KANAL D HD
 http://arapido.com:2500/live/m8FEcDciDk/S5NXVnesBF/704.ts
 
+#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV 8 HD" tvg-logo="" group-title="Turkey",TV 8 HD
+http://arapido.com:2500/live/m8FEcDciDk/S5NXVnesBF/10717.ts
+
 #EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV HD" tvg-logo="https://static.iptv-epg.com/tr/NTV.tr.png" group-title="Turkey",NTV HD
-http://arapido.com:2500/live/m8FEcDciDk/S5NXVnesBF/3541.ts
+http://arapido.com:2500/live/m8FEcDciDk/S5NXVnesBF/10705.ts
 
 #EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="CNN Türk HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/qwwwxs1433945482.png/small" group-title="Turkey",CNN Türk HD
-http://arapido.com:2500/live/m8FEcDciDk/S5NXVnesBF/3542.ts
+http://arapido.com:2500/live/m8FEcDciDk/S5NXVnesBF/10691.ts
+
+#EXTINF:-1 tvg-id="Haberturk.tr" tvg-name="HaberTürk HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/yuwwpr1433426670.png/small" group-title="Turkey",HaberTürk HD
+http://arapido.com:2500/live/m8FEcDciDk/S5NXVnesBF/10688.ts
+
+#EXTINF:-1 tvg-id="beINGurme.tr" tvg-name="BEIN Gurme HD" tvg-logo="" group-title="Turkey",BEIN Gurme HD
+http://arapido.com:2500/live/m8FEcDciDk/S5NXVnesBF/10685.ts
 
 #EXTINF:-1 tvg-id="Powerturk.tr" tvg-name="POWERTÜRK HD" tvg-logo="" group-title="Turkey",POWERTÜRK HD
 http://arapido.com:2500/live/m8FEcDciDk/S5NXVnesBF/1571.ts
 
 #EXTINF:-1 tvg-id="beINSports1.tr" tvg-name="BEIN Sports 1 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/60olka1504234949.png/small" group-title="Turkey",BEIN Sports 1 HD
-http://arapido.com:2500/live/m8FEcDciDk/S5NXVnesBF/6671.ts
+http://arapido.com:2500/live/m8FEcDciDk/S5NXVnesBF/10641.ts
 
 #EXTINF:-1 tvg-id="beINSports2.tr" tvg-name="BEIN Sports 2 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/27h1lw1504234965.png/small" group-title="Turkey",BEIN Sports 2 HD
 http://arapido.com:2500/live/m8FEcDciDk/S5NXVnesBF/1105.ts
@@ -76,6 +88,12 @@ http://arapido.com:2500/live/m8FEcDciDk/S5NXVnesBF/6668.ts
 
 #EXTINF:-1 tvg-id="TivibuSpor.tr" tvg-name="tivibu SPOR 1 HD" tvg-logo="" group-title="Turkey",tivibu SPOR 1 HD
 http://arapido.com:2500/live/m8FEcDciDk/S5NXVnesBF/6680.ts
+
+#EXTINF:-1 tvg-id="TivibuSpor2.tr" tvg-name="tivibu SPOR 2 HD" tvg-logo="" group-title="Turkey",tivibu SPOR 2 HD
+http://arapido.com:2500/live/m8FEcDciDk/S5NXVnesBF/10633.ts
+
+#EXTINF:-1 tvg-id="TivibuSpor3.tr" tvg-name="tivibu SPOR 3 HD" tvg-logo="" group-title="Turkey",tivibu SPOR 3 HD
+http://arapido.com:2500/live/m8FEcDciDk/S5NXVnesBF/10633.ts
 
 #EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/trytur1433451903.png/small" group-title="United States",MSNBC HD
 http://epicstream.tv:7000/live/UBMP4QE27/THK8TZGPRR/1.ts
