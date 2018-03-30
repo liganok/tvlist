@@ -181,3 +181,9 @@ http://s1.electru.biz:8080/live/lenz_dimo@yahoo.de/65x6a8LlcI/31397.ts
 
 #EXTINF:-1 tvg-id="MLB1" tvg-name="MLB 16 HD" tvg-logo="" group-title="MLB",MLB 16 HD
 http://s1.electru.biz:8080/live/lenz_dimo@yahoo.de/65x6a8LlcI/31396.ts
+
+#EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="beIN Sports 1 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/60olka1504234949.png/small" group-title="beIN Sports",beIN Sports 1 HD
+http://bestbuyiptv.link:6969/live/lenz_dimo@yahoo.de/cojexsH5C7/30.ts
+
+#EXTINF:-1 tvg-id="beINSports2.qa" tvg-name="beIN Sports 2 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/27h1lw1504234965.png/small" group-title="beIN Sports",beIN Sports 2 HD
+http://bestbuyiptv.link:6969/live/lenz_dimo@yahoo.de/cojexsH5C7/31.ts
