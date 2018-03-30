@@ -106,3 +106,51 @@ http://arapido.com:2500/live/m8FEcDciDk/S5NXVnesBF/15155.ts
 
 #EXTINF:-1 tvg-id="beINLaLiga.es" tvg-name="BEIN Sports La Liga HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/6dhxi81505469184.png/small" group-title="Spain",BEIN Sports La Liga HD
 http://arapido.com:2500/live/m8FEcDciDk/S5NXVnesBF/14574.ts
+
+#EXTINF:-1 tvg-id="MLB1" tvg-name="MLB 1 HD" tvg-logo="" group-title="MLB",MLB 1 HD
+http://s1.electru.biz:8080/live/lenz_dimo@yahoo.de/65x6a8LlcI/31411.ts
+
+#EXTINF:-1 tvg-id="MLB1" tvg-name="MLB 2 HD" tvg-logo="" group-title="MLB",MLB 2 HD
+http://s1.electru.biz:8080/live/lenz_dimo@yahoo.de/65x6a8LlcI/31410.ts
+
+#EXTINF:-1 tvg-id="MLB1" tvg-name="MLB 3 HD" tvg-logo="" group-title="MLB",MLB 3 HD
+http://s1.electru.biz:8080/live/lenz_dimo@yahoo.de/65x6a8LlcI/31409.ts
+
+#EXTINF:-1 tvg-id="MLB1" tvg-name="MLB 4 HD" tvg-logo="" group-title="MLB",MLB 4 HD
+http://s1.electru.biz:8080/live/lenz_dimo@yahoo.de/65x6a8LlcI/31408.ts
+
+#EXTINF:-1 tvg-id="MLB1" tvg-name="MLB 5 HD" tvg-logo="" group-title="MLB",MLB 5 HD
+http://s1.electru.biz:8080/live/lenz_dimo@yahoo.de/65x6a8LlcI/31407.ts
+
+#EXTINF:-1 tvg-id="MLB1" tvg-name="MLB 6 HD" tvg-logo="" group-title="MLB",MLB 6 HD
+http://s1.electru.biz:8080/live/lenz_dimo@yahoo.de/65x6a8LlcI/31406.ts
+
+#EXTINF:-1 tvg-id="MLB1" tvg-name="MLB 7 HD" tvg-logo="" group-title="MLB",MLB 7 HD
+http://s1.electru.biz:8080/live/lenz_dimo@yahoo.de/65x6a8LlcI/31405.ts
+
+#EXTINF:-1 tvg-id="MLB1" tvg-name="MLB 8 HD" tvg-logo="" group-title="MLB",MLB 8 HD
+http://s1.electru.biz:8080/live/lenz_dimo@yahoo.de/65x6a8LlcI/31404.ts
+
+#EXTINF:-1 tvg-id="MLB1" tvg-name="MLB 9 HD" tvg-logo="" group-title="MLB",MLB 9 HD
+http://s1.electru.biz:8080/live/lenz_dimo@yahoo.de/65x6a8LlcI/31403.ts
+
+#EXTINF:-1 tvg-id="MLB1" tvg-name="MLB 10 HD" tvg-logo="" group-title="MLB",MLB 10 HD
+http://s1.electru.biz:8080/live/lenz_dimo@yahoo.de/65x6a8LlcI/31402.ts
+
+#EXTINF:-1 tvg-id="MLB1" tvg-name="MLB 11 HD" tvg-logo="" group-title="MLB",MLB 11 HD
+http://s1.electru.biz:8080/live/lenz_dimo@yahoo.de/65x6a8LlcI/31401.ts
+
+#EXTINF:-1 tvg-id="MLB1" tvg-name="MLB 12 HD" tvg-logo="" group-title="MLB",MLB 12 HD
+http://s1.electru.biz:8080/live/lenz_dimo@yahoo.de/65x6a8LlcI/31400.ts
+
+#EXTINF:-1 tvg-id="MLB1" tvg-name="MLB 13 HD" tvg-logo="" group-title="MLB",MLB 13 HD
+http://s1.electru.biz:8080/live/lenz_dimo@yahoo.de/65x6a8LlcI/31399.ts
+
+#EXTINF:-1 tvg-id="MLB1" tvg-name="MLB 14 HD" tvg-logo="" group-title="MLB",MLB 14 HD
+http://s1.electru.biz:8080/live/lenz_dimo@yahoo.de/65x6a8LlcI/31398.ts
+
+#EXTINF:-1 tvg-id="MLB1" tvg-name="MLB 15 HD" tvg-logo="" group-title="MLB",MLB 15 HD
+http://s1.electru.biz:8080/live/lenz_dimo@yahoo.de/65x6a8LlcI/31397.ts
+
+#EXTINF:-1 tvg-id="MLB1" tvg-name="MLB 16 HD" tvg-logo="" group-title="MLB",MLB 16 HD
+http://s1.electru.biz:8080/live/lenz_dimo@yahoo.de/65x6a8LlcI/31396.ts
