@@ -50,125 +50,65 @@ http://epicstream.tv:7000/live/UBMP4QE27/THK8TZGPRR/9445.ts
 #EXTINF:-1 tvg-id="" tvg-name="Celtic TV HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/juhldp1504257462.png/small" group-title="UK Sport",Celtic TV HD
 http://epicstream.tv:7000/live/UBMP4QE27/THK8TZGPRR/2232.ts
 
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/ryypqw1462991911.png/small" group-title="Turkey Backup",TRT 1 HD
-http://bestbuyiptv.link:6969/live/lenz_dimo@yahoo.de/cojexsH5C7/7218.ts
-
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/ryypqw1462991911.png/small" group-title="Turkey",TRT 1 HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/uUc47g0Z1n/369.ts
-
-#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/vqqxus1473153936.png/small" group-title="Turkey Backup",ATV HD
-http://bestbuyiptv.link:6969/live/lenz_dimo@yahoo.de/cojexsH5C7/7196.ts
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/369.ts
 
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/vqqxus1473153936.png/small" group-title="Turkey",ATV HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/uUc47g0Z1n/191.ts
-
-#EXTINF:-1 tvg-id="Fox.tr" tvg-name="FOX HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/um8d2j1509463340.png/small" group-title="Turkey Backup",FOX HD
-http://bestbuyiptv.link:6969/live/lenz_dimo@yahoo.de/cojexsH5C7/7200.ts
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/191.ts
 
 #EXTINF:-1 tvg-id="Fox.tr" tvg-name="FOX HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/um8d2j1509463340.png/small" group-title="Turkey",FOX HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/uUc47g0Z1n/179.ts
-
-#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="SHOW HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/vwysvt1433332550.png/small" group-title="Turkey Backup",SHOW HD
-http://bestbuyiptv.link:6969/live/lenz_dimo@yahoo.de/cojexsH5C7/7213.ts
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/179.ts
 
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="SHOW HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/vwysvt1433332550.png/small" group-title="Turkey",SHOW HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/uUc47g0Z1n/188.ts
-
-#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="STAR HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/txstww1433943055.png/small" group-title="Turkey Backup",STAR HD
-http://bestbuyiptv.link:6969/live/lenz_dimo@yahoo.de/cojexsH5C7/7214.ts
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/188.ts
 
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-name="STAR HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/txstww1433943055.png/small" group-title="Turkey",STAR HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/uUc47g0Z1n/186.ts
-
-#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="KANAL D HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/pe7kf51502590265.png/small" group-title="Turkey Backup",KANAL D HD
-http://bestbuyiptv.link:6969/live/lenz_dimo@yahoo.de/cojexsH5C7/7203.ts
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/186.ts
 
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="KANAL D HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/pe7kf51502590265.png/small" group-title="Turkey",KANAL D HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/uUc47g0Z1n/184.ts
-
-#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV 8 HD" tvg-logo="" group-title="Turkey Backup",TV 8 HD
-http://bestbuyiptv.link:6969/live/lenz_dimo@yahoo.de/cojexsH5C7/7211.ts
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/184.ts
 
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV 8 HD" tvg-logo="" group-title="Turkey",TV 8 HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/uUc47g0Z1n/182.ts
-
-#EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV HD" tvg-logo="https://static.iptv-epg.com/tr/NTV.tr.png" group-title="Turkey Backup",NTV HD
-http://bestbuyiptv.link:6969/live/lenz_dimo@yahoo.de/cojexsH5C7/7215.ts
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/182.ts
 
 #EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV HD" tvg-logo="https://static.iptv-epg.com/tr/NTV.tr.png" group-title="Turkey",NTV HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/uUc47g0Z1n/171.ts
-
-#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="CNN Türk HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/qwwwxs1433945482.png/small" group-title="Turkey Backup",CNN Türk HD
-http://bestbuyiptv.link:6969/live/lenz_dimo@yahoo.de/cojexsH5C7/7199.ts
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/171.ts
 
 #EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="CNN Türk HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/qwwwxs1433945482.png/small" group-title="Turkey",CNN Türk HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/uUc47g0Z1n/172.ts
-
-#EXTINF:-1 tvg-id="Haberturk.tr" tvg-name="HaberTürk HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/yuwwpr1433426670.png/small" group-title="Turkey Backup",HaberTürk HD
-http://bestbuyiptv.link:6969/live/lenz_dimo@yahoo.de/cojexsH5C7/7201.ts
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/172.ts
 
 #EXTINF:-1 tvg-id="Haberturk.tr" tvg-name="HaberTürk HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/yuwwpr1433426670.png/small" group-title="Turkey",HaberTürk HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/uUc47g0Z1n/168.ts
-
-#EXTINF:-1 tvg-id="beINGurme.tr" tvg-name="BEIN Gurme HD" tvg-logo="" group-title="Turkey Backup",BEIN Gurme HD
-http://bestbuyiptv.link:6969/live/lenz_dimo@yahoo.de/cojexsH5C7/4217.ts
-
-#EXTINF:-1 tvg-id="beINGurme.tr" tvg-name="BEIN Gurme HD" tvg-logo="" group-title="Turkey",BEIN Gurme HD
-http://bestbuyiptv.link:6969/live/lenz_dimo@yahoo.de/cojexsH5C7/4217.ts
-
-#EXTINF:-1 tvg-id="Powerturk.tr" tvg-name="POWERTÜRK HD" tvg-logo="" group-title="Turkey Backup",POWERTÜRK HD
-http://bestbuyiptv.link:6969/live/lenz_dimo@yahoo.de/cojexsH5C7/7206.ts
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/168.ts
 
 #EXTINF:-1 tvg-id="Powerturk.tr" tvg-name="POWERTÜRK HD" tvg-logo="" group-title="Turkey",POWERTÜRK HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/uUc47g0Z1n/162.ts
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/162.ts
 
 #EXTINF:-1 tvg-id="KralTV.tr" tvg-name="KRAL TV HD" tvg-logo="" group-title="Turkey",KRAL TV HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/uUc47g0Z1n/163.ts
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/163.ts
 
 #EXTINF:-1 tvg-id="KralPop.tr" tvg-name="KRAL POP HD" tvg-logo="" group-title="Turkey",KRAL POP HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/uUc47g0Z1n/164.ts
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/164.ts
 
 #EXTINF:-1 tvg-id="beINSportsHaber.tr" tvg-name="BEIN Sports Haber HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/60olka1504234949.png/small" group-title="Turkey",BEIN Sports Haber HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/uUc47g0Z1n/692.ts
-
-#EXTINF:-1 tvg-id="beINSports1.tr" tvg-name="BEIN Sports 1 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/60olka1504234949.png/small" group-title="Turkey Backup",BEIN Sports 1 HD
-http://bestbuyiptv.link:6969/live/lenz_dimo@yahoo.de/cojexsH5C7/16160.ts
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/692.ts
 
 #EXTINF:-1 tvg-id="beINSports1.tr" tvg-name="BEIN Sports 1 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/60olka1504234949.png/small" group-title="Turkey",BEIN Sports 1 HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/uUc47g0Z1n/2704.ts
-
-#EXTINF:-1 tvg-id="beINSports2.tr" tvg-name="BEIN Sports 2 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/27h1lw1504234965.png/small" group-title="Turkey Backup",BEIN Sports 2 HD
-http://bestbuyiptv.link:6969/live/lenz_dimo@yahoo.de/cojexsH5C7/16159.ts
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/2704.ts
 
 #EXTINF:-1 tvg-id="beINSports2.tr" tvg-name="BEIN Sports 2 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/27h1lw1504234965.png/small" group-title="Turkey",BEIN Sports 2 HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/uUc47g0Z1n/2703.ts
-
-#EXTINF:-1 tvg-id="beINSports3.tr" tvg-name="BEIN Sports 3 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/gmt9nj1504235003.png/small" group-title="Turkey Backup",BEIN Sports 3 HD
-http://bestbuyiptv.link:6969/live/lenz_dimo@yahoo.de/cojexsH5C7/16161.ts
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/2703.ts
 
 #EXTINF:-1 tvg-id="beINSports3.tr" tvg-name="BEIN Sports 3 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/gmt9nj1504235003.png/small" group-title="Turkey",BEIN Sports 3 HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/uUc47g0Z1n/2702.ts
-
-#EXTINF:-1 tvg-id="beINSports4.tr" tvg-name="BEIN Sports 4 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/akcwk91504235015.png/small" group-title="Turkey Backup",BEIN Sports 4 HD
-http://bestbuyiptv.link:6969/live/lenz_dimo@yahoo.de/cojexsH5C7/16162.ts
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/2702.ts
 
 #EXTINF:-1 tvg-id="beINSports4.tr" tvg-name="BEIN Sports 4 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/akcwk91504235015.png/small" group-title="Turkey",BEIN Sports 4 HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/uUc47g0Z1n/2701.ts
-
-#EXTINF:-1 tvg-id="TivibuSpor.tr" tvg-name="tivibu SPOR 1 HD" tvg-logo="" group-title="Turkey Backup",tivibu SPOR 1 HD
-http://bestbuyiptv.link:6969/live/lenz_dimo@yahoo.de/cojexsH5C7/4246.ts
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/2701.ts
 
 #EXTINF:-1 tvg-id="TivibuSpor.tr" tvg-name="tivibu SPOR 1 HD" tvg-logo="" group-title="Turkey",tivibu SPOR 1 HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/uUc47g0Z1n/2698.ts
-
-#EXTINF:-1 tvg-id="TivibuSpor2.tr" tvg-name="tivibu SPOR 2 HD" tvg-logo="" group-title="Turkey Backup",tivibu SPOR 2 HD
-http://bestbuyiptv.link:6969/live/lenz_dimo@yahoo.de/cojexsH5C7/4247.ts
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/2698.ts
 
 #EXTINF:-1 tvg-id="TivibuSpor2.tr" tvg-name="tivibu SPOR 2 HD" tvg-logo="" group-title="Turkey",tivibu SPOR 2 HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/uUc47g0Z1n/2697.ts
-
-#EXTINF:-1 tvg-id="TivibuSpor3.tr" tvg-name="tivibu SPOR 3 HD" tvg-logo="" group-title="Turkey Backup",tivibu SPOR 3 HD
-http://bestbuyiptv.link:6969/live/lenz_dimo@yahoo.de/cojexsH5C7/4248.ts
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/2697.ts
 
 #EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/trytur1433451903.png/small" group-title="United States",MSNBC HD
 http://epicstream.tv:7000/live/UBMP4QE27/THK8TZGPRR/1.ts
