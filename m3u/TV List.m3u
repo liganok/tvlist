@@ -53,6 +53,9 @@ http://epicstream.tv:7000/live/UBMP4QE27/THK8TZGPRR/2232.ts
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/ryypqw1462991911.png/small" group-title="Turkey",TRT 1 HD
 http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/369.ts
 
+#EXTINF:-1 tvg-id="TRT 4K.tr" tvg-name="TRT 4K" tvg-logo="https://www.thelogodb.com/images/media/logonew/ryypqw1462991911.png/small" group-title="Turkey",TRT 4K HD
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/3409.ts
+
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/vqqxus1473153936.png/small" group-title="Turkey",ATV HD
 http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/191.ts
 
