@@ -128,6 +128,30 @@ http://epicstream.tv:7000/live/BPXXTWCXC/FNWGCNQ8EU/1.ts
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/uyswus1433941237.png/small" group-title="United States",CNN HD
 http://epicstream.tv:7000/live/BPXXTWCXC/FNWGCNQ8EU/27.ts
 
+#EXTINF:-1 tvg-id="ABCBoston.us" tvg-name="ABC HD" tvg-logo="http://149.56.14.45/Logo/2018/ABC.png" group-title="US/CAN - Entertainment",ABC HD
+http://epicstream.tv:7000/live/BPXXTWCXC/FNWGCNQ8EU/114.ts
+
+#EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC HD" tvg-logo="http://149.56.14.45/Logo/english/NBC-en.png" group-title="US/CAN - Entertainment",NBC HD
+http://epicstream.tv:7000/live/BPXXTWCXC/FNWGCNQ8EU/133.ts
+
+#EXTINF:-1 tvg-id="NBCBoston.us" tvg-name="NBC HD (WBTS Boston)" tvg-logo="http://149.56.14.45/Logo/2018/NBC.png" group-title="US/CAN - Entertainment",NBC HD (WBTS Boston)
+http://epicstream.tv:7000/live/BPXXTWCXC/FNWGCNQ8EU/10459.ts
+
+#EXTINF:-1 tvg-id="CBSBoston.us" tvg-name="CBS HD ( WBZ-TV Boston)" tvg-logo="http://149.56.14.45/Logo/2018/CBS_.png" group-title="US/CAN - Entertainment",CBS HD ( WBZ-TV Boston)
+http://epicstream.tv:7000/live/BPXXTWCXC/FNWGCNQ8EU/146.ts
+
+#EXTINF:-1 tvg-id="CBSBoston.us" tvg-name="CBS HD" tvg-logo="http://149.56.14.45/Logo/2018/CBS.png" group-title="US/CAN - Entertainment",CBS HD
+http://epicstream.tv:7000/live/BPXXTWCXC/FNWGCNQ8EU/8801.ts
+
+#EXTINF:-1 tvg-id="FOX.us" tvg-name="FOX HD" tvg-logo="http://149.56.14.45/Logo/2018/xquwxv1436847349.png" group-title="US/CAN - Entertainment",FOX HD
+http://epicstream.tv:7000/live/BPXXTWCXC/FNWGCNQ8EU/12223.ts
+
+#EXTINF:-1 tvg-id="FOX25Boston.us" tvg-name="FOX HD [Boston]" tvg-logo="http://149.56.14.45/Logo/2018/xquwxv1436847349.png" group-title="US/CAN - Entertainment",FOX HD [Boston]
+http://epicstream.tv:7000/live/BPXXTWCXC/FNWGCNQ8EU/21.ts
+
+#EXTINF:-1 tvg-id="FOX.us" tvg-name="FOX 43 HD" tvg-logo="http://149.56.14.45/Logo/english/fox_hd_lam-en.png" group-title="US/CAN - Entertainment",FOX 43 HD
+http://epicstream.tv:7000/live/BPXXTWCXC/FNWGCNQ8EU/86.ts
+
 #EXTINF:-1 tvg-id="Eurosport2Xtra.de" tvg-name="Eurosport 2 HD Xtra" tvg-logo="https://www.thelogodb.com/images/media/logonew/xvuxxt1474667338.png/small" group-title="Germany",Eurosport 2 HD Xtra
 http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/142.ts
 
