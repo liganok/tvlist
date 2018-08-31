@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC 1 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/yyqrvu1433940918.png/small" group-title="United Kingdom",BBC 1 HD
-http://epicstream.tv:7000/live/BPXXTWCXC/FNWGCNQ8EU/15565.ts
+http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/15565.ts
 
 #EXTINF:-1 tvg-id="BBC2.uk" tvg-name="BBC 2 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/yvrqur1433940947.png/small" group-title="United Kingdom",BBC 2 HD
 http://epicstream.tv:7000/live/BPXXTWCXC/FNWGCNQ8EU/15566.ts
