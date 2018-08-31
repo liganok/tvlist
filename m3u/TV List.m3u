@@ -230,20 +230,46 @@ http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/13653.ts
 #EXTINF:-1 tvg-id="MLB1" tvg-name="MLB 16 HD" tvg-logo="" group-title="MLB",MLB 16 HD
 http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/13654.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="NFL GAMEDAY" tvg-logo="" group-title="NFL",NFL GAMEDAY
-http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/6745.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="NFL REDZONE" tvg-logo="http://149.56.14.45/Logo/2018/swppwq1434505673.png" group-title="NFL",NFL REDZONE
-http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/4401.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="NFL 1 -16: Until Next Season" tvg-logo="" group-title="NFL",NFL 1 -16: Until Next Season
-http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/9495.ts
-
-#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL NETWORK HD" tvg-logo="http://149.56.14.45/Logo/2018/yptxsp1478034120.png" group-title="NFL",NFL NETWORK HD
-http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/62.ts
-
-#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="USA : NFL NOW HD" tvg-logo="http://167.114.64.174/Logo/nfl/NFL-Now-1.png" group-title="NFL",USA : NFL NOW HD
-http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/61.ts
+#EXTINF:-1 tvg-id="" tvg-name="-= NFL GAMEDAY =-" tvg-logo="" group-title="Sports Pass",-= NFL GAMEDAY =-
+http://epicstream.ddns.net:80/live/BPXXTWCXC/FNWGCNQ8EU/6745.ts
+#EXTINF:-1 tvg-id="" tvg-name="NFL REDZONE" tvg-logo="http://149.56.14.45/Logo/2018/swppwq1434505673.png" group-title="Sports Pass",NFL REDZONE
+http://epicstream.ddns.net:80/live/BPXXTWCXC/FNWGCNQ8EU/4401.ts
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL NETWORK HD" tvg-logo="http://149.56.14.45/Logo/2018/yptxsp1478034120.png" group-title="Sports",NFL NETWORK HD
+http://epicstream.ddns.net:80/live/BPXXTWCXC/FNWGCNQ8EU/62.ts
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="USA : NFL NOW HD" tvg-logo="http://167.114.64.174/Logo/nfl/NFL-Now-1.png" group-title="Sports",USA : NFL NOW HD
+http://epicstream.ddns.net:80/live/BPXXTWCXC/FNWGCNQ8EU/61.ts
+#EXTINF:-1 tvg-id="" tvg-name="NFL 1 : Patriots @ Eagles" tvg-logo="" group-title="Sports Pass",NFL 1 : Patriots @ Eagles
+http://epicstream.ddns.net:80/live/BPXXTWCXC/FNWGCNQ8EU/15851.ts
+#EXTINF:-1 tvg-id="" tvg-name="NFL 2 :" tvg-logo="" group-title="Sports Pass",NFL 2 :
+http://epicstream.ddns.net:80/live/BPXXTWCXC/FNWGCNQ8EU/15859.ts
+#EXTINF:-1 tvg-id="" tvg-name="NFL 3 :" tvg-logo="" group-title="Sports Pass",NFL 3 :
+http://epicstream.ddns.net:80/live/BPXXTWCXC/FNWGCNQ8EU/15860.ts
+#EXTINF:-1 tvg-id="" tvg-name="NFL 4 :" tvg-logo="" group-title="Sports Pass",NFL 4 :
+http://epicstream.ddns.net:80/live/BPXXTWCXC/FNWGCNQ8EU/15861.ts
+#EXTINF:-1 tvg-id="" tvg-name="NFL 5 :" tvg-logo="" group-title="Sports Pass",NFL 5 :
+http://epicstream.ddns.net:80/live/BPXXTWCXC/FNWGCNQ8EU/15862.ts
+#EXTINF:-1 tvg-id="" tvg-name="NFL 6 :" tvg-logo="" group-title="Sports Pass",NFL 6 :
+http://epicstream.ddns.net:80/live/BPXXTWCXC/FNWGCNQ8EU/15863.ts
+#EXTINF:-1 tvg-id="" tvg-name="NFL 7 :" tvg-logo="" group-title="Sports Pass",NFL 7 :
+http://epicstream.ddns.net:80/live/BPXXTWCXC/FNWGCNQ8EU/15864.ts
+#EXTINF:-1 tvg-id="" tvg-name="NFL 8 :" tvg-logo="" group-title="Sports Pass",NFL 8 :
+http://epicstream.ddns.net:80/live/BPXXTWCXC/FNWGCNQ8EU/15865.ts
+#EXTINF:-1 tvg-id="" tvg-name="NFL 9 :" tvg-logo="" group-title="Sports Pass",NFL 9 :
+http://epicstream.ddns.net:80/live/BPXXTWCXC/FNWGCNQ8EU/15866.ts
+#EXTINF:-1 tvg-id="" tvg-name="NFL 10 :" tvg-logo="" group-title="Sports Pass",NFL 10 :
+http://epicstream.ddns.net:80/live/BPXXTWCXC/FNWGCNQ8EU/15852.ts
+#EXTINF:-1 tvg-id="" tvg-name="NFL 11 :" tvg-logo="" group-title="Sports Pass",NFL 11 :
+http://epicstream.ddns.net:80/live/BPXXTWCXC/FNWGCNQ8EU/15853.ts
+#EXTINF:-1 tvg-id="" tvg-name="NFL 12 :" tvg-logo="" group-title="Sports Pass",NFL 12 :
+http://epicstream.ddns.net:80/live/BPXXTWCXC/FNWGCNQ8EU/15854.ts
+#EXTINF:-1 tvg-id="" tvg-name="NFL 13 :" tvg-logo="" group-title="Sports Pass",NFL 13 :
+http://epicstream.ddns.net:80/live/BPXXTWCXC/FNWGCNQ8EU/15855.ts
+#EXTINF:-1 tvg-id="" tvg-name="NFL 14 :" tvg-logo="" group-title="Sports Pass",NFL 14 :
+http://epicstream.ddns.net:80/live/BPXXTWCXC/FNWGCNQ8EU/15856.ts
+#EXTINF:-1 tvg-id="" tvg-name="NFL 15 :" tvg-logo="" group-title="Sports Pass",NFL 15 :
+http://epicstream.ddns.net:80/live/BPXXTWCXC/FNWGCNQ8EU/15857.ts
+#EXTINF:-1 tvg-id="" tvg-name="NFL 16 :" tvg-logo="" group-title="Sports Pass",NFL 16 :
+http://epicstream.ddns.net:80/live/BPXXTWCXC/FNWGCNQ8EU/15858.ts
 
 #EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="beIN Sports 1 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/60olka1504234949.png/small" group-title="beIN Sports",beIN Sports 1 HD
 http://bestbuyiptv.link:6969/live/lenz_dimo@yahoo.de/cojexsH5C7/30.ts
