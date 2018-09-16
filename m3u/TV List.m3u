@@ -47,13 +47,13 @@ http://vapi.vaders.tv/play/2488.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwY
 #EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="BT Sport 3 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/j1babk1512993780.png/small" group-title="UK Sport",BT Sport 3 HD
 http://vapi.vaders.tv/play/2489.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6ImF0YXNlaGlyMzQifQ==
 
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/ryypqw1462991911.png/small" group-title="Turkey",TRT 1 HD
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-logo="https://www.thelogodb.com/images/media/logonew/ryypqw1462991911.png/small" group-title="Turkey",TRT 1 HD
 http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/369.ts
 
-#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/vqqxus1473153936.png/small" group-title="Turkey",ATV HD
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://www.thelogodb.com/images/media/logonew/vqqxus1473153936.png/small" group-title="Turkey",ATV HD
 http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/191.ts
 
-#EXTINF:-1 tvg-id="Fox.tr" tvg-name="FOX HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/um8d2j1509463340.png/small" group-title="Turkey",FOX HD
+#EXTINF:-1 tvg-id="Fox.tr" tvg-name="Fox" tvg-logo="https://www.thelogodb.com/images/media/logonew/um8d2j1509463340.png/small" group-title="Turkey",FOX HD
 http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/179.ts
 
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="SHOW HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/vwysvt1433332550.png/small" group-title="Turkey",SHOW HD
