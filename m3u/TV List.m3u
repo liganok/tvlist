@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC 1 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/yyqrvu1433940918.png/small" group-title="United Kingdom",BBC 1 HD
+#EXTINF:-1 tvg-id="BBCOneHD.uk" tvg-name="BBC 1 HD" group-title="United Kingdom",BBC 1 HD
 http://vapi.vaders.tv/play/2464.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6ImF0YXNlaGlyMzQifQ==
 
-#EXTINF:-1 tvg-id="BBC2.uk" tvg-name="BBC 2 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/yvrqur1433940947.png/small" group-title="United Kingdom",BBC 2 HD
+#EXTINF:-1 tvg-id="BBC2.uk" tvg-name="BBC Two" group-title="United Kingdom",BBC 2 HD
 http://vapi.vaders.tv/play/2467.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6ImF0YXNlaGlyMzQifQ==
 
-#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/wmomfs1515624181.png/small" group-title="United Kingdom",BBC News HD
+#EXTINF:-1 tvg-id="BBCNews.nws" tvg-name="BBC News" group-title="United Kingdom",BBC News HD
 http://vapi.vaders.tv/play/38777.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6ImF0YXNlaGlyMzQifQ==
 
-#EXTINF:-1 tvg-id="ITV1Anglia.uk" tvg-name="ITV 1 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/wuwxss1433965997.png/small" group-title="United Kingdom",ITV 1 HD
+#EXTINF:-1 tvg-id="ITV1London.uk" tvg-name="ITV1 London" group-title="United Kingdom",ITV 1 HD
 http://vapi.vaders.tv/play/2470.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6ImF0YXNlaGlyMzQifQ==
 
-#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV 2 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/xpryxw1442161772.png/small" group-title="United Kingdom",ITV 2 HD
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV 2" group-title="United Kingdom",ITV 2 HD
 http://vapi.vaders.tv/play/2471.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6ImF0YXNlaGlyMzQifQ==
 
 #EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="Sky Sports News HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/sxwwxv1433780905.png/small" group-title="UK Sport",Sky Sports News HD
