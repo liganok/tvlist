@@ -218,46 +218,37 @@ http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/13653.ts
 #EXTINF:-1 tvg-id="MLB1" tvg-name="MLB 16 HD" tvg-logo="" group-title="MLB",MLB 16 HD
 http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/13654.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="-= NFL GAMEDAY =-" tvg-logo="" group-title="Sports Pass",-= NFL GAMEDAY =-
-http://epicstream.ddns.net:80/live/BPXXTWCXC/FNWGCNQ8EU/6745.ts
-#EXTINF:-1 tvg-id="" tvg-name="-= NFL GAMEDAY =-" tvg-logo="" group-title="Sports Pass",-= NFL GAMEDAY =-
-http://epicstream.ddns.net:80/live/BPXXTWCXC/FNWGCNQ8EU/6745.ts
-#EXTINF:-1 tvg-id="" tvg-name="REDZONE HD" tvg-logo="" group-title="Sports Pass",REDZONE HD
-http://epicstream.ddns.net:80/live/BPXXTWCXC/FNWGCNQ8EU/15914.ts
-#EXTINF:-1 tvg-id="" tvg-name="NFL REDZONE" tvg-logo="http://149.56.14.45/Logo/2018/swppwq1434505673.png" group-title="Sports Pass",NFL REDZONE
-http://epicstream.ddns.net:80/live/BPXXTWCXC/FNWGCNQ8EU/4401.ts
-#EXTINF:-1 tvg-id="" tvg-name="NFL 1 : Colts @ Bengals" tvg-logo="" group-title="Sports Pass",NFL 1 : Colts @ Bengals
-http://epicstream.ddns.net:80/live/BPXXTWCXC/FNWGCNQ8EU/15983.ts
-#EXTINF:-1 tvg-id="" tvg-name="NFL 2 : Ravens @ Bills" tvg-logo="" group-title="Sports Pass",NFL 2 : Ravens @ Bills
-http://epicstream.ddns.net:80/live/BPXXTWCXC/FNWGCNQ8EU/15975.ts
-#EXTINF:-1 tvg-id="" tvg-name="NFL 3 : Saints @ Buccaneers" tvg-logo="" group-title="Sports Pass",NFL 3 : Saints @ Buccaneers
-http://epicstream.ddns.net:80/live/BPXXTWCXC/FNWGCNQ8EU/15974.ts
-#EXTINF:-1 tvg-id="" tvg-name="NFL 4 : Patriots @ Texans" tvg-logo="" group-title="Sports Pass",NFL 4 : Patriots @ Texans
-http://epicstream.ddns.net:80/live/BPXXTWCXC/FNWGCNQ8EU/15973.ts
-#EXTINF:-1 tvg-id="" tvg-name="NFL 5 : Vikings @ 49ers" tvg-logo="" group-title="Sports Pass",NFL 5 : Vikings @ 49ers
-http://epicstream.ddns.net:80/live/BPXXTWCXC/FNWGCNQ8EU/15972.ts
-#EXTINF:-1 tvg-id="" tvg-name="NFL 6 : Dolphins @ Titans" tvg-logo="" group-title="Sports Pass",NFL 6 : Dolphins @ Titans
-http://epicstream.ddns.net:80/live/BPXXTWCXC/FNWGCNQ8EU/15971.ts
-#EXTINF:-1 tvg-id="" tvg-name="NFL 7 : Giants @ Jaguars" tvg-logo="" group-title="Sports Pass",NFL 7 : Giants @ Jaguars
-http://epicstream.ddns.net:80/live/BPXXTWCXC/FNWGCNQ8EU/15970.ts
-#EXTINF:-1 tvg-id="" tvg-name="NFL 8 : Browns @ Steelers" tvg-logo="" group-title="Sports Pass",NFL 8 : Browns @ Steelers
-http://epicstream.ddns.net:80/live/BPXXTWCXC/FNWGCNQ8EU/15969.ts
-#EXTINF:-1 tvg-id="" tvg-name="NFL 9 : Chargers @ Chiefs" tvg-logo="" group-title="Sports Pass",NFL 9 : Chargers @ Chiefs
-http://epicstream.ddns.net:80/live/BPXXTWCXC/FNWGCNQ8EU/15968.ts
-#EXTINF:-1 tvg-id="" tvg-name="NFL 10 : Panthers @ Cowboys" tvg-logo="" group-title="Sports Pass",NFL 10 : Panthers @ Cowboys
-http://epicstream.ddns.net:80/live/BPXXTWCXC/FNWGCNQ8EU/15982.ts
-#EXTINF:-1 tvg-id="" tvg-name="NFL 11 : Cardinals @ Redskins" tvg-logo="" group-title="Sports Pass",NFL 11 : Cardinals @ Redskins
-http://epicstream.ddns.net:80/live/BPXXTWCXC/FNWGCNQ8EU/15981.ts
-#EXTINF:-1 tvg-id="" tvg-name="NFL 12 : Broncos @ Seahawks" tvg-logo="" group-title="Sports Pass",NFL 12 : Broncos @ Seahawks
-http://epicstream.ddns.net:80/live/BPXXTWCXC/FNWGCNQ8EU/15980.ts
-#EXTINF:-1 tvg-id="" tvg-name="NFL 13 : Packers @ Bears" tvg-logo="" group-title="Sports Pass",NFL 13 : Packers @ Bears
-http://epicstream.ddns.net:80/live/BPXXTWCXC/FNWGCNQ8EU/15979.ts
-#EXTINF:-1 tvg-id="" tvg-name="NFL 14 :" tvg-logo="" group-title="Sports Pass",NFL 14 :
-http://epicstream.ddns.net:80/live/BPXXTWCXC/FNWGCNQ8EU/15978.ts
-#EXTINF:-1 tvg-id="" tvg-name="NFL 15 :" tvg-logo="" group-title="Sports Pass",NFL 15 :
-http://epicstream.ddns.net:80/live/BPXXTWCXC/FNWGCNQ8EU/15977.ts
-#EXTINF:-1 tvg-id="" tvg-name="NFL 16 :" tvg-logo="" group-title="Sports Pass",NFL 16 :
-http://epicstream.ddns.net:80/live/BPXXTWCXC/FNWGCNQ8EU/15976.ts
+#EXTINF:0 tvg-id="ext" group-title="MatchCenter",NFL #1
+http://vapi.vaders.tv/play/56655.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6ImF0YXNlaGlyMzQifQ==
+#EXTINF:0 tvg-id="ext" group-title="MatchCenter",NFL #2
+http://vapi.vaders.tv/play/56656.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6ImF0YXNlaGlyMzQifQ==
+#EXTINF:0 tvg-id="ext" group-title="MatchCenter",NFL #3
+http://vapi.vaders.tv/play/56657.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6ImF0YXNlaGlyMzQifQ==
+#EXTINF:0 tvg-id="ext" group-title="MatchCenter",NFL #4
+http://vapi.vaders.tv/play/56658.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6ImF0YXNlaGlyMzQifQ==
+#EXTINF:0 tvg-id="ext" group-title="MatchCenter",NFL #5
+http://vapi.vaders.tv/play/56659.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6ImF0YXNlaGlyMzQifQ==
+#EXTINF:0 tvg-id="ext" group-title="MatchCenter",NFL #6
+http://vapi.vaders.tv/play/56660.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6ImF0YXNlaGlyMzQifQ==
+#EXTINF:0 tvg-id="ext" group-title="MatchCenter",NFL #7
+http://vapi.vaders.tv/play/56661.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6ImF0YXNlaGlyMzQifQ==
+#EXTINF:0 tvg-id="ext" group-title="MatchCenter",NFL #8
+http://vapi.vaders.tv/play/56662.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6ImF0YXNlaGlyMzQifQ==
+#EXTINF:0 tvg-id="ext" group-title="MatchCenter",NFL #9
+http://vapi.vaders.tv/play/56663.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6ImF0YXNlaGlyMzQifQ==
+#EXTINF:0 tvg-id="ext" group-title="MatchCenter",NFL #10
+http://vapi.vaders.tv/play/56664.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6ImF0YXNlaGlyMzQifQ==
+#EXTINF:0 tvg-id="ext" group-title="MatchCenter",NFL #11
+http://vapi.vaders.tv/play/56665.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6ImF0YXNlaGlyMzQifQ==
+#EXTINF:0 tvg-id="ext" group-title="MatchCenter",NFL #12
+http://vapi.vaders.tv/play/56666.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6ImF0YXNlaGlyMzQifQ==
+#EXTINF:0 tvg-id="ext" group-title="MatchCenter",NFL #13
+http://vapi.vaders.tv/play/56667.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6ImF0YXNlaGlyMzQifQ==
+#EXTINF:0 tvg-id="ext" group-title="MatchCenter",NFL #14
+http://vapi.vaders.tv/play/56668.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6ImF0YXNlaGlyMzQifQ==
+#EXTINF:0 tvg-id="ext" group-title="MatchCenter",NFL #15
+http://vapi.vaders.tv/play/56669.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6ImF0YXNlaGlyMzQifQ==
+#EXTINF:0 tvg-id="ext" group-title="MatchCenter",NFL #16
 
 #EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="beIN Sports 1 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/60olka1504234949.png/small" group-title="beIN Sports",beIN Sports 1 HD
 http://bestbuyiptv.link:6969/live/lenz_dimo@yahoo.de/cojexsH5C7/30.ts
