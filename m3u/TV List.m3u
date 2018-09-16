@@ -122,29 +122,17 @@ http://vapi.vaders.tv/play/3082.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwY
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/uyswus1433941237.png/small" group-title="United States",CNN HD
 http://vapi.vaders.tv/play/2442.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6ImF0YXNlaGlyMzQifQ==
 
-#EXTINF:-1 tvg-id="NBC4KNBC.us" tvg-name="NBC LA HD" tvg-logo="https://static.iptv-epg.com/us/NBC4KNBC.us.png" group-title="United States",NBC LA HD
+#EXTINF:-1 tvg-id="NBC4KNBC.us" tvg-name="NBC 4 LA HD" tvg-logo="" group-title="United States",NBC 4 LA HD
 http://vapi.vaders.tv/play/52242.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6ImF0YXNlaGlyMzQifQ==
 
-#EXTINF:-1 tvg-id="ABCBoston.us" tvg-name="ABC HD" tvg-logo="http://149.56.14.45/Logo/2018/ABC.png" group-title="US/CAN - Entertainment",ABC HD
-http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/114.ts
+#EXTINF:-1 tvg-id="ABC7KABCTV.us" tvg-name="ABC 7 LA HD" tvg-logo="" group-title="United States",ABC 7 LA HD
+http://vapi.vaders.tv/play/52216.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6ImF0YXNlaGlyMzQifQ==
 
-#EXTINF:-1 tvg-id="NBC4KNBC.us" tvg-name="NBC LA HD" tvg-logo="" group-title="US/CAN - Entertainment",NBC HD (WBTS Boston)
-http://vapi.vaders.tv/play/52242.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6ImF0YXNlaGlyMzQifQ==
+#EXTINF:-1 tvg-id="CBSKCBS.us" tvg-name="CBS 2 LA HD" tvg-logo="" group-title="United States",CBS 2 LA HD
+http://vapi.vaders.tv/play/52235.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6ImF0YXNlaGlyMzQifQ==
 
-#EXTINF:-1 tvg-id="CBSBoston.us" tvg-name="CBS HD ( WBZ-TV Boston)" tvg-logo="http://149.56.14.45/Logo/2018/CBS_.png" group-title="US/CAN - Entertainment",CBS HD ( WBZ-TV Boston)
-http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/146.ts
-
-#EXTINF:-1 tvg-id="CBSBoston.us" tvg-name="CBS HD" tvg-logo="http://149.56.14.45/Logo/2018/CBS.png" group-title="US/CAN - Entertainment",CBS HD
-http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/8801.ts
-
-#EXTINF:-1 tvg-id="FOX.us" tvg-name="FOX HD" tvg-logo="http://149.56.14.45/Logo/2018/xquwxv1436847349.png" group-title="US/CAN - Entertainment",FOX HD
-http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/12223.ts
-
-#EXTINF:-1 tvg-id="FOX25Boston.us" tvg-name="FOX HD [Boston]" tvg-logo="http://149.56.14.45/Logo/2018/xquwxv1436847349.png" group-title="US/CAN - Entertainment",FOX HD [Boston]
-http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/21.ts
-
-#EXTINF:-1 tvg-id="FOX.us" tvg-name="FOX 43 HD" tvg-logo="http://149.56.14.45/Logo/english/fox_hd_lam-en.png" group-title="US/CAN - Entertainment",FOX 43 HD
-http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/86.ts
+#EXTINF:-1 tvg-id="Fox11KTTV.us" tvg-name="FOX 11 LA HD" tvg-logo="" group-title="United States",FOX 11 LA HD
+http://vapi.vaders.tv/play/52224.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6ImF0YXNlaGlyMzQifQ==
 
 #EXTINF:-1 tvg-id="Eurosport2Xtra.de" tvg-name="Eurosport 2 HD Xtra" tvg-logo="https://www.thelogodb.com/images/media/logonew/xvuxxt1474667338.png/small" group-title="Germany",Eurosport 2 HD Xtra
 http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/142.ts
