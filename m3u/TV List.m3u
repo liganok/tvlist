@@ -48,73 +48,70 @@ http://vapi.vaders.tv/play/2488.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwY
 http://vapi.vaders.tv/play/2489.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6ImF0YXNlaGlyMzQifQ==
 
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/ryypqw1462991911.png/small" group-title="Turkey",TRT 1 HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/369.ts
-
-#EXTINF:-1 tvg-id="TRT 4K.tr" tvg-name="TRT 4K" tvg-logo="https://www.thelogodb.com/images/media/logonew/ryypqw1462991911.png/small" group-title="Turkey",TRT 4K HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/3409.ts
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/369.ts
 
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/vqqxus1473153936.png/small" group-title="Turkey",ATV HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/191.ts
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/191.ts
 
 #EXTINF:-1 tvg-id="Fox.tr" tvg-name="FOX HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/um8d2j1509463340.png/small" group-title="Turkey",FOX HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/179.ts
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/179.ts
 
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="SHOW HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/vwysvt1433332550.png/small" group-title="Turkey",SHOW HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/188.ts
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/188.ts
 
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-name="STAR HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/txstww1433943055.png/small" group-title="Turkey",STAR HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/186.ts
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/186.ts
 
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="KANAL D HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/pe7kf51502590265.png/small" group-title="Turkey",KANAL D HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/184.ts
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/184.ts
 
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV 8 HD" tvg-logo="" group-title="Turkey",TV 8 HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/182.ts
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/182.ts
 
 #EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV HD" tvg-logo="https://static.iptv-epg.com/tr/NTV.tr.png" group-title="Turkey",NTV HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/171.ts
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/171.ts
 
 #EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="CNN Türk HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/qwwwxs1433945482.png/small" group-title="Turkey",CNN Türk HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/172.ts
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/172.ts
 
 #EXTINF:-1 tvg-id="Haberturk.tr" tvg-name="HaberTürk HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/yuwwpr1433426670.png/small" group-title="Turkey",HaberTürk HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/168.ts
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/168.ts
 
 #EXTINF:-1 tvg-id="Powerturk.tr" tvg-name="POWERTÜRK HD" tvg-logo="" group-title="Turkey",POWERTÜRK HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/162.ts
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/162.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="TRT MUZIK" tvg-logo="" group-title="Turkey",TRT MUZIK
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/3396.ts
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/3396.ts
 
 #EXTINF:-1 tvg-id="KralTV.tr" tvg-name="KRAL TV HD" tvg-logo="" group-title="Turkey",KRAL TV HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/163.ts
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/163.ts
 
 #EXTINF:-1 tvg-id="KralPop.tr" tvg-name="KRAL POP HD" tvg-logo="" group-title="Turkey",KRAL POP HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/164.ts
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/164.ts
 
 #EXTINF:-1 tvg-id="beINSportsHaber.tr" tvg-name="BEIN Sports Haber HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/60olka1504234949.png/small" group-title="Turkey",BEIN Sports Haber HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/692.ts
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/692.ts
 
 #EXTINF:-1 tvg-id="beINSports1.tr" tvg-name="BEIN Sports 1 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/60olka1504234949.png/small" group-title="Turkey",BEIN Sports 1 HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/2704.ts
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/2704.ts
 
 #EXTINF:-1 tvg-id="beINSports2.tr" tvg-name="BEIN Sports 2 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/27h1lw1504234965.png/small" group-title="Turkey",BEIN Sports 2 HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/2703.ts
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/2703.ts
 
 #EXTINF:-1 tvg-id="beINSports3.tr" tvg-name="BEIN Sports 3 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/gmt9nj1504235003.png/small" group-title="Turkey",BEIN Sports 3 HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/2702.ts
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/2702.ts
 
 #EXTINF:-1 tvg-id="beINSports4.tr" tvg-name="BEIN Sports 4 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/akcwk91504235015.png/small" group-title="Turkey",BEIN Sports 4 HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/2701.ts
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/2701.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="SMARTSPOR HD" tvg-logo="" group-title="Turkey",SMARTSPOR HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/680.ts
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/680.ts
 
 #EXTINF:-1 tvg-id="TivibuSpor.tr" tvg-name="tivibu SPOR 1 HD" tvg-logo="" group-title="Turkey",tivibu SPOR 1 HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/2698.ts
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/2698.ts
 
 #EXTINF:-1 tvg-id="TivibuSpor2.tr" tvg-name="tivibu SPOR 2 HD" tvg-logo="" group-title="Turkey",tivibu SPOR 2 HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/2697.ts
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/2697.ts
 
 #EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/trytur1433451903.png/small" group-title="United States",MSNBC HD
 http://vapi.vaders.tv/play/3082.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6ImF0YXNlaGlyMzQifQ==
