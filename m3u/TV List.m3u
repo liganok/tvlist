@@ -1,51 +1,51 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="BBCOneHD.uk" tvg-name="BBC 1 HD" group-title="United Kingdom",BBC 1 HD
-http://vapi.vaders.tv/play/2464.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6ImF0YXNlaGlyMzQifQ==
+http://vapi.vaders.tv/play/2464.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6Im1iaGRnM2l2NW0ifQ==
 
 #EXTINF:-1 tvg-id="BBC2.uk" tvg-name="BBC Two" group-title="United Kingdom",BBC 2 HD
-http://vapi.vaders.tv/play/2467.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6ImF0YXNlaGlyMzQifQ==
+http://vapi.vaders.tv/play/2467.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6Im1iaGRnM2l2NW0ifQ==
 
 #EXTINF:-1 tvg-id="BBCNews.nws" tvg-name="BBC News" group-title="United Kingdom",BBC News HD
-http://vapi.vaders.tv/play/38777.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6ImF0YXNlaGlyMzQifQ==
+http://vapi.vaders.tv/play/38777.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6Im1iaGRnM2l2NW0ifQ==
 
 #EXTINF:-1 tvg-id="ITV1London.uk" tvg-name="ITV1 London" group-title="United Kingdom",ITV 1 HD
-http://vapi.vaders.tv/play/2470.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6ImF0YXNlaGlyMzQifQ==
+http://vapi.vaders.tv/play/2470.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6Im1iaGRnM2l2NW0ifQ==
 
 #EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV 2" group-title="United Kingdom",ITV 2 HD
-http://vapi.vaders.tv/play/2471.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6ImF0YXNlaGlyMzQifQ==
+http://vapi.vaders.tv/play/2471.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6Im1iaGRnM2l2NW0ifQ==
 
 #EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="Sky Sports News HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/sxwwxv1433780905.png/small" group-title="UK Sport",Sky Sports News HD
-http://vapi.vaders.tv/play/2570.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6ImF0YXNlaGlyMzQifQ==
+http://vapi.vaders.tv/play/2570.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6Im1iaGRnM2l2NW0ifQ==
 
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/mp44981502554837.png/small" group-title="UK Sport",Sky Sports Main Event HD
-http://vapi.vaders.tv/play/2889.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6ImF0YXNlaGlyMzQifQ==
+http://vapi.vaders.tv/play/2889.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6Im1iaGRnM2l2NW0ifQ==
 
 #EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/lnd1p01502554851.png/small" group-title="UK Sport",Sky Sports Football HD
-http://vapi.vaders.tv/play/42360.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6ImF0YXNlaGlyMzQifQ==
+http://vapi.vaders.tv/play/42360.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6Im1iaGRnM2l2NW0ifQ==
 
 #EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="Sky Sports Premier League HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/7e2lv21502554825.png/small" group-title="UK Sport",Sky Sports Premier League HD
-http://vapi.vaders.tv/play/2482.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6ImF0YXNlaGlyMzQifQ==
+http://vapi.vaders.tv/play/2482.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6Im1iaGRnM2l2NW0ifQ==
 
 #EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="Sky Sports Action HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/kf0oba1502554875.png/small" group-title="UK Sport",Sky Sports Action HD
-http://vapi.vaders.tv/play/2480.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6ImF0YXNlaGlyMzQifQ==
+http://vapi.vaders.tv/play/2480.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6Im1iaGRnM2l2NW0ifQ==
 
 #EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="Sky Sports Arena HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/kdr04z1502554338.png/small" group-title="UK Sport",Sky Sports Arena HD
-http://vapi.vaders.tv/play/42361.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6ImF0YXNlaGlyMzQifQ==
+http://vapi.vaders.tv/play/42361.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6Im1iaGRnM2l2NW0ifQ==
 
 #EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="Sky Sports Cricket HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/47d7os1502554865.png/small" group-title="UK Sport",Sky Sports Cricket HD
-http://vapi.vaders.tv/play/2479.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6ImF0YXNlaGlyMzQifQ==
+http://vapi.vaders.tv/play/2479.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6Im1iaGRnM2l2NW0ifQ==
 
 #EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="Sky Sports Mix HD" tvg-logo="" group-title="UK Sport",Sky Sports Mix HD
-http://vapi.vaders.tv/play/37235.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6ImF0YXNlaGlyMzQifQ==
+http://vapi.vaders.tv/play/37235.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6Im1iaGRnM2l2NW0ifQ==
 
 #EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="BT Sport 1 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/ruprqp1433360902.png/small" group-title="UK Sport",BT Sport 1 HD
-http://vapi.vaders.tv/play/2487.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6ImF0YXNlaGlyMzQifQ==
+http://vapi.vaders.tv/play/2487.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6Im1iaGRnM2l2NW0ifQ==
 
 #EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="BT Sport 2 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/vwxvty1433360911.png/small" group-title="UK Sport",BT Sport 2 HD
-http://vapi.vaders.tv/play/2488.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6ImF0YXNlaGlyMzQifQ==
+http://vapi.vaders.tv/play/2488.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6Im1iaGRnM2l2NW0ifQ==
 
 #EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="BT Sport 3 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/j1babk1512993780.png/small" group-title="UK Sport",BT Sport 3 HD
-http://vapi.vaders.tv/play/2489.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6ImF0YXNlaGlyMzQifQ==
+http://vapi.vaders.tv/play/2489.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6Im1iaGRnM2l2NW0ifQ==
 
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-logo="https://www.thelogodb.com/images/media/logonew/ryypqw1462991911.png/small" group-title="Turkey",TRT 1 HD
 http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/369.ts
@@ -138,16 +138,16 @@ http://vapi.vaders.tv/play/77882.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJw
 http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/142.ts
 
 #EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben Maxx" group-title="Germany",ProSieben Maxx HD
-http://vapi.vaders.tv/play/34071.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6ImF0YXNlaGlyMzQifQ==
+http://vapi.vaders.tv/play/34071.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6Im1iaGRnM2l2NW0ifQ==
 
 #EXTINF:-1 tvg-id="beINLaLiga.es" tvg-name="BEIN Sports La Liga HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/6dhxi81505469184.png/small" group-title="Spain",BEIN Sports La Liga HD
-http://bestbuyiptv.link:6969/live/lenz_dimo@yahoo.de/cojexsH5C7/16861.ts
+http://vapi.vaders.tv/play/34195.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6Im1iaGRnM2l2NW0ifQ==
 
 #EXTINF:-1 tvg-id="MovistarPartidazo.es" tvg-name="Movistar Partidazo HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/ef6gds1485607342.png/small" group-title="Spain",Movistar Partidazo HD
 http://bestbuyiptv.link:6969/live/lenz_dimo@yahoo.de/cojexsH5C7/17141.ts
 
 #EXTINF:-1 tvg-id="NBCSportsNetwork.us" tvg-name="NBC Sports Network HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/qtyvux1433327014.png/small" group-title="Premier League",NBC Sports Network HD
-http://bestbuyiptv.link:6969/live/lenz_dimo@yahoo.de/cojexsH5C7/17200.ts
+http://vapi.vaders.tv/play/2562.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6Im1iaGRnM2l2NW0ifQ==
 
 #EXTINF:-1 tvg-id="" tvg-name="NBC Sports Gold Premier League 1 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/9tl8z81513075058.png/small" group-title="Premier League",NBC Sports Gold Premier League 1 HD
 http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/12910.ts
