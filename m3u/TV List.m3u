@@ -117,22 +117,22 @@ http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/2697.ts
 http://vapi.vaders.tv/play/3082.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6ImF0YXNlaGlyMzQifQ==
 
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/uyswus1433941237.png/small" group-title="United States",CNN HD
-http://vapi.vaders.tv/play/2442.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6ImF0YXNlaGlyMzQifQ==
+http://vapi.vaders.tv/play/2442.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6Im1iaGRnM2l2NW0ifQ==
 
 #EXTINF:-1 tvg-id="KNBCLosAngelesNBCHDWest.us" tvg-name="KNBC (Los Angeles) NBC HD West" group-title="United States",NBC 4 Los Angeles HD 
-http://vapi.vaders.tv/play/52242.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6ImF0YXNlaGlyMzQifQ==
+http://vapi.vaders.tv/play/52242.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6Im1iaGRnM2l2NW0ifQ==
 
 #EXTINF:-1 tvg-id="KABCLosAngelesABCHDWest.us" tvg-name="KABC (Los Angeles) ABC HD West" group-title="United States",ABC 7 Los Angeles HD
-http://vapi.vaders.tv/play/52216.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6ImF0YXNlaGlyMzQifQ==
+http://vapi.vaders.tv/play/52216.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6Im1iaGRnM2l2NW0ifQ==
 
 #EXTINF:-1 tvg-id="KCBSLosAngelesCBSHDWest.us" tvg-name="KCBS (Los Angeles) CBS HD West" group-title="United States",CBS 2 Los Angeles HD
-http://vapi.vaders.tv/play/52235.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6ImF0YXNlaGlyMzQifQ==
+http://vapi.vaders.tv/play/52235.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6Im1iaGRnM2l2NW0ifQ==
 
 #EXTINF:-1 tvg-id="KTTVLosAngelesFOXHDWest.us" tvg-name="KTTV (Los Angeles) FOX HD West" group-title="United States",FOX 11 Los Angeles HD
-http://vapi.vaders.tv/play/52224.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6ImF0YXNlaGlyMzQifQ==
+http://vapi.vaders.tv/play/52224.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6Im1iaGRnM2l2NW0ifQ==
 
 #EXTINF:-1 tvg-id="SpectrumSportsNetLA.us" tvg-name="Spectrum SportsNet HD" group-title="United States",Spectrum SportsNet Los Angeles HD
-http://vapi.vaders.tv/play/77882.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6ImF0YXNlaGlyMzQifQ==
+http://vapi.vaders.tv/play/77882.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6Im1iaGRnM2l2NW0ifQ==
 
 #EXTINF:-1 tvg-id="Eurosport2Xtra.de" tvg-name="Eurosport 2 HD Xtra" tvg-logo="https://www.thelogodb.com/images/media/logonew/xvuxxt1474667338.png/small" group-title="Germany",Eurosport 2 HD Xtra
 http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/142.ts
