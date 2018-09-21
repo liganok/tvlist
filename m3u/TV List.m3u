@@ -176,52 +176,52 @@ http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/143.ts
 #EXTINF:-1 tvg-id="Eurosport2Xtra.de" tvg-name="Eurosport 2 HD Xtra" tvg-logo="" group-title="DEUTSCH SPORT",DE: EUROSPORT 2XTRA HD
 http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/142.ts
 
-#EXTINF:-1 tvg-id="SkySportNewsHD.de" tvg-name="Sky Sport News HD" tvg-logo="" group-title="DEUTSCH SPORT",DE: SKY SPORT NEWS HD
+#EXTINF:-1 tvg-id="SkySportNewsHD.de" tvg-name="Sky Sport News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Sky_Sport_News_HD_Logo_2016.png" group-title="DEUTSCH SPORT",DE: SKY SPORT NEWS HD
 http://vapi.vaders.tv/play/48083.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6InN1cHBvcnQ4In0=
 
-#EXTINF:-1 tvg-id="SkyBundesliga.de" tvg-name="Sky Bundesliga 1" tvg-logo="" group-title="DEUTSCH SPORT",SKY BUNDESLIGA 1 HD
+#EXTINF:-1 tvg-id="SkyBundesliga.de" tvg-name="Sky Bundesliga 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Sky_Sport_Bundesliga_1_HD_Logo_2016.png" group-title="DEUTSCH SPORT",SKY BUNDESLIGA 1 HD
 http://vapi.vaders.tv/play/34199.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6InN1cHBvcnQ4In0=
 
-#EXTINF:-1 tvg-id="SkyBundesliga2.de" tvg-name="Sky Bundesliga 2" tvg-logo="" group-title="DEUTSCH SPORT",SKY BUNDESLIGA 2 HD
+#EXTINF:-1 tvg-id="SkyBundesliga2.de" tvg-name="Sky Bundesliga 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Sky_Sport_Bundesliga_2_HD_Logo_2016.png" group-title="DEUTSCH SPORT",SKY BUNDESLIGA 2 HD
 http://vapi.vaders.tv/play/48067.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6InN1cHBvcnQ4In0=
 
-#EXTINF:-1 tvg-id="SkyBundesliga3.de" tvg-name="Sky Bundesliga 3" tvg-logo="" group-title="DEUTSCH SPORT",SKY BUNDESLIGA 3 HD
+#EXTINF:-1 tvg-id="SkyBundesliga3.de" tvg-name="Sky Bundesliga 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Sky_Sport_Bundesliga_3_HD_Logo_2016.png" group-title="DEUTSCH SPORT",SKY BUNDESLIGA 3 HD
 http://vapi.vaders.tv/play/48068.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6InN1cHBvcnQ4In0=
 
-#EXTINF:-1 tvg-id="SkyBundesliga4.de" tvg-name="Sky Bundesliga 4" tvg-logo="" group-title="DEUTSCH SPORT",SKY BUNDESLIGA 4 HD
+#EXTINF:-1 tvg-id="SkyBundesliga4.de" tvg-name="Sky Bundesliga 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Sky_Sport_Bundesliga_4_HD_Logo_2016.png" group-title="DEUTSCH SPORT",SKY BUNDESLIGA 4 HD
 http://vapi.vaders.tv/play/48069.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6InN1cHBvcnQ4In0=
 
-#EXTINF:-1 tvg-id="SkyBundesliga5.de" tvg-name="Sky Bundesliga 5" tvg-logo="" group-title="DEUTSCH SPORT",SKY BUNDESLIGA 5 HD
+#EXTINF:-1 tvg-id="SkyBundesliga5.de" tvg-name="Sky Bundesliga 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Sky_Sport_Bundesliga_5_HD_Logo_2016.png" group-title="DEUTSCH SPORT",SKY BUNDESLIGA 5 HD
 http://vapi.vaders.tv/play/48070.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6InN1cHBvcnQ4In0=
 
-#EXTINF:-1 tvg-id="SkyBundesliga6.de" tvg-name="Sky Bundesliga 6" tvg-logo="" group-title="DEUTSCH SPORT",SKY BUNDESLIGA 6 HD
+#EXTINF:-1 tvg-id="SkyBundesliga6.de" tvg-name="Sky Bundesliga 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Sky_Sport_Bundesliga_6_HD_Logo_2016.png" group-title="DEUTSCH SPORT",SKY BUNDESLIGA 6 HD
 http://vapi.vaders.tv/play/48071.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6InN1cHBvcnQ4In0=
 
-#EXTINF:-1 tvg-id="SkyBundesliga7.de" tvg-name="Sky Bundesliga 7" tvg-logo="" group-title="DEUTSCH SPORT",SKY BUNDESLIGA 7 HD
+#EXTINF:-1 tvg-id="SkyBundesliga7.de" tvg-name="Sky Bundesliga 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Sky_Sport_Bundesliga_7_HD_Logo_2016.png" group-title="DEUTSCH SPORT",SKY BUNDESLIGA 7 HD
 http://vapi.vaders.tv/play/48072.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6InN1cHBvcnQ4In0=
 
-#EXTINF:-1 tvg-id="SkyBundesliga8.de" tvg-name="Sky Bundesliga 8" tvg-logo="" group-title="DEUTSCH SPORT",SKY BUNDESLIGA 8 HD
+#EXTINF:-1 tvg-id="SkyBundesliga8.de" tvg-name="Sky Bundesliga 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Sky_Sport_Bundesliga_8_HD_Logo_2016.png" group-title="DEUTSCH SPORT",SKY BUNDESLIGA 8 HD
 http://vapi.vaders.tv/play/48073.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6InN1cHBvcnQ4In0=
 
-#EXTINF:-1 tvg-id="SkyBundesliga9.de" tvg-name="Sky Bundesliga 9" tvg-logo="" group-title="DEUTSCH SPORT",SKY BUNDESLIGA  9 HD
+#EXTINF:-1 tvg-id="SkyBundesliga9.de" tvg-name="Sky Bundesliga 9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Sky_Sport_Bundesliga_9_HD_Logo_2016.png" group-title="DEUTSCH SPORT",SKY BUNDESLIGA  9 HD
 http://vapi.vaders.tv/play/48074.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6InN1cHBvcnQ4In0=
 
-#EXTINF:-1 tvg-id="SkyBundesliga10.de" tvg-name="Sky Bundesliga 10" tvg-logo="" group-title="DEUTSCH SPORT",SKY BUNDESLIGA 10 HD
+#EXTINF:-1 tvg-id="SkyBundesliga10.de" tvg-name="Sky Bundesliga 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Sky_Sport_Bundesliga_10_HD_Logo_2016.png" group-title="DEUTSCH SPORT",SKY BUNDESLIGA 10 HD
 http://vapi.vaders.tv/play/48066.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6InN1cHBvcnQ4In0=
 
-#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="Sky Sport 1 DE HD" tvg-logo="" group-title="DEUTSCH SPORT",SKY SPORT 1 HD
+#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="Sky Sport 1 DE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Sky_Sport_1_HD_-_Logo_2015.svg" group-title="DEUTSCH SPORT",SKY SPORT 1 HD
 http://vapi.vaders.tv/play/34197.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6InN1cHBvcnQ4In0=
 
-#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="Sky Sport 2 DE HD" tvg-logo="" group-title="DEUTSCH SPORT",SKY SPORT 2 HD
+#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="Sky Sport 2 DE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Sky_Sport_2_HD_-_Logo_2015.svg" group-title="DEUTSCH SPORT",SKY SPORT 2 HD
 http://vapi.vaders.tv/play/34198.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6InN1cHBvcnQ4In0=
 
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 3 UHD" tvg-logo="" group-title="DEUTSCH SPORT",SKY SPORT 3 UHD
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 3 UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Sky_Sport_3_HD_-_Logo_2015.svg" group-title="DEUTSCH SPORT",SKY SPORT 3 UHD
 http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/113.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 4 UHD" tvg-logo="" group-title="DEUTSCH SPORT",SKY SPORT 4 UHD
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 4 UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Sky_Sport_4_HD_Logo_2016.png" group-title="DEUTSCH SPORT",SKY SPORT 4 UHD
 http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/111.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 5 UHD" tvg-logo="" group-title="DEUTSCH SPORT",SKY SPORT 5 UHD
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 5 UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Sky_Sport_5_HD_Logo_2016.png" group-title="DEUTSCH SPORT",SKY SPORT 5 UHD
 http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/109.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 6 UHD" tvg-logo="" group-title="DEUTSCH SPORT",SKY SPORT 6 UHD
