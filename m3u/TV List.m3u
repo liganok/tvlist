@@ -17,7 +17,7 @@ http://vapi.vaders.tv/play/2471.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwY
 #EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="Sky Sports News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Sky_Sports_News_logo.svg/512px-Sky_Sports_News_logo.svg.png" group-title="UK Sport",Sky Sports News HD
 http://vapi.vaders.tv/play/2570.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6InN1cHBvcnQ4In0=
 
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event HD" tvg-logo="https://imgur.com/a/jBPzGI1" group-title="UK Sport",Sky Sports Main Event HD
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event HD" tvg-logo="https://image.ibb.co/cMYmxK/images.jpg" group-title="UK Sport",Sky Sports Main Event HD
 http://vapi.vaders.tv/play/2889.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6InN1cHBvcnQ4In0=
 
 #EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football HD" tvg-logo="https://e3.365dm.com/tvlogos/channels/3838-Logo.svg?U2t5IFNwb3J0cyBGb290YmFsbA==" group-title="UK Sport",Sky Sports Football HD
