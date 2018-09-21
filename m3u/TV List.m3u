@@ -47,70 +47,70 @@ http://vapi.vaders.tv/play/2488.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwY
 #EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="BT Sport 3 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/j1babk1512993780.png/small" group-title="UK Sport",BT Sport 3 HD
 http://vapi.vaders.tv/play/2489.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6InN1cHBvcnQ4In0=
 
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-logo="https://www.thelogodb.com/images/media/logonew/ryypqw1462991911.png/small" group-title="Turkey",TRT 1 HD
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Trt1yenilogo.png" group-title="Turkey",TRT 1 HD
 http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/369.ts
 
-#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://www.thelogodb.com/images/media/logonew/vqqxus1473153936.png/small" group-title="Turkey",ATV HD
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Atv_logosu.png" group-title="Turkey",ATV HD
 http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/191.ts
 
-#EXTINF:-1 tvg-id="Fox.tr" tvg-name="Fox" tvg-logo="https://www.thelogodb.com/images/media/logonew/um8d2j1509463340.png/small" group-title="Turkey",FOX HD
+#EXTINF:-1 tvg-id="Fox.tr" tvg-name="Fox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/1832px-FOX_wordmark-red.svg.png" group-title="Turkey",FOX HD
 http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/179.ts
 
-#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show" tvg-logo="https://www.thelogodb.com/images/media/logonew/vwysvt1433332550.png/small" group-title="Turkey",SHOW HD
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png" group-title="Turkey",SHOW HD
 http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/188.ts
 
-#EXTINF:-1 tvg-id="Start.tr" tvg-name="STAR TV" tvg-logo="https://www.thelogodb.com/images/media/logonew/txstww1433943055.png/small" group-title="Turkey",STAR HD
+#EXTINF:-1 tvg-id="Star.tr" tvg-name="STAR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/StarTV.svg/512px-StarTV.svg.png" group-title="Turkey",STAR HD
 http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/186.ts
 
-#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D" tvg-logo="https://www.thelogodb.com/images/media/logonew/pe7kf51502590265.png/small" group-title="Turkey",KANAL D HD
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/c/ca/Kanal_D.svg/276px-Kanal_D.svg.png" group-title="Turkey",KANAL D HD
 http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/184.ts
 
-#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8" tvg-logo="" group-title="Turkey",TV 8 HD
+#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="Turkey",TV 8 HD
 http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/182.ts
 
-#EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV" tvg-logo="https://static.iptv-epg.com/tr/NTV.tr.png" group-title="Turkey",NTV HD
+#EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" group-title="Turkey",NTV HD
 http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/171.ts
 
-#EXTINF:-1 tvg-id="CNNTURK.tr" tvg-name="CNN TÜRK" tvg-logo="https://www.thelogodb.com/images/media/logonew/qwwwxs1433945482.png/small" group-title="Turkey",CNN Türk HD
+#EXTINF:-1 tvg-id="CNNTURK.tr" tvg-name="CNN TÜRK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_Türk_logo.svg/512px-CNN_Türk_logo.svg.png" group-title="Turkey",CNN Türk HD
 http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/172.ts
 
-#EXTINF:-1 tvg-id="HABERTURK.tr" tvg-name="HABERTURK" tvg-logo="https://www.thelogodb.com/images/media/logonew/yuwwpr1433426670.png/small" group-title="Turkey",HaberTürk HD
+#EXTINF:-1 tvg-id="HABERTURK.tr" tvg-name="HABERTURK" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/43/Habertürk_TV_logosu.png" group-title="Turkey",HaberTürk HD
 http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/168.ts
 
-#EXTINF:-1 tvg-id="PowerTVTurk.tr" tvg-name="POWERTURK TV" tvg-logo="" group-title="Turkey",POWERTÜRK HD
+#EXTINF:-1 tvg-id="PowerTVTurk.tr" tvg-name="POWERTURK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a8/Powertürk_TV_logosu.png" group-title="Turkey",POWERTÜRK HD
 http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/162.ts
 
-#EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-name="TRT Müzik" tvg-logo="" group-title="Turkey",TRT MÜZIK
+#EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-name="TRT Müzik" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/TRT_Müzik_kurumsal_logo.png/2880px-TRT_Müzik_kurumsal_logo.png" group-title="Turkey",TRT MÜZIK
 http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/3396.ts
 
-#EXTINF:-1 tvg-id="KralTV.tr" tvg-name="KRAL TV" tvg-logo="" group-title="Turkey",KRAL TV HD
+#EXTINF:-1 tvg-id="KralTV.tr" tvg-name="KRAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/az/8/89/Kral_TV.png" group-title="Turkey",KRAL TV HD
 http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/163.ts
 
-#EXTINF:-1 tvg-id="KralPop.tr" tvg-name="KRAL POP HD" tvg-logo="" group-title="Turkey",KRAL POP HD
+#EXTINF:-1 tvg-id="KralPop.tr" tvg-name="KRAL POP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/az/8/89/Kral_TV.png" group-title="Turkey",KRAL POP HD
 http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/164.ts
 
-#EXTINF:-1 tvg-id="beINSportsHaber.tr" tvg-name="BEIN Sports Haber HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/60olka1504234949.png/small" group-title="Turkey",BEIN Sports Haber HD
+#EXTINF:-1 tvg-id="beINSportsHaber.tr" tvg-name="BEIN Sports Haber HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/9/9a/BeIN_SPORTS_Haber_HD.jpg" group-title="Turkey",BEIN Sports Haber HD
 http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/692.ts
 
-#EXTINF:-1 tvg-id="beINSports1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://www.thelogodb.com/images/media/logonew/60olka1504234949.png/small" group-title="Turkey",BEIN Sports 1 HD
+#EXTINF:-1 tvg-id="beINSports1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/64/BeIN_SPORTS_HD_1_2018_logo.jpg" group-title="Turkey",BEIN Sports 1 HD
 http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/2704.ts
 
-#EXTINF:-1 tvg-id="beINSports2.tr" tvg-name="beIN SPORTS 2" tvg-logo="https://www.thelogodb.com/images/media/logonew/27h1lw1504234965.png/small" group-title="Turkey",BEIN Sports 2 HD
+#EXTINF:-1 tvg-id="beINSports2.tr" tvg-name="beIN SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/cb/BeIN_SPORTS_HD_2_2018_logo.jpg" group-title="Turkey",BEIN Sports 2 HD
 http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/2703.ts
 
-#EXTINF:-1 tvg-id="beINSports3.tr" tvg-name="beIN SPORTS 3" tvg-logo="https://www.thelogodb.com/images/media/logonew/gmt9nj1504235003.png/small" group-title="Turkey",BEIN Sports 3 HD
+#EXTINF:-1 tvg-id="beINSports3.tr" tvg-name="beIN SPORTS 3" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/85/BeIN_SPORTS_HD_3_2018_logo1.jpg" group-title="Turkey",BEIN Sports 3 HD
 http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/2702.ts
 
-#EXTINF:-1 tvg-id="beINSports4.tr" tvg-name="beIN SPORTS 4" tvg-logo="https://www.thelogodb.com/images/media/logonew/akcwk91504235015.png/small" group-title="Turkey",BEIN Sports 4 HD
+#EXTINF:-1 tvg-id="beINSports4.tr" tvg-name="beIN SPORTS 4" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b9/BeIN_SPORTS_HD_4_2018_logo1.jpg" group-title="Turkey",BEIN Sports 4 HD
 http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/2701.ts
 
-#EXTINF:-1 tvg-id="SmartSpor1.tr" tvg-name="Smart Spor 1" tvg-logo="" group-title="Turkey",SMARTSPOR HD
+#EXTINF:-1 tvg-id="SmartSpor1.tr" tvg-name="Smart Spor 1" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b2/SporSMART_HD_logo.png" group-title="Turkey",SMARTSPOR HD
 http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/680.ts
 
-#EXTINF:-1 tvg-id="TivibuSpor1.tr" tvg-name="Tivibu Spor 1" tvg-logo="" group-title="Turkey",tivibu SPOR 1 HD
+#EXTINF:-1 tvg-id="TivibuSpor1.tr" tvg-name="Tivibu Spor 1" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/44/Tivibu_SPOR_logo.jpg" group-title="Turkey",tivibu SPOR 1 HD
 http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/2698.ts
 
-#EXTINF:-1 tvg-id="TivibuSpor2.tr" tvg-name="Tivibu Spor 2" tvg-logo="" group-title="Turkey",tivibu SPOR 2 HD
+#EXTINF:-1 tvg-id="TivibuSpor2.tr" tvg-name="Tivibu Spor 2" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/7/79/Tivibu_SPOR_2_logo.jpg" group-title="Turkey",tivibu SPOR 2 HD
 http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/2697.ts
 
 #EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/trytur1433451903.png/small" group-title="United States",MSNBC HD
