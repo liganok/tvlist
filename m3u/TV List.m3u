@@ -113,10 +113,10 @@ http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/2698.ts
 #EXTINF:-1 tvg-id="TivibuSpor2.tr" tvg-name="Tivibu Spor 2" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/7/79/Tivibu_SPOR_2_logo.jpg" group-title="Turkey",tivibu SPOR 2 HD
 http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/2697.ts
 
-#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/trytur1433451903.png/small" group-title="United States",MSNBC HD
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/MSNBC_2015_logo.svg/512px-MSNBC_2015_logo.svg.png" group-title="United States",MSNBC HD
 http://vapi.vaders.tv/play/3082.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6InN1cHBvcnQ4In0=
 
-#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/uyswus1433941237.png/small" group-title="United States",CNN HD
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1000px-CNN.svg.png" group-title="United States",CNN HD
 http://vapi.vaders.tv/play/2442.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6InN1cHBvcnQ4In0=
 
 #EXTINF:-1 tvg-id="KNBCLosAngelesNBCHDWest.us" tvg-name="KNBC (Los Angeles) NBC HD West" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/KNBC_4_logo.png" group-title="United States",NBC 4 Los Angeles HD 
