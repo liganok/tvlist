@@ -150,7 +150,7 @@ http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/144.ts
 http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/143.ts
 
 #EXTINF:-1 tvg-id="Eurosport2Xtra.de" tvg-name="Eurosport 2 HD Xtra" tvg-logo="" group-title="DEUTSCH SPORT",DE: EUROSPORT 2XTRA HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/142.ts
+http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/263045.ts
 
 #EXTINF:-1 tvg-id="SkySportNewsHD.de" tvg-name="Sky Sport News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Sky_Sport_News_HD_Logo_2016.png" group-title="DEUTSCH SPORT",DE: SKY SPORT NEWS HD
 http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/253734.ts
@@ -233,6 +233,9 @@ http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/308909.ts
 #EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPNU US" tvg-logo="" group-title="ESPN",ESPN U HD
 http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/308907.ts
 
+#EXTINF:-1 tvg-id="NBCSportsNetwork.us" tvg-name="" tvg-logo="" group-title="NBC SPORTS",NBC Sports Network HD
+http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/307385.ts
+
 #EXTINF:-1 tvg-id="NBCSportsChicago.us" tvg-name="" tvg-logo="" group-title="NBC SPORTS",NBC Sports Chicago HD
 http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/307387.ts
 
@@ -253,3 +256,51 @@ http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/308837.ts
 
 #EXTINF:-1 tvg-id="NBCSNWashington.us" tvg-name="" tvg-logo="" group-title="NBC SPORTS",NBC Sports Washington HD
 http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/307385.ts
+
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="" tvg-logo="" group-title="FOX SPORTS",FOX Sports 1 HD
+http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/308896.ts
+
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="" tvg-logo="" group-title="FOX SPORTS",FOX Sports 2 HD
+http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/308894.ts
+
+#EXTINF:-1 tvg-id="FoxSportsArizona.us" tvg-name="" tvg-logo="" group-title="FOX SPORTS",FOX Sports Arizona HD
+http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/221892.ts
+
+#EXTINF:-1 tvg-id="FoxSportsDetroit.us" tvg-name="" tvg-logo="" group-title="FOX SPORTS",FOX Sports Detroit HD
+http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/221890.ts
+
+#EXTINF:-1 tvg-id="FoxSportsFlorida.us" tvg-name="" tvg-logo="" group-title="FOX SPORTS",FOX Sports Florida HD
+http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/221889.ts
+
+#EXTINF:-1 tvg-id="FoxSportsMidwest.us" tvg-name="" tvg-logo="" group-title="FOX SPORTS",FOX Sports Midwest HD
+http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/221887.ts
+
+#EXTINF:-1 tvg-id="FoxSportsNorth.us" tvg-name="" tvg-logo="" group-title="FOX SPORTS",FOX Sports North HD
+http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/221886.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FOX SPORTS",FOX Sports Ohio HD
+http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/221885.ts
+
+#EXTINF:-1 tvg-id="FoxSportsPrimeTicket.us" tvg-name="" tvg-logo="" group-title="FOX SPORTS",FOX Sports Prime Ticket HD
+http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/221884.ts
+
+#EXTINF:-1 tvg-id="FoxSportsSanDiego.us" tvg-name="" tvg-logo="" group-title="FOX SPORTS",FOX Sports San Diego HD
+http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/221883.ts
+
+#EXTINF:-1 tvg-id="FoxSportsSouth.us" tvg-name="" tvg-logo="" group-title="FOX SPORTS",FOX Sports South HD
+http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/221882.ts
+
+#EXTINF:-1 tvg-id="FoxSportsSoutheast.us" tvg-name="" tvg-logo="" group-title="FOX SPORTS",FOX Sports Southeast HD
+http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/221881.ts
+
+#EXTINF:-1 tvg-id="FoxSportsSouthwest.us" tvg-name="" tvg-logo="" group-title="FOX SPORTS",FOX Sports Southwest HD
+http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/221880.ts
+
+#EXTINF:-1 tvg-id="FoxSportsSun.us" tvg-name="" tvg-logo="" group-title="FOX SPORTS",FOX Sports Sun HD
+http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/221879.ts
+
+#EXTINF:-1 tvg-id="FoxSports.us" tvg-name="" tvg-logo="" group-title="FOX SPORTS",FOX Sports West HD
+http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/221877.ts
+
+#EXTINF:-1 tvg-id="FoxSportsWisconsin.us" tvg-name="" tvg-logo="" group-title="FOX SPORTS",FOX Sports Wisconsin HD
+http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/221876.ts
