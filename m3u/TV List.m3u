@@ -39,13 +39,13 @@ http://vapi.vaders.tv/play/2479.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwY
 http://vapi.vaders.tv/play/37235.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6InN1cHBvcnQ4In0=
 
 #EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="BT Sport 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/BTSPORT_1_BLACK_RGB.png/1600px-BTSPORT_1_BLACK_RGB.png" group-title="UK Sport",BT Sport 1 HD
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/309255.ts
+http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/303858.ts
 
 #EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="BT Sport 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/BTSPORT_2_BLACK_RGB.png/1600px-BTSPORT_2_BLACK_RGB.png" group-title="UK Sport",BT Sport 2 HD
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/143893.ts
+http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/303859.ts
 
 #EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="BT Sport 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/BTSPORT_3_BLACK_RGB.png/1600px-BTSPORT_3_BLACK_RGB.png" group-title="UK Sport",BT Sport 3 HD
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/143896.ts
+http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/303857.ts
 
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Trt1yenilogo.png" group-title="Turkey",TRT 1 HD
 http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/369.ts
@@ -72,10 +72,10 @@ http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/182.ts
 http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/93196.ts
 
 #EXTINF:-1 tvg-id="BeyazTV.tr" tvg-name="BEYAZ TV" tvg-logo="" group-title="Turkey",BEYAZ TV HD
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/168172.ts
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/176.ts
 
 #EXTINF:-1 tvg-id="FBTV.tr" tvg-name="FB TV" tvg-logo="" group-title="Turkey",Fenerbahçe TV HD
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/168197.ts
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/3442.ts
 
 #EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" group-title="Turkey",NTV HD
 http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/171.ts
@@ -84,7 +84,7 @@ http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/171.ts
 http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/172.ts
 
 #EXTINF:-1 tvg-id="HalkTV.tr" tvg-name="Halk TV" tvg-logo="" group-title="Turkey",Halk TV
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/168202.ts
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/291.ts
 
 #EXTINF:-1 tvg-id="HABERTURK.tr" tvg-name="HABERTURK" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/43/Habertürk_TV_logosu.png" group-title="Turkey",HaberTürk HD
 http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/168.ts
@@ -240,7 +240,7 @@ http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/308909.ts
 http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/308907.ts
 
 #EXTINF:-1 tvg-id="NBCSportsNetwork.us" tvg-name="" tvg-logo="" group-title="NBC SPORTS",NBC Sports Network HD
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/307385.ts
+http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/305124.ts
 
 #EXTINF:-1 tvg-id="NBCSportsChicago.us" tvg-name="" tvg-logo="" group-title="NBC SPORTS",NBC Sports Chicago HD
 http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/307387.ts
