@@ -68,11 +68,23 @@ http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/184.ts
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="Turkey",TV 8 HD
 http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/182.ts
 
+#EXTINF:-1 tvg-id="TV2.tr" tvg-name="Tv2" tvg-logo="" group-title="Turkey",TV 2 HD
+http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/93196.ts
+
+#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-name="BEYAZ TV" tvg-logo="" group-title="Turkey",BEYAZ TV HD
+http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/168172.ts
+
+#EXTINF:-1 tvg-id="FBTV.tr" tvg-name="FB TV" tvg-logo="" group-title="Turkey",Fenerbahçe TV HD
+http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/168197.ts
+
 #EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" group-title="Turkey",NTV HD
 http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/171.ts
 
 #EXTINF:-1 tvg-id="CNNTURK.tr" tvg-name="CNN TÜRK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_Türk_logo.svg/512px-CNN_Türk_logo.svg.png" group-title="Turkey",CNN Türk HD
 http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/172.ts
+
+#EXTINF:-1 tvg-id="HalkTV.tr" tvg-name="Halk TV" tvg-logo="" group-title="Turkey",Halk TV
+http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/168202.ts
 
 #EXTINF:-1 tvg-id="HABERTURK.tr" tvg-name="HABERTURK" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/43/Habertürk_TV_logosu.png" group-title="Turkey",HaberTürk HD
 http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/168.ts
@@ -82,9 +94,6 @@ http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/162.ts
 
 #EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-name="TRT Müzik" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/TRT_Müzik_kurumsal_logo.png/2880px-TRT_Müzik_kurumsal_logo.png" group-title="Turkey",TRT MÜZIK
 http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/3396.ts
-
-#EXTINF:-1 tvg-id="KralTV.tr" tvg-name="KRAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/az/8/89/Kral_TV.png" group-title="Turkey",KRAL TV HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/163.ts
 
 #EXTINF:-1 tvg-id="KralPop.tr" tvg-name="KRAL POP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/az/8/89/Kral_TV.png" group-title="Turkey",KRAL POP HD
 http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/164.ts
@@ -132,22 +141,16 @@ http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/300498.ts
 http://vapi.vaders.tv/play/52224.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6InN1cHBvcnQ4In0=
 
 #EXTINF:-1 tvg-id="SpectrumSportsNetLA.us" tvg-name="Spectrum SportsNet HD" tvg-logo="https://1pvvpp2jnvcy2rs9592n4mtq-wpengine.netdna-ssl.com/wp-content/uploads/2017/10/Spectrum-SportSnetLA-logo.png" group-title="United States",Spectrum SportsNet Los Angeles HD
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/308794.ts
+http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/303224.ts
 
 #EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben Maxx" group-title="DEUTSCH SPORT",ProSieben Maxx HD
 http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/256941.ts
 
 #EXTINF:-1 tvg-id="sportdigital.de" tvg-name="Sportdigital HD" tvg-logo="" group-title="DEUTSCH SPORT",DE: SPORT DIGITAL HD
-http://vapi.vaders.tv/play/34210.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6InN1cHBvcnQ4In0=
+http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/253631.ts
 
 #EXTINF:-1 tvg-id="Sport1HD.de" tvg-name="SPORT1" tvg-logo="" group-title="DEUTSCH SPORT",DE: SPORT1 HD
 http://vapi.vaders.tv/play/79295.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6InN1cHBvcnQ4In0=
-
-#EXTINF:-1 tvg-id="Eurosport1.de" tvg-name="Eurosport1 - Deutschland" tvg-logo="" group-title="DEUTSCH SPORT",DE: EUROSPORT  1 HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/144.ts
-
-#EXTINF:-1 tvg-id="Eurosport2.de" tvg-name="Eurosport2 - Deutschland" tvg-logo="" group-title="DEUTSCH SPORT",DE: EUROSPORT 2 HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/143.ts
 
 #EXTINF:-1 tvg-id="Eurosport2Xtra.de" tvg-name="Eurosport 2 HD Xtra" tvg-logo="" group-title="DEUTSCH SPORT",DE: EUROSPORT 2XTRA HD
 http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/263045.ts
@@ -162,40 +165,40 @@ http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/253489.ts
 http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/253486.ts
 
 #EXTINF:-1 tvg-id="SkyBundesliga3.de" tvg-name="Sky Bundesliga 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Sky_Sport_Bundesliga_3_HD_Logo_2016.png" group-title="DEUTSCH SPORT",SKY BUNDESLIGA 3 HD
-http://vapi.vaders.tv/play/48068.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6InN1cHBvcnQ4In0=
+http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/253484.ts
 
 #EXTINF:-1 tvg-id="SkyBundesliga4.de" tvg-name="Sky Bundesliga 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Sky_Sport_Bundesliga_4_HD_Logo_2016.png" group-title="DEUTSCH SPORT",SKY BUNDESLIGA 4 HD
-http://vapi.vaders.tv/play/48069.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6InN1cHBvcnQ4In0=
+http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/253483.ts
 
 #EXTINF:-1 tvg-id="SkyBundesliga5.de" tvg-name="Sky Bundesliga 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Sky_Sport_Bundesliga_5_HD_Logo_2016.png" group-title="DEUTSCH SPORT",SKY BUNDESLIGA 5 HD
-http://vapi.vaders.tv/play/48070.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6InN1cHBvcnQ4In0=
+http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/253482.ts
 
 #EXTINF:-1 tvg-id="SkyBundesliga6.de" tvg-name="Sky Bundesliga 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Sky_Sport_Bundesliga_6_HD_Logo_2016.png" group-title="DEUTSCH SPORT",SKY BUNDESLIGA 6 HD
-http://vapi.vaders.tv/play/48071.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6InN1cHBvcnQ4In0=
+http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/253481.ts
 
 #EXTINF:-1 tvg-id="SkyBundesliga7.de" tvg-name="Sky Bundesliga 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Sky_Sport_Bundesliga_7_HD_Logo_2016.png" group-title="DEUTSCH SPORT",SKY BUNDESLIGA 7 HD
-http://vapi.vaders.tv/play/48072.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6InN1cHBvcnQ4In0=
+http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/253479.ts
 
 #EXTINF:-1 tvg-id="SkyBundesliga8.de" tvg-name="Sky Bundesliga 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Sky_Sport_Bundesliga_8_HD_Logo_2016.png" group-title="DEUTSCH SPORT",SKY BUNDESLIGA 8 HD
-http://vapi.vaders.tv/play/48073.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6InN1cHBvcnQ4In0=
+http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/253477.ts
 
 #EXTINF:-1 tvg-id="SkyBundesliga9.de" tvg-name="Sky Bundesliga 9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Sky_Sport_Bundesliga_9_HD_Logo_2016.png" group-title="DEUTSCH SPORT",SKY BUNDESLIGA  9 HD
-http://vapi.vaders.tv/play/48074.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6InN1cHBvcnQ4In0=
+http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/253475.ts
 
 #EXTINF:-1 tvg-id="SkyBundesliga10.de" tvg-name="Sky Bundesliga 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Sky_Sport_Bundesliga_10_HD_Logo_2016.png" group-title="DEUTSCH SPORT",SKY BUNDESLIGA 10 HD
-http://vapi.vaders.tv/play/48066.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6InN1cHBvcnQ4In0=
+http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/253488.ts
 
 #EXTINF:-1 tvg-id="SkySport1.de" tvg-name="Sky Sport 1 DE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Sky_Sport_1_HD_-_Logo_2015.svg" group-title="DEUTSCH SPORT",SKY SPORT 1 HD
-http://vapi.vaders.tv/play/34197.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6InN1cHBvcnQ4In0=
+http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/253655.ts
 
 #EXTINF:-1 tvg-id="SkySport2.de" tvg-name="Sky Sport 2 DE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Sky_Sport_2_HD_-_Logo_2015.svg" group-title="DEUTSCH SPORT",SKY SPORT 2 HD
-http://vapi.vaders.tv/play/34198.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6InN1cHBvcnQ4In0=
+http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/253652.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 3 UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Sky_Sport_3_HD_-_Logo_2015.svg" group-title="DEUTSCH SPORT",SKY SPORT 3 UHD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/113.ts
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Sky_Sport_3_HD_-_Logo_2015.svg" group-title="DEUTSCH SPORT",SKY SPORT 3 HD
+http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/253651.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 4 UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Sky_Sport_4_HD_Logo_2016.png" group-title="DEUTSCH SPORT",SKY SPORT 4 UHD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/111.ts
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Sky_Sport_4_HD_Logo_2016.png" group-title="DEUTSCH SPORT",SKY SPORT 4 HD
+http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/253650.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 5 UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Sky_Sport_5_HD_Logo_2016.png" group-title="DEUTSCH SPORT",SKY SPORT 5 UHD
 http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/109.ts
@@ -220,6 +223,9 @@ http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/92738.ts
 
 #EXTINF:-1 tvg-id="MovistarPartidazo.es" tvg-name="Movistar Partidazo HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/ef6gds1485607342.png/small" group-title="Spain",Movistar Partidazo HD
 http://bestbuyiptv.link:6969/live/lenz_dimo@yahoo.de/cojexsH5C7/17141.ts
+
+#EXTINF:-1 tvg-id="TV3Catalunya.es" tvg-name="" tvg-logo="" group-title="Spain",TV 3
+http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/256879.ts
 
 #EXTINF:-1 tvg-id="YESHD.us" tvg-name="YES HD" tvg-logo="" group-title="US SPORT",YES HD
 http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/308758.ts
@@ -304,3 +310,30 @@ http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/221877.ts
 
 #EXTINF:-1 tvg-id="FoxSportsWisconsin.us" tvg-name="" tvg-logo="" group-title="FOX SPORTS",FOX Sports Wisconsin HD
 http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/221876.ts
+
+#EXTINF:-1 tvg-id="FOX.us" tvg-name="" tvg-logo="" group-title="FOX LOCAL",FOX 5 New York HD
+http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/308905.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FOX LOCAL",FOX 2 Detroit HD
+http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/300404.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FOX LOCAL",FOX 4 Dallas HD
+http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/300419.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FOX LOCAL",FOX 32 Chicago HD
+http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/313461.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FOX LOCAL",FOX 13 Tampa Bay HD
+http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/300393.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FOX LOCAL",FOX 29 Philadelphia HD
+http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/300392.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FOX LOCAL",FOX 35 Salinas HD
+http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/310633.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CBS LOCAL",CBS 2 New York HD
+http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/308947.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NFL",CBS 2 New York HD
+http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/308947.ts
