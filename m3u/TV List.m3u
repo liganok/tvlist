@@ -39,13 +39,16 @@ http://vapi.vaders.tv/play/2479.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwY
 http://vapi.vaders.tv/play/37235.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6InN1cHBvcnQ4In0=
 
 #EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="BT Sport 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/BTSPORT_1_BLACK_RGB.png/1600px-BTSPORT_1_BLACK_RGB.png" group-title="UK Sport",BT Sport 1 HD
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/309255.ts
+http://link.comstar.tv:6969/live/0495397/8986543/8620.ts
 
 #EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="BT Sport 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/BTSPORT_2_BLACK_RGB.png/1600px-BTSPORT_2_BLACK_RGB.png" group-title="UK Sport",BT Sport 2 HD
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/303859.ts
+http://link.comstar.tv:6969/live/0495397/8986543/8619.ts
 
 #EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="BT Sport 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/BTSPORT_3_BLACK_RGB.png/1600px-BTSPORT_3_BLACK_RGB.png" group-title="UK Sport",BT Sport 3 HD
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/303857.ts
+http://link.comstar.tv:6969/live/0495397/8986543/8618.ts
+
+#EXTINF:-1 tvg-id="BTSportESPN.uk" tvg-name="BT Sport ESPN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/BTSPORT_3_BLACK_RGB.png/1600px-BTSPORT_3_BLACK_RGB.png" group-title="UK Sport",BT Sport ESPN HD
+http://link.comstar.tv:6969/live/0495397/8986543/17202.ts
 
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Trt1yenilogo.png" group-title="Turkey",TRT 1 HD
 http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/369.ts
@@ -189,10 +192,10 @@ http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/253475.ts
 http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/253488.ts
 
 #EXTINF:-1 tvg-id="SkySport1.de" tvg-name="Sky Sport 1 DE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Sky_Sport_1_HD_-_Logo_2015.svg" group-title="DEUTSCH SPORT",SKY SPORT 1 HD
-http://link.comstar.tv:6969/live/0495397/8986543/8274.ts
+http://link.comstar.tv:6969/live/0495397/8986543/29168.ts
 
 #EXTINF:-1 tvg-id="SkySport2.de" tvg-name="Sky Sport 2 DE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Sky_Sport_2_HD_-_Logo_2015.svg" group-title="DEUTSCH SPORT",SKY SPORT 2 HD
-http://link.comstar.tv:6969/live/0495397/8986543/8273.ts
+http://link.comstar.tv:6969/live/0495397/8986543/29166.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Sky_Sport_3_HD_-_Logo_2015.svg" group-title="DEUTSCH SPORT",SKY SPORT 3 HD
 http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/253651.ts
