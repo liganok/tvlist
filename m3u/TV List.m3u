@@ -1,30 +1,30 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="BBCOneHD.uk" tvg-name="BBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/BBC_One_logo.svg/937px-BBC_One_logo.svg.png" group-title="United Kingdom",BBC 1 HD
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/67140.ts
+http://54.39.53.138:25461/live/dimobln/Test123/26823.ts
 
 #EXTINF:-1 tvg-id="BBC2.uk" tvg-name="BBC Two" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/b/b9/Bbctwo-logo2007.svg/709px-Bbctwo-logo2007.svg.png" group-title="United Kingdom",BBC 2 HD
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/21112.ts
+http://54.39.53.138:25461/live/dimobln/Test123/26812.ts
 
 #EXTINF:-1 tvg-id="BBCNews.nws" tvg-name="BBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/BBC_News.svg/1280px-BBC_News.svg.png" group-title="United Kingdom",BBC News HD
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/168363.ts
+http://54.39.53.138:25461/live/dimobln/Test123/26826.ts
 
 #EXTINF:-1 tvg-id="ITV1London.uk" tvg-name="ITV1 London" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/ITV_HD_2013.svg/1200px-ITV_HD_2013.svg.png" group-title="United Kingdom",ITV 1 HD
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/142763.ts
+http://54.39.53.138:25461/live/dimobln/Test123/26739.ts
 
 #EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/ITV2_logo_2015.png" group-title="United Kingdom",ITV 2 HD
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/67155.ts
+http://54.39.53.138:25461/live/dimobln/Test123/26738.ts
 
 #EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="Sky Sports News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Sky_Sports_News_logo.svg/512px-Sky_Sports_News_logo.svg.png" group-title="UK Sport",Sky Sports News HD
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/303879.ts
+http://54.39.53.138:25461/live/dimobln/Test123/19918.ts
 
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event HD" tvg-logo="https://image.ibb.co/cMYmxK/images.jpg" group-title="UK Sport",Sky Sports Main Event HD
 http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/143902.ts
 
 #EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football HD" tvg-logo="https://e3.365dm.com/tvlogos/channels/3838-Logo.svg?U2t5IFNwb3J0cyBGb290YmFsbA==" group-title="UK Sport",Sky Sports Football HD
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/143897.ts
+http://54.39.53.138:25461/live/dimobln/Test123/19972.ts
 
 #EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="Sky Sports Premier League HD" tvg-logo="https://e3.365dm.com/tvlogos/channels/1303-Logo.svg?U2t5IFNwb3J0cyBQcmVtaWVyIExlYWd1ZQ==" group-title="UK Sport",Sky Sports Premier League HD
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/143900.ts
+http://54.39.53.138:25461/live/dimobln/Test123/19965.ts
 
 #EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="Sky Sports Action HD" tvg-logo="https://e3.365dm.com/tvlogos/channels/1333-Logo.svg?U2t5IFNwb3J0cyBBY3Rpb24=" group-title="UK Sport",Sky Sports Action HD
 http://vapi.vaders.tv/play/2480.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6InN1cHBvcnQ4In0=
@@ -39,16 +39,16 @@ http://vapi.vaders.tv/play/2479.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwY
 http://vapi.vaders.tv/play/37235.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6InN1cHBvcnQ4In0=
 
 #EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="BT Sport 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/BTSPORT_1_BLACK_RGB.png/1600px-BTSPORT_1_BLACK_RGB.png" group-title="UK Sport",BT Sport 1 HD
-http://link.comstar.tv:6969/live/0495397/8986543/8620.ts
+http://54.39.53.138:25461/live/dimobln/Test123/19943.ts
 
 #EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="BT Sport 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/BTSPORT_2_BLACK_RGB.png/1600px-BTSPORT_2_BLACK_RGB.png" group-title="UK Sport",BT Sport 2 HD
-http://link.comstar.tv:6969/live/0495397/8986543/8619.ts
+http://54.39.53.138:25461/live/dimobln/Test123/19942.ts
 
 #EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="BT Sport 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/BTSPORT_3_BLACK_RGB.png/1600px-BTSPORT_3_BLACK_RGB.png" group-title="UK Sport",BT Sport 3 HD
-http://link.comstar.tv:6969/live/0495397/8986543/8618.ts
+http://54.39.53.138:25461/live/dimobln/Test123/19941.ts
 
 #EXTINF:-1 tvg-id="BTSportESPN.uk" tvg-name="BT Sport ESPN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/BTSPORT_3_BLACK_RGB.png/1600px-BTSPORT_3_BLACK_RGB.png" group-title="UK Sport",BT Sport ESPN HD
-http://link.comstar.tv:6969/live/0495397/8986543/17202.ts
+http://54.39.53.138:25461/live/dimobln/Test123/19940.ts
 
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Trt1yenilogo.png" group-title="Turkey",TRT 1 HD
 http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/369.ts
@@ -126,46 +126,46 @@ http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/2698.ts
 http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/2697.ts
 
 #EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC HD" tvg-logo="https://image.ibb.co/mvTVPz/msnbc.png" group-title="United States",MSNBC HD
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/142687.ts
+http://54.39.53.138:25461/live/dimobln/Test123/4962.ts
 
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1000px-CNN.svg.png" group-title="United States",CNN HD
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/308936.ts
+http://54.39.53.138:25461/live/dimobln/Test123/5088.ts
 
 #EXTINF:-1 tvg-id="KNBCLosAngelesNBCHDWest.us" tvg-name="KNBC (Los Angeles) NBC HD West" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/KNBC_4_logo.png" group-title="United States",NBC 4 Los Angeles HD 
-http://vapi.vaders.tv/play/52242.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6InRlc3QxMjMifQ==
+http://54.39.53.138:25461/live/dimobln/Test123/4935.ts
 
 #EXTINF:-1 tvg-id="KABCLosAngelesABCHDWest.us" tvg-name="KABC (Los Angeles) ABC HD West" tvg-logo="https://static.iptv-epg.com/us/ABC7KABCTV.us.png" group-title="United States",ABC 7 Los Angeles HD
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/300534.ts
+http://54.39.53.138:25461/live/dimobln/Test123/21426.ts
 
 #EXTINF:-1 tvg-id="KCBSLosAngelesCBSHDWest.us" tvg-name="KCBS (Los Angeles) CBS HD West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/CBS_2.png" group-title="United States",CBS 2 Los Angeles HD
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/300498.ts
+http://54.39.53.138:25461/live/dimobln/Test123/21427.ts
 
 #EXTINF:-1 tvg-id="KTTVLosAngelesFOXHDWest.us" tvg-name="KTTV (Los Angeles) FOX HD West" tvg-logo="http://www.uniondevecinos.org/wp-content/uploads/2016/07/logo-fox-11-los-angeles-kttv-alt.png" group-title="United States",FOX 11 Los Angeles HD
-http://vapi.vaders.tv/play/52224.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6InRlc3QxMjMifQ==
+http://54.39.53.138:25461/live/dimobln/Test123/21425.ts
 
 #EXTINF:-1 tvg-id="SpectrumSportsNetLA.us" tvg-name="Spectrum SportsNet HD" tvg-logo="https://1pvvpp2jnvcy2rs9592n4mtq-wpengine.netdna-ssl.com/wp-content/uploads/2017/10/Spectrum-SportSnetLA-logo.png" group-title="United States",Spectrum SportsNet Los Angeles HD
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/303224.ts
+http://54.39.53.138:25461/live/dimobln/Test123/22366.ts
 
 #EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben Maxx" group-title="DEUTSCH SPORT",ProSieben Maxx HD
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/256941.ts
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/45.ts
 
 #EXTINF:-1 tvg-id="sportdigital.de" tvg-name="Sportdigital HD" tvg-logo="" group-title="DEUTSCH SPORT",DE: SPORT DIGITAL HD
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/253631.ts
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/148.ts
 
 #EXTINF:-1 tvg-id="Sport1HD.de" tvg-name="SPORT1" tvg-logo="" group-title="DEUTSCH SPORT",DE: SPORT1 HD
-http://vapi.vaders.tv/play/79295.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6InN1cHBvcnQ4In0=
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/147.ts
 
 #EXTINF:-1 tvg-id="Eurosport2Xtra.de" tvg-name="Eurosport 2 HD Xtra" tvg-logo="" group-title="DEUTSCH SPORT",DE: EUROSPORT 2XTRA HD
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/263045.ts
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/142.ts
 
 #EXTINF:-1 tvg-id="SkySportNewsHD.de" tvg-name="Sky Sport News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Sky_Sport_News_HD_Logo_2016.png" group-title="DEUTSCH SPORT",DE: SKY SPORT NEWS HD
 http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/253734.ts
 
 #EXTINF:-1 tvg-id="SkyBundesliga.de" tvg-name="Sky Bundesliga 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Sky_Sport_Bundesliga_1_HD_Logo_2016.png" group-title="DEUTSCH SPORT",SKY BUNDESLIGA 1 HD
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/253489.ts
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/138.ts
 
 #EXTINF:-1 tvg-id="SkyBundesliga2.de" tvg-name="Sky Bundesliga 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Sky_Sport_Bundesliga_2_HD_Logo_2016.png" group-title="DEUTSCH SPORT",SKY BUNDESLIGA 2 HD
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/253486.ts
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/134.ts
 
 #EXTINF:-1 tvg-id="SkyBundesliga3.de" tvg-name="Sky Bundesliga 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Sky_Sport_Bundesliga_3_HD_Logo_2016.png" group-title="DEUTSCH SPORT",SKY BUNDESLIGA 3 HD
 http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/253484.ts
@@ -192,10 +192,10 @@ http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/253475.ts
 http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/253488.ts
 
 #EXTINF:-1 tvg-id="SkySport1.de" tvg-name="Sky Sport 1 DE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Sky_Sport_1_HD_-_Logo_2015.svg" group-title="DEUTSCH SPORT",SKY SPORT 1 HD
-http://link.comstar.tv:6969/live/0495397/8986543/29168.ts
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/120.ts
 
 #EXTINF:-1 tvg-id="SkySport2.de" tvg-name="Sky Sport 2 DE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Sky_Sport_2_HD_-_Logo_2015.svg" group-title="DEUTSCH SPORT",SKY SPORT 2 HD
-http://link.comstar.tv:6969/live/0495397/8986543/29166.ts
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/117.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Sky_Sport_3_HD_-_Logo_2015.svg" group-title="DEUTSCH SPORT",SKY SPORT 3 HD
 http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/253651.ts
@@ -234,109 +234,139 @@ http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/256879.ts
 http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/308758.ts
 
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN US" tvg-logo="" group-title="ESPN",ESPN HD
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/308910.ts
+http://54.39.53.138:25461/live/dimobln/Test123/23274.ts
 
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN2 US" tvg-logo="" group-title="ESPN",ESPN 2 HD
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/308909.ts
+http://54.39.53.138:25461/live/dimobln/Test123/5824.ts
 
 #EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPNU US" tvg-logo="" group-title="ESPN",ESPN U HD
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/308907.ts
+http://54.39.53.138:25461/live/dimobln/Test123/508.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 1 HD" tvg-logo="https://static1.squarespace.com/static/53aadc2ae4b09e753af34203/t/5a8c513be2c48381c8c625b7/1519145280958/ESPN-Plus-Logo.png" group-title="ESPN+",ESPN PLUS 1 HD
+http://54.39.53.138:25461/live/dimobln/Test123/14612.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 2 HD" tvg-logo="https://static1.squarespace.com/static/53aadc2ae4b09e753af34203/t/5a8c513be2c48381c8c625b7/1519145280958/ESPN-Plus-Logo.png" group-title="ESPN+",ESPN PLUS 2 HD
+http://54.39.53.138:25461/live/dimobln/Test123/14611.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 3 HD" tvg-logo="https://static1.squarespace.com/static/53aadc2ae4b09e753af34203/t/5a8c513be2c48381c8c625b7/1519145280958/ESPN-Plus-Logo.png" group-title="ESPN+",ESPN PLUS 3 HD
+http://54.39.53.138:25461/live/dimobln/Test123/14610.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 4 HD" tvg-logo="https://static1.squarespace.com/static/53aadc2ae4b09e753af34203/t/5a8c513be2c48381c8c625b7/1519145280958/ESPN-Plus-Logo.png" group-title="ESPN+",ESPN PLUS 4 HD
+http://54.39.53.138:25461/live/dimobln/Test123/14609.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 5 HD" tvg-logo="https://static1.squarespace.com/static/53aadc2ae4b09e753af34203/t/5a8c513be2c48381c8c625b7/1519145280958/ESPN-Plus-Logo.png" group-title="ESPN+",ESPN PLUS 5 HD
+http://54.39.53.138:25461/live/dimobln/Test123/14608.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 6 HD" tvg-logo="https://static1.squarespace.com/static/53aadc2ae4b09e753af34203/t/5a8c513be2c48381c8c625b7/1519145280958/ESPN-Plus-Logo.png" group-title="ESPN+",ESPN PLUS 6 HD
+http://54.39.53.138:25461/live/dimobln/Test123/14607.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 7 HD" tvg-logo="https://static1.squarespace.com/static/53aadc2ae4b09e753af34203/t/5a8c513be2c48381c8c625b7/1519145280958/ESPN-Plus-Logo.png" group-title="ESPN+",ESPN PLUS 7 HD
+http://54.39.53.138:25461/live/dimobln/Test123/14606.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 8 HD" tvg-logo="https://static1.squarespace.com/static/53aadc2ae4b09e753af34203/t/5a8c513be2c48381c8c625b7/1519145280958/ESPN-Plus-Logo.png" group-title="ESPN+",ESPN PLUS 8 HD
+http://54.39.53.138:25461/live/dimobln/Test123/14605.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 9 HD" tvg-logo="https://static1.squarespace.com/static/53aadc2ae4b09e753af34203/t/5a8c513be2c48381c8c625b7/1519145280958/ESPN-Plus-Logo.png" group-title="ESPN+",ESPN PLUS 9 HD
+http://54.39.53.138:25461/live/dimobln/Test123/14604.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 10 HD" tvg-logo="https://static1.squarespace.com/static/53aadc2ae4b09e753af34203/t/5a8c513be2c48381c8c625b7/1519145280958/ESPN-Plus-Logo.png" group-title="ESPN+",ESPN PLUS 10 HD
+http://54.39.53.138:25461/live/dimobln/Test123/14603.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 11 HD" tvg-logo="https://static1.squarespace.com/static/53aadc2ae4b09e753af34203/t/5a8c513be2c48381c8c625b7/1519145280958/ESPN-Plus-Logo.png" group-title="ESPN+",ESPN PLUS 11 HD
+http://54.39.53.138:25461/live/dimobln/Test123/14602.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 12 HD" tvg-logo="https://static1.squarespace.com/static/53aadc2ae4b09e753af34203/t/5a8c513be2c48381c8c625b7/1519145280958/ESPN-Plus-Logo.png" group-title="ESPN+",ESPN PLUS 12 HD
+http://54.39.53.138:25461/live/dimobln/Test123/14601.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 13 HD" tvg-logo="https://static1.squarespace.com/static/53aadc2ae4b09e753af34203/t/5a8c513be2c48381c8c625b7/1519145280958/ESPN-Plus-Logo.png" group-title="ESPN+",ESPN PLUS 13 HD
+http://54.39.53.138:25461/live/dimobln/Test123/14600.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 14 HD" tvg-logo="https://static1.squarespace.com/static/53aadc2ae4b09e753af34203/t/5a8c513be2c48381c8c625b7/1519145280958/ESPN-Plus-Logo.png" group-title="ESPN+",ESPN PLUS 14 HD
+http://54.39.53.138:25461/live/dimobln/Test123/14599.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 15 HD" tvg-logo="https://static1.squarespace.com/static/53aadc2ae4b09e753af34203/t/5a8c513be2c48381c8c625b7/1519145280958/ESPN-Plus-Logo.png" group-title="ESPN+",ESPN PLUS 15 HD
+http://54.39.53.138:25461/live/dimobln/Test123/14598.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 16 HD" tvg-logo="https://static1.squarespace.com/static/53aadc2ae4b09e753af34203/t/5a8c513be2c48381c8c625b7/1519145280958/ESPN-Plus-Logo.png" group-title="ESPN+",ESPN PLUS 16 HD
+http://54.39.53.138:25461/live/dimobln/Test123/14597.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 17 HD" tvg-logo="https://static1.squarespace.com/static/53aadc2ae4b09e753af34203/t/5a8c513be2c48381c8c625b7/1519145280958/ESPN-Plus-Logo.png" group-title="ESPN+",ESPN PLUS 17 HD
+http://54.39.53.138:25461/live/dimobln/Test123/14596.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 18 HD" tvg-logo="https://static1.squarespace.com/static/53aadc2ae4b09e753af34203/t/5a8c513be2c48381c8c625b7/1519145280958/ESPN-Plus-Logo.png" group-title="ESPN+",ESPN PLUS 18 HD
+http://54.39.53.138:25461/live/dimobln/Test123/14595.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 19 HD" tvg-logo="https://static1.squarespace.com/static/53aadc2ae4b09e753af34203/t/5a8c513be2c48381c8c625b7/1519145280958/ESPN-Plus-Logo.png" group-title="ESPN+",ESPN PLUS 19 HD
+http://54.39.53.138:25461/live/dimobln/Test123/14594.ts
 
 #EXTINF:-1 tvg-id="NBCSportsNetwork.us" tvg-name="" tvg-logo="" group-title="NBC SPORTS",NBC Sports Network HD
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/305124.ts
+http://54.39.53.138:25461/live/dimobln/Test123/21970.ts
 
 #EXTINF:-1 tvg-id="NBCSportsChicago.us" tvg-name="" tvg-logo="" group-title="NBC SPORTS",NBC Sports Chicago HD
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/307387.ts
+http://54.39.53.138:25461/live/dimobln/Test123/28546.ts
 
 #EXTINF:-1 tvg-id="NBCSportsPhiladelphia.us" tvg-name="" tvg-logo="" group-title="NBC SPORTS",NBC Sports Philadelphia HD
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/308832.ts
+http://54.39.53.138:25461/live/dimobln/Test123/28543.ts
 
 #EXTINF:-1 tvg-id="NBCSportsCalifornia.us" tvg-name="" tvg-logo="" group-title="NBC SPORTS",NBC Sports California HD
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/308836.ts
+http://54.39.53.138:25461/live/dimobln/Test123/28547.ts
 
 #EXTINF:-1 tvg-id="NBCSportsNorthwest.us" tvg-name="" tvg-logo="" group-title="NBC SPORTS",NBC Sports Northwest HD
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/308833.ts
+http://54.39.53.138:25461/live/dimobln/Test123/28544.ts
 
 #EXTINF:-1 tvg-id="NBCSportsBayArea.us" tvg-name="" tvg-logo="" group-title="NBC SPORTS",NBC Sports Bay Area HD
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/308838.ts
+http://54.39.53.138:25461/live/dimobln/Test123/28548.ts
 
 #EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-name="" tvg-logo="" group-title="NBC SPORTS",NBC Sports Boston HD
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/308837.ts
-
-#EXTINF:-1 tvg-id="NBCSNWashington.us" tvg-name="" tvg-logo="" group-title="NBC SPORTS",NBC Sports Washington HD
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/307385.ts
+http://54.39.53.138:25461/live/dimobln/Test123/28545.ts
 
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="" tvg-logo="" group-title="FOX SPORTS",FOX Sports 1 HD
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/308896.ts
+http://54.39.53.138:25461/live/dimobln/Test123/525.ts
 
 #EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="" tvg-logo="" group-title="FOX SPORTS",FOX Sports 2 HD
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/308894.ts
+http://54.39.53.138:25461/live/dimobln/Test123/524.ts
 
 #EXTINF:-1 tvg-id="FoxSportsArizona.us" tvg-name="" tvg-logo="" group-title="FOX SPORTS",FOX Sports Arizona HD
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/221892.ts
+http://54.39.53.138:25461/live/dimobln/Test123/147.ts
 
 #EXTINF:-1 tvg-id="FoxSportsDetroit.us" tvg-name="" tvg-logo="" group-title="FOX SPORTS",FOX Sports Detroit HD
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/221890.ts
-
-#EXTINF:-1 tvg-id="FoxSportsFlorida.us" tvg-name="" tvg-logo="" group-title="FOX SPORTS",FOX Sports Florida HD
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/221889.ts
+http://54.39.53.138:25461/live/dimobln/Test123/145.ts
 
 #EXTINF:-1 tvg-id="FoxSportsMidwest.us" tvg-name="" tvg-logo="" group-title="FOX SPORTS",FOX Sports Midwest HD
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/221887.ts
+http://54.39.53.138:25461/live/dimobln/Test123/143.ts
 
 #EXTINF:-1 tvg-id="FoxSportsNorth.us" tvg-name="" tvg-logo="" group-title="FOX SPORTS",FOX Sports North HD
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/221886.ts
+http://54.39.53.138:25461/live/dimobln/Test123/141.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FOX SPORTS",FOX Sports Ohio HD
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/221885.ts
+http://54.39.53.138:25461/live/dimobln/Test123/140.ts
 
 #EXTINF:-1 tvg-id="FoxSportsPrimeTicket.us" tvg-name="" tvg-logo="" group-title="FOX SPORTS",FOX Sports Prime Ticket HD
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/221884.ts
-
-#EXTINF:-1 tvg-id="FoxSportsSanDiego.us" tvg-name="" tvg-logo="" group-title="FOX SPORTS",FOX Sports San Diego HD
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/221883.ts
+http://54.39.53.138:25461/live/dimobln/Test123/523.ts
 
 #EXTINF:-1 tvg-id="FoxSportsSouth.us" tvg-name="" tvg-logo="" group-title="FOX SPORTS",FOX Sports South HD
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/221882.ts
+http://54.39.53.138:25461/live/dimobln/Test123/138.ts
 
 #EXTINF:-1 tvg-id="FoxSportsSoutheast.us" tvg-name="" tvg-logo="" group-title="FOX SPORTS",FOX Sports Southeast HD
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/221881.ts
+http://54.39.53.138:25461/live/dimobln/Test123/139.ts
 
 #EXTINF:-1 tvg-id="FoxSportsSouthwest.us" tvg-name="" tvg-logo="" group-title="FOX SPORTS",FOX Sports Southwest HD
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/221880.ts
+http://54.39.53.138:25461/live/dimobln/Test123/137.ts
 
 #EXTINF:-1 tvg-id="FoxSportsSun.us" tvg-name="" tvg-logo="" group-title="FOX SPORTS",FOX Sports Sun HD
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/221879.ts
+http://54.39.53.138:25461/live/dimobln/Test123/135.ts
 
 #EXTINF:-1 tvg-id="FoxSports.us" tvg-name="" tvg-logo="" group-title="FOX SPORTS",FOX Sports West HD
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/221877.ts
+http://54.39.53.138:25461/live/dimobln/Test123/133.ts
 
 #EXTINF:-1 tvg-id="FoxSportsWisconsin.us" tvg-name="" tvg-logo="" group-title="FOX SPORTS",FOX Sports Wisconsin HD
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/221876.ts
+http://54.39.53.138:25461/live/dimobln/Test123/132.ts
 
 #EXTINF:-1 tvg-id="FOX.us" tvg-name="" tvg-logo="" group-title="FOX LOCAL",FOX 5 New York HD
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/308905.ts
+http://54.39.53.138:25461/live/dimobln/Test123/21337.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FOX LOCAL",FOX 2 Detroit HD
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/300404.ts
+http://54.39.53.138:25461/live/dimobln/Test123/21362.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FOX LOCAL",FOX 4 Dallas HD
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/300419.ts
+http://54.39.53.138:25461/live/dimobln/Test123/21304.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FOX LOCAL",FOX 32 Chicago HD
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/313461.ts
+http://54.39.53.138:25461/live/dimobln/Test123/21378.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FOX LOCAL",FOX 13 Tampa Bay HD
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/300393.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FOX LOCAL",FOX 13 Seattle HD
+http://54.39.53.138:25461/live/dimobln/Test123/21285.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FOX LOCAL",FOX 29 Philadelphia HD
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/300392.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FOX LOCAL",FOX 25 Boston HD
+http://54.39.53.138:25461/live/dimobln/Test123/21375.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FOX LOCAL",FOX 35 Salinas HD
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/310633.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FOX LOCAL",FOX 8 New Orleans HD
+http://54.39.53.138:25461/live/dimobln/Test123/21380.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CBS LOCAL",CBS 2 New York HD
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/308947.ts
+http://54.39.53.138:25461/live/dimobln/Test123/21338.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NFL",CBS 2 New York HD
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/308947.ts
+http://54.39.53.138:25461/live/dimobln/Test123/21338.ts
