@@ -1,11 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 TR" tvg-logo="https://static.iptv-epg.com/tr/TRT1.tr.png" group-title="Türkiye", TRT 1 
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/369.ts
-#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV TR" tvg-logo="https://static.iptv-epg.com/tr/ATV.tr.png" group-title="Türkiye", ATV 
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/191.ts
-#EXTINF:-1 tvg-id="Fox.tr" tvg-name="Fox TR" tvg-logo="https://static.iptv-epg.com/tr/Fox.tr.png" group-title="Türkiye", FOX 
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/179.ts
-#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show TV TR" tvg-logo="https://static.iptv-epg.com/tr/ShowTV.tr.png" group-title="Türkiye", SHOW 
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/188.ts
-#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="Star TV TR" tvg-logo="https://static.iptv-epg.com/tr/StarTV.tr.png" group-title="Türkiye", STAR HD 
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/186.ts"
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 TR" tvg-logo="https://static.iptv-epg.com/tr/TRT1.tr.png" group-title="Türkiye", TRT 1 http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/369.ts
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV TR" tvg-logo="https://static.iptv-epg.com/tr/ATV.tr.png" group-title="Türkiye", ATV http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/191.ts
+#EXTINF:-1 tvg-id="Fox.tr" tvg-name="Fox TR" tvg-logo="https://static.iptv-epg.com/tr/Fox.tr.png" group-title="Türkiye", FOX http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/179.ts
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show TV TR" tvg-logo="https://static.iptv-epg.com/tr/ShowTV.tr.png" group-title="Türkiye", SHOW http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/188.ts
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="Star TV TR" tvg-logo="https://static.iptv-epg.com/tr/StarTV.tr.png" group-title="Türkiye", STAR HD http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/186.ts"
