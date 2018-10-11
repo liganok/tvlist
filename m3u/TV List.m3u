@@ -51,49 +51,46 @@ http://54.39.53.138:25461/live/dimobln/Test123/19941.ts
 http://54.39.53.138:25461/live/dimobln/Test123/19940.ts
 
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Trt1yenilogo.png" group-title="Turkey",TRT 1 HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/369.ts
+https://blutv-beta.akamaized.net/trt1hd/trt1hd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Atv_logosu.png" group-title="Turkey",ATV HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/191.ts
+https://blutv-beta.akamaized.net/atvhd/atvhd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Fox.tr" tvg-name="Fox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/1832px-FOX_wordmark-red.svg.png" group-title="Turkey",FOX HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/179.ts
+https://blutv-beta.akamaized.net/foxtvhd/foxtvhd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png" group-title="Turkey",SHOW HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/188.ts
+https://blutv-beta.akamaized.net/showhd/showtvhd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Star.tr" tvg-name="STAR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/StarTV.svg/512px-StarTV.svg.png" group-title="Turkey",STAR HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/186.ts
+https://blutv-beta.akamaized.net/startvhd/startvhd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/c/ca/Kanal_D.svg/276px-Kanal_D.svg.png" group-title="Turkey",KANAL D HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/184.ts
+https://blutv-beta.akamaized.net/kanaldhd/kanaldhd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="Turkey",TV 8 HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/182.ts
+https://blutv-beta.akamaized.net/tv8hd/tv8hd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV2.tr" tvg-name="Tv2" tvg-logo="" group-title="Turkey",TV 2 HD
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/93196.ts
-
-#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-name="BEYAZ TV" tvg-logo="" group-title="Turkey",BEYAZ TV HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/176.ts
+https://blutv-beta.akamaized.net/teve2hd/teve2hd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FBTV.tr" tvg-name="FB TV" tvg-logo="" group-title="Turkey",Fenerbahçe TV HD
 http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/3442.ts
 
 #EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" group-title="Turkey",NTV HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/171.ts
+https://blutv-beta.akamaized.net/ntvhd/ntvhd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNNTURK.tr" tvg-name="CNN TÜRK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_Türk_logo.svg/512px-CNN_Türk_logo.svg.png" group-title="Turkey",CNN Türk HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/172.ts
+https://blutv-beta.akamaized.net/cnnturkhd/cnnturkhd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HalkTV.tr" tvg-name="Halk TV" tvg-logo="" group-title="Turkey",Halk TV
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/291.ts
+https://blutv-beta.akamaized.net/halktv/halktv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HABERTURK.tr" tvg-name="HABERTURK" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/43/Habertürk_TV_logosu.png" group-title="Turkey",HaberTürk HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/168.ts
+https://blutv-beta.akamaized.net/haberturkhd/haberturkhd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PowerTVTurk.tr" tvg-name="POWERTURK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a8/Powertürk_TV_logosu.png" group-title="Turkey",POWERTÜRK HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/162.ts
+https://blutv-beta.akamaized.net/powerturkhd/powerturkhd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-name="TRT Müzik" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/TRT_Müzik_kurumsal_logo.png/2880px-TRT_Müzik_kurumsal_logo.png" group-title="Turkey",TRT MÜZIK
 http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/3396.ts
