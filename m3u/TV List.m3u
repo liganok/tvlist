@@ -1,54 +1,68 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="BBCOneHD.uk" tvg-name="BBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/BBC_One_logo.svg/937px-BBC_One_logo.svg.png" group-title="United Kingdom",BBC 1 HD
-http://54.39.53.138:25461/live/dimobln/Test123/26823.ts
+http://tv.saveiptv.iptv.uno:80/live/starbcn/FmWCxB0482/1994.ts
 
 #EXTINF:-1 tvg-id="BBC2.uk" tvg-name="BBC Two" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/b/b9/Bbctwo-logo2007.svg/709px-Bbctwo-logo2007.svg.png" group-title="United Kingdom",BBC 2 HD
-http://54.39.53.138:25461/live/dimobln/Test123/26812.ts
+http://tv.saveiptv.iptv.uno:80/live/starbcn/FmWCxB0482/12347.ts
 
 #EXTINF:-1 tvg-id="BBCNews.nws" tvg-name="BBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/BBC_News.svg/1280px-BBC_News.svg.png" group-title="United Kingdom",BBC News HD
-http://54.39.53.138:25461/live/dimobln/Test123/26826.ts
+http://tv.saveiptv.iptv.uno:80/live/starbcn/FmWCxB0482/14701.ts
 
 #EXTINF:-1 tvg-id="ITV1London.uk" tvg-name="ITV1 London" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/ITV_HD_2013.svg/1200px-ITV_HD_2013.svg.png" group-title="United Kingdom",ITV 1 HD
-http://54.39.53.138:25461/live/dimobln/Test123/26739.ts
+http://tv.saveiptv.iptv.uno:80/live/starbcn/FmWCxB0482/1995.ts
 
 #EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/ITV2_logo_2015.png" group-title="United Kingdom",ITV 2 HD
-http://54.39.53.138:25461/live/dimobln/Test123/26738.ts
+http://tv.saveiptv.iptv.uno:80/live/starbcn/FmWCxB0482/18899.ts
 
 #EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="Sky Sports News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Sky_Sports_News_logo.svg/512px-Sky_Sports_News_logo.svg.png" group-title="UK Sport",Sky Sports News HD
-http://54.39.53.138:25461/live/dimobln/Test123/19918.ts
+http://tv.saveiptv.iptv.uno:80/live/starbcn/FmWCxB0482/1954.ts
 
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event HD" tvg-logo="https://image.ibb.co/cMYmxK/images.jpg" group-title="UK Sport",Sky Sports Main Event HD
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/143902.ts
+http://tv.saveiptv.iptv.uno:80/live/starbcn/FmWCxB0482/14651.ts
 
 #EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football HD" tvg-logo="https://e3.365dm.com/tvlogos/channels/3838-Logo.svg?U2t5IFNwb3J0cyBGb290YmFsbA==" group-title="UK Sport",Sky Sports Football HD
-http://54.39.53.138:25461/live/dimobln/Test123/19972.ts
+http://tv.saveiptv.iptv.uno:80/live/starbcn/FmWCxB0482/16970.ts
 
 #EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="Sky Sports Premier League HD" tvg-logo="https://e3.365dm.com/tvlogos/channels/1303-Logo.svg?U2t5IFNwb3J0cyBQcmVtaWVyIExlYWd1ZQ==" group-title="UK Sport",Sky Sports Premier League HD
-http://54.39.53.138:25461/live/dimobln/Test123/19965.ts
+http://tv.saveiptv.iptv.uno:80/live/starbcn/FmWCxB0482/14655.ts
 
 #EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="Sky Sports Action HD" tvg-logo="https://e3.365dm.com/tvlogos/channels/1333-Logo.svg?U2t5IFNwb3J0cyBBY3Rpb24=" group-title="UK Sport",Sky Sports Action HD
-http://vapi.vaders.tv/play/2480.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6InN1cHBvcnQ4In0=
+http://tv.saveiptv.iptv.uno:80/live/starbcn/FmWCxB0482/14653.ts
 
 #EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="Sky Sports Arena HD" tvg-logo="https://e3.365dm.com/tvlogos/channels/3839-Logo.svg?U2t5IFNwb3J0cyBBcmVuYQ==" group-title="UK Sport",Sky Sports Arena HD
-http://vapi.vaders.tv/play/42361.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6InN1cHBvcnQ4In0=
+http://tv.saveiptv.iptv.uno:80/live/starbcn/FmWCxB0482/16969.ts
 
 #EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="Sky Sports Cricket HD" tvg-logo="https://e3.365dm.com/tvlogos/channels/1302-Logo.svg?U2t5IFNwb3J0cyBDcmlja2V0" group-title="UK Sport",Sky Sports Cricket HD
-http://vapi.vaders.tv/play/2479.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6InN1cHBvcnQ4In0=
+http://tv.saveiptv.iptv.uno:80/live/starbcn/FmWCxB0482/14652.ts
 
 #EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="Sky Sports Mix HD" tvg-logo="https://e3.365dm.com/tvlogos/channels/4091-Logo.svg?U2t5IFNwb3J0cyBNaXg=" group-title="UK Sport",Sky Sports Mix HD
 http://vapi.vaders.tv/play/37235.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6InN1cHBvcnQ4In0=
 
 #EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="BT Sport 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/BTSPORT_1_BLACK_RGB.png/1600px-BTSPORT_1_BLACK_RGB.png" group-title="UK Sport",BT Sport 1 HD
-http://54.39.53.138:25461/live/dimobln/Test123/19943.ts
+http://tv.saveiptv.iptv.uno:80/live/starbcn/FmWCxB0482/14657.ts
 
 #EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="BT Sport 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/BTSPORT_2_BLACK_RGB.png/1600px-BTSPORT_2_BLACK_RGB.png" group-title="UK Sport",BT Sport 2 HD
-http://54.39.53.138:25461/live/dimobln/Test123/19942.ts
+http://tv.saveiptv.iptv.uno:80/live/starbcn/FmWCxB0482/14658.ts
 
 #EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="BT Sport 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/BTSPORT_3_BLACK_RGB.png/1600px-BTSPORT_3_BLACK_RGB.png" group-title="UK Sport",BT Sport 3 HD
-http://54.39.53.138:25461/live/dimobln/Test123/19941.ts
+http://tv.saveiptv.iptv.uno:80/live/starbcn/FmWCxB0482/14659.ts
 
 #EXTINF:-1 tvg-id="BTSportESPN.uk" tvg-name="BT Sport ESPN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/BTSPORT_3_BLACK_RGB.png/1600px-BTSPORT_3_BLACK_RGB.png" group-title="UK Sport",BT Sport ESPN HD
-http://54.39.53.138:25461/live/dimobln/Test123/19940.ts
+http://tv.saveiptv.iptv.uno:80/live/starbcn/FmWCxB0482/1980.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport Extra 1" tvg-logo="" group-title="UK Sport",BT Sport Extra 1
+http://tv.saveiptv.iptv.uno:80/live/starbcn/FmWCxB0482/14778.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport Extra 2" tvg-logo="" group-title="UK Sport",BT Sport Extra 2
+http://tv.saveiptv.iptv.uno:80/live/starbcn/FmWCxB0482/14809.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport Extra 3" tvg-logo="" group-title="UK Sport",BT Sport Extra 3
+http://tv.saveiptv.iptv.uno:80/live/starbcn/FmWCxB0482/14808.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport Extra 4" tvg-logo="" group-title="UK Sport",BT Sport Extra 4
+
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport Extra 5" tvg-logo="" group-title="UK Sport",BT Sport Extra 5
+http://tv.saveiptv.iptv.uno:80/live/starbcn/FmWCxB0482/14806.ts
 
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Trt1yenilogo.png" group-title="Turkey",TRT 1 HD
 https://blutv-beta.akamaized.net/trt1hd/trt1hd.smil/playlist.m3u8
@@ -102,16 +116,16 @@ http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/164.ts
 http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/692.ts
 
 #EXTINF:-1 tvg-id="beINSports1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/64/BeIN_SPORTS_HD_1_2018_logo.jpg" group-title="Turkey",BEIN Sports 1 HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/2704.ts
+http://tv.saveiptv.iptv.uno:80/live/starbcn/FmWCxB0482/17739.ts
 
 #EXTINF:-1 tvg-id="beINSports2.tr" tvg-name="beIN SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/cb/BeIN_SPORTS_HD_2_2018_logo.jpg" group-title="Turkey",BEIN Sports 2 HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/2703.ts
+http://tv.saveiptv.iptv.uno:80/live/starbcn/FmWCxB0482/17740.ts
 
 #EXTINF:-1 tvg-id="beINSports3.tr" tvg-name="beIN SPORTS 3" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/85/BeIN_SPORTS_HD_3_2018_logo1.jpg" group-title="Turkey",BEIN Sports 3 HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/2702.ts
+http://tv.saveiptv.iptv.uno:80/live/starbcn/FmWCxB0482/17741.ts
 
 #EXTINF:-1 tvg-id="beINSports4.tr" tvg-name="beIN SPORTS 4" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b9/BeIN_SPORTS_HD_4_2018_logo1.jpg" group-title="Turkey",BEIN Sports 4 HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/2701.ts
+http://tv.saveiptv.iptv.uno:80/live/starbcn/FmWCxB0482/19038.ts
 
 #EXTINF:-1 tvg-id="SmartSpor1.tr" tvg-name="Smart Spor 1" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b2/SporSMART_HD_logo.png" group-title="Turkey",SMARTSPOR HD
 http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/680.ts
@@ -129,13 +143,13 @@ http://54.39.53.138:25461/live/dimobln/Test123/4962.ts
 http://54.39.53.138:25461/live/dimobln/Test123/5088.ts
 
 #EXTINF:-1 tvg-id="KNBCLosAngelesNBCHDWest.us" tvg-name="KNBC (Los Angeles) NBC HD West" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/KNBC_4_logo.png" group-title="United States",NBC 4 Los Angeles HD 
-http://54.39.53.138:25461/live/dimobln/Test123/4935.ts
+http://tv.saveiptv.iptv.uno:80/live/starbcn/FmWCxB0482/23229.ts
 
 #EXTINF:-1 tvg-id="KABCLosAngelesABCHDWest.us" tvg-name="KABC (Los Angeles) ABC HD West" tvg-logo="https://static.iptv-epg.com/us/ABC7KABCTV.us.png" group-title="United States",ABC 7 Los Angeles HD
-http://54.39.53.138:25461/live/dimobln/Test123/21426.ts
+http://tv.saveiptv.iptv.uno:80/live/starbcn/FmWCxB0482/23244.ts
 
 #EXTINF:-1 tvg-id="KCBSLosAngelesCBSHDWest.us" tvg-name="KCBS (Los Angeles) CBS HD West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/CBS_2.png" group-title="United States",CBS 2 Los Angeles HD
-http://54.39.53.138:25461/live/dimobln/Test123/21427.ts
+http://tv.saveiptv.iptv.uno:80/live/starbcn/FmWCxB0482/23249.ts
 
 #EXTINF:-1 tvg-id="KTTVLosAngelesFOXHDWest.us" tvg-name="KTTV (Los Angeles) FOX HD West" tvg-logo="http://www.uniondevecinos.org/wp-content/uploads/2016/07/logo-fox-11-los-angeles-kttv-alt.png" group-title="United States",FOX 11 Los Angeles HD
 http://54.39.53.138:25461/live/dimobln/Test123/21425.ts
@@ -153,7 +167,7 @@ http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/148.ts
 http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/147.ts
 
 #EXTINF:-1 tvg-id="Eurosport2Xtra.de" tvg-name="Eurosport 2 HD Xtra" tvg-logo="" group-title="DEUTSCH SPORT",DE: EUROSPORT 2XTRA HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/142.ts
+http://tv.saveiptv.iptv.uno:80/live/starbcn/FmWCxB0482/19099.ts
 
 #EXTINF:-1 tvg-id="SkySportNewsHD.de" tvg-name="Sky Sport News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Sky_Sport_News_HD_Logo_2016.png" group-title="DEUTSCH SPORT",DE: SKY SPORT NEWS HD
 http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/253734.ts
@@ -189,13 +203,13 @@ http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/253475.ts
 http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/253488.ts
 
 #EXTINF:-1 tvg-id="SkySport1.de" tvg-name="Sky Sport 1 DE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Sky_Sport_1_HD_-_Logo_2015.svg" group-title="DEUTSCH SPORT",SKY SPORT 1 HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/120.ts
+http://tv.saveiptv.iptv.uno:80/live/starbcn/FmWCxB0482/7326.ts
 
 #EXTINF:-1 tvg-id="SkySport2.de" tvg-name="Sky Sport 2 DE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Sky_Sport_2_HD_-_Logo_2015.svg" group-title="DEUTSCH SPORT",SKY SPORT 2 HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/86gh21GsBr/117.ts
+http://tv.saveiptv.iptv.uno:80/live/starbcn/FmWCxB0482/7327.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Sky_Sport_3_HD_-_Logo_2015.svg" group-title="DEUTSCH SPORT",SKY SPORT 3 HD
-http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/253651.ts
+http://tv.saveiptv.iptv.uno:80/live/starbcn/FmWCxB0482/7328.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Sky_Sport_4_HD_Logo_2016.png" group-title="DEUTSCH SPORT",SKY SPORT 4 HD
 http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/253650.ts
