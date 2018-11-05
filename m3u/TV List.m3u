@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="BBCOneHD.uk" tvg-name="BBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/BBC_One_logo.svg/937px-BBC_One_logo.svg.png" group-title="United Kingdom",BBC 1 HD
-http://tv.saveiptv.iptv.uno:80/live/starbcn/FmWCxB0482/1994.ts
+https://fra3-0-dash-live.zahs.tv/HD_bbc1/manifest.mpd?z32=MNZWSZB5GE2TMNBVGRBEINKFIVCTKOJWIMWTEQJWIEYTQMZWIUZEMQRRIE4DGJTTNFTT2NBVGQYDMYZSGJRTMYZZGZSTQOBWMI4DGOJZMUYDMZBUMU4DSYRR
 
 #EXTINF:-1 tvg-id="BBC2.uk" tvg-name="BBC Two" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/b/b9/Bbctwo-logo2007.svg/709px-Bbctwo-logo2007.svg.png" group-title="United Kingdom",BBC 2 HD
 http://tv.saveiptv.iptv.uno:80/live/starbcn/FmWCxB0482/12347.ts
@@ -203,7 +203,7 @@ http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/253475.ts
 http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/253488.ts
 
 #EXTINF:-1 tvg-id="SkySport1.de" tvg-name="Sky Sport 1 DE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Sky_Sport_1_HD_-_Logo_2015.svg" group-title="DEUTSCH SPORT",SKY SPORT 1 HD
-http://tv.saveiptv.iptv.uno:80/live/starbcn/FmWCxB0482/7326.ts
+https://fra3-2-dash-live.zahs.tv/HD_sky_sport_1_de/manifest.mpd?z32=MNZWSZB5GE2TMNBVGRBDEQJSGE3EEM2CIYWTKNKDIEYUGNSCIFCDCMJWGNDDMJTTNFTT2ZRZHFQTKOBXMRRGGMBRGIYTSZJWGRRDOZBWGJTGINLGGFSTCNJR
 
 #EXTINF:-1 tvg-id="SkySport2.de" tvg-name="Sky Sport 2 DE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Sky_Sport_2_HD_-_Logo_2015.svg" group-title="DEUTSCH SPORT",SKY SPORT 2 HD
 http://tv.saveiptv.iptv.uno:80/live/starbcn/FmWCxB0482/7327.ts
