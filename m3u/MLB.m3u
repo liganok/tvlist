@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="SkySportNewsHD.de" tvg-name="Sky Sport News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Sky_Sport_News_HD_Logo_2016.png" group-title="SKY",DE: SKY SPORT NEWS HD
+#EXTINF:-1 tvg-id="SkySportNewsHD.de" tvg-name="Sky Sport News HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/sky_logo_sky-sport-buli1-hd.png" group-title="SKY",DE: SKY SPORT NEWS HD
 https://fr5-3-dash-live.zahs.tv/HD_sky_sport_news_de/manifest.mpd?z32=MNZWSZB5GE2TMNJZG5BDQMJZIU4ECMRXIYWTCQZUGVDDEQSDHEZDEOBUIRBSM43JM46TKMJZMFTDONDDGBTDOMZQGA3TCNTFGFTDCNRQGRQTOOJRGEYGENY
 
 #EXTINF:-1 tvg-id="SkyBundesliga.de" tvg-name="Sky Bundesliga 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Sky_Sport_Bundesliga_1_HD_Logo_2016.png" group-title="SKY",SKY BUNDESLIGA 1 HD
