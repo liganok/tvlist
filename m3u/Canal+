@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Canal%2B_Sport_logo_2009.svg/1200px-Canal%2B_Sport_logo_2009.svg.png" group-title="Canal+",Canal+ Sport
+https://fr5-4-dash-live.zahs.tv/HD_canalF_canal_plus_sport/manifest.mpd?z32=MNZWSZB5GE2TMNKDGE2DCMBXIEZDSMRVIQWTONKCIIYEGOCBGEYEGNCGGY4UMJTTNFTT2N3FMQZGCODDG42TSMZTGAYWIOJXGNRGIOBWGYZTEOLGGVSWCMZS
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3b/Logo_RMC_Sport_1_2018.svg/1598px-Logo_RMC_Sport_1_2018.svg.png" group-title="Canal+",RMC Sport 1
+https://fra3-0-dash-live.zahs.tv/HD_rmc_sport_1_fr/manifest.mpd?z32=MNZWSZB5GE2TMNKDGBCTERJZIEZTANRXGYWTOOCBIVDDQMKDGBATERBZGJCTIJTTNFTT2MJUMU2DMNJVGNSGCMLGHFSGEZTDMU2TSOJSMRRTQMJYMIZWEZTB
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3a/Logo_RMC_Sport_2_2018.svg/1280px-Logo_RMC_Sport_2_2018.svg.png" group-title="Canal+",RMC Sport 2
+https://fra3-2-dash-live.zahs.tv/HD_rmc_sport_2_fr/manifest.mpd?z32=MNZWSZB5GE2TMNKDGBDDGRBWIMYDENJYG4WTGRJUGBCDOMRWHAYDMQJQGAYTKJTTNFTT2MJSGI4WENLEGY3DGYZXGAZGKMDDMM3TAYRYGNRWMMRZGNQWCODD
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.firstonetv.net/images/logos/fr/RMCSPORT3.png" group-title="Canal+",RMC Sport 3
+https://fr5-3-dash-live.zahs.tv/HD_rmc_sport_3_fr/manifest.mpd?z32=MNZWSZB5GE2TMNKDGEZDGMSDGY2TQNSGGEWTOMRXGQ4DGMCDGYZTGQZVGMZUCJTTNFTT2NZQHBTDCOJXHE3TINZVGNTDCM3BME2DONRWMY2WMYZWMM2WIOBU
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/66/Logo_RMC_Sport_4_2018.svg/1280px-Logo_RMC_Sport_4_2018.svg.png" group-title="Canal+",RMC Sport 4
+https://fra3-0-dash-live.zahs.tv/HD_rmc_sport_4_fr/manifest.mpd?z32=MNZWSZB5GE2TMNKDGEZTQMBQIY2EERKFGMWTGOKFIFBDOQZTGY4UIN2CGFAUEJTTNFTT2YLDGQ2TOOLFG4YTEYZYHA2GENRTHFRWMYZUGM3DQOBVGEZDCOJY
