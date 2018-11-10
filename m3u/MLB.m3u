@@ -41,23 +41,23 @@ https://fra3-2-dash-live.zahs.tv/HD_sky_sport_2_de/manifest.mpd?z32=MNZWSZB5GE2T
 #EXTINF:-1 tvg-id="SkySport3.de" tvg-name="SKY SPORT 3 HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/sky_logo_sky-sport3-hd.png" group-title="SKY",SKY SPORT 3
 https://fra3-2-dash-live.zahs.tv/HD_sky_sport_3_de/manifest.mpd?z32=MNZWSZB5GE2TMNKDGA2TENJYGQ4TMMRZIIWTKNZTGZBDEMZSG4ZTKQJWIQ2DIJTTNFTT2MZRGI4GGZTBGU2DEN3DGU2GMZJSMFRTONDEGFSDIZBQGE3DCZBX
 
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Sky_Sport_4_HD_Logo_2016.png" group-title="SKY",SKY SPORT 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 4 HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/sky_logo_sky-sport4-hd.png" group-title="SKY",SKY SPORT 4 HD
 http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/253650.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 5 UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Sky_Sport_5_HD_Logo_2016.png" group-title="SKY",SKY SPORT 5 UHD
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 5 UHD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/sky_logo_sky-sport5-hd.png" group-title="SKY",SKY SPORT 5 UHD
 http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/109.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 6 UHD" tvg-logo="" group-title="SKY",SKY SPORT 6 UHD
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 6 UHD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/sky_logo_sky-sport6-hd.png" group-title="SKY",SKY SPORT 6
 http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/108.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 7 UHD" tvg-logo="" group-title="SKY",SKY SPORT 7 UHD
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 7 UHD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/sky_logo_sky-sport7-hd.png" group-title="SKY",SKY SPORT 7
 http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/107.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 8 UHD" tvg-logo="" group-title="SKY",SKY SPORT 8 UHD
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 8 UHD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/sky_logo_sky-sport8-hd.png" group-title="SKY",SKY SPORT 8
 http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/106.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 9 UHD" tvg-logo="" group-title="SKY",SKY SPORT 9 UHD
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 9 UHD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/sky_logo_sky-sport9-hd.png" group-title="SKY",SKY SPORT 9
 http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/105.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 10 UHD" tvg-logo="" group-title="SKY",SKY SPORT 10 UHD
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 10 UHD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/sky_logo_sky-sport10-hd.png" group-title="SKY",SKY SPORT 10
 http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/104.ts
