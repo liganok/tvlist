@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="SkySportNewsHD.de" tvg-name="Sky Sport News HD" tvg-logo="" group-title="SKY",SKY SPORT NEWS HD
 https://fr5-3-dash-live.zahs.tv/HD_sky_sport_news_de/manifest.mpd?z32=MNZWSZB5GE2TMNJZG5BDQMJZIU4ECMRXIYWTCQZUGVDDEQSDHEZDEOBUIRBSM43JM46TKMJZMFTDONDDGBTDOMZQGA3TCNTFGFTDCNRQGRQTOOJRGEYGENY
 
-#EXTINF:-1 tvg-id="SkyBundesliga.de" tvg-name="Sky Bundesliga 1" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/sky_logo_sky-sport-buli1-hd.png" group-title="SKY",SKY BUNDESLIGA 1
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 1" tvg-name="Sky Bundesliga HD 1" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/sky_logo_sky-sport-buli1-hd.png" group-title="SKY",SKY BUNDESLIGA 1
 https://fr5-1-dash-live.zahs.tv/HD_sky_bundesliga_1/manifest.mpd?z32=MNZWSZB5GE2TMNJZG44TSMJVIVCTOMCGIMWTGQKDIEZDOOBYGQ4TORBWHFCEGJTTNFTT2MJZGU2GCZLFGJSTANTEG5QWGNZZGRRWGZBQGM2WKZDCGAYDIOBQ
 
 #EXTINF:-1 tvg-id="SkyBundesliga2.de" tvg-name="Sky Bundesliga 2" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/sky_logo_sky-sport-buli2-hd.png" group-title="SKY",SKY BUNDESLIGA 2
