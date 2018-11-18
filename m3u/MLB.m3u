@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="SkySportNewsHD.de" tvg-name="Sky Sport News HD" tvg-logo="" group-title="SKY",SKY SPORT NEWS HD
-http://mc2http.zattoo.com/225.78.68.8/.63
+#EXTINF:-1 tvg-id="Sky Sport News DE" tvg-name="Sky Sport News HD" tvg-logo="" group-title="SKY",SKY SPORT NEWS HD
+https://fr5-0-dash-live.zahs.tv/HD_sky_sport_news_de/manifest.mpd?z32=MNZWSZB5GE2TMOBTHEYDIOCEIU3EKQSFGEWTGQRRGU2DSQRXIQ2DCNRUIZBUKJTTNFTT2MLBGIZTMNLEMEZDMOBWMU2DOMZXGA3GCMDEGEZTENLBMZRTIZDE
 
-#EXTINF:-1 tvg-id="Sky Bundesliga 1" tvg-name="Sky Bundesliga 1" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/sky_logo_sky-sport-buli1-hd.png" group-title="SKY",SKY BUNDESLIGA 1
-http://mc2http.zattoo.com/224.78.74.1/.23
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 1 HD DE" tvg-name="Sky Bundesliga 1" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/sky_logo_sky-sport-buli1-hd.png" group-title="SKY",SKY BUNDESLIGA 1
+https://fra3-0-dash-live.zahs.tv/HD_sky_bundesliga_1/manifest.mpd?z32=MNZWSZB5GE2TMOBTHBCTIMKFIVBEKRKBGUWTKQKGGI2UINRVGRCTONZQIRBDMJTTNFTT2NRUGVSDANBSMU4GGMBVMFQTSYZUHAZWGNZUMI2WKZTFGY2DON3C
 
-#EXTINF:-1 tvg-id="SkyBundesliga2.de" tvg-name="Sky Bundesliga 2" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/sky_logo_sky-sport-buli2-hd.png" group-title="SKY",SKY BUNDESLIGA 2
-http://mc2http.zattoo.com/224.1.0.15/.23
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 2 DE" tvg-name="Sky Bundesliga 2" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/sky_logo_sky-sport-buli2-hd.png" group-title="SKY",SKY BUNDESLIGA 2
+https://fr5-4-dash-live.zahs.tv/HD_sky_bundesliga_2/manifest.mpd?z32=MNZWSZB5GE2TMOBTHBCTQM2BGNATORCEGMWTIMJSIQ3TKMJWIJCTAQ2BGBASM43JM46TEZRTMUZTMNDCGU3TENZSMJTDAYLEMQ3WIMRZGFQWEZRRGFSGCNA
 
-#EXTINF:-1 tvg-id="SkyBundesliga3.de" tvg-name="Sky Bundesliga 3" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/sky_logo_sky-sport-buli3-hd.png" group-title="SKY",SKY BUNDESLIGA 3
-http://mc2http.zattoo.com/224.1.0.15/.23
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 3 DE" tvg-name="Sky Bundesliga 3" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/sky_logo_sky-sport-buli3-hd.png" group-title="SKY",SKY BUNDESLIGA 3
+https://fra3-0-dash-live.zahs.tv/HD_sky_bundesliga_3/manifest.mpd?z32=MNZWSZB5GE2TMOBTHBCUGNRQGMYUENKDGEWTCRJQGUYTENKFIFBECQRXHBBUEJTTNFTT2ZBTMI2DAZDCGFRWKYZUMNSDQNTCGNSTCOJVGI2DAZBUHAYTEMRW
 
-#EXTINF:-1 tvg-id="SkyBundesliga4.de" tvg-name="Sky Bundesliga 4" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/sky_logo_sky-sport-buli4-hd.png" group-title="SKY",SKY BUNDESLIGA 4
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 4 DE" tvg-name="Sky Bundesliga 4" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/sky_logo_sky-sport-buli4-hd.png" group-title="SKY",SKY BUNDESLIGA 4
 http://mc2http.zattoo.com/
 
 #EXTINF:-1 tvg-id="SkyBundesliga5.de" tvg-name="Sky Bundesliga 5" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/sky_logo_sky-sport-buli5-hd.png" group-title="SKY",SKY BUNDESLIGA 5
@@ -32,16 +32,16 @@ https://fr5-0-dash-live.zahs.tv/HD_sky_bundesliga_9/manifest.mpd?z32=MNZWSZB5GE2
 #EXTINF:-1 tvg-id="SkyBundesliga10.de" tvg-name="Sky Bundesliga 10" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/sky_logo_sky-sport-buli10-hd.png" group-title="SKY",SKY BUNDESLIGA 10
 https://fr5-2-dash-live.zahs.tv/HD_sky_bundesliga_10/manifest.mpd?z32=MNZWSZB5GE2TMNKDGAZUKQZSHBATOMBVGIWTKRSDHBCTENRUGMYEMOCDGJDCM43JM46WMZLBGFRDMN3DMYZDOZDDGVTDIOJVHEYWEYTFG43DMMBUHFTDQNA
 
-#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="Sky Sport 1 DE HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/sky_logo_sky-sport1-hd.png" group-title="SKY",SKY SPORT 1
-http://mc2http.zattoo.com/224.78.67.29/.23
+#EXTINF:-1 tvg-id="Sky Sport 1 HD DE" tvg-name="Sky Sport 1 DE HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/sky_logo_sky-sport1-hd.png" group-title="SKY",SKY SPORT 1
+https://fra3-0-dash-live.zahs.tv/HD_sky_sport_1_de/manifest.mpd?z32=MNZWSZB5GE2TMOBTHBDDGQJTHEZUGMJSGMWTEQJYGM4DEMKFG4YECQZQINCTIJTTNFTT2NJYMFRDIMJXHE3TMNBRGJSDSMZRGU2TOMBUGEZDMNTEMFRWGNLB
 
-#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="Sky Sport 2 DE HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/sky_logo_sky-sport2-hd.png" group-title="SKY",SKY SPORT 2
-http://mc2http.zattoo.com/224.78.73.2/.23
+#EXTINF:-1 tvg-id="Sky Sport 2 HD DE" tvg-name="Sky Sport 2 DE HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/sky_logo_sky-sport2-hd.png" group-title="SKY",SKY SPORT 2
+https://fr5-0-dash-live.zahs.tv/HD_sky_sport_2_de/manifest.mpd?z32=MNZWSZB5GE2TMOBTHBDDORRVIVCUGMZTIQWTIQ2DGIYEKNKEHBBECMRRIU2TGJTTNFTT2OJXGY2WCMRTGA3TGOJRGU2TGYJXGM2TEMTGGE2TEZJTGYYDSNDB
 
-#EXTINF:-1 tvg-id="SkySport3.de" tvg-name="SKY SPORT 3 HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/sky_logo_sky-sport3-hd.png" group-title="SKY",SKY SPORT 3
+#EXTINF:-1 tvg-id="Sky Sport 3 DE" tvg-name="SKY SPORT 3 HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/sky_logo_sky-sport3-hd.png" group-title="SKY",SKY SPORT 3
 http://mc2http.zattoo.com/224.1.0.15/.23
 
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 4 HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/sky_logo_sky-sport4-hd.png" group-title="SKY",SKY SPORT 4
+#EXTINF:-1 tvg-id="Sky Sport 4 DE" tvg-name="SKY SPORT 4 HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/sky_logo_sky-sport4-hd.png" group-title="SKY",SKY SPORT 4
 http://stellartv.xyz:83/live/7974964018/1l8Us9Pw9w/253650.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 5 UHD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/sky_logo_sky-sport5-hd.png" group-title="SKY",SKY SPORT 5
