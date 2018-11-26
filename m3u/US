@@ -1,0 +1,18 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Bein Sports HD" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/2880px-BeIN_Sports.png" group-title="US",BEIN SPORTS HD
+https://fll1-0-dash-live.fll.zahs.tv/5d4f6cbbe4933f68/manifest.mpd?z32=MNZWSZB5GE2TMQKDII4TQMZZIMZDINZYGQWTIRBSIZCDIOCFIQYEGQZRIUYTEJTTNFTT2YRUMQ2TCNZVGI4GKYZUMY4DKYRSMJRTANDEG44TKMLBHA3DCNTE
+
+#EXTINF:-1 tvg-id="ESPN HD" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/554px-ESPN_wordmark.svg.png" group-title="US",ESPN HD
+https://fll1-1-dash-live.fll.zahs.tv/5e6498922e210741/manifest.mpd?z32=MNZWSZB5GE2TMQKDIJCTCQ2CIYZDCNJTGYWTIN2BGUYDOM2EGFATCNSBIY4DKJTTNFTT2MJWHFRWMYRVGE3WKMRRMU2DSOJSGUZTGYJXGY2WGNLFGQYDGZLB
+
+#EXTINF:-1 tvg-id="ESPN 2 HD" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="US",ESPN 2 HD
+https://fll1-1-dash-live.fll.zahs.tv/e0684e11face932a/manifest.mpd?z32=MNZWSZB5GE2TMQKDIJDECMJTG5ATGNSDGQWTONJUIZBTAM2EHA3TAMSGIFBSM43JM46TOMZTGMYWEODDG43DOMBXMY2TCYTEMIYTENJSGVSGGZLFGU3TONY
+
+#EXTINF:-1 tvg-id="FOX SPORTS 1 HD" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/150px-2015_Fox_Sports_1_logo.svg.png" group-title="US",FOX SPORTS 1 HD
+https://fll1-0-dash-live.fll.zahs.tv/c187cdd0b27074c9/manifest.mpd?z32=MNZWSZB5GE2TMQKDIMYDSQZTHBATGMBVGYWTGNZWGU3TINSBIUYTSQRQGBCDAJTTNFTT2ZLDGFRDEZTDGE2GKMBUMRSDGZRZGIYDKYJYME2DKM3CGQYDGOBY
+
+#EXTINF:-1 tvg-id="FOX SPORTS 2 HD" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/192px-FS2_logo_2015.svg.png" group-title="US",FOX SPORTS 2 HD
+https://fll1-0-dash-live.fll.zahs.tv/f3db16b78accba77/manifest.mpd?z32=MNZWSZB5GE2TMQKDIMZDQRKDGRCEIQJVIMWTGNBVINCTGQSBHA4DOMJRGA4TGJTTNFTT2ZJTMRRTAMTBHA2GEOJWGU2GMZDFGVSWCYRRHFTGKNRSMY3DGN3D
+
+#EXTINF:-1 tvg-id="NBCSN HD" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/NBCSN_logo.png" group-title="US",NBCSN HD
+https://fll1-1-dash-live.fll.zahs.tv/f55d0cb691b2f067/manifest.mpd?z32=MNZWSZB5GE2TMQKDIMZTANKEG5DDOMBRIMWTENKGGM3TERBRIM3TQOJWIYZUEJTTNFTT2ZRWMU3GMYRQGI4WGZLBMM3TIYZZGY4TANJSMEYDAYJZMM2TQNRS
