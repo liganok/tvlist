@@ -36,3 +36,6 @@ https://blutv-beta.akamaized.net/haberturkhd/haberturkhd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PowerTVTurk.tr" tvg-name="POWERTURK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a8/Powertürk_TV_logosu.png" group-title="Turkey",POWERTÜRK HD
 https://blutv-beta.akamaized.net/powerturkhd/powerturkhd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PowerTVTurk.tr" tvg-name="POWERTURK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="Turkey",beIN Sports 1
+https://bein-tr-live.ercdn.com/play/bein/bein_sports_01_bo/bein_sports_01.isml/playlist.m3u8?st=7kWv8pqUtNV6S2oxUOrrfA&e=1557604799&userid=ed5113095
