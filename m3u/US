@@ -1,162 +1,75 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC HD" tvg-logo="https://image.ibb.co/mvTVPz/msnbc.png" group-title="United States",MSNBC HD
-http://m3ulink.com:6969/us061120161/pzKZobvi/3245
+http://tv.rapidiptv.tvip.xyz:80/live/GmQZXXs6/hVY1Mg8/16841.m3u8
 
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1000px-CNN.svg.png" group-title="United States",CNN HD
-http://m3ulink.com:6969/us061120161/pzKZobvi/142
+http://b.boom-tv.club:80/us06112016@gmail.com/3Fk9ZlxKrM/547
 
 #EXTINF:-1 tvg-id="KNBCLosAngelesNBCHDWest.us" tvg-name="KNBC (Los Angeles) NBC HD West" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/KNBC_4_logo.png" group-title="United States",NBC 4 Los Angeles HD 
-http://m3ulink.com:6969/us061120161/pzKZobvi/40853 
+http://tv.rapidiptv.tvip.xyz:80/live/GmQZXXs6/hVY1Mg8/23229.m3u8
 
 #EXTINF:-1 tvg-id="KABCLosAngelesABCHDWest.us" tvg-name="KABC (Los Angeles) ABC HD West" tvg-logo="https://static.iptv-epg.com/us/ABC7KABCTV.us.png" group-title="United States",ABC 7 Los Angeles HD
-http://m3ulink.com:6969/us061120161/pzKZobvi/40825
+http://tv.rapidiptv.tvip.xyz:80/live/GmQZXXs6/hVY1Mg8/23244.m3u8
 
 #EXTINF:-1 tvg-id="KCBSLosAngelesCBSHDWest.us" tvg-name="KCBS (Los Angeles) CBS HD West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/CBS_2.png" group-title="United States",CBS 2 Los Angeles HD
-http://m3ulink.com:6969/us061120161/pzKZobvi/40674
+http://b.boom-tv.club:80/us06112016@gmail.com/3Fk9ZlxKrM/4019
 
 #EXTINF:-1 tvg-id="KTTVLosAngelesFOXHDWest.us" tvg-name="KTTV (Los Angeles) FOX HD West" tvg-logo="http://www.uniondevecinos.org/wp-content/uploads/2016/07/logo-fox-11-los-angeles-kttv-alt.png" group-title="United States",FOX 11 Los Angeles HD
-http://m3ulink.com:6969/us061120161/pzKZobvi/40767
 
 #EXTINF:-1 tvg-id="SpectrumSportsNetLA.us" tvg-name="Spectrum SportsNet HD" tvg-logo="https://1pvvpp2jnvcy2rs9592n4mtq-wpengine.netdna-ssl.com/wp-content/uploads/2017/10/Spectrum-SportSnetLA-logo.png" group-title="United States",Spectrum SportsNet Los Angeles HD
-http://54.39.53.138:25461/live/dimobln/Test123/22366.ts
 
 #EXTINF:-1 tvg-id="YESHD.us" tvg-name="YES HD" tvg-logo="" group-title="US SPORT",YES HD
-http://m3ulink.com:6969/us061120161/pzKZobvi/7149
+http://b.boom-tv.club:80/us06112016@gmail.com/3Fk9ZlxKrM/1051
 
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN US" tvg-logo="" group-title="ESPN",ESPN HD
-http://m3ulink.com:6969/us061120161/pzKZobvi/8581
+http://tv.rapidiptv.tvip.xyz:80/live/GmQZXXs6/hVY1Mg8/9023.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN2 US" tvg-logo="" group-title="ESPN",ESPN 2 HD
-http://m3ulink.com:6969/us061120161/pzKZobvi/121
+http://tv.rapidiptv.tvip.xyz:80/live/GmQZXXs6/hVY1Mg8/9022.m3u8
 
 #EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPNU US" tvg-logo="" group-title="ESPN",ESPN U HD
-http://m3ulink.com:6969/us061120161/pzKZobvi/7256
+http://tv.rapidiptv.tvip.xyz:80/live/GmQZXXs6/hVY1Mg8/18190.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 1 HD" tvg-logo="https://static1.squarespace.com/static/53aadc2ae4b09e753af34203/t/5a8c513be2c48381c8c625b7/1519145280958/ESPN-Plus-Logo.png" group-title="ESPN+",ESPN PLUS 1 HD
 http://54.39.53.138:25461/live/dimobln/Test123/14612.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 2 HD" tvg-logo="https://static1.squarespace.com/static/53aadc2ae4b09e753af34203/t/5a8c513be2c48381c8c625b7/1519145280958/ESPN-Plus-Logo.png" group-title="ESPN+",ESPN PLUS 2 HD
-http://54.39.53.138:25461/live/dimobln/Test123/14611.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 3 HD" tvg-logo="https://static1.squarespace.com/static/53aadc2ae4b09e753af34203/t/5a8c513be2c48381c8c625b7/1519145280958/ESPN-Plus-Logo.png" group-title="ESPN+",ESPN PLUS 3 HD
-http://54.39.53.138:25461/live/dimobln/Test123/14610.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 4 HD" tvg-logo="https://static1.squarespace.com/static/53aadc2ae4b09e753af34203/t/5a8c513be2c48381c8c625b7/1519145280958/ESPN-Plus-Logo.png" group-title="ESPN+",ESPN PLUS 4 HD
-http://54.39.53.138:25461/live/dimobln/Test123/14609.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 5 HD" tvg-logo="https://static1.squarespace.com/static/53aadc2ae4b09e753af34203/t/5a8c513be2c48381c8c625b7/1519145280958/ESPN-Plus-Logo.png" group-title="ESPN+",ESPN PLUS 5 HD
-http://54.39.53.138:25461/live/dimobln/Test123/14608.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 6 HD" tvg-logo="https://static1.squarespace.com/static/53aadc2ae4b09e753af34203/t/5a8c513be2c48381c8c625b7/1519145280958/ESPN-Plus-Logo.png" group-title="ESPN+",ESPN PLUS 6 HD
-http://54.39.53.138:25461/live/dimobln/Test123/14607.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 7 HD" tvg-logo="https://static1.squarespace.com/static/53aadc2ae4b09e753af34203/t/5a8c513be2c48381c8c625b7/1519145280958/ESPN-Plus-Logo.png" group-title="ESPN+",ESPN PLUS 7 HD
-http://54.39.53.138:25461/live/dimobln/Test123/14606.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 8 HD" tvg-logo="https://static1.squarespace.com/static/53aadc2ae4b09e753af34203/t/5a8c513be2c48381c8c625b7/1519145280958/ESPN-Plus-Logo.png" group-title="ESPN+",ESPN PLUS 8 HD
-http://54.39.53.138:25461/live/dimobln/Test123/14605.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 9 HD" tvg-logo="https://static1.squarespace.com/static/53aadc2ae4b09e753af34203/t/5a8c513be2c48381c8c625b7/1519145280958/ESPN-Plus-Logo.png" group-title="ESPN+",ESPN PLUS 9 HD
-http://54.39.53.138:25461/live/dimobln/Test123/14604.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 10 HD" tvg-logo="https://static1.squarespace.com/static/53aadc2ae4b09e753af34203/t/5a8c513be2c48381c8c625b7/1519145280958/ESPN-Plus-Logo.png" group-title="ESPN+",ESPN PLUS 10 HD
-http://54.39.53.138:25461/live/dimobln/Test123/14603.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 11 HD" tvg-logo="https://static1.squarespace.com/static/53aadc2ae4b09e753af34203/t/5a8c513be2c48381c8c625b7/1519145280958/ESPN-Plus-Logo.png" group-title="ESPN+",ESPN PLUS 11 HD
-http://54.39.53.138:25461/live/dimobln/Test123/14602.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 12 HD" tvg-logo="https://static1.squarespace.com/static/53aadc2ae4b09e753af34203/t/5a8c513be2c48381c8c625b7/1519145280958/ESPN-Plus-Logo.png" group-title="ESPN+",ESPN PLUS 12 HD
-http://54.39.53.138:25461/live/dimobln/Test123/14601.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 13 HD" tvg-logo="https://static1.squarespace.com/static/53aadc2ae4b09e753af34203/t/5a8c513be2c48381c8c625b7/1519145280958/ESPN-Plus-Logo.png" group-title="ESPN+",ESPN PLUS 13 HD
-http://54.39.53.138:25461/live/dimobln/Test123/14600.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 14 HD" tvg-logo="https://static1.squarespace.com/static/53aadc2ae4b09e753af34203/t/5a8c513be2c48381c8c625b7/1519145280958/ESPN-Plus-Logo.png" group-title="ESPN+",ESPN PLUS 14 HD
-http://54.39.53.138:25461/live/dimobln/Test123/14599.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 15 HD" tvg-logo="https://static1.squarespace.com/static/53aadc2ae4b09e753af34203/t/5a8c513be2c48381c8c625b7/1519145280958/ESPN-Plus-Logo.png" group-title="ESPN+",ESPN PLUS 15 HD
-http://54.39.53.138:25461/live/dimobln/Test123/14598.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 16 HD" tvg-logo="https://static1.squarespace.com/static/53aadc2ae4b09e753af34203/t/5a8c513be2c48381c8c625b7/1519145280958/ESPN-Plus-Logo.png" group-title="ESPN+",ESPN PLUS 16 HD
-http://54.39.53.138:25461/live/dimobln/Test123/14597.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 17 HD" tvg-logo="https://static1.squarespace.com/static/53aadc2ae4b09e753af34203/t/5a8c513be2c48381c8c625b7/1519145280958/ESPN-Plus-Logo.png" group-title="ESPN+",ESPN PLUS 17 HD
-http://54.39.53.138:25461/live/dimobln/Test123/14596.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 18 HD" tvg-logo="https://static1.squarespace.com/static/53aadc2ae4b09e753af34203/t/5a8c513be2c48381c8c625b7/1519145280958/ESPN-Plus-Logo.png" group-title="ESPN+",ESPN PLUS 18 HD
-http://54.39.53.138:25461/live/dimobln/Test123/14595.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 19 HD" tvg-logo="https://static1.squarespace.com/static/53aadc2ae4b09e753af34203/t/5a8c513be2c48381c8c625b7/1519145280958/ESPN-Plus-Logo.png" group-title="ESPN+",ESPN PLUS 19 HD
-http://54.39.53.138:25461/live/dimobln/Test123/14594.ts
 
 #EXTINF:-1 tvg-id="NBCSportsNetwork.us" tvg-name="" tvg-logo="" group-title="NBC SPORTS",NBC Sports Network HD
-http://m3ulink.com:6969/us061120161/pzKZobvi/17200
+http://tv.rapidiptv.tvip.xyz:80/live/GmQZXXs6/hVY1Mg8/26276.m3u8
 
 #EXTINF:-1 tvg-id="NBCSportsChicago.us" tvg-name="" tvg-logo="" group-title="NBC SPORTS",NBC Sports Chicago HD
-http://54.39.53.138:25461/live/dimobln/Test123/28546.ts
+
 
 #EXTINF:-1 tvg-id="NBCSportsPhiladelphia.us" tvg-name="" tvg-logo="" group-title="NBC SPORTS",NBC Sports Philadelphia HD
-http://54.39.53.138:25461/live/dimobln/Test123/28543.ts
+http://b.boom-tv.club:80/us06112016@gmail.com/3Fk9ZlxKrM/1077
 
 #EXTINF:-1 tvg-id="NBCSportsCalifornia.us" tvg-name="" tvg-logo="" group-title="NBC SPORTS",NBC Sports California HD
-http://54.39.53.138:25461/live/dimobln/Test123/28547.ts
+http://tv.rapidiptv.tvip.xyz:80/live/GmQZXXs6/hVY1Mg8/23220.m3u8
 
 #EXTINF:-1 tvg-id="NBCSportsNorthwest.us" tvg-name="" tvg-logo="" group-title="NBC SPORTS",NBC Sports Northwest HD
-http://54.39.53.138:25461/live/dimobln/Test123/28544.ts
+http://tv.rapidiptv.tvip.xyz:80/live/GmQZXXs6/hVY1Mg8/23219.m3u8
 
 #EXTINF:-1 tvg-id="NBCSportsBayArea.us" tvg-name="" tvg-logo="" group-title="NBC SPORTS",NBC Sports Bay Area HD
-http://54.39.53.138:25461/live/dimobln/Test123/28548.ts
+http://tv.rapidiptv.tvip.xyz:80/live/GmQZXXs6/hVY1Mg8/23221.m3u8
 
 #EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-name="" tvg-logo="" group-title="NBC SPORTS",NBC Sports Boston HD
-http://54.39.53.138:25461/live/dimobln/Test123/28545.ts
 
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="" tvg-logo="" group-title="FOX SPORTS",FOX Sports 1 HD
-http://m3ulink.com:6969/us061120161/pzKZobvi/14
+http://tv.rapidiptv.tvip.xyz:80/live/GmQZXXs6/hVY1Mg8/9031.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="" tvg-logo="" group-title="FOX SPORTS",FOX Sports 2 HD
-http://54.39.53.138:25461/live/dimobln/Test123/524.ts
+http://tv.rapidiptv.tvip.xyz:80/live/GmQZXXs6/hVY1Mg8/9030.m3u8
 
 #EXTINF:-1 tvg-id="FoxSportsArizona.us" tvg-name="" tvg-logo="" group-title="FOX SPORTS",FOX Sports Arizona HD
-http://54.39.53.138:25461/live/dimobln/Test123/147.ts
+http://tv.rapidiptv.tvip.xyz:80/live/GmQZXXs6/hVY1Mg8/23254.m3u8
 
 #EXTINF:-1 tvg-id="FoxSportsDetroit.us" tvg-name="" tvg-logo="" group-title="FOX SPORTS",FOX Sports Detroit HD
-http://54.39.53.138:25461/live/dimobln/Test123/145.ts
+http://tv.rapidiptv.tvip.xyz:80/live/GmQZXXs6/hVY1Mg8/23255.m3u8
 
 #EXTINF:-1 tvg-id="FoxSportsMidwest.us" tvg-name="" tvg-logo="" group-title="FOX SPORTS",FOX Sports Midwest HD
-http://54.39.53.138:25461/live/dimobln/Test123/143.ts
+http://tv.rapidiptv.tvip.xyz:80/live/GmQZXXs6/hVY1Mg8/23256.m3u8
 
 #EXTINF:-1 tvg-id="FoxSportsNorth.us" tvg-name="" tvg-logo="" group-title="FOX SPORTS",FOX Sports North HD
-http://54.39.53.138:25461/live/dimobln/Test123/141.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FOX SPORTS",FOX Sports Ohio HD
-http://54.39.53.138:25461/live/dimobln/Test123/140.ts
+http://tv.rapidiptv.tvip.xyz:80/live/GmQZXXs6/hVY1Mg8/23257.m3u8
 
 #EXTINF:-1 tvg-id="FoxSportsPrimeTicket.us" tvg-name="" tvg-logo="" group-title="FOX SPORTS",FOX Sports Prime Ticket HD
-http://54.39.53.138:25461/live/dimobln/Test123/523.ts
-
-#EXTINF:-1 tvg-id="FoxSportsSouth.us" tvg-name="" tvg-logo="" group-title="FOX SPORTS",FOX Sports South HD
-http://54.39.53.138:25461/live/dimobln/Test123/138.ts
-
-#EXTINF:-1 tvg-id="FoxSportsSoutheast.us" tvg-name="" tvg-logo="" group-title="FOX SPORTS",FOX Sports Southeast HD
-http://54.39.53.138:25461/live/dimobln/Test123/139.ts
-
-#EXTINF:-1 tvg-id="FoxSportsSouthwest.us" tvg-name="" tvg-logo="" group-title="FOX SPORTS",FOX Sports Southwest HD
-http://54.39.53.138:25461/live/dimobln/Test123/137.ts
-
-#EXTINF:-1 tvg-id="FoxSportsSun.us" tvg-name="" tvg-logo="" group-title="FOX SPORTS",FOX Sports Sun HD
-http://54.39.53.138:25461/live/dimobln/Test123/135.ts
-
-#EXTINF:-1 tvg-id="FoxSports.us" tvg-name="" tvg-logo="" group-title="FOX SPORTS",FOX Sports West HD
-http://54.39.53.138:25461/live/dimobln/Test123/133.ts
-
-#EXTINF:-1 tvg-id="FoxSportsWisconsin.us" tvg-name="" tvg-logo="" group-title="FOX SPORTS",FOX Sports Wisconsin HD
-http://54.39.53.138:25461/live/dimobln/Test123/132.ts
-
-#EXTINF:-1 tvg-id="FOX.us" tvg-name="" tvg-logo="" group-title="FOX LOCAL",FOX 5 New York HD
-http://54.39.53.138:25461/live/dimobln/Test123/21337.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FOX LOCAL",FOX 2 Detroit HD
-http://54.39.53.138:25461/live/dimobln/Test123/21362.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FOX LOCAL",FOX 4 Dallas HD
-http://54.39.53.138:25461/live/dimobln/Test123/21304.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FOX LOCAL",FOX 32 Chicago HD
-http://54.39.53.138:25461/live/dimobln/Test123/21378.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FOX LOCAL",FOX 13 Seattle HD
-http://54.39.53.138:25461/live/dimobln/Test123/21285.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FOX LOCAL",FOX 25 Boston HD
-http://54.39.53.138:25461/live/dimobln/Test123/21375.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FOX LOCAL",FOX 8 New Orleans HD
-http://54.39.53.138:25461/live/dimobln/Test123/21380.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CBS LOCAL",CBS 2 New York HD
-http://54.39.53.138:25461/live/dimobln/Test123/21338.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NFL",CBS 2 New York HD
-http://54.39.53.138:25461/live/dimobln/Test123/21338.ts
+http://tv.rapidiptv.tvip.xyz:80/live/GmQZXXs6/hVY1Mg8/23259.m3u8
