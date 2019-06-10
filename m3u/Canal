@@ -1,2 +1,15 @@
-#EXTINF:-1 tvg-id="d8dca29836b66621264afd30a4ae64d2" tvg-name="SkySpMainEv" tvg-logo="https://www.thesportsdb.com/images/media/logo/mp44981502554837.png" group-title="UK",Sky Sports Main Event
+#EXTINF:-1 tvg-id="d8dca29836b66621264afd30a4ae64d2" tvg-name="SkySpMainEv" tvg-logo="" group-title="UK",Sky Sports Main Event
 http://mc2http.zattoo.com/239.192.0.76:5501/.351
+
+#EXTINF:-1 tvg-id="d2a04be77b76785d13cb0115eeb1ffc0" tvg-name="SkySp F'ball HD" tvg-logo="" group-title="UK",Sky Sports Football
+http://mc2http.zattoo.com/239.192.0.103:5501/.351
+
+#EXTINF:-1 tvg-id="b813e79848fedd1349f2d5dfb55668b7" tvg-name="SkySp PL" tvg-logo="" group-title="UK",Sky Sports Premier League
+http://mc2http.zattoo.com/239.192.0.95:5501/.351
+
+#EXTINF:-1 tvg-id="5af808d753298072a3e07b1f4cb667e6" tvg-name="BT Sport 1 HD" tvg-logo="" group-title="UK",BT Sport 1
+http://mc2http.zattoo.com/239.192.0.180:5501/.351
+
+#EXTINF:-1 tvg-id="8ea6d0f5cc51e2ce5c84ad53a2a0029e" tvg-name="BT Sport 2" tvg-logo="" group-title="UK",BT Sport 2
+http://mc2http.zattoo.com/239.192.0.181:5501/.351
+
