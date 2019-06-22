@@ -13,3 +13,14 @@ http://mc2http.zattoo.com/239.192.0.180:5501/.351
 #EXTINF:-1 tvg-id="8ea6d0f5cc51e2ce5c84ad53a2a0029e" tvg-name="BT Sport 2" tvg-logo="" group-title="UK",BT Sport 2
 http://mc2http.zattoo.com/239.192.0.181:5501/.351
 
+#EXTINF:-1 tvg-id="ba03578c1b8e26baeab5d86a57090d51" tvg-name="BT Sport 3 HD" tvg-logo="" group-title="UK",BT Sport 3
+http://mc2http.zattoo.com/239.192.0.182:5501/.351
+
+#EXTINF:-1 tvg-id="8d2aeea34cf405d6c07465886221a0dc" tvg-name="BTSpt//ESPNHD" tvg-logo="" group-title="UK",BT Sport 3
+http://mc2http.zattoo.com/239.192.0.183:5501/.351
+
+#EXTINF:-1 tvg-id="8d2aeea34cf405d6c07465886221a0dc" tvg-name="eir Sport 1 HD" tvg-logo="" group-title="UK",eir Sport 1 
+http://mc2http.zattoo.com/239.192.1.188:5501/.351
+
+#EXTINF:-1 tvg-id="8d2aeea34cf405d6c07465886221a0dc" tvg-name="eir Sport 2 HD" tvg-logo="" group-title="UK",eir Sport 2 
+http://mc2http.zattoo.com/239.192.1.179:5501/.351
