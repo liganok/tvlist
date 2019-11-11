@@ -51,3 +51,9 @@ http://iptv.iptivihd.com:8000/jpwpacfz/20n6Jc3ioO/26886
 
 #EXTINF:-1 tvg-id="PowerTVTurk.tr" tvg-name="beIN Sports Haber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="Turkey",beIN Sports Haber
 http://iptv.iptivihd.com:8000/jpwpacfz/20n6Jc3ioO/26886
+
+#EXTINF:-1 tvg-id="PowerTVTurk.tr" tvg-name="beIN Sports Haber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="Turkey",LaLiga Tv Bar
+http://iptv.iptivihd.com:8000/jpwpacfz/20n6Jc3ioO/45690
+
+#EXTINF:-1 tvg-id="PowerTVTurk.tr" tvg-name="beIN Sports Haber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="Turkey",Eurosport 2 Xtra
+http://iptv.iptivihd.com:8000/jpwpacfz/20n6Jc3ioO/35942
