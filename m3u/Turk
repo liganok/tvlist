@@ -1,59 +1,47 @@
-#EXTINF:-1 tvg-id="TRT 1 HD TR" tvg-name="TRT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Trt1yenilogo.png" group-title="Turkey",TRT 1 HD
-http://iptv.iptivihd.com:8000/jpwpacfz/20n6Jc3ioO/7134
+#EXTINF:-1 tvg-id="TRT 1 HD TR" tvg-name="TRT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Trt1yenilogo.png" group-title="Turkey",TRT 1
+http://iconic-streams.com:80/lenz_dimo@yahoo.de/zVv)6x477Z;YGr/2634
 
-#EXTINF:-1 tvg-id="ATV HD TR" tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Atv_logosu.png" group-title="Turkey",ATV HD
-http://iptv.iptivihd.com:8000/jpwpacfz/20n6Jc3ioO/7170
+#EXTINF:-1 tvg-id="ATV HD TR" tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Atv_logosu.png" group-title="Turkey",ATV
+http://iconic-streams.com:80/lenz_dimo@yahoo.de/zVv)6x477Z;YGr/2604
 
-#EXTINF:-1 tvg-id="FOX TV HD TR" tvg-name="Fox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/1832px-FOX_wordmark-red.svg.png" group-title="Turkey",FOX HD
-http://iptv.iptivihd.com:8000/jpwpacfz/20n6Jc3ioO/7157
+#EXTINF:-1 tvg-id="FOX TV HD TR" tvg-name="Fox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/1832px-FOX_wordmark-red.svg.png" group-title="Turkey",FOX
+http://iconic-streams.com:80/lenz_dimo@yahoo.de/zVv)6x477Z;YGr/2610
 
-#EXTINF:-1 tvg-id="Show TV HD TR" tvg-name="Show" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png" group-title="Turkey",SHOW HD
-http://iptv.iptivihd.com:8000/jpwpacfz/20n6Jc3ioO/7139
+#EXTINF:-1 tvg-id="Show TV HD TR" tvg-name="Show" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png" group-title="Turkey",SHOW
+http://iconic-streams.com:80/lenz_dimo@yahoo.de/zVv)6x477Z;YGr/2602
 
-#EXTINF:-1 tvg-id="Star TV HD TR" tvg-name="STAR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/StarTV.svg/512px-StarTV.svg.png" group-title="Turkey",STAR HD
-http://iptv.iptivihd.com:8000/jpwpacfz/20n6Jc3ioO/7138
+#EXTINF:-1 tvg-id="Star TV HD TR" tvg-name="STAR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/StarTV.svg/512px-StarTV.svg.png" group-title="Turkey",STAR
+http://iconic-streams.com:80/lenz_dimo@yahoo.de/zVv)6x477Z;YGr/2603
 
-#EXTINF:-1 tvg-id="KANAL D HD TR" tvg-name="Kanal D" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/c/ca/Kanal_D.svg/276px-Kanal_D.svg.png" group-title="Turkey",KANAL D HD
-http://iptv.iptivihd.com:8000/jpwpacfz/20n6Jc3ioO/7151
+#EXTINF:-1 tvg-id="KANAL D HD TR" tvg-name="Kanal D" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/c/ca/Kanal_D.svg/276px-Kanal_D.svg.png" group-title="Turkey",KANAL D
+http://iconic-streams.com:80/lenz_dimo@yahoo.de/zVv)6x477Z;YGr/2605
 
-#EXTINF:-1 tvg-id="TV8 HD TR" tvg-name="TV8" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="Turkey",TV 8 HD
-http://iptv.iptivihd.com:8000/jpwpacfz/20n6Jc3ioO/7133
+#EXTINF:-1 tvg-id="TV8 HD TR" tvg-name="TV8" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="Turkey",TV 8
+http://iconic-streams.com:80/lenz_dimo@yahoo.de/zVv)6x477Z;YGr/2579
 
-#EXTINF:-1 tvg-id="Teve 2 HD TR" tvg-name="Tv2" tvg-logo="" group-title="Turkey",TV 2 HD
-http://iptv.iptivihd.com:8000/jpwpacfz/20n6Jc3ioO/34678
+#EXTINF:-1 tvg-id="Teve 2 HD TR" tvg-name="Tv2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ca/Teve2_logo.png" group-title="Turkey",TV 2
+http://iconic-streams.com:80/lenz_dimo@yahoo.de/zVv)6x477Z;YGr/7981
 
-#EXTINF:-1 tvg-id="NTV HD TR" tvg-name="NTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" group-title="Turkey",NTV HD
-https://blutv-beta.akamaized.net/ntvhd/ntvhd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NTV HD TR" tvg-name="NTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" group-title="Turkey",NTV
+http://iconic-streams.com:80/lenz_dimo@yahoo.de/zVv)6x477Z;YGr/2597
 
-#EXTINF:-1 tvg-id="CNN TÜRK HD TR" tvg-name="CNN TÜRK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_Türk_logo.svg/512px-CNN_Türk_logo.svg.png" group-title="Turkey",CNN Türk HD
-http://iptv.iptivihd.com:8000/jpwpacfz/20n6Jc3ioO/8103
+#EXTINF:-1 tvg-id="CNN TÜRK HD TR" tvg-name="CNN TÜRK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_Türk_logo.svg/512px-CNN_Türk_logo.svg.png" group-title="Turkey",CNN Türk
+http://iconic-streams.com:80/lenz_dimo@yahoo.de/zVv)6x477Z;YGr/2595
 
-#EXTINF:-1 tvg-id="HABERTURK TV TR" tvg-name="HABERTURK" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/43/Habertürk_TV_logosu.png" group-title="Turkey",HaberTürk HD
-http://iptv.iptivihd.com:8000/jpwpacfz/20n6Jc3ioO/22526
+#EXTINF:-1 tvg-id="HABERTURK TV TR" tvg-name="HABERTURK" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/43/Habertürk_TV_logosu.png" group-title="Turkey",Haber Türk
+http://iconic-streams.com:80/lenz_dimo@yahoo.de/zVv)6x477Z;YGr/2593
 
-#EXTINF:-1 tvg-id="PowerTVTurk.tr" tvg-name="beIN Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a8/Powertürk_TV_logosu.png" group-title="Turkey",beIN Sports 1
-http://iptv.iptivihd.com:8000/jpwpacfz/20n6Jc3ioO/7706
+#EXTINF:-1 tvg-id="PowerTVTurk.tr" tvg-name="beIN Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/1-HD.png" group-title="Turkey",beIN Sports 1
+http://iconic-streams.com:80/lenz_dimo@yahoo.de/zVv)6x477Z;YGr/2583
 
-#EXTINF:-1 tvg-id="PowerTVTurk.tr" tvg-name="beIN Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="Turkey",beIN Sports 2
-http://iptv.iptivihd.com:8000/jpwpacfz/20n6Jc3ioO/7707
+#EXTINF:-1 tvg-id="PowerTVTurk.tr" tvg-name="beIN Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/2-HD.png" group-title="Turkey",beIN Sports 2
+http://iconic-streams.com:80/lenz_dimo@yahoo.de/zVv)6x477Z;YGr/2582
 
-#EXTINF:-1 tvg-id="PowerTVTurk.tr" tvg-name="beIN Sports Haber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="Turkey",beIN Sports Haber
-http://iptv.iptivihd.com:8000/jpwpacfz/20n6Jc3ioO/26886
+#EXTINF:-1 tvg-id="PowerTVTurk.tr" tvg-name="beIN Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/3-HD.png" group-title="Turkey",beIN Sports 3
+http://iconic-streams.com:80/lenz_dimo@yahoo.de/zVv)6x477Z;YGr/2581
 
-#EXTINF:-1 tvg-id="PowerTVTurk.tr" tvg-name="beIN Sports Haber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="Turkey",DAZN 1
-http://iptv.iptivihd.com:8000/jpwpacfz/20n6Jc3ioO/22499
+#EXTINF:-1 tvg-id="PowerTVTurk.tr" tvg-name="beIN Sports 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/4-HD.png" group-title="Turkey",beIN Sports 4
+http://iconic-streams.com:80/lenz_dimo@yahoo.de/zVv)6x477Z;YGr/2580
 
-#EXTINF:-1 tvg-id="PowerTVTurk.tr" tvg-name="beIN Sports Haber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="Turkey",DAZN 2
-http://iptv.iptivihd.com:8000/jpwpacfz/20n6Jc3ioO/22500
-
-#EXTINF:-1 tvg-id="PowerTVTurk.tr" tvg-name="beIN Sports Haber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="Turkey",beIN Sports Haber
-http://iptv.iptivihd.com:8000/jpwpacfz/20n6Jc3ioO/26886
-
-#EXTINF:-1 tvg-id="PowerTVTurk.tr" tvg-name="beIN Sports Haber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="Turkey",beIN Sports Haber
-http://iptv.iptivihd.com:8000/jpwpacfz/20n6Jc3ioO/26886
-
-#EXTINF:-1 tvg-id="PowerTVTurk.tr" tvg-name="beIN Sports Haber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="Turkey",LaLiga Tv Bar
-http://iptv.iptivihd.com:8000/jpwpacfz/20n6Jc3ioO/45690
-
-#EXTINF:-1 tvg-id="PowerTVTurk.tr" tvg-name="beIN Sports Haber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="Turkey",Eurosport 2 Xtra
-http://iptv.iptivihd.com:8000/jpwpacfz/20n6Jc3ioO/35942
+#EXTINF:-1 tvg-id="PowerTVTurk.tr" tvg-name="beIN Sports Haber" tvg-logo="https://www.tvfrekansi.tk/wp-content/uploads/2018/09/Bein-Sports-Haber-TV.png" group-title="Turkey",beIN Sports Haber
+http://iconic-streams.com:80/lenz_dimo@yahoo.de/zVv)6x477Z;YGr/7914
