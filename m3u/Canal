@@ -1,32 +1,35 @@
-#EXTINF:-1 tvg-id="BBC1NorthernIreland.uk" tvg-name="" tvg-logo="" group-title="UK",BBC One NI
-http://mc2http.zattoo.com/225.102.194.21/.63
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/e7db7cde3a9bf2c6e694/white/640x360.png" group-title="UK",BBC One NI
+http://ztest-dash-live.zahs.tv/HD_eiR_bbc_one/manifest.mpd
 
-#EXTINF:-1 tvg-id="d8dca29836b66621264afd30a4ae64d2" tvg-name="SkySpMainEv" tvg-logo="" group-title="UK",Sky Sports Main Event
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/d1c0f2eb8a31828d80d7/white/640x360.png" group-title="UK",BBC Two
+http://ztest-hls7-live.zahs.tv/HD_eiR_bbc_two/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="UK",Sky Sports Main Event
 http://mc2http.zattoo.com/239.192.0.76:5501/.351
 
-#EXTINF:-1 tvg-id="d2a04be77b76785d13cb0115eeb1ffc0" tvg-name="SkySp F'ball HD" tvg-logo="" group-title="UK",Sky Sports Football
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="UK",Sky Sports Football
 http://mc2http.zattoo.com/239.192.0.103:5501/.351
 
-#EXTINF:-1 tvg-id="b813e79848fedd1349f2d5dfb55668b7" tvg-name="SkySp PL" tvg-logo="" group-title="UK",Sky Sports Premier League
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="UK",Sky Sports Premier League
 http://mc2http.zattoo.com/239.192.0.95:5501/.351
 
-#EXTINF:-1 tvg-id="5af808d753298072a3e07b1f4cb667e6" tvg-name="BT Sport 1 HD" tvg-logo="" group-title="UK",BT Sport 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/7b7c2fe9aa6995935e0f/white/640x360.png" group-title="UK",BT Sport 1
 http://mc2http.zattoo.com/239.192.0.180:5501/.351
 
-#EXTINF:-1 tvg-id="8ea6d0f5cc51e2ce5c84ad53a2a0029e" tvg-name="BT Sport 2" tvg-logo="" group-title="UK",BT Sport 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/1c14a528e8dc3a51b331/white/640x360.png" group-title="UK",BT Sport 2
 http://mc2http.zattoo.com/239.192.0.181:5501/.351
 
-#EXTINF:-1 tvg-id="ba03578c1b8e26baeab5d86a57090d51" tvg-name="BT Sport 3 HD" tvg-logo="" group-title="UK",BT Sport 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/047fa4036ee9eb46d4dc/white/640x360.png" group-title="UK",BT Sport 3
 http://mc2http.zattoo.com/239.192.0.182:5501/.351
 
-#EXTINF:-1 tvg-id="8d2aeea34cf405d6c07465886221a0dc" tvg-name="BTSpt//ESPNHD" tvg-logo="" group-title="UK",BT Sport 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/648e62757028a65e962e/white/640x360.png" group-title="UK",BT Sport ESPN
 http://mc2http.zattoo.com/239.192.0.183:5501/.351
 
-#EXTINF:-1 tvg-id="VMSportExtra1.ie" tvg-name="" tvg-logo="" group-title="UK",Virgin Media Sport Extra 1
-http://mc2http.zattoo.com/239.192.1.153:5501/.355
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/9ff53034eab3535b79c7/white/640x360.png" group-title="US",CNN
+https://fll1-0-dash-live.fll.zahs.tv/5cad839e8272e9cc/manifest.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCNKFINCEIMBWG5CUMNJVGQ3TMLJWGNATAQRSHBBDSQZTGM3UKRSDEZZWSZZ5MI4DGZRTMM3DSN3FHE3TGZLDGZTGCNRYGY4WGNBZGM3DGOJTGE3Q
 
-#EXTINF:-1 tvg-id="8d2aeea34cf405d6c07465886221a0dc" tvg-name="eir Sport 1 HD" tvg-logo="" group-title="UK",eir Sport 1 
-http://mc2http.zattoo.com/239.192.1.188:5501/.351
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/03e9f17e1e11033e6db4/white/640x360.png" group-title="US",MSNBC
+https://fll1-0-dash-live.fll.zahs.tv/3d6111f06fc0f1dc/manifest.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCNKFINCEIM2BINBTQNRUGI3TILJVGRCTMQZVHBDDENBYIFCDCRKFEZZWSZZ5MYYTCZRRME3TOZRZGNQTMZTBMEZDANRSGIZDGMRQGQYTSNJVG42Q
 
-#EXTINF:-1 tvg-id="8d2aeea34cf405d6c07465886221a0dc" tvg-name="eir Sport 2 HD" tvg-logo="" group-title="UK",eir Sport 2 
-http://mc2http.zattoo.com/239.192.1.179:5501/.351
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/3c3c86178bc242825177/white/640x360.png" group-title="US",NBCSN
+https://fll1-1-dash-live.fll.zahs.tv/f55d0cb691b2f067/manifest.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCNKFINCEIMRUIU3EIRRYGAZUCLJTGEYDAOBVG42TQNSEGFATQOCBEZZWSZZ5MYYTAOLDME3DEZRXMJSDQNLFMIYWINZWMMYDCOBRMU4GKMZWMY4Q
