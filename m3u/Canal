@@ -39,3 +39,9 @@ https://fll1-1-hls5-live.fll.zahs.tv/5d4f6cbbe4933f68/master.m3u8?z32=MF2WI2LPL5
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/6df04c3126e6914187ce/black/640x360.png" group-title="US",ESPN
 https://fll1-1-hls5-live.fll.zahs.tv/5e6498922e210741/master.m3u8?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCNKFIVBTIRRTGNCDQOJTGJATQLJRGFCDENZRHE2TIQ2DIMZTCMKDEZWWS3TSMF2GKPJVGAYDAJTTNFTT2NBRGQZGGMDCGBRDANLBGJRWCMZXGY2DSZJTGUZTEOJRMM2TGNRX
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/5a2b2088510c7c7007fc/black/640x360.png" group-title="TR",BEIN SPORTS 1
+https://bein-tr-live.ercdn.com/connect/bein/bein_sports_01_bo/bein_sports_01.isml/playlist.m3u8?st=7XOs2zg9itv_0I2oUxA97A&e=1580508375&userid=ed59299685
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/750ea3d3a22fcac23ab1/black/640x360.png" group-title="TR",BEIN GURME
+https://dt-live.akamaized.net/bc/gurme/gurme.isml/playlist.m3u8?hdnts=ip=95.90.242.31~st=1578085200~exp=1580763600~acl=/*~id=EHYRUAPY7YOC~hmac=625ff160884100cde6bba1eaecf1f5ec68759f619d7845c1c5799f1dd60ec160
