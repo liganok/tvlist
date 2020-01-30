@@ -1,8 +1,8 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/e7db7cde3a9bf2c6e694/white/640x360.png" group-title="UK",BBC One NI
-http://ztest-dash-live.zahs.tv/HD_eiR_bbc_one/manifest.mpd
+http://ztest-hls7-live.zahs.tv/HD_eiR_bbc_one/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/d1c0f2eb8a31828d80d7/white/640x360.png" group-title="UK",BBC Two
-http://ztest-hls7-live.zahs.tv/HD_eiR_bbc_two/manifest.mpd
+http://ztest-hls7-live.zahs.tv/HD_eiR_bbc_two/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="UK",Sky Sports Main Event
 http://mc2http.zattoo.com/239.192.0.76:5501/.351
