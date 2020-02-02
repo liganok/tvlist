@@ -1,4 +1,10 @@
-display-name>49</display-name>
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+<tv source-info-name="tvguide" generator-info-name="mc2xml" generator-info-url="mailto:mc2xml@gmail.com">
+	<channel id="I49.429.tvguide.com">
+		<display-name>49 CNN</display-name>
+		<display-name>49</display-name>
 		<display-name>CNN</display-name>
 		<display-name>Cable News Network</display-name>
 	</channel>
