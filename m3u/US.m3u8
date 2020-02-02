@@ -1,14 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-id=""I49.429.tvguide.com" tvg-name="" tvg-logo="https://images.zattic.com/logos/9ff53034eab3535b79c7/black/640x360.png" group-title="US",CNN
+#EXTINF:-1 tvg-id=""I49.429.tvguide.com" tvg-name="49" tvg-logo="https://images.zattic.com/logos/9ff53034eab3535b79c7/black/640x360.png" group-title="US",CNN
 https://fll1-1-hls7-live.fll.zahs.tv/5cad839e8272e9cc/master.m3u8?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCNKFIZAUIQRRGMYEGQZUIVDDSLJUGMYDQOBWGEZUMNBRIYZUCRBZEZZWSZZ5MY2TGZBSGYYTQMBRGM3WKMBVHAYTOYZVMY2TENDGGAYTQN3FMQZA
 
-#EXTINF:-1 tvg-id="I53.1202.tvguide.com" tvg-name="" tvg-logo="https://images.zattic.com/logos/03e9f17e1e11033e6db4/black/640x360.png" group-title="US",MSNBC
+#EXTINF:-1 tvg-id="I53.1202.tvguide.com" tvg-name="53" tvg-logo="https://images.zattic.com/logos/03e9f17e1e11033e6db4/black/640x360.png" group-title="US",MSNBC
 https://fll1-0-hls7-live.fll.zahs.tv/3d6111f06fc0f1dc/master.m3u8?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCNKFIZAUIQRRGY2TERRQGMYDMLJWIVCTIMJVGNBDMN2BINCDCNJYEZZWSZZ5HBQWGNZYMI3TCODFMQYDCOJVG5RDIMZQMJSTCMRVGRQTMM3CGE2Q
 
-#EXTINF:-1 tvg-id="I450.12206.tvguide.com" tvg-name="" tvg-logo="https://images.zattic.com/logos/6df04c3126e6914187ce/black/640x360.png" group-title="US",ESPN
+#EXTINF:-1 tvg-id="I450.12206.tvguide.com" tvg-name="450" tvg-logo="https://images.zattic.com/logos/6df04c3126e6914187ce/black/640x360.png" group-title="US",ESPN
 https://fll1-0-hls7-live.fll.zahs.tv/5e6498922e210741/master.m3u8?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCNKFIZAUIQRRHFBTSNRRIVBDQLJTGA4DAMRWGBATAMJWHAZUERKCEZZWSZZ5GU2GEOLCGA2TQZRSGE2DQYTEMU3WINRZGA2WGZRRGUYDCNJXGJQQ
 
-#EXTINF:-1 tvg-id="I453.15628.tvguide.com" tvg-name="" tvg-logo="https://images.zattic.com/logos/cafd3f3f1615f2e16a79/black/640x360.png" group-title="US",ESPN2
+#EXTINF:-1 tvg-id="I453.15628.tvguide.com" tvg-name="453" tvg-logo="https://images.zattic.com/logos/cafd3f3f1615f2e16a79/black/640x360.png" group-title="US",ESPN2
 https://fll1-1-hls7-live.fll.zahs.tv/e0684e11face932a/master.m3u8?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCNKFIZAUIQRRIQZEIRBVGA4DQLJWGNCDQRJUGFAUGN2BIM2DMRJUEZZWSZZ5GVQTAZTEMFQTSYZXGUYDSMJQGBTDIMJXHAZTOZDEMUZGMMJZGUYQ
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/def54339f09769aa9db0/black/640x360.png" group-title="US",FOX SPORTS 1
