@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/9ff53034eab3535b79c7/white/640x360.png" group-title="US",CNN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/9ff53034eab3535b79c7/black/640x360.png" group-title="US",CNN
 https://fll1-1-hls7-live.fll.zahs.tv/5cad839e8272e9cc/master.m3u8?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCNKFIZAUIQRRGMYEGQZUIVDDSLJUGMYDQOBWGEZUMNBRIYZUCRBZEZZWSZZ5MY2TGZBSGYYTQMBRGM3WKMBVHAYTOYZVMY2TENDGGAYTQN3FMQZA
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/03e9f17e1e11033e6db4/white/640x360.png" group-title="US",MSNBC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/03e9f17e1e11033e6db4/black/640x360.png" group-title="US",MSNBC
 https://fll1-0-hls7-live.fll.zahs.tv/3d6111f06fc0f1dc/master.m3u8?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCNKFIZAUIQRRGY2TERRQGMYDMLJWIVCTIMJVGNBDMN2BINCDCNJYEZZWSZZ5HBQWGNZYMI3TCODFMQYDCOJVG5RDIMZQMJSTCMRVGRQTMM3CGE2Q
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/6df04c3126e6914187ce/black/640x360.png" group-title="US",ESPN
@@ -11,10 +11,10 @@ https://fll1-0-hls7-live.fll.zahs.tv/5e6498922e210741/master.m3u8?z32=MF2WI2LPL5
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/cafd3f3f1615f2e16a79/black/640x360.png" group-title="US",ESPN2
 https://fll1-1-hls7-live.fll.zahs.tv/e0684e11face932a/master.m3u8?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCNKFIZAUIQRRIQZEIRBVGA4DQLJWGNCDQRJUGFAUGN2BIM2DMRJUEZZWSZZ5GVQTAZTEMFQTSYZXGUYDSMJQGBTDIMJXHAZTOZDEMUZGMMJZGUYQ
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/def54339f09769aa9db0/white/640x360.png" group-title="US",FOX SPORTS 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/def54339f09769aa9db0/black/640x360.png" group-title="US",FOX SPORTS 1
 https://fll1-1-hls7-live.fll.zahs.tv/c187cdd0b27074c9/master.m3u8?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCNKFIZAUIQRSGEYTGNJUHFAUELKFIIZDAMCDIE3DSQZYINDDQMJGONUWOPLFHA4DANJRHFTDKNBSMEYWMNBWGBRDKNBZGY3DCMRZMVRWMYTBMY
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/a4ddb2b2a73572b9a3e0/white/640x360.png" group-title="US",FOX SPORTS 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/a4ddb2b2a73572b9a3e0/black/640x360.png" group-title="US",FOX SPORTS 2
 https://fll1-0-hls7-live.fll.zahs.tv/f3db16b78accba77/master.m3u8?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCNKFIZAUIQRSGQ3DSQ2DHE3UMLJSGJCUEQ2FGI2EENRQIEZTONBXEZZWSZZ5MI2DOMZRMYYTEZJXME3DCOLCMI4WMZBRGRRGKMDDMJQWIYLDMY2Q
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/93c148772cc19fa0db55/black/640x360.png" group-title="US",FOX SPORTS FLORIDA
@@ -26,7 +26,7 @@ https://fll1-1-hls7-live.fll.zahs.tv/5f30fd94708a6793/master.m3u8?z32=MF2WI2LPL5
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/ad08c994f9c1245c3320/black/640x360.png" group-title="US",FOX SPORTS SOUTH
 https://fll1-1-hls7-live.fll.zahs.tv/d59563f212a86834/master.m3u8?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCNKFIZAUIQRSIU4TSMRUIU2DCLJUIMZDKMCDIM2TENKGHA3DGMRYEZZWSZZ5MY4GGZTGMQZDIYRRGRRWKYZQGVSGMMZVGYZDCMJYGQ3DOOBWGFRQ
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/3c3c86178bc242825177/white/640x360.png" group-title="US",NBCSN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/3c3c86178bc242825177/black/640x360.png" group-title="US",NBCSN
 https://fll1-0-hls7-live.fll.zahs.tv/f55d0cb691b2f067/master.m3u8?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCNKFIZAUIQRTGIZDSN2DIM3DKLJUGRATKRRSGJCDOMRZG5ATSRJVEZZWSZZ5MY2WKYZRGM2DQYTGGQYWGZJSMJSTAZDCMUYWINZQHEZTKOBQMRRQ
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/1f4b78d39bb0c6b740dd/black/640x360.png" group-title="US",NFL NETWORK
