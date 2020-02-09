@@ -26,7 +26,7 @@ http://mc2http.zattoo.com/239.192.0.182:5501/.351
 http://mc2http.zattoo.com/239.192.0.183:5501/.351
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/5a2b2088510c7c7007fc/black/640x360.png" group-title="TR",BEIN SPORTS 1
-https://bein-tr-live.ercdn.com/connect_sh/bein/bein_sports_01/bein_sports_01.isml/playlist.m3u8?st=TIc0JMxCYaHNM3Y8dlX_HA&e=1580673600&userid=ed59299685
+https://bein-tr-live.ercdn.com/connect/bein/bein_sports_01_bo/bein_sports_01.isml/playlist.m3u8?st=FfkyTp4yh7-AU9R2PmQeeg&e=1581331913&userid=ed59299685
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/750ea3d3a22fcac23ab1/black/640x360.png" group-title="TR",BEIN GURME
 https://dt-live.akamaized.net/bc/gurme/gurme.isml/playlist.m3u8?hdnts=ip=95.90.242.31~st=1578085200~exp=1580763600~acl=/*~id=EHYRUAPY7YOC~hmac=625ff160884100cde6bba1eaecf1f5ec68759f619d7845c1c5799f1dd60ec160
