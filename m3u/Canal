@@ -1,8 +1,8 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/e7db7cde3a9bf2c6e694/white/640x360.png" group-title="UK",BBC One NI
-http://ztest-hls7-live.zahs.tv/HD_eiR_bbc_one/master.m3u8
+http://ztest-dash-live.zahs.tv/HD_eiR_bbc_one/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/d1c0f2eb8a31828d80d7/white/640x360.png" group-title="UK",BBC Two
-http://ztest-hls7-live.zahs.tv/HD_eiR_bbc_two/master.m3u8
+http://ztest-dash-live.zahs.tv/HD_eiR_bbc_two/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="UK",Sky Sports Main Event
 http://mc2http.zattoo.com/239.192.0.76:5501/.351
@@ -31,13 +31,13 @@ https://bein-tr-live.ercdn.com/connect/bein/bein_sports_01_bo/bein_sports_01.ism
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/750ea3d3a22fcac23ab1/black/640x360.png" group-title="TR",BEIN GURME
 https://dt-live.akamaized.net/bc/gurme/gurme.isml/playlist.m3u8?hdnts=ip=95.90.242.31~st=1578085200~exp=1580763600~acl=/*~id=EHYRUAPY7YOC~hmac=625ff160884100cde6bba1eaecf1f5ec68759f619d7845c1c5799f1dd60ec160
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/e61e6278fa0cce16a39b/black/640x360.png" group-title="TR",HABER TÜRK
+#EXTINF:-1 tvg-id="HABERTURK.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/e61e6278fa0cce16a39b/black/640x360.png" group-title="TR",HABER TÜRK
 https://mn-nl.mncdn.com/blutv_haberturk/smil:haberturk_hd.smil/chunklist_b3128000.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/de4ffcbdf7cd11892adc/black/640x360.png" group-title="TR",CNN TÜRK
+#EXTINF:-1 tvg-id="CNNTURK.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/de4ffcbdf7cd11892adc/black/640x360.png" group-title="TR",CNN TÜRK
 https://mn-nl.mncdn.com/blutv_cnnturk/smil:cnnturk_hd.smil/chunklist_b3128000.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/8fee9d93961659ace84c/black/640x360.png" group-title="TR",NTV
+#EXTINF:-1 tvg-id="NTV.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/8fee9d93961659ace84c/black/640x360.png" group-title="TR",NTV
 https://mn-nl.mncdn.com/blutv_ntv/smil:ntv_hd.smil/chunklist_b3128000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/1e8c04a9d49ffcc04503/black/640x360.png" group-title="TR",KANAL D
@@ -49,4 +49,11 @@ https://mn-nl.mncdn.com/blutv_showtv/smil:show_hd.smil/chunklist_b3128000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/37dc1e51f3aad78eab68/black/640x360.png" group-title="TR",FOX
 https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/chunklist_b3128000.m3u8
 
-http://176.235.1.27/PLTV/88888888/224/3221226857/index.m3u8?rrsip=176.235.1.27&zoneoffset=0&devkbps=400-5500&servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=BTK1rJzwb4Ts9sbcu4A9CasWK23nsJp671mTTdLeFX9VfI%2FS0k1h2RaJsDXoFADo8CHCD53bdaSaDpuMBHl1urKPRbu6cDbcWJVhWNXO09JuM43RsbpszXwutFL%2FGvTAv6zsr%2BCGl0%2F3NxwlmdljdSXOZyUnSOw8TBiBkPQsAx0%3D%3A20200202172033%3AUTC%2C1084013356%2C95.90.242.31%2C20200202172033%2C001300000008526522%2C74E9570CDEEF17DA74A49050A2FFF0E5%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C101127167114%2C0%2C101127167114%2C%2BZCHKrVLdKpvEmFaHBu2%2F6eFjGo%3D%2C2%2CEND&GuardEncType=2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/37dc1e51f3aad78eab68/black/640x360.png" group-title="UHD",SKY SPORT BUNDESLIGA UHD
+http://ztest-dash-live.zahs.tv/UHD_sky_sport_bundesliga/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/37dc1e51f3aad78eab68/black/640x360.png" group-title="UHD",SKY SPORT UHD
+http://ztest-dash-live.zahs.tv/UHD_sky_sport/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/37dc1e51f3aad78eab68/black/640x360.png" group-title="UHD",RMC SPORT UHD
+http://ztest-dash-live.zahs.tv/UHD_rmc_sport_uhd_fr/manifest.mpd
