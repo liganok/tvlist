@@ -73,6 +73,9 @@ http://ztest-dash-live.zahs.tv/UHD_sky_sport/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/37dc1e51f3aad78eab68/black/640x360.png" group-title="UHD",RMC SPORT UHD
 http://ztest-dash-live.zahs.tv/UHD_rmc_sport_uhd_fr/manifest.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/5a2b2088510c7c7007fc/black/640x360.png" group-title="UHD",RTL UHD
+http://mc2http.zattoo.com/224.78.193.13/.23
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/5a2b2088510c7c7007fc/black/640x360.png" group-title="FR",BEIN SPORTS 1
 http://mc2http.zattoo.com/224.72.30.1/.23
 
