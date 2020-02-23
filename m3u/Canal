@@ -1,8 +1,8 @@
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/e7db7cde3a9bf2c6e694/white/640x360.png" group-title="UK",BBC One NI
-http://ztest-dash-live.zahs.tv/HD_eiR_bbc_one/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/e7db7cde3a9bf2c6e694/white/640x360.png" group-title="UK",BBC One
+http://mc2http.zattoo.com/224.222.0.1/.23
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/d1c0f2eb8a31828d80d7/white/640x360.png" group-title="UK",BBC Two
-http://ztest-dash-live.zahs.tv/HD_eiR_bbc_two/manifest.mpd
+http://mc2http.zattoo.com/224.222.0.2/.23
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="UK",Sky Sports Main Event
 http://mc2http.zattoo.com/239.192.0.76:5501/.351
@@ -25,11 +25,14 @@ http://mc2http.zattoo.com/239.192.0.182:5501/.351
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/648e62757028a65e962e/white/640x360.png" group-title="UK",BT Sport ESPN
 http://mc2http.zattoo.com/239.192.0.183:5501/.351
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/5a2b2088510c7c7007fc/black/640x360.png" group-title="TR",BEIN SPORTS 1
-https://bein-tr-live.ercdn.com/connect/bein/bein_sports_01_bo/bein_sports_01.isml/playlist.m3u8?st=FfkyTp4yh7-AU9R2PmQeeg&e=1581331913&userid=ed59299685
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/750ea3d3a22fcac23ab1/black/640x360.png" group-title="TR",BEIN GURME
-https://dt-live.akamaized.net/bc/gurme/gurme.isml/playlist.m3u8?hdnts=ip=95.90.242.31~st=1578085200~exp=1580763600~acl=/*~id=EHYRUAPY7YOC~hmac=625ff160884100cde6bba1eaecf1f5ec68759f619d7845c1c5799f1dd60ec160
+http://mc2http.zattoo.com/224.215.12.108/.23
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/85091362415fe9bbaedc/black/640x360.png" group-title="TR",BEIN IZ
+http://mc2http.zattoo.com/224.215.12.107/.23
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/29c9e51b1cde3eef870b/black/640x360.png" group-title="TR",BEIN MOVIES TÜRK
+http://mc2http.zattoo.com/224.215.12.106/.23
 
 #EXTINF:-1 tvg-id="HABERTURK.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/e61e6278fa0cce16a39b/black/640x360.png" group-title="TR",HABER TÜRK
 https://mn-nl.mncdn.com/blutv_haberturk/smil:haberturk_hd.smil/chunklist_b3128000.m3u8
