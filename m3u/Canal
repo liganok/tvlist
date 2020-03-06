@@ -108,3 +108,30 @@ http://mc2http.zattoo.com/224.72.30.9/.23
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/fae2429459da3ef28008/black/640x360.png" group-title="FR",BEIN SPORTS MAX 10
 http://mc2http.zattoo.com/224.72.30.10/.23
+
+#EXTINF:-1 tvg-id=""" tvg-name="" tvg-logo="https://images.zattic.com/logos/9ff53034eab3535b79c7/black/640x360.png" group-title="US",CNN
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/03e9f17e1e11033e6db4/black/640x360.png" group-title="US",MSNBC
+
+
+#EXTINF:-1 tvg-id="I450.12206.tvguide.com" tvg-name="450" tvg-logo="https://images.zattic.com/logos/6df04c3126e6914187ce/black/640x360.png" group-title="US",ESPN
+https://fll1-0-hls7-live.fll.zahs.tv/5e6498922e210741/master.m3u8?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCNKFIZAUIQRRHFBTSNRRIVBDQLJTGA4DAMRWGBATAMJWHAZUERKCEZZWSZZ5GU2GEOLCGA2TQZRSGE2DQYTEMU3WINRZGA2WGZRRGUYDCNJXGJQQ
+
+#EXTINF:-1 tvg-id="I453.15628.tvguide.com" tvg-name="453" tvg-logo="https://images.zattic.com/logos/cafd3f3f1615f2e16a79/black/640x360.png" group-title="US",ESPN2
+https://fll1-1-hls7-live.fll.zahs.tv/e0684e11face932a/master.m3u8?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCNKFIZAUIQRRIQZEIRBVGA4DQLJWGNCDQRJUGFAUGN2BIM2DMRJUEZZWSZZ5GVQTAZTEMFQTSYZXGUYDSMJQGBTDIMJXHAZTOZDEMUZGMMJZGUYQ
+
+#EXTINF:-1 tvg-id="I254.44423.tvguide.com" tvg-name="254" tvg-logo="https://images.zattic.com/logos/def54339f09769aa9db0/black/640x360.png" group-title="US",FOX SPORTS 1
+https://fll1-1-hls7-live.fll.zahs.tv/c187cdd0b27074c9/master.m3u8?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCNKFIZAUIQRSGEYTGNJUHFAUELKFIIZDAMCDIE3DSQZYINDDQMJGONUWOPLFHA4DANJRHFTDKNBSMEYWMNBWGBRDKNBZGY3DCMRZMVRWMYTBMY
+
+#EXTINF:-1 tvg-id="I215.12472.tvguide.com" tvg-name="215" tvg-logo="https://images.zattic.com/logos/a4ddb2b2a73572b9a3e0/black/640x360.png" group-title="US",FOX SPORTS 2
+https://fll1-0-hls7-live.fll.zahs.tv/f3db16b78accba77/master.m3u8?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCNKFIZAUIQRSGQ3DSQ2DHE3UMLJSGJCUEQ2FGI2EENRQIEZTONBXEZZWSZZ5MI2DOMZRMYYTEZJXME3DCOLCMI4WMZBRGRRGKMDDMJQWIYLDMY2Q
+
+#EXTINF:-1 tvg-id="I38.1219.tvguide.com" tvg-name="38" tvg-logo="https://images.zattic.com/logos/3c3c86178bc242825177/black/640x360.png" group-title="US",NBCSN
+https://fll1-0-hls7-live.fll.zahs.tv/f55d0cb691b2f067/master.m3u8?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCNKFIZAUIQRTGIZDSN2DIM3DKLJUGRATKRRSGJCDOMRZG5ATSRJVEZZWSZZ5MY2WKYZRGM2DQYTGGQYWGZJSMJSTAZDCMUYWINZQHEZTKOBQMRRQ
+
+#EXTINF:-1 tvg-id="I156.37292.tvguide.com" tvg-name="156" tvg-logo="https://images.zattic.com/logos/60c65baf8dd2ac7ed358/black/640x360.png" group-title="US",BEIN SPORTS
+https://fll1-1-hls7-live.fll.zahs.tv/5d4f6cbbe4933f68/master.m3u8?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCNKFIZAUIQRTINCEIOJXIE3DQLJXIIZDQRBTIEYTOMSFGIZDAMKCEZZWSZZ5GAYGIM3BGE4DQZRSGFTDENRYG42DSMZUMU3DQNDGHA3DGNBWGVRQ
+
+#EXTINF:-1 tvg-id="I602.36937.tvguide.com" tvg-name="602" tvg-logo="https://images.zattic.com/logos/d8e2d9a402d6d6ce3f75/black/640x360.png" group-title="US",BEIN SPORTS Ñ
+https://blue-midas.fubo.tv/v1/master/6c9193257c0eed8ca3f1eabccc4444f9477500f1/blue-production/v4/master.m3u8?ads._fw_h_user_agent=Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+10_15_3%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F13.0.5+Safari%2F605.1.15&ads._fw_ip=209.160.123.84&ads._fw_is_lat=&ads._fw_station=88754&ads._fw_vcid2=fuboTV%3A5e627f80e8a8010001a49392&ads.fw_asset_id=EP018429340196_88754&ads.fw_device_id=_fw_did%3D1&ads.fw_nw_id=393638&ads.fw_playback_type=live&ads.fw_site=fubo_desktop_live&ads.fw_site_section=fubo_web_desktop_live&callsign=BEIN2HD&device=ALL&hdnts=ip%3D209.160.123.84~st%3D1583516922~exp%3D1583603322~acl%3D%2F%2A~data%3D1583603322~hmac%3D420912554ad0c4da1f0417b3aba713dda8d9f447f1eaf5ba47076434647ad2f1&watchToken=eyJhbGciOiJIUzI1NiIsInRva2VuVHlwZSI6IlVzYUJhc2VXYXRjaFRva2VuIiwidHlwIjoiSldUIn0.eyJ3YXRjaFRva2VuIjp7ImNhbGxTaWduIjoiQkVJTjJIRCIsImRldmljZSI6IkFMTCIsImJhbmR3aWR0aCI6Ik1BU1RFUiIsImNvdW50cnkiOiJVU0EiLCJ1c2VySWQiOiI1ZTYyN2Y4MGU4YTgwMTAwMDFhNDkzOTIiLCJyZXF1ZXN0VHlwZSI6ImxpdmUiLCJyZWdpb24iOiJ3ZXN0In0sImhvbWVaaXAiOiI5MDAxMiIsImdlb1ppcCI6Ijg0NzgyIn0.Wkuwpxq-NOK8KjXC-v08zmxAuBG_6UfzjBsiUH70igQ
