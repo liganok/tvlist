@@ -64,6 +64,9 @@ https://mn-nl.mncdn.com/blutv_showtv/smil:show_hd.smil/chunklist_b3128000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/37dc1e51f3aad78eab68/black/640x360.png" group-title="TR",FOX
 https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/chunklist_b3128000.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TR",BEIN SPORTS HABER
+https://bein-tr-live.ercdn.com/connect/bein/bein_sports_news_bo/bein_sports_news.isml/playlist.m3u8?st=nkZmGk_gc7mkrEFvfmu9xg&e=1583547168&userid=ed59299685
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/37dc1e51f3aad78eab68/black/640x360.png" group-title="UHD",SKY SPORT BUNDESLIGA UHD
 http://ztest-dash-live.zahs.tv/UHD_sky_sport_bundesliga/manifest.mpd
 
