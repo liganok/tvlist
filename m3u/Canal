@@ -110,31 +110,30 @@ http://mc2http.zattoo.com/224.72.30.9/.23
 http://mc2http.zattoo.com/224.72.30.10/.23
 
 #EXTINF:-1 tvg-id=""" tvg-name="" tvg-logo="https://images.zattic.com/logos/9ff53034eab3535b79c7/black/640x360.png" group-title="US",CNN
-https://turnerlive.akamaized.net/hls/live/586495/cnngo/cnn_slate/master.m3u8?hdnts=exp=1583886664~acl=/hls/live/586495/cnngo/*!/hls/live/586495-b/cnngo/*~id=eba8256e7ee4ab3525128b83595156e8-1583886665~hmac=a28d54de328cd6215f6dd3ab89c3d277ad4e556ca50276c82147a6f3b8289354
+http://mc2http.fll.zattoo.com/239.1.11.53:8208/.95
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/03e9f17e1e11033e6db4/black/640x360.png" group-title="US",MSNBC
-https://dcs-live2.apis.anvato.net/server/play/0ZGWZ1UrEXpnF5YA/rendition.m3u8?track=video-6&anvsid=i178782724-nf2c4ee2e-3c68-48ab-80c9-9d7f80bea929&ts=1583885267&anvtrid=3ffebe44b84b28305cf91033d391a2a1
+http://mc2http.fll.zattoo.com/239.1.23.31:8208/.95
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="US",NBC 4
-https://dcs-live2.apis.anvato.net/server/play/X09ZXWbI4ZDmLT5A/rendition.m3u8?track=video-6&anvsid=i178783097-n656874bd-27da-4148-a6bb-7b0064180832&ts=1583887001&anvtrid=8f6776d18efc0536ab98afe8ec9130e2
 
 #EXTINF:-1 tvg-id="I450.12206.tvguide.com" tvg-name="450" tvg-logo="https://images.zattic.com/logos/6df04c3126e6914187ce/black/640x360.png" group-title="US",ESPN
-https://fll1-0-hls7-live.fll.zahs.tv/5e6498922e210741/master.m3u8?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCNKFIZAUIQRRHFBTSNRRIVBDQLJTGA4DAMRWGBATAMJWHAZUERKCEZZWSZZ5GU2GEOLCGA2TQZRSGE2DQYTEMU3WINRZGA2WGZRRGUYDCNJXGJQQ
+http://mc2http.fll.zattoo.com/239.1.22.61:8208/.95
 
 #EXTINF:-1 tvg-id="I453.15628.tvguide.com" tvg-name="453" tvg-logo="https://images.zattic.com/logos/cafd3f3f1615f2e16a79/black/640x360.png" group-title="US",ESPN2
-https://fll1-1-hls7-live.fll.zahs.tv/e0684e11face932a/master.m3u8?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCNKFIZAUIQRRIQZEIRBVGA4DQLJWGNCDQRJUGFAUGN2BIM2DMRJUEZZWSZZ5GVQTAZTEMFQTSYZXGUYDSMJQGBTDIMJXHAZTOZDEMUZGMMJZGUYQ
+http://mc2http.fll.zattoo.com/239.1.22.62:8208/.95
 
 #EXTINF:-1 tvg-id="I254.44423.tvguide.com" tvg-name="254" tvg-logo="https://images.zattic.com/logos/def54339f09769aa9db0/black/640x360.png" group-title="US",FOX SPORTS 1
-https://blue-midas.fubo.tv/v1/master/6c9193257c0eed8ca3f1eabccc4444f9477500f1/blue-production/v4/master.m3u8?ads._fw_h_user_agent=Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+10_15_3%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F13.0.5+Safari%2F605.1.15&ads._fw_ip=209.160.123.84&ads._fw_is_lat=&ads._fw_station=94653&ads._fw_vcid2=fuboTV%3A5e627f80e8a8010001a49392&ads.fw_asset_id=EP010718060329_94653&ads.fw_device_id=_fw_did%3D1&ads.fw_nw_id=393638&ads.fw_playback_type=live&ads.fw_site=fubo_desktop_live&ads.fw_site_section=fubo_web_desktop_live&callsign=FS1&device=ALL&hdnts=ip%3D209.160.123.84~st%3D1583518608~exp%3D1583605008~acl%3D%2F%2A~data%3D1583605008~hmac%3D0b493636a30cf45d62410d9686d47f01a12b3a43a5a58e3181c4b6e31187583b&watchToken=eyJhbGciOiJIUzI1NiIsInRva2VuVHlwZSI6IlVzYUJhc2VXYXRjaFRva2VuIiwidHlwIjoiSldUIn0.eyJ3YXRjaFRva2VuIjp7ImNhbGxTaWduIjoiRlMxIiwiZGV2aWNlIjoiQUxMIiwiYmFuZHdpZHRoIjoiTUFTVEVSIiwiY291bnRyeSI6IlVTQSIsInVzZXJJZCI6IjVlNjI3ZjgwZThhODAxMDAwMWE0OTM5MiIsInJlcXVlc3RUeXBlIjoibGl2ZSIsInJlZ2lvbiI6Indlc3QifSwiaG9tZVppcCI6IjkwMDEyIiwiZ2VvWmlwIjoiODQ3ODIifQ.hINeMqzexr6f-DXBaAPVp0eG1O6JKnowXy-2lpj978M
+http://mc2http.fll.zattoo.com/239.1.22.17:8208/.95
 
 #EXTINF:-1 tvg-id="I215.12472.tvguide.com" tvg-name="215" tvg-logo="https://images.zattic.com/logos/a4ddb2b2a73572b9a3e0/black/640x360.png" group-title="US",FOX SPORTS 2
-https://blue-midas.fubo.tv/v1/master/6c9193257c0eed8ca3f1eabccc4444f9477500f1/blue-production/v4/master.m3u8?ads._fw_h_user_agent=Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+10_15_3%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F13.0.5+Safari%2F605.1.15&ads._fw_ip=209.160.123.84&ads._fw_is_lat=&ads._fw_station=69553&ads._fw_vcid2=fuboTV%3A5e627f80e8a8010001a49392&ads.fw_asset_id=EP030898670019_69553&ads.fw_device_id=_fw_did%3D1&ads.fw_nw_id=393638&ads.fw_playback_type=live&ads.fw_site=fubo_desktop_live&ads.fw_site_section=fubo_web_desktop_live&callsign=FS2&device=ALL&hdnts=ip%3D209.160.123.84~st%3D1583518538~exp%3D1583604938~acl%3D%2F%2A~data%3D1583604938~hmac%3Da412d3d6a61fa7da53619aa91d1ab5d01dff463c447b76acec9db3e604e9f274&watchToken=eyJhbGciOiJIUzI1NiIsInRva2VuVHlwZSI6IlVzYUJhc2VXYXRjaFRva2VuIiwidHlwIjoiSldUIn0.eyJ3YXRjaFRva2VuIjp7ImNhbGxTaWduIjoiRlMyIiwiZGV2aWNlIjoiQUxMIiwiYmFuZHdpZHRoIjoiTUFTVEVSIiwiY291bnRyeSI6IlVTQSIsInVzZXJJZCI6IjVlNjI3ZjgwZThhODAxMDAwMWE0OTM5MiIsInJlcXVlc3RUeXBlIjoibGl2ZSIsInJlZ2lvbiI6Indlc3QifSwiaG9tZVppcCI6IjkwMDEyIiwiZ2VvWmlwIjoiODQ3ODIifQ.cLDVx4-X1tMQVAeshsD6j_8XTj0YfbNcMV2IFD7gOd4
+http://mc2http.fll.zattoo.com/239.1.17.49:8208/.95
 
 #EXTINF:-1 tvg-id="I38.1219.tvguide.com" tvg-name="38" tvg-logo="https://images.zattic.com/logos/3c3c86178bc242825177/black/640x360.png" group-title="US",NBCSN
-http://tvenbcsn.akamaized.net/hls/live/2002665/nbc-sports0301080646/exp=1583629722~acl=%2fhls%2flive%2f*~data=hdntl~hmac=3df6dff2fc47d22fa4b5549f72b697af563f04727016dac969ab58bd1aad6ded/NBCSPORTS_VIDEO_0_5564000.m3u8?hdnts=st=1583543314~exp=1583543434~acl=/hls/live/*~hmac=0685868eef34f07a3dcb615ab15c8a9e7b1149489ef85712f61ebdd915bec91b
+http://mc2http.fll.zattoo.com/239.1.17.114:8208/.95
 
 #EXTINF:-1 tvg-id="I156.37292.tvguide.com" tvg-name="156" tvg-logo="https://images.zattic.com/logos/60c65baf8dd2ac7ed358/black/640x360.png" group-title="US",BEIN SPORTS
-https://blue-midas.fubo.tv/v1/master/6c9193257c0eed8ca3f1eabccc4444f9477500f1/blue-production/v4/master.m3u8?ads._fw_h_user_agent=Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+10_15_3%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F13.0.5+Safari%2F605.1.15&ads._fw_ip=209.160.123.84&ads._fw_is_lat=&ads._fw_station=88749&ads._fw_vcid2=fuboTV%3A5e627f80e8a8010001a49392&ads.fw_asset_id=EP017250980470_88749&ads.fw_device_id=_fw_did%3D1&ads.fw_nw_id=393638&ads.fw_playback_type=live&ads.fw_site=fubo_desktop_live&ads.fw_site_section=fubo_web_desktop_live&callsign=BEIN1HD&device=ALL&hdnts=ip%3D209.160.123.84~st%3D1583518677~exp%3D1583605077~acl%3D%2F%2A~data%3D1583605077~hmac%3D18e5f435124336ca87b108a530ec27ce994b57c73b673e9a3179ab7328d80c3d&watchToken=eyJhbGciOiJIUzI1NiIsInRva2VuVHlwZSI6IlVzYUJhc2VXYXRjaFRva2VuIiwidHlwIjoiSldUIn0.eyJ3YXRjaFRva2VuIjp7ImNhbGxTaWduIjoiQkVJTjFIRCIsImRldmljZSI6IkFMTCIsImJhbmR3aWR0aCI6Ik1BU1RFUiIsImNvdW50cnkiOiJVU0EiLCJ1c2VySWQiOiI1ZTYyN2Y4MGU4YTgwMTAwMDFhNDkzOTIiLCJyZXF1ZXN0VHlwZSI6ImxpdmUiLCJyZWdpb24iOiJ3ZXN0In0sImhvbWVaaXAiOiI5MDAxMiIsImdlb1ppcCI6Ijg0NzgyIn0.BQGiHb4GaUl3QYTt1n0DsjtwsGY-38AmnmcVMs2Tvng
+http://mc2http.fll.zattoo.com/239.1.13.34:8208/.95
 
 #EXTINF:-1 tvg-id="I602.36937.tvguide.com" tvg-name="602" tvg-logo="https://images.zattic.com/logos/d8e2d9a402d6d6ce3f75/black/640x360.png" group-title="US",BEIN SPORTS Ñ
-https://besus02d.akamaized.net/dash/live/706261/besus02d/manifest.mpd?hdnts=ip=209.160.123.34~st=1583544350~exp=1583551550~acl=/*~data=env=beinusa-production,jwt=eyJhbGciOiJIUzI1NiJ9.eyJhcGlwIjoiMjA5LjE2MC4xMjMuMzQiLCJpZF9pZGVudGl0eSI6MTAwMzQ2OCwiaWRfZGV2aWNlIjoiZGM3M2IyMTAtNTBjZC1jMWIzLWY1YTMtZWQ2ZDRlNjJkYTk0IiwiaWRfY2hhbm5lbCI6MjJ9.lP2yt97J3EqbVYoDi-D6uszflA6rYPLW8QE5NnjhZ2M~hmac=e37536c707588a0f92e4e54e7c1262906b0e02552f58571da68f52b2569d45b1
+http://mc2http.fll.zattoo.com/239.1.11.22:8208/.95
