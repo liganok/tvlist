@@ -129,6 +129,24 @@ http://mc2http.fll.zattoo.com/239.1.22.17:8208/.95
 #EXTINF:-1 tvg-id="I215.12472.tvguide.com" tvg-name="215" tvg-logo="https://images.zattic.com/logos/a4ddb2b2a73572b9a3e0/black/640x360.png" group-title="US",FOX SPORTS 2
 http://mc2http.fll.zattoo.com/239.1.17.49:8208/.95
 
+#EXTINF:-1 tvg-id="I215.12472.tvguide.com" tvg-name="215" tvg-logo="https://images.zattic.com/logos/93c148772cc19fa0db55/black/640x360.png" group-title="US",FOX SPORTS FLORIDA
+http://mc2http.fll.zattoo.com/239.1.22.30:8208/.95
+
+#EXTINF:-1 tvg-id="I215.12472.tvguide.com" tvg-name="215" tvg-logo="https://images.zattic.com/logos/ad08c994f9c1245c3320/black/640x360.png" group-title="US",FOX SPORTS SOUTH
+http://mc2http.fll.zattoo.com/239.1.17.58:8208/.95
+
+#EXTINF:-1 tvg-id="I215.12472.tvguide.com" tvg-name="215" tvg-logo="https://images.zattic.com/logos/036d884113f0f4f8f195/black/640x360.png" group-title="US",FOX SPORTS SUN
+http://mc2http.fll.zattoo.com/239.1.22.60:8208/.95
+
+#EXTINF:-1 tvg-id="I215.12472.tvguide.com" tvg-name="215" tvg-logo="https://images.zattic.com/logos/bb4b69c6f023bd6ef97c/black/640x360.png" group-title="US",GOL TV
+http://mc2http.fll.zattoo.com/239.1.23.95:8208/.95
+
+#EXTINF:-1 tvg-id="I215.12472.tvguide.com" tvg-name="215" tvg-logo="https://images.zattic.com/logos/bb4b69c6f023bd6ef97c/black/640x360.png" group-title="US",GOL TV Ñ
+http://mc2http.fll.zattoo.com/239.1.23.96:8208/.95
+
+#EXTINF:-1 tvg-id="I215.12472.tvguide.com" tvg-name="215" tvg-logo="https://images.zattic.com/logos/84beaad7796cd2b74071/black/640x360.png" group-title="US",SEC NETWORK
+http://mc2http.fll.zattoo.com/239.1.23.64:8208/.95
+
 #EXTINF:-1 tvg-id="I38.1219.tvguide.com" tvg-name="38" tvg-logo="https://images.zattic.com/logos/3c3c86178bc242825177/black/640x360.png" group-title="US",NBCSN
 http://mc2http.fll.zattoo.com/239.1.17.114:8208/.95
 
