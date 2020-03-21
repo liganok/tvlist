@@ -1,16 +1,16 @@
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/e7db7cde3a9bf2c6e694/black/640x360.png" group-title="UK",BBC One
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="" tvg-logo="https://images.zattic.com/logos/e7db7cde3a9bf2c6e694/black/640x360.png" group-title="UK",BBC One
 http://mc2http.zattoo.com/224.222.0.1/.23
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/d1c0f2eb8a31828d80d7/black/640x360.png" group-title="UK",BBC Two
+#EXTINF:-1 tvg-id="BBC2.uk" tvg-name="" tvg-logo="https://images.zattic.com/logos/d1c0f2eb8a31828d80d7/black/640x360.png" group-title="UK",BBC Two
 http://mc2http.zattoo.com/224.222.0.2/.23
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/d0fe0d3aebb8f801587d/black/640x360.png" group-title="UK",ITV 1
+#EXTINF:-1 tvg-id="ITV1.uk" tvg-name="" tvg-logo="https://images.zattic.com/logos/d0fe0d3aebb8f801587d/black/640x360.png" group-title="UK",ITV 1
 http://mc2http.zattoo.com/224.222.18.100/.23
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/a7226a136a3d8af20cff/black/640x360.png" group-title="UK",CHANNEL 4
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="" tvg-logo="https://images.zattic.com/logos/a7226a136a3d8af20cff/black/640x360.png" group-title="UK",CHANNEL 4
 http://mc2http.zattoo.com/224.222.28.1/.23
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/54a6ea6b3836821f9eab/black/640x360.png" group-title="UK",CHANNEL 5
+#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="" tvg-logo="https://images.zattic.com/logos/54a6ea6b3836821f9eab/black/640x360.png" group-title="UK",CHANNEL 5
 http://mc2http.zattoo.com/224.222.6.50/.23
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="UK",Sky Sports Main Event
@@ -34,13 +34,13 @@ http://mc2http.zattoo.com/239.192.0.182:5501/.351
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/648e62757028a65e962e/black/640x360.png" group-title="UK",BT Sport ESPN
 http://mc2http.zattoo.com/239.192.0.183:5501/.351
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/750ea3d3a22fcac23ab1/black/640x360.png" group-title="TR",BEIN GURME
+#EXTINF:-1 tvg-id="beINGurme.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/750ea3d3a22fcac23ab1/black/640x360.png" group-title="TR",BEIN GURME
 http://mc2http.zattoo.com/224.215.12.108/.23
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/85091362415fe9bbaedc/black/640x360.png" group-title="TR",BEIN IZ
+#EXTINF:-1 tvg-id="beINiz.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/85091362415fe9bbaedc/black/640x360.png" group-title="TR",BEIN IZ
 http://mc2http.zattoo.com/224.215.12.107/.23
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/29c9e51b1cde3eef870b/black/640x360.png" group-title="TR",BEIN MOVIES TÜRK
+#EXTINF:-1 tvg-id="beINMoviesTurk.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/29c9e51b1cde3eef870b/black/640x360.png" group-title="TR",BEIN MOVIES TÜRK
 http://mc2http.zattoo.com/224.215.12.106/.23
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/f3deea613885c67943de/black/640x360.png" group-title="TR",POWER TÜRK
@@ -79,13 +79,13 @@ http://ztest-dash-live.zahs.tv/UHD_rmc_sport_uhd_fr/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/5a2b2088510c7c7007fc/black/640x360.png" group-title="UHD",RTL UHD
 http://mc2http.zattoo.com/224.78.193.13/.23
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/5a2b2088510c7c7007fc/black/640x360.png" group-title="FR",BEIN SPORTS 1
+#EXTINF:-1 tvg-id="BeinSports1.fr" tvg-name="" tvg-logo="https://images.zattic.com/logos/5a2b2088510c7c7007fc/black/640x360.png" group-title="FR",BEIN SPORTS 1
 http://mc2http.zattoo.com/224.72.30.1/.23
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/35766ec02b06aa980179/black/640x360.png" group-title="FR",BEIN SPORTS 2
+#EXTINF:-1 tvg-id="BeinSports2.fr" tvg-name="" tvg-logo="https://images.zattic.com/logos/35766ec02b06aa980179/black/640x360.png" group-title="FR",BEIN SPORTS 2
 http://mc2http.zattoo.com/224.72.30.2/.23
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/dc942247a57c5dede047/black/640x360.png" group-title="FR",BEIN SPORTS 3
+#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="" tvg-logo="https://images.zattic.com/logos/dc942247a57c5dede047/black/640x360.png" group-title="FR",BEIN SPORTS 3
 http://mc2http.zattoo.com/224.72.30.3/.23
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/4d726938e0526751d85e/black/640x360.png" group-title="FR",BEIN SPORTS MAX 4
@@ -109,66 +109,66 @@ http://mc2http.zattoo.com/224.72.30.9/.23
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/fae2429459da3ef28008/black/640x360.png" group-title="FR",BEIN SPORTS MAX 10
 http://mc2http.zattoo.com/224.72.30.10/.23
 
-#EXTINF:-1 tvg-id=""" tvg-name="" tvg-logo="https://images.zattic.com/logos/9ff53034eab3535b79c7/black/640x360.png" group-title="US",CNN
+#EXTINF:-1 tvg-id="CNN.us"" tvg-name="" tvg-logo="https://images.zattic.com/logos/9ff53034eab3535b79c7/black/640x360.png" group-title="US",CNN
 http://mc2http.fll.zattoo.com/239.1.11.53:8208/.95
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/03e9f17e1e11033e6db4/black/640x360.png" group-title="US",MSNBC
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="" tvg-logo="https://images.zattic.com/logos/03e9f17e1e11033e6db4/black/640x360.png" group-title="US",MSNBC
 http://mc2http.fll.zattoo.com/239.1.23.31:8208/.95
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="US",NBC 4
 
-#EXTINF:-1 tvg-id="I450.12206.tvguide.com" tvg-name="450" tvg-logo="https://images.zattic.com/logos/6df04c3126e6914187ce/black/640x360.png" group-title="US",ESPN
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="450" tvg-logo="https://images.zattic.com/logos/6df04c3126e6914187ce/black/640x360.png" group-title="US",ESPN
 http://mc2http.fll.zattoo.com/239.1.22.61:8208/.95
 
-#EXTINF:-1 tvg-id="I453.15628.tvguide.com" tvg-name="453" tvg-logo="https://images.zattic.com/logos/cafd3f3f1615f2e16a79/black/640x360.png" group-title="US",ESPN2
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="453" tvg-logo="https://images.zattic.com/logos/cafd3f3f1615f2e16a79/black/640x360.png" group-title="US",ESPN2
 http://mc2http.fll.zattoo.com/239.1.22.62:8208/.95
 
-#EXTINF:-1 tvg-id="I254.44423.tvguide.com" tvg-name="254" tvg-logo="https://images.zattic.com/logos/def54339f09769aa9db0/black/640x360.png" group-title="US",FOX SPORTS 1
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="254" tvg-logo="https://images.zattic.com/logos/def54339f09769aa9db0/black/640x360.png" group-title="US",FOX SPORTS 1
 http://mc2http.fll.zattoo.com/239.1.22.17:8208/.95
 
-#EXTINF:-1 tvg-id="I215.12472.tvguide.com" tvg-name="215" tvg-logo="https://images.zattic.com/logos/a4ddb2b2a73572b9a3e0/black/640x360.png" group-title="US",FOX SPORTS 2
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="215" tvg-logo="https://images.zattic.com/logos/a4ddb2b2a73572b9a3e0/black/640x360.png" group-title="US",FOX SPORTS 2
 http://mc2http.fll.zattoo.com/239.1.17.49:8208/.95
 
-#EXTINF:-1 tvg-id="I215.12472.tvguide.com" tvg-name="215" tvg-logo="https://images.zattic.com/logos/93c148772cc19fa0db55/black/640x360.png" group-title="US",FOX SPORTS FLORIDA
+#EXTINF:-1 tvg-id="FoxSportsFlorida.us" tvg-name="215" tvg-logo="https://images.zattic.com/logos/93c148772cc19fa0db55/black/640x360.png" group-title="US",FOX SPORTS FLORIDA
 http://mc2http.fll.zattoo.com/239.1.22.30:8208/.95
 
 #EXTINF:-1 tvg-id="I215.12472.tvguide.com" tvg-name="215" tvg-logo="https://images.zattic.com/logos/ad08c994f9c1245c3320/black/640x360.png" group-title="US",FOX SPORTS SOUTH
 http://mc2http.fll.zattoo.com/239.1.17.58:8208/.95
 
-#EXTINF:-1 tvg-id="I215.12472.tvguide.com" tvg-name="215" tvg-logo="https://images.zattic.com/logos/036d884113f0f4f8f195/black/640x360.png" group-title="US",FOX SPORTS SUN
+#EXTINF:-1 tvg-id="FoxSportsSun.us" tvg-name="215" tvg-logo="https://images.zattic.com/logos/036d884113f0f4f8f195/black/640x360.png" group-title="US",FOX SPORTS SUN
 http://mc2http.fll.zattoo.com/239.1.22.60:8208/.95
 
-#EXTINF:-1 tvg-id="I215.12472.tvguide.com" tvg-name="215" tvg-logo="https://images.zattic.com/logos/bb4b69c6f023bd6ef97c/black/640x360.png" group-title="US",GOL TV
+#EXTINF:-1 tvg-id="GolTVEnglish.us" tvg-name="215" tvg-logo="https://images.zattic.com/logos/bb4b69c6f023bd6ef97c/black/640x360.png" group-title="US",GOL TV
 http://mc2http.fll.zattoo.com/239.1.23.95:8208/.95
 
-#EXTINF:-1 tvg-id="I215.12472.tvguide.com" tvg-name="215" tvg-logo="https://images.zattic.com/logos/bb4b69c6f023bd6ef97c/black/640x360.png" group-title="US",GOL TV Ñ
+#EXTINF:-1 tvg-id="GolTVSpanish.us" tvg-name="215" tvg-logo="https://images.zattic.com/logos/bb4b69c6f023bd6ef97c/black/640x360.png" group-title="US",GOL TV Ñ
 http://mc2http.fll.zattoo.com/239.1.23.96:8208/.95
 
-#EXTINF:-1 tvg-id="I215.12472.tvguide.com" tvg-name="215" tvg-logo="https://images.zattic.com/logos/84beaad7796cd2b74071/black/640x360.png" group-title="US",SEC NETWORK
+#EXTINF:-1 tvg-id="SECNetwork.us" tvg-name="215" tvg-logo="https://images.zattic.com/logos/84beaad7796cd2b74071/black/640x360.png" group-title="US",SEC NETWORK
 http://mc2http.fll.zattoo.com/239.1.23.64:8208/.95
 
 #EXTINF:-1 tvg-id="I38.1219.tvguide.com" tvg-name="38" tvg-logo="https://images.zattic.com/logos/3c3c86178bc242825177/black/640x360.png" group-title="US",NBCSN
 http://mc2http.fll.zattoo.com/239.1.17.114:8208/.95
 
-#EXTINF:-1 tvg-id="I156.37292.tvguide.com" tvg-name="156" tvg-logo="https://images.zattic.com/logos/60c65baf8dd2ac7ed358/black/640x360.png" group-title="US",BEIN SPORTS
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="156" tvg-logo="https://images.zattic.com/logos/60c65baf8dd2ac7ed358/black/640x360.png" group-title="US",BEIN SPORTS
 http://mc2http.fll.zattoo.com/239.1.13.34:8208/.95
 
-#EXTINF:-1 tvg-id="I602.36937.tvguide.com" tvg-name="602" tvg-logo="https://images.zattic.com/logos/d8e2d9a402d6d6ce3f75/black/640x360.png" group-title="US",BEIN SPORTS Ñ
+#EXTINF:-1 tvg-id="beINSportsEnEspanol.us" tvg-name="602" tvg-logo="https://images.zattic.com/logos/d8e2d9a402d6d6ce3f75/black/640x360.png" group-title="US",BEIN SPORTS Ñ
 http://mc2http.fll.zattoo.com/239.1.11.22:8208/.95
 
-#EXTINF:-1 tvg-id="I602.36937.tvguide.com" tvg-name="602" tvg-logo="https://images.zattic.com/logos/8c7a2638975d2a89cf97/black/640x360.png" group-title="US",MLB Network
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="602" tvg-logo="https://images.zattic.com/logos/8c7a2638975d2a89cf97/black/640x360.png" group-title="US",MLB Network
 http://mc2http.fll.zattoo.com/239.1.22.16:8208/.95
 
 #EXTINF:-1 tvg-id="I602.36937.tvguide.com" tvg-name="602" tvg-logo="https://images.zattic.com/logos/dba52987a2760fcf2805/black/640x360.png" group-title="US",A&E
 http://mc2http.fll.zattoo.com/239.1.22.34:8208/.95
 
-#EXTINF:-1 tvg-id="I602.36937.tvguide.com" tvg-name="602" tvg-logo="https://images.zattic.com/logos/8cf5efe48d5012821dbb/black/640x360.png" group-title="US",E!
+#EXTINF:-1 tvg-id="EEntertainment.us" tvg-name="602" tvg-logo="https://images.zattic.com/logos/8cf5efe48d5012821dbb/black/640x360.png" group-title="US",E!
 http://mc2http.fll.zattoo.com/239.1.22.59:8208/.95
 
-#EXTINF:-1 tvg-id="I602.36937.tvguide.com" tvg-name="602" tvg-logo="https://images.zattic.com/logos/566c09781568feaa2017/black/640x360.png" group-title="US",TBS
+#EXTINF:-1 tvg-id="TBS.us" tvg-name="602" tvg-logo="https://images.zattic.com/logos/566c09781568feaa2017/black/640x360.png" group-title="US",TBS
 http://mc2http.fll.zattoo.com/239.1.11.54:8208/.95
 
-#EXTINF:-1 tvg-id="I602.36937.tvguide.com" tvg-name="602" tvg-logo="https://images.zattic.com/logos/8e1d24ce7759508605fe/black/640x360.png" group-title="US",TLC
+#EXTINF:-1 tvg-id="TLC.us" tvg-name="602" tvg-logo="https://images.zattic.com/logos/8e1d24ce7759508605fe/black/640x360.png" group-title="US",TLC
 http://mc2http.fll.zattoo.com/239.1.23.33:8208/.95
 
 #EXTINF:-1 tvg-id="I602.36937.tvguide.com" tvg-name="602" tvg-logo="https://images.zattic.com/logos/0f7af76abf2a8d5e0bc4/black/640x360.png" group-title="US",TNT
@@ -185,9 +185,3 @@ http://mc2http.fll.zattoo.com/239.1.22.20:8208/.95
 
 #EXTINF:-1 tvg-id="I602.36937.tvguide.com" tvg-name="602" tvg-logo="https://images.zattic.com/logos/94ce13c7d76b8492c6a4/black/640x360.png" group-title="US",VH1
 http://mc2http.fll.zattoo.com/239.1.23.44:8208/.95
-
-#EXTINF:-1 tvg-id="I602.36937.tvguide.com" tvg-name="602" tvg-logo="https://images.zattic.com/logos/8c7a2638975d2a89cf97/black/640x360.png" group-title="US",MLB Network
-http://mc2http.fll.zattoo.com/239.1.22.16:8208/.95
-
-#EXTINF:-1 tvg-id="I602.36937.tvguide.com" tvg-name="602" tvg-logo="https://images.zattic.com/logos/d8e2d9a402d6d6ce3f75/black/640x360.png" group-title="US",BEIN SPORTS Ñ
-http://mc2http.fll.zattoo.com/239.1.11.22:8208/.95
