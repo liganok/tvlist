@@ -5,7 +5,7 @@ http://10.2.79.41:6300/224.222.0.1/.23
 http://10.2.73.39:6300/224.222.0.2/.23
 
 #EXTINF:-1 tvg-id="ITV1.uk" tvg-name="" tvg-logo="https://images.zattic.com/logos/d0fe0d3aebb8f801587d/black/640x360.png" group-title="UK",ITV 1
-http://mc2http.zattoo.com/224.222.18.100/.23
+http://10.2.82.5:6300/224.222.18.100/.23
 
 #EXTINF:-1 tvg-id="Channel4.uk" tvg-name="" tvg-logo="https://images.zattic.com/logos/a7226a136a3d8af20cff/black/640x360.png" group-title="UK",CHANNEL 4
 http://10.2.82.5:6300/224.222.28.1/.23
@@ -35,16 +35,16 @@ http://10.2.75.67:6300/239.192.0.182:5501/.351
 http://10.2.75.67:6300/239.192.0.183:5501/.351
 
 #EXTINF:-1 tvg-id="beINGurme.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/750ea3d3a22fcac23ab1/black/640x360.png" group-title="TR",BEIN GURME
-http://10.2.82.81/224.215.12.108/.23
+http://10.2.82.81:6300/224.215.12.108/.23
 
 #EXTINF:-1 tvg-id="beINiz.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/85091362415fe9bbaedc/black/640x360.png" group-title="TR",BEIN IZ
-http://10.2.74.67/224.215.12.107/.23
+http://10.2.74.67:6300/224.215.12.107/.23
 
 #EXTINF:-1 tvg-id="beINMoviesTurk.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/29c9e51b1cde3eef870b/black/640x360.png" group-title="TR",BEIN MOVIES TÜRK
-http://10.2.75.45/224.215.12.106/.23
+http://10.2.75.45:6300/224.215.12.106/.23
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/f3deea613885c67943de/black/640x360.png" group-title="TR",POWER TÜRK
-http://10.2.76.57/224.215.8.101/.23
+http://10.2.76.57:6300/224.215.8.101/.23
 
 #EXTINF:-1 tvg-id="HABERTURK.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/e61e6278fa0cce16a39b/black/640x360.png" group-title="TR",HABER TÜRK
 https://mn-nl.mncdn.com/blutv_haberturk/smil:haberturk_hd.smil/chunklist_b3128000.m3u8
@@ -77,48 +77,48 @@ http://ztest-dash-live.zahs.tv/UHD_rmc_sport_uhd_fr/manifest.mpd
 http://mc2http.zattoo.com/224.78.193.13/.23
 
 #EXTINF:-1 tvg-id="BeinSports1.fr" tvg-name="" tvg-logo="https://images.zattic.com/logos/5a2b2088510c7c7007fc/black/640x360.png" group-title="FR",BEIN SPORTS 1
-http://10.2.82.81/224.72.30.1/.23
+http://10.2.82.81:6300/224.72.30.1/.23
 
 #EXTINF:-1 tvg-id="BeinSports2.fr" tvg-name="" tvg-logo="https://images.zattic.com/logos/35766ec02b06aa980179/black/640x360.png" group-title="FR",BEIN SPORTS 2
-http://10.2.76.55/224.72.30.2/.23
+http://10.2.76.55:6300/224.72.30.2/.23
 
 #EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="" tvg-logo="https://images.zattic.com/logos/dc942247a57c5dede047/black/640x360.png" group-title="FR",BEIN SPORTS 3
-http://10.2.72.55/224.72.30.3/.23
+http://10.2.72.55:6300/224.72.30.3/.23
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/4d726938e0526751d85e/black/640x360.png" group-title="FR",BEIN SPORTS MAX 4
-http://10.2.79.55/224.72.30.4/.23
+http://10.2.79.55:6300/224.72.30.4/.23
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/00931c98a345d7a60669/black/640x360.png" group-title="FR",BEIN SPORTS MAX 5
-http://10.2.38.79/224.72.30.5/.23
+http://10.2.38.79:6300/224.72.30.5/.23
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/11cae1260a7347fae794/black/640x360.png" group-title="FR",BEIN SPORTS MAX 6
-http://10.2.82.5/224.72.30.6/.23
+http://10.2.82.5:6300/224.72.30.6/.23
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/d908526f3659bda47666/black/640x360.png" group-title="FR",BEIN SPORTS MAX 7
-http://10.2.79.71/224.72.30.7/.23
+http://10.2.79.71:6300/224.72.30.7/.23
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/480681304d63038f7bf0/black/640x360.png" group-title="FR",BEIN SPORTS MAX 8
-http://10.2.80.25/224.72.30.8/.23
+http://10.2.80.25:6300/224.72.30.8/.23
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/ddb6721ba295e6b699ee/black/640x360.png" group-title="FR",BEIN SPORTS MAX 9
-http://10.2.79.57/224.72.30.9/.23
+http://10.2.79.57:6300/224.72.30.9/.23
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/fae2429459da3ef28008/black/640x360.png" group-title="FR",BEIN SPORTS MAX 10
-http://10.2.80.29/224.72.30.10/.23
+http://10.2.80.29:6300/224.72.30.10/.23
 
 #EXTINF:-1 tvg-id="CNN.us"" tvg-name="" tvg-logo="https://images.zattic.com/logos/9ff53034eab3535b79c7/black/640x360.png" group-title="US",CNN
-http://10.91.1.13/239.1.11.53:8208/.95
+http://10.91.1.13:6300/239.1.11.53:8208/.95
 
 #EXTINF:-1 tvg-id="MSNBC.us" tvg-name="" tvg-logo="https://images.zattic.com/logos/03e9f17e1e11033e6db4/black/640x360.png" group-title="US",MSNBC
-http://10.91.2.15/239.1.23.31:8208/.95
+http://10.91.2.15:6300/239.1.23.31:8208/.95
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="US",NBC 4
 
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="450" tvg-logo="https://images.zattic.com/logos/6df04c3126e6914187ce/black/640x360.png" group-title="US",ESPN
-http://10.91.1.21/239.1.22.61:8208/.95
+http://10.91.1.21:6300/239.1.22.61:8208/.95
 
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="453" tvg-logo="https://images.zattic.com/logos/cafd3f3f1615f2e16a79/black/640x360.png" group-title="US",ESPN2
-http://10.91.1.25/239.1.22.62:8208/.95
+http://10.91.1.25:6300/239.1.22.62:8208/.95
 
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="254" tvg-logo="https://images.zattic.com/logos/def54339f09769aa9db0/black/640x360.png" group-title="US",FOX SPORTS 1
 http://mc2http.fll.zattoo.com/239.1.22.17:8208/.95
