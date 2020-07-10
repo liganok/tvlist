@@ -1,17 +1,17 @@
 #EXTINF:-1 tvg-id="BBC1.uk" tvg-name="" tvg-logo="https://images.zattic.com/logos/e7db7cde3a9bf2c6e694/black/640x360.png" group-title="UK",BBC One
-http://mc2http.zattoo.com/224.222.0.1/.23
+http://10.2.79.41:6300/224.222.0.1/.23
 
 #EXTINF:-1 tvg-id="BBC2.uk" tvg-name="" tvg-logo="https://images.zattic.com/logos/d1c0f2eb8a31828d80d7/black/640x360.png" group-title="UK",BBC Two
-http://mc2http.zattoo.com/224.222.0.2/.23
+http://10.2.73.39:6300/224.222.0.2/.23
 
 #EXTINF:-1 tvg-id="ITV1.uk" tvg-name="" tvg-logo="https://images.zattic.com/logos/d0fe0d3aebb8f801587d/black/640x360.png" group-title="UK",ITV 1
 http://mc2http.zattoo.com/224.222.18.100/.23
 
 #EXTINF:-1 tvg-id="Channel4.uk" tvg-name="" tvg-logo="https://images.zattic.com/logos/a7226a136a3d8af20cff/black/640x360.png" group-title="UK",CHANNEL 4
-http://mc2http.zattoo.com/224.222.28.1/.23
+http://10.2.82.5:6300/224.222.28.1/.23
 
 #EXTINF:-1 tvg-id="Channel5.uk" tvg-name="" tvg-logo="https://images.zattic.com/logos/54a6ea6b3836821f9eab/black/640x360.png" group-title="UK",CHANNEL 5
-http://mc2http.zattoo.com/224.222.6.50/.23
+http://10.2.79.47:6300/224.222.6.50/.23
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="UK",Sky Sports Main Event
 http://mc2http.zattoo.com/239.192.0.76:5501/.351
