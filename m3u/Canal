@@ -14,25 +14,25 @@ http://10.2.82.5:6300/224.222.28.1/.23
 http://10.2.79.47:6300/224.222.6.50/.23
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="UK",Sky Sports Main Event
-http://mc2http.zattoo.com/239.192.0.76:5501/.351
+http://10.2.75.67:6300/239.192.0.76:5501/.351
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="UK",Sky Sports Football
-http://mc2http.zattoo.com/239.192.0.103:5501/.351
+http://10.2.75.67:6300/239.192.0.103:5501/.351
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="UK",Sky Sports Premier League
-http://mc2http.zattoo.com/239.192.0.95:5501/.351
+http://10.2.75.67:6300/239.192.0.95:5501/.351
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/7b7c2fe9aa6995935e0f/black/640x360.png" group-title="UK",BT Sport 1
-http://mc2http.zattoo.com/239.192.0.180:5501/.351
+http://10.2.75.67:6300/239.192.0.180:5501/.351
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/1c14a528e8dc3a51b331/black/640x360.png" group-title="UK",BT Sport 2
-http://mc2http.zattoo.com/239.192.0.181:5501/.351
+http://10.2.75.67:6300/239.192.0.181:5501/.351
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/047fa4036ee9eb46d4dc/black/640x360.png" group-title="UK",BT Sport 3
-http://mc2http.zattoo.com/239.192.0.182:5501/.351
+http://10.2.75.67:6300/239.192.0.182:5501/.351
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/648e62757028a65e962e/black/640x360.png" group-title="UK",BT Sport ESPN
-http://mc2http.zattoo.com/239.192.0.183:5501/.351
+http://10.2.75.67:6300/239.192.0.183:5501/.351
 
 #EXTINF:-1 tvg-id="beINGurme.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/750ea3d3a22fcac23ab1/black/640x360.png" group-title="TR",BEIN GURME
 http://mc2http.zattoo.com/224.215.12.108/.23
