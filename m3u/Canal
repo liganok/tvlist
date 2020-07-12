@@ -13,32 +13,32 @@ http://10.2.82.5:6300/224.222.28.1/.23
 #EXTINF:-1 tvg-id="Channel5.uk" tvg-name="" tvg-logo="https://images.zattic.com/logos/54a6ea6b3836821f9eab/black/640x360.png" group-title="UK",CHANNEL 5
 http://10.2.79.47:6300/224.222.6.50/.23
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="UK",Sky Sports Main Event
-http://10.2.75.67:6300/239.192.0.76:5501/.351
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2017/07/SkySports-MAIN-EVENT.png" group-title="UK",Sky Sports Main Event
+http://10.2.75.67:6300/239.192.1.76:5501/.351
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="UK",Sky Sports Main Event HD
-http://tv.iptvpanel.tv:8080/sqjerd88el/j5t0v2fuzj/671299
-turkeyt
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="UK",Sky Sports Football
-http://10.2.75.67:6300/239.192.0.103:5501/.351
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2017/07/SkySports-FOOTBALL.png" group-title="UK",Sky Sports Football
+http://10.2.75.67:6300/239.192.1.103:5501/.351
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="UK",Sky Sports Premier League
-http://10.2.75.67:6300/239.192.0.95:5501/.351
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="UK",Sky Sports Premier League HD
-http://tv.iptvpanel.tv:8080/sqjerd88el/j5t0v2fuzj/671301
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2017/07/SkySports-PREMIER.png" group-title="UK",Sky Sports Premier League
+http://10.2.75.67:6300/239.192.1.95:5501/.351
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/7b7c2fe9aa6995935e0f/black/640x360.png" group-title="UK",BT Sport 1
-http://10.2.75.67:6300/239.192.0.180:5501/.351
+http://10.2.75.67:6300/239.192.1.180:5501/.351
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/1c14a528e8dc3a51b331/black/640x360.png" group-title="UK",BT Sport 2
-http://10.2.75.67:6300/239.192.0.181:5501/.351
+http://10.2.75.67:6300/239.192.1.181:5501/.351
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/047fa4036ee9eb46d4dc/black/640x360.png" group-title="UK",BT Sport 3
-http://10.2.75.67:6300/239.192.0.182:5501/.351
+http://10.2.75.67:6300/239.192.1.182:5501/.351
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/648e62757028a65e962e/black/640x360.png" group-title="UK",BT Sport ESPN
-http://10.2.75.67:6300/239.192.0.183:5501/.351
+http://10.2.75.67:6300/239.192.1.183:5501/.351
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.premiersports.com/assets/components/mor/General/img/premier-sports-logo.png" group-title="UK",Premier Sport 1
+http://10.2.75.67:6300/239.192.1.239:5501/.351
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.premiersports.com/assets/components/mor/General/img/premier-sports-logo.png" group-title="UK",Premier Sport 2
+http://10.2.75.67:6300/239.192.1.240:5501/.351
 
 #EXTINF:-1 tvg-id="beINGurme.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/750ea3d3a22fcac23ab1/black/640x360.png" group-title="TR",BEIN GURME
 http://10.2.82.81:6300/224.215.12.108/.23
@@ -127,40 +127,40 @@ http://10.91.1.21:6300/239.1.22.61:8208/.95
 http://10.91.1.25:6300/239.1.22.62:8208/.95
 
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="254" tvg-logo="https://images.zattic.com/logos/def54339f09769aa9db0/black/640x360.png" group-title="US",FOX SPORTS 1
-http://mc2http.fll.zattoo.com/239.1.22.17:8208/.95
+http://10.91.1.55:6300/239.1.22.17:8208/.95
 
 #EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="215" tvg-logo="https://images.zattic.com/logos/a4ddb2b2a73572b9a3e0/black/640x360.png" group-title="US",FOX SPORTS 2
-http://mc2http.fll.zattoo.com/239.1.17.49:8208/.95
+http://10.91.2.55:6300/239.1.17.49:8208/.95
 
 #EXTINF:-1 tvg-id="FoxSportsFlorida.us" tvg-name="215" tvg-logo="https://images.zattic.com/logos/93c148772cc19fa0db55/black/640x360.png" group-title="US",FOX SPORTS FLORIDA
-http://mc2http.fll.zattoo.com/239.1.22.30:8208/.95
+http://10.91.1.55:6300/239.1.22.30:8208/.95
 
 #EXTINF:-1 tvg-id="FoxSportsSouth.us" tvg-name="215" tvg-logo="https://images.zattic.com/logos/ad08c994f9c1245c3320/black/640x360.png" group-title="US",FOX SPORTS SOUTH
-http://mc2http.fll.zattoo.com/239.1.17.58:8208/.95
+http://10.91.1.57:6300/239.1.17.58:8208/.95
 
 #EXTINF:-1 tvg-id="FoxSportsSun.us" tvg-name="215" tvg-logo="https://images.zattic.com/logos/036d884113f0f4f8f195/black/640x360.png" group-title="US",FOX SPORTS SUN
-http://mc2http.fll.zattoo.com/239.1.22.60:8208/.95
+http://10.91.2.59:6300/239.1.22.60:8208/.95
 
 #EXTINF:-1 tvg-id="GolTVEnglish.us" tvg-name="215" tvg-logo="https://images.zattic.com/logos/bb4b69c6f023bd6ef97c/black/640x360.png" group-title="US",GOL TV
-http://mc2http.fll.zattoo.com/239.1.23.95:8208/.95
+http://10.91.2.13:6300/239.1.23.95:8208/.95
 
 #EXTINF:-1 tvg-id="GolTVSpanish.us" tvg-name="215" tvg-logo="https://images.zattic.com/logos/bb4b69c6f023bd6ef97c/black/640x360.png" group-title="US",GOL TV Ñ
-http://mc2http.fll.zattoo.com/239.1.23.96:8208/.95
+http://10.91.2.15:6300/239.1.23.96:8208/.95
 
 #EXTINF:-1 tvg-id="SECNetwork.us" tvg-name="215" tvg-logo="https://images.zattic.com/logos/84beaad7796cd2b74071/black/640x360.png" group-title="US",SEC NETWORK
-http://mc2http.fll.zattoo.com/239.1.23.64:8208/.95
+http://10.91.1.19:6300/239.1.23.64:8208/.95
 
 #EXTINF:-1 tvg-id="NBCSportsNetwork.us" tvg-name="38" tvg-logo="https://images.zattic.com/logos/3c3c86178bc242825177/black/640x360.png" group-title="US",NBCSN
-http://mc2http.fll.zattoo.com/239.1.17.114:8208/.95
+http://10.91.2.15:6300/239.1.17.114:8208/.95
 
 #EXTINF:-1 tvg-id="beINSports.us" tvg-name="156" tvg-logo="https://images.zattic.com/logos/60c65baf8dd2ac7ed358/black/640x360.png" group-title="US",BEIN SPORTS
-http://mc2http.fll.zattoo.com/239.1.13.34:8208/.95
+http://10.91.2.15:6300/239.1.13.34:8208/.95
 
 #EXTINF:-1 tvg-id="beINSportsEnEspanol.us" tvg-name="602" tvg-logo="https://images.zattic.com/logos/d8e2d9a402d6d6ce3f75/black/640x360.png" group-title="US",BEIN SPORTS Ñ
-http://mc2http.fll.zattoo.com/239.1.11.22:8208/.95
+http://10.91.1.15:6300/239.1.11.22:8208/.95
 
 #EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="602" tvg-logo="https://images.zattic.com/logos/8c7a2638975d2a89cf97/black/640x360.png" group-title="US",MLB Network
-http://mc2http.fll.zattoo.com/239.1.22.16:8208/.95
+http://10.91.2.13:6300/239.1.22.16:8208/.95
 
 #EXTINF:-1 tvg-id="AandE.us" tvg-name="602" tvg-logo="https://images.zattic.com/logos/dba52987a2760fcf2805/black/640x360.png" group-title="US",A&E
 http://mc2http.fll.zattoo.com/239.1.22.34:8208/.95
@@ -188,12 +188,3 @@ http://mc2http.fll.zattoo.com/239.1.22.20:8208/.95
 
 #EXTINF:-1 tvg-id="VH1.us" tvg-name="602" tvg-logo="https://images.zattic.com/logos/94ce13c7d76b8492c6a4/black/640x360.png" group-title="US",VH1
 http://mc2http.fll.zattoo.com/239.1.23.44:8208/.95
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="ES",Movistar Liga de Campeones
-http://tv.iptvpanel.tv:8080/sqjerd88el/j5t0v2fuzj/620685
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" group-title="ES",Movistar LaLiga 1
-http://tv.iptvpanel.tv:8080/sqjerd88el/j5t0v2fuzj/13551
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.laligatvbar.es/static/img/laligatv_bar_logo.png" group-title="ES",LaLiga TV Bar
-http://tv.iptvpanel.tv:8080/sqjerd88el/j5t0v2fuzj/669971
