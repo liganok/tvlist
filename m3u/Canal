@@ -16,11 +16,17 @@ http://10.2.79.47:6300/224.222.6.50/.23
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="UK",Sky Sports Main Event
 http://10.2.75.67:6300/239.192.0.76:5501/.351
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="UK",Sky Sports Main Event HD
+http://tv.iptvpanel.tv:8080/sqjerd88el/j5t0v2fuzj/671299
+turkeyt
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="UK",Sky Sports Football
 http://10.2.75.67:6300/239.192.0.103:5501/.351
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="UK",Sky Sports Premier League
 http://10.2.75.67:6300/239.192.0.95:5501/.351
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="UK",Sky Sports Premier League HD
+http://tv.iptvpanel.tv:8080/sqjerd88el/j5t0v2fuzj/671301
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/7b7c2fe9aa6995935e0f/black/640x360.png" group-title="UK",BT Sport 1
 http://10.2.75.67:6300/239.192.0.180:5501/.351
@@ -182,3 +188,12 @@ http://mc2http.fll.zattoo.com/239.1.22.20:8208/.95
 
 #EXTINF:-1 tvg-id="VH1.us" tvg-name="602" tvg-logo="https://images.zattic.com/logos/94ce13c7d76b8492c6a4/black/640x360.png" group-title="US",VH1
 http://mc2http.fll.zattoo.com/239.1.23.44:8208/.95
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="ES",Movistar Liga de Campeones
+http://tv.iptvpanel.tv:8080/sqjerd88el/j5t0v2fuzj/620685
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" group-title="ES",Movistar LaLiga 1
+http://tv.iptvpanel.tv:8080/sqjerd88el/j5t0v2fuzj/13551
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.laligatvbar.es/static/img/laligatv_bar_logo.png" group-title="ES",LaLiga TV Bar
+http://tv.iptvpanel.tv:8080/sqjerd88el/j5t0v2fuzj/669971
