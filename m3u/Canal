@@ -14,13 +14,13 @@ http://10.2.82.5:6300/224.222.28.1/.23
 http://10.2.79.47:6300/224.222.6.50/.23
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2017/07/SkySports-MAIN-EVENT.png" group-title="UK",Sky Sports Main Event
-http://10.2.75.67:6300/239.192.1.76:5501/.351
+http://10.2.75.67:6300/239.192.0.76:5501/.351
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2017/07/SkySports-FOOTBALL.png" group-title="UK",Sky Sports Football
-http://10.2.75.67:6300/239.192.1.103:5501/.351
+http://10.2.75.67:6300/239.192.0.103:5501/.351
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2017/07/SkySports-PREMIER.png" group-title="UK",Sky Sports Premier League
-http://10.2.75.67:6300/239.192.1.95:5501/.351
+http://10.2.75.67:6300/239.192.0.95:5501/.351
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/7b7c2fe9aa6995935e0f/black/640x360.png" group-title="UK",BT Sport 1
 http://10.2.75.67:6300/239.192.1.180:5501/.351
