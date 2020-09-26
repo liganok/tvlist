@@ -85,6 +85,15 @@ https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_sd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/660x660/5c63c27a866ac30cbc2ad836" group-title="TR",BEYAZ TV
 https://mn-nl.mncdn.com/blutv_beyaztv/smil:beyaztv_sd.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/Bein_sports_HD1_yeni.png" group-title="TR",BEIN SPORTS 1
+https://bein-tr-live.ercdn.com/connect_sh/bein/bein_sports_01/bein_sports_01.isml/playlist.m3u8?st=_mFm0fHLFtwjeAX87Qvh6g&e=1601150400&userid=ed59299685
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/Bein_sports_HD2_yeni.png" group-title="TR",BEIN SPORTS 2
+https://bein-tr-live.ercdn.com/connect/bein/bein_sports_02_bo/bein_sports_02.isml/playlist.m3u8?st=JrJnXJipvVB1iuCe7dMKmg&e=1601228083&userid=ed59299685
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/bein_sports_yeni_HABER_250x150_.png" group-title="TR",BEIN SPORTS HABER
+https://bein-tr-live.ercdn.com/connect/bein/bein_sports_news_bo/bein_sports_news.isml/playlist.m3u8?st=w_Wxsu-EH_RFswSwBXBK8A&e=1601228198&userid=ed59299685
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/b5c02236036fbd24b7fb/black/640x360.png" group-title="UHD",SKY SPORT BUNDESLIGA UHD
 http://ztest-dash-live.zahs.tv/UHD_sky_sport_bundesliga/manifest.mpd
 
