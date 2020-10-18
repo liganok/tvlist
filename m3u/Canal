@@ -86,7 +86,7 @@ https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_sd.smil/playlist.m3u8
 https://mn-nl.mncdn.com/blutv_beyaztv/smil:beyaztv_sd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/0aff700c3fb3fafb4401/black/640x360.png" group-title="DE",Sky Bundesliga 1
-http://ztest-hls5-live.zahs.tv/HD_sky_bundesliga_1/master.m3u8
+http://ztest-hls7-live.zahs.tv/HD_sky_bundesliga_1/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/Bein_sports_HD2_yeni.png" group-title="TR",BEIN SPORTS 2
 https://bein-tr-live.ercdn.com/connect/bein/bein_sports_02_bo/bein_sports_02.isml/playlist.m3u8?st=JrJnXJipvVB1iuCe7dMKmg&e=1601228083&userid=ed59299685
