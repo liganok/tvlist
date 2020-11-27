@@ -53,10 +53,10 @@ http://mc2http.zattoo.com/224.215.12.106/.23
 http://mc2http.zattoo.com/224.215.8.101/.23
 
 #EXTINF:-1 tvg-id="HABERTURK.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/e61e6278fa0cce16a39b/black/640x360.png" group-title="TR",HABER TÜRK
-https://mn-nl.mncdn.com/blutv_haberturk/smil:haberturk_sd.smil/playlist.m3u8
+http://ztest-hls7-live.zahs.tv/haber_turk/master.m3u8
 
 #EXTINF:-1 tvg-id="CNNTURK.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/de4ffcbdf7cd11892adc/black/640x360.png" group-title="TR",CNN TÜRK
-https://mn-nl.mncdn.com/blutv_cnnturk/smil:cnnturk_sd.smil/playlist.m3u8
+http://ztest-hls7-live.zahs.tv/cnn_turk/master.m3u8
 
 #EXTINF:-1 tvg-id="NTV.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/8fee9d93961659ace84c/black/640x360.png" group-title="TR",NTV
 https://mn-nl.mncdn.com/blutv_ntv/smil:ntv_sd.smil/playlist.m3u8
@@ -87,12 +87,6 @@ http://ztest-hls7-live.zahs.tv/beyaz_tv_tr/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/0aff700c3fb3fafb4401/black/640x360.png" group-title="DE",Sky Bundesliga 1
 http://ztest-hls7-live.zahs.tv/HD_sky_bundesliga_1/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/Bein_sports_HD2_yeni.png" group-title="TR",BEIN SPORTS 2
-https://bein-tr-live.ercdn.com/connect/bein/bein_sports_02_bo/bein_sports_02.isml/playlist.m3u8?st=JrJnXJipvVB1iuCe7dMKmg&e=1601228083&userid=ed59299685
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/bein_sports_yeni_HABER_250x150_.png" group-title="TR",BEIN SPORTS HABER
-https://bein-tr-live.ercdn.com/connect/bein/bein_sports_news_bo/bein_sports_news.isml/playlist.m3u8?st=w_Wxsu-EH_RFswSwBXBK8A&e=1601228198&userid=ed59299685
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/b5c02236036fbd24b7fb/black/640x360.png" group-title="UHD",SKY SPORT BUNDESLIGA UHD
 http://ztest-dash-live.zahs.tv/UHD_sky_sport_bundesliga/manifest.mpd
