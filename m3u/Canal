@@ -85,8 +85,68 @@ https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_sd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/660x660/5c63c27a866ac30cbc2ad836" group-title="TR",BEYAZ TV
 http://ztest-hls7-live.zahs.tv/beyaz_tv_tr/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/9ecdee3d1e958b53d5e4/black/640x360.png" group-title="DE",Sky Sport News
+http://ztest-hls7-live.zahs.tv/HD_sky_sport_news_de/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/0aff700c3fb3fafb4401/black/640x360.png" group-title="DE",Sky Bundesliga 1
 http://ztest-hls7-live.zahs.tv/HD_sky_bundesliga_1/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/5c629414c6c9065636e7/black/640x360.png" group-title="DE",Sky Bundesliga 2
+http://ztest-hls7-live.zahs.tv/HD_sky_bundesliga_2/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/64a1bec9686f08729c4d/black/640x360.png" group-title="DE",Sky Bundesliga 3
+http://ztest-hls7-live.zahs.tv/HD_sky_bundesliga_3/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/cd865c0d288dee4bf2e6/black/640x360.png" group-title="DE",Sky Bundesliga 4
+http://ztest-hls7-live.zahs.tv/HD_sky_bundesliga_4/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/6c9db172d935727af78c/black/640x360.png" group-title="DE",Sky Bundesliga 5
+http://ztest-hls7-live.zahs.tv/HD_sky_bundesliga_5/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/da7a010084526397c5ce/black/640x360.png" group-title="DE",Sky Bundesliga 6
+http://ztest-hls7-live.zahs.tv/HD_sky_bundesliga_6/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/cf36576d42c45e3cf813/black/640x360.png" group-title="DE",Sky Bundesliga 7
+http://ztest-hls7-live.zahs.tv/HD_sky_bundesliga_7/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/e8c0091137f808f1d271/black/640x360.png" group-title="DE",Sky Bundesliga 8
+http://ztest-hls7-live.zahs.tv/HD_sky_bundesliga_8/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/773cf4d72cc02928e5be/black/640x360.png" group-title="DE",Sky Bundesliga 9
+http://ztest-hls7-live.zahs.tv/HD_sky_bundesliga_9/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/bb3a81ad38f9985b9f7a/black/640x360.png" group-title="DE",Sky Bundesliga 10
+http://ztest-hls7-live.zahs.tv/HD_sky_bundesliga_10/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/af1b6846263b1b703850/black/640x360.png" group-title="DE",Sky Sport 1
+http://ztest-hls7-live.zahs.tv/HD_sky_sport_1_de/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/027dd05fe30ba726afb4/black/640x360.png" group-title="DE",Sky Sport 2
+http://ztest-hls7-live.zahs.tv/HD_sky_sport_2_de/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/2c145aa7bcfbfb9688c8/black/640x360.png" group-title="DE",Sky Sport 3
+http://ztest-hls7-live.zahs.tv/HD_sky_sport_3_de/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/150db44fe41140e48fce/black/640x360.png" group-title="DE",Sky Sport 4
+http://ztest-hls7-live.zahs.tv/HD_sky_sport_4_de/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/cab279b31563c76e4d86/black/640x360.png" group-title="DE",Sky Sport 5
+http://ztest-hls7-live.zahs.tv/HD_sky_sport_5_de/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/bbc0c5f5dd4bf1e10eb4/black/640x360.png" group-title="DE",Sky Sport 6
+http://ztest-hls7-live.zahs.tv/HD_sky_sport_6_de/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/ef7e58e6f7e84a96c4f6/black/640x360.png" group-title="DE",Sky Sport 7
+http://ztest-hls7-live.zahs.tv/HD_sky_sport_7_de/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/f6ade89e02292183b8b9/black/640x360.png" group-title="DE",Sky Sport 8
+http://ztest-hls7-live.zahs.tv/HD_sky_sport_8_de/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/6fe0f2df6f99ecf5203c/black/640x360.png" group-title="DE",Sky Sport 9
+http://ztest-hls7-live.zahs.tv/HD_sky_sport_9_de/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/af272ed53069b377296c/black/640x360.png" group-title="DE",Sky Sport 10
+http://ztest-hls7-live.zahs.tv/HD_sky_sport_10_de/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/b5c02236036fbd24b7fb/black/640x360.png" group-title="UHD",SKY SPORT BUNDESLIGA UHD
 http://ztest-hls7-live.zahs.tv/UHD_sky_sport_bundesliga/master.m3u8
