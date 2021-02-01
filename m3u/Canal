@@ -23,13 +23,13 @@ http://mc2http.zattoo.com/239.192.0.103:5501/.351
 http://mc2http.zattoo.com/239.192.0.95:5501/.351
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/7b7c2fe9aa6995935e0f/black/640x360.png" group-title="UK",BT Sport 1
-http://mc2http.zattoo.com/239.192.1.180:5501/.351
+http://mc2http.zattoo.com/239.192.0.180:5501/.351
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/1c14a528e8dc3a51b331/black/640x360.png" group-title="UK",BT Sport 2
-http://mc2http.zattoo.com/239.192.1.181:5501/.351
+http://mc2http.zattoo.com/239.192.0.181:5501/.351
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/047fa4036ee9eb46d4dc/black/640x360.png" group-title="UK",BT Sport 3
-http://mc2http.zattoo.com/239.192.1.182:5501/.351
+http://mc2http.zattoo.com/239.192.0.182:5501/.351
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/648e62757028a65e962e/black/640x360.png" group-title="UK",BT Sport ESPN
 http://mc2http.zattoo.com/239.192.0.183:5501/.351
