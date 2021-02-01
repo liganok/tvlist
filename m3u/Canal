@@ -94,7 +94,7 @@ http://ztest-hls7-live.zahs.tv/HD_trt3_tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://trtkurumsal.trt.net.tr/Uploads/image/png/2019-09-27-14.28.25/bac71543355946618efd7c13e2f1dc77.png" group-title="TR",TRT Spor 2
 http://ztest-hls7-live.zahs.tv/HD_trt_spor2_tr/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.pngaaa.com/402/67402-middle.png" group-title="TR",Fenerbahçe TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/e/e6/Fenerbahce_Spor_Kulubu.svg/2000px-Fenerbahce_Spor_Kulubu.svg.png" group-title="TR",Fenerbahçe TV
 http://ztest-hls7-live.zahs.tv/fenerbahce_tv_tr/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/f3deea613885c67943de/black/640x360.png" group-title="TR",POWER TÜRK
