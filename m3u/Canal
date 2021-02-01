@@ -47,10 +47,7 @@ http://ztest-hls7-live.zahs.tv/bein_gurme_tr/master.m3u8
 http://ztest-hls7-live.zahs.tv/bein_iz_tr/master.m3u8
 
 #EXTINF:-1 tvg-id="beINMoviesTurk.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/29c9e51b1cde3eef870b/black/640x360.png" group-title="TR",BEIN MOVIES TÜRK
-http://mc2http.zattoo.com/224.215.12.106/.23
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/f3deea613885c67943de/black/640x360.png" group-title="TR",POWER TÜRK
-http://mc2http.zattoo.com/224.215.8.101/.23
+http://ztest-hls7-live.zahs.tv/bein_movies_turk/master.m3u8
 
 #EXTINF:-1 tvg-id="HABERTURK.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/e61e6278fa0cce16a39b/black/640x360.png" group-title="TR",HABER TÜRK
 http://ztest-hls7-live.zahs.tv/haber_turk/master.m3u8
@@ -62,10 +59,13 @@ http://ztest-hls7-live.zahs.tv/cnn_turk/master.m3u8
 https://mn-nl.mncdn.com/blutv_ntv/smil:ntv_sd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/924cd55335a718069e1e/black/640x360.png" group-title="TR",HALK TV
-http://ztest-hls7-live.zahs.tv/halk_tv/master.m3u8
+http://ztest-hls7-live.zahs.tv/HD_halk_tv_tr/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/3e90536bb751990bf093/black/640x360.png" group-title="TR",TRT 1
-https://mn-nl.mncdn.com/blutv_trt1/smil:trt1_sd.smil/playlist.m3u8
+http://ztest-hls7-live.zahs.tv/HD_trt1_tr/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/4/4f/20190222172231%21TRT_2_kurumsal_logo_2019.png" group-title="TR",TRT 2
+http://ztest-hls7-live.zahs.tv/HD_trt2_tr/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/1e8c04a9d49ffcc04503/black/640x360.png" group-title="TR",KANAL D
 https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_sd.smil/playlist.m3u8
@@ -82,8 +82,23 @@ https://mn-nl.mncdn.com/blutv_star/smil:star_sd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/660x660/5dc2bcd9866ac31da061879f" group-title="TR",TV 8
 https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_sd.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/0f/TV100_logo.png" group-title="TR",TV 100
+http://ztest-hls7-live.zahs.tv/HD_tv_100_tr/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/0668ed4475e1848b5ca0/black/640x360.png" group-title="TR",BEYAZ TV
-http://ztest-hls7-live.zahs.tv/beyaz_tv_tr/master.m3u8
+http://ztest-hls7-live.zahs.tv/HD_beyaz_tv_tr/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.23.47/26a2ed090ada4b9fba97b3fcab3551d7.png" group-title="TR",TRT Spor
+http://ztest-hls7-live.zahs.tv/HD_trt3_tr/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://trtkurumsal.trt.net.tr/Uploads/image/png/2019-09-27-14.28.25/bac71543355946618efd7c13e2f1dc77.png" group-title="TR",TRT Spor 2
+http://ztest-hls7-live.zahs.tv/HD_trt_spor2_tr/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.pngaaa.com/402/67402-middle.png" group-title="TR",Fenerbahçe TV
+http://ztest-hls7-live.zahs.tv/fenerbahce_tv_tr/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/f3deea613885c67943de/black/640x360.png" group-title="TR",POWER TÜRK
+http://ztest-hls7-live.zahs.tv/HD_power_turk_tr/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/9ecdee3d1e958b53d5e4/black/640x360.png" group-title="DE",Sky Sport News
 http://ztest-hls7-live.zahs.tv/HD_sky_sport_news_de/master.m3u8
