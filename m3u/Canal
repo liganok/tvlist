@@ -32,7 +32,7 @@ http://mc2http.zattoo.com/239.192.1.181:5501/.351
 http://mc2http.zattoo.com/239.192.1.182:5501/.351
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/648e62757028a65e962e/black/640x360.png" group-title="UK",BT Sport ESPN
-http://mc2http.zattoo.com/239.192.1.183:5501/.351
+http://mc2http.zattoo.com/239.192.0.183:5501/.351
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.premiersports.com/assets/components/mor/General/img/premier-sports-logo.png" group-title="UK",Premier Sport 1
 http://mc2http.zattoo.com/239.192.1.239:5501/.351
