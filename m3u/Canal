@@ -293,6 +293,3 @@ http://mc2http.fll.zattoo.com/239.1.23.45:8208/.95
 
 #EXTINF:-1 tvg-id="MTV.us" tvg-name="602" tvg-logo="https://images.zattic.com/logos/b2df118210ce9b74c222/black/640x360.png" group-title="US",MTV
 http://mc2http.fll.zattoo.com/239.1.22.20:8208/.95
-
-#EXTINF:-1 tvg-id="VH1.us" tvg-name="602" tvg-logo="https://images.zattic.com/logos/94ce13c7d76b8492c6a4/black/640x360.png" group-title="US",VH1
-http://mc2http.fll.zattoo.com/239.1.23.44:8208/.95
