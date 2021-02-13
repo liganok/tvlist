@@ -59,7 +59,7 @@ http://ztest-hls7-live.zahs.tv/cnn_turk/master.m3u8
 https://mn-nl.mncdn.com/blutv_ntv/smil:ntv_sd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/924cd55335a718069e1e/black/640x360.png" group-title="TR",HALK TV
-http://ztest-hls7-live.zahs.tv/HD_halk_tv_tr/master.m3u8
+http://mc2http.zattoo.com/224.215.1.135/.23
 
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/3e90536bb751990bf093/black/640x360.png" group-title="TR",TRT 1
 http://ztest-hls7-live.zahs.tv/HD_trt1_tr/master.m3u8
