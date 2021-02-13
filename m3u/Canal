@@ -13,31 +13,31 @@ http://mc2http.zattoo.com/224.222.28.1/.23
 #EXTINF:-1 tvg-id="Channel5.uk" tvg-name="" tvg-logo="https://images.zattic.com/logos/54a6ea6b3836821f9eab/black/640x360.png" group-title="UK",CHANNEL 5
 http://mc2http.zattoo.com/224.222.6.50/.23
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2017/07/SkySports-MAIN-EVENT.png" group-title="UK",Sky Sports Main Event
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-name="" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2017/07/SkySports-MAIN-EVENT.png" group-title="UK",Sky Sports Main Event
 http://mc2http.zattoo.com/239.192.0.76:5501/.351
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2017/07/SkySports-FOOTBALL.png" group-title="UK",Sky Sports Football
+#EXTINF:-1 tvg-id="SkySpFball.uk" tvg-name="" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2017/07/SkySports-FOOTBALL.png" group-title="UK",Sky Sports Football
 http://mc2http.zattoo.com/239.192.0.103:5501/.351
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2017/07/SkySports-PREMIER.png" group-title="UK",Sky Sports Premier League
+#EXTINF:-1 tvg-id="SkySpPL.uk" tvg-name="" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2017/07/SkySports-PREMIER.png" group-title="UK",Sky Sports Premier League
 http://mc2http.zattoo.com/239.192.0.95:5501/.351
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/7b7c2fe9aa6995935e0f/black/640x360.png" group-title="UK",BT Sport 1
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="" tvg-logo="https://images.zattic.com/logos/7b7c2fe9aa6995935e0f/black/640x360.png" group-title="UK",BT Sport 1
 http://mc2http.zattoo.com/239.192.0.180:5501/.351
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/1c14a528e8dc3a51b331/black/640x360.png" group-title="UK",BT Sport 2
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="" tvg-logo="https://images.zattic.com/logos/1c14a528e8dc3a51b331/black/640x360.png" group-title="UK",BT Sport 2
 http://mc2http.zattoo.com/239.192.0.181:5501/.351
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/047fa4036ee9eb46d4dc/black/640x360.png" group-title="UK",BT Sport 3
+#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="" tvg-logo="https://images.zattic.com/logos/047fa4036ee9eb46d4dc/black/640x360.png" group-title="UK",BT Sport 3
 http://mc2http.zattoo.com/239.192.0.182:5501/.351
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/648e62757028a65e962e/black/640x360.png" group-title="UK",BT Sport ESPN
+#EXTINF:-1 tvg-id="BTSportESPN.uk" tvg-name="" tvg-logo="https://images.zattic.com/logos/648e62757028a65e962e/black/640x360.png" group-title="UK",BT Sport ESPN
 http://mc2http.zattoo.com/239.192.0.183:5501/.351
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.premiersports.com/assets/components/mor/General/img/premier-sports-logo.png" group-title="UK",Premier Sport 1
+#EXTINF:-1 tvg-id="PremierSports.uk" tvg-name="" tvg-logo="https://www.premiersports.com/assets/components/mor/General/img/premier-sports-logo.png" group-title="UK",Premier Sport 1
 http://mc2http.zattoo.com/239.192.1.239:5501/.351
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.premiersports.com/assets/components/mor/General/img/premier-sports-logo.png" group-title="UK",Premier Sport 2
+#EXTINF:-1 tvg-id="PremierSports2.uk" tvg-name="" tvg-logo="https://www.premiersports.com/assets/components/mor/General/img/premier-sports-logo.png" group-title="UK",Premier Sport 2
 http://mc2http.zattoo.com/239.192.1.240:5501/.351
 
 #EXTINF:-1 tvg-id="beINGurme.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/750ea3d3a22fcac23ab1/black/640x360.png" group-title="TR",BEIN GURME
