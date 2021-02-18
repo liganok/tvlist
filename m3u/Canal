@@ -237,77 +237,77 @@ http://mc2http.fll.zattoo.com/239.1.23.31:8208/.95
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="US",NBC 4
 
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="450" tvg-logo="https://images.zattic.com/logos/6df04c3126e6914187ce/black/640x360.png" group-title="US",ESPN
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="" tvg-logo="https://images.zattic.com/logos/6df04c3126e6914187ce/black/640x360.png" group-title="US",ESPN
 http://mc2http.fll.zattoo.com/239.1.22.61:8208/.95
 
-#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="453" tvg-logo="https://images.zattic.com/logos/cafd3f3f1615f2e16a79/black/640x360.png" group-title="US",ESPN2
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="" tvg-logo="https://images.zattic.com/logos/cafd3f3f1615f2e16a79/black/640x360.png" group-title="US",ESPN2
 http://mc2http.fll.zattoo.com/239.1.22.62:8208/.95
 
-#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="254" tvg-logo="https://images.zattic.com/logos/def54339f09769aa9db0/black/640x360.png" group-title="US",FOX SPORTS 1
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="" tvg-logo="https://images.zattic.com/logos/def54339f09769aa9db0/black/640x360.png" group-title="US",FOX SPORTS 1
 http://mc2http.fll.zattoo.com/239.1.22.17:8208/.95
 
-#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="215" tvg-logo="https://images.zattic.com/logos/a4ddb2b2a73572b9a3e0/black/640x360.png" group-title="US",FOX SPORTS 2
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="" tvg-logo="https://images.zattic.com/logos/a4ddb2b2a73572b9a3e0/black/640x360.png" group-title="US",FOX SPORTS 2
 http://mc2http.fll.zattoo.com/239.1.17.49:8208/.95
 
-#EXTINF:-1 tvg-id="FoxSportsFlorida.us" tvg-name="215" tvg-logo="https://images.zattic.com/logos/93c148772cc19fa0db55/black/640x360.png" group-title="US",FOX SPORTS FLORIDA
+#EXTINF:-1 tvg-id="FoxSportsFlorida.us" tvg-name="" tvg-logo="https://images.zattic.com/logos/93c148772cc19fa0db55/black/640x360.png" group-title="US",FOX SPORTS FLORIDA
 http://mc2http.fll.zattoo.com/239.1.22.30:8208/.95
 
-#EXTINF:-1 tvg-id="FoxSportsSouth.us" tvg-name="215" tvg-logo="https://images.zattic.com/logos/ad08c994f9c1245c3320/black/640x360.png" group-title="US",FOX SPORTS SOUTH
+#EXTINF:-1 tvg-id="FoxSportsSouth.us" tvg-name="" tvg-logo="https://images.zattic.com/logos/ad08c994f9c1245c3320/black/640x360.png" group-title="US",FOX SPORTS SOUTH
 http://mc2http.fll.zattoo.com/239.1.17.58:8208/.95
 
-#EXTINF:-1 tvg-id="FoxSportsSun.us" tvg-name="215" tvg-logo="https://images.zattic.com/logos/036d884113f0f4f8f195/black/640x360.png" group-title="US",FOX SPORTS SUN
+#EXTINF:-1 tvg-id="FoxSportsSun.us" tvg-name="" tvg-logo="https://images.zattic.com/logos/036d884113f0f4f8f195/black/640x360.png" group-title="US",FOX SPORTS SUN
 http://mc2http.fll.zattoo.com/239.1.22.60:8208/.95
 
-#EXTINF:-1 tvg-id="GolTVEnglish.us" tvg-name="215" tvg-logo="https://images.zattic.com/logos/bb4b69c6f023bd6ef97c/black/640x360.png" group-title="US",GOL TV
+#EXTINF:-1 tvg-id="GolTVEnglish.us" tvg-name="" tvg-logo="https://images.zattic.com/logos/bb4b69c6f023bd6ef97c/black/640x360.png" group-title="US",GOL TV
 http://10.91.1.13:6300/239.1.23.95:8208/.95
 
-#EXTINF:-1 tvg-id="GolTVSpanish.us" tvg-name="215" tvg-logo="https://images.zattic.com/logos/bb4b69c6f023bd6ef97c/black/640x360.png" group-title="US",GOL TV Ñ
+#EXTINF:-1 tvg-id="GolTVSpanish.us" tvg-name="" tvg-logo="https://images.zattic.com/logos/bb4b69c6f023bd6ef97c/black/640x360.png" group-title="US",GOL TV Ñ
 http://mc2http.fll.zattoo.com/239.1.23.96:8208/.95
 
-#EXTINF:-1 tvg-id="SECNetwork.us" tvg-name="215" tvg-logo="https://images.zattic.com/logos/84beaad7796cd2b74071/black/640x360.png" group-title="US",SEC NETWORK
+#EXTINF:-1 tvg-id="SECNetwork.us" tvg-name="" tvg-logo="https://images.zattic.com/logos/84beaad7796cd2b74071/black/640x360.png" group-title="US",SEC NETWORK
 http://mc2http.fll.zattoo.com/239.1.23.64:8208/.95
 
-#EXTINF:-1 tvg-id="NBCSportsNetwork.us" tvg-name="38" tvg-logo="https://images.zattic.com/logos/3c3c86178bc242825177/black/640x360.png" group-title="US",NBCSN
+#EXTINF:-1 tvg-id="NBCSportsNetwork.us" tvg-name="" tvg-logo="https://images.zattic.com/logos/3c3c86178bc242825177/black/640x360.png" group-title="US",NBCSN
 http://mc2http.fll.zattoo.com/239.1.17.114:8208/.95
 
-#EXTINF:-1 tvg-id="beINSports.us" tvg-name="156" tvg-logo="https://images.zattic.com/logos/60c65baf8dd2ac7ed358/black/640x360.png" group-title="US",BEIN SPORTS
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="" tvg-logo="https://images.zattic.com/logos/60c65baf8dd2ac7ed358/black/640x360.png" group-title="US",BEIN SPORTS
 http://mc2http.fll.zattoo.com/239.1.13.34:8208/.95
 
-#EXTINF:-1 tvg-id="beINSportsEnEspanol.us" tvg-name="602" tvg-logo="https://images.zattic.com/logos/d8e2d9a402d6d6ce3f75/black/640x360.png" group-title="US",BEIN SPORTS Ñ
+#EXTINF:-1 tvg-id="beINSportsEnEspanol.us" tvg-name="" tvg-logo="https://images.zattic.com/logos/d8e2d9a402d6d6ce3f75/black/640x360.png" group-title="US",BEIN SPORTS Ñ
 http://mc2http.fll.zattoo.com/239.1.11.22:8208/.95
 
-#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="602" tvg-logo="https://images.zattic.com/logos/8c7a2638975d2a89cf97/black/640x360.png" group-title="US",MLB Network
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="" tvg-logo="https://images.zattic.com/logos/8c7a2638975d2a89cf97/black/640x360.png" group-title="US",MLB Network
 http://mc2http.fll.zattoo.com/239.1.22.16:8208/.95
 
-#EXTINF:-1 tvg-id="" tvg-name="602" tvg-logo="https://images.zattic.com/logos/1f4b78d39bb0c6b740dd/black/640x360.png" group-title="US",NFL Network
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/1f4b78d39bb0c6b740dd/black/640x360.png" group-title="US",NFL Network
 http://mc2http.fll.zattoo.com/239.1.22.18:8208/.95
 
-EXTINF:-1 tvg-id="" tvg-name="602" tvg-logo="https://images.zattic.com/logos/9ed3e5fc9f55ae8d9b8d/black/640x360.png" group-title="US",NFL RedZone
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/9ed3e5fc9f55ae8d9b8d/black/640x360.png" group-title="US",NFL RedZone
 http://mc2http.fll.zattoo.com/239.1.23.41:8208/.95
 
-#EXTINF:-1 tvg-id="AandE.us" tvg-name="602" tvg-logo="https://images.zattic.com/logos/dba52987a2760fcf2805/black/640x360.png" group-title="US",A&E
+#EXTINF:-1 tvg-id="AandE.us" tvg-name="" tvg-logo="https://images.zattic.com/logos/dba52987a2760fcf2805/black/640x360.png" group-title="US",A&E
 http://mc2http.fll.zattoo.com/239.1.22.34:8208/.95
 
-#EXTINF:-1 tvg-id="EEntertainment.us" tvg-name="602" tvg-logo="https://images.zattic.com/logos/8cf5efe48d5012821dbb/black/640x360.png" group-title="US",E!
+#EXTINF:-1 tvg-id="EEntertainment.us" tvg-name="" tvg-logo="https://images.zattic.com/logos/8cf5efe48d5012821dbb/black/640x360.png" group-title="US",E!
 http://mc2http.fll.zattoo.com/239.1.22.59:8208/.95
 
-#EXTINF:-1 tvg-id="TBS.us" tvg-name="602" tvg-logo="https://images.zattic.com/logos/566c09781568feaa2017/black/640x360.png" group-title="US",TBS
+#EXTINF:-1 tvg-id="TBS.us" tvg-name="" tvg-logo="https://images.zattic.com/logos/566c09781568feaa2017/black/640x360.png" group-title="US",TBS
 http://mc2http.fll.zattoo.com/239.1.11.54:8208/.95
 
-#EXTINF:-1 tvg-id="TLC.us" tvg-name="602" tvg-logo="https://images.zattic.com/logos/8e1d24ce7759508605fe/black/640x360.png" group-title="US",TLC
+#EXTINF:-1 tvg-id="TLC.us" tvg-name="" tvg-logo="https://images.zattic.com/logos/8e1d24ce7759508605fe/black/640x360.png" group-title="US",TLC
 http://mc2http.fll.zattoo.com/239.1.23.33:8208/.95
 
-#EXTINF:-1 tvg-id="TNT.us" tvg-name="602" tvg-logo="https://images.zattic.com/logos/0f7af76abf2a8d5e0bc4/black/640x360.png" group-title="US",TNT
+#EXTINF:-1 tvg-id="TNT.us" tvg-name="" tvg-logo="https://images.zattic.com/logos/0f7af76abf2a8d5e0bc4/black/640x360.png" group-title="US",TNT
 http://mc2http.fll.zattoo.com/239.1.11.51:8208/.95
 
-#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="602" tvg-logo="https://images.zattic.com/logos/1b171ab97686b0671285/black/640x360.png" group-title="US",USA Network
+#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="" tvg-logo="https://images.zattic.com/logos/1b171ab97686b0671285/black/640x360.png" group-title="US",USA Network
 http://mc2http.fll.zattoo.com/239.1.23.26:8208/.95
 
-#EXTINF:-1 tvg-id="AMC.us" tvg-name="602" tvg-logo="https://images.zattic.com/logos/57b614277f4adf7378a5/black/640x360.png" group-title="US",AMC
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="" tvg-logo="https://images.zattic.com/logos/57b614277f4adf7378a5/black/640x360.png" group-title="US",AMC
 http://mc2http.fll.zattoo.com/239.1.23.45:8208/.95
 
-#EXTINF:-1 tvg-id="MTV.us" tvg-name="602" tvg-logo="https://images.zattic.com/logos/b2df118210ce9b74c222/black/640x360.png" group-title="US",MTV
+#EXTINF:-1 tvg-id="MTV.us" tvg-name="" tvg-logo="https://images.zattic.com/logos/b2df118210ce9b74c222/black/640x360.png" group-title="US",MTV
 http://mc2http.fll.zattoo.com/239.1.22.20:8208/.95
 
-EXTINF:-1 tvg-id="GalavisionHD.us" tvg-name="602" tvg-logo="https://images.zattic.com/logos/6623bba80c1a440f05a7/black/640x360.png" group-title="US",Galavision
+EXTINF:-1 tvg-id="GalavisionHD.us" tvg-name="" tvg-logo="https://images.zattic.com/logos/6623bba80c1a440f05a7/black/640x360.png" group-title="US",Galavision
 http://mc2http.fll.zattoo.com/239.1.24.35:8208/.95
