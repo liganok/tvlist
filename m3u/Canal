@@ -273,12 +273,6 @@ http://mc2http.fll.zattoo.com/239.1.11.22:8208/.95
 #EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="" tvg-logo="https://images.zattic.com/logos/8c7a2638975d2a89cf97/black/640x360.png" group-title="US",MLB Network
 http://mc2http.fll.zattoo.com/239.1.22.16:8208/.95
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/1f4b78d39bb0c6b740dd/black/640x360.png" group-title="US",NFL Network
-http://mc2http.fll.zattoo.com/239.1.22.18:8208/.95
-
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/9ed3e5fc9f55ae8d9b8d/black/640x360.png" group-title="US",NFL RedZone
-http://mc2http.fll.zattoo.com/239.1.23.41:8208/.95
-
 #EXTINF:-1 tvg-id="AandE.us" tvg-name="" tvg-logo="https://images.zattic.com/logos/dba52987a2760fcf2805/black/640x360.png" group-title="US",A&E
 http://mc2http.fll.zattoo.com/239.1.22.34:8208/.95
 
@@ -302,6 +296,3 @@ http://mc2http.fll.zattoo.com/239.1.23.45:8208/.95
 
 #EXTINF:-1 tvg-id="MTV.us" tvg-name="" tvg-logo="https://images.zattic.com/logos/b2df118210ce9b74c222/black/640x360.png" group-title="US",MTV
 http://mc2http.fll.zattoo.com/239.1.22.20:8208/.95
-
-EXTINF:-1 tvg-id="Galavision.us" tvg-name="" tvg-logo="https://images.zattic.com/logos/6623bba80c1a440f05a7/black/640x360.png" group-title="US",Galavision
-http://mc2http.fll.zattoo.com/239.1.24.35:8208/.95
