@@ -164,6 +164,9 @@ http://mc2http.fll.zattoo.com/239.1.11.22:8208/.95
 #EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="" tvg-logo="https://images.zattic.com/logos/8c7a2638975d2a89cf97/black/640x360.png" group-title="US",MLB Network
 http://mc2http.fll.zattoo.com/239.1.22.16:8208/.95
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/9ed3e5fc9f55ae8d9b8d/black/640x360.png" group-title="US",NFL RedZone
+http://mc2http.fll.zattoo.com/239.1.23.41:8208/.95
+
 #EXTINF:-1 tvg-id="AandE.us" tvg-name="" tvg-logo="https://images.zattic.com/logos/dba52987a2760fcf2805/black/640x360.png" group-title="US",A&E
 http://mc2http.fll.zattoo.com/239.1.22.34:8208/.95
 
