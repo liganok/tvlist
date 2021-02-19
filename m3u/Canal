@@ -202,5 +202,5 @@ http://mc2http.fll.zattoo.com/239.1.22.20:8208/.95
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/6623bba80c1a440f05a7/black/640x360.png" group-title="US",Galavision
 http://mc2http.fll.zattoo.com/239.1.24.35:8208/.95
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/TV3HD.svg/1200px-TV3HD.svg.png" group-title="CAT",TV3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/bcf615e12b1a1476113e/black/640x360.png" group-title="ES",TV3
 https://directes-tv-cat.ccma.cat/cat/ngrp:tv3_web/playlist.m3u8
