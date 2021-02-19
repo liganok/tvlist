@@ -162,7 +162,7 @@ http://mc2http.fll.zattoo.com/239.1.23.64:8208/.95
 http://mc2http.fll.zattoo.com/239.1.17.114:8208/.95
 
 #EXTINF:-1 tvg-id="beINSports.us" tvg-name="" tvg-logo="https://images.zattic.com/logos/60c65baf8dd2ac7ed358/black/640x360.png" group-title="US",BEIN SPORTS
-http://mc2http.fll.zattoo.com/239.1.13.34:8208/.95
+https://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/production/5770a805-a3b7-4a5a-ba9b-60562db97372/1.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsEnEspanol.us" tvg-name="" tvg-logo="https://images.zattic.com/logos/d8e2d9a402d6d6ce3f75/black/640x360.png" group-title="US",BEIN SPORTS Ñ
 http://mc2http.fll.zattoo.com/239.1.11.22:8208/.95
