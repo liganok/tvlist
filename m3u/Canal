@@ -207,7 +207,7 @@ http://mc2http.fll.zattoo.com/239.1.24.35:8208/.95
 https://directes-tv-cat.ccma.cat/cat/ngrp:tv3_web/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/324_%28CCMA%29_logo.svg/1200px-324_%28CCMA%29_logo.svg.png" group-title="ES",324
-https://directes-tv-cat.ccma.cat/cat/ngrp:324_web/playlist.m3u8
+https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/c7aa313179179a231e6a/black/640x360.png" group-title="ES",LA 1
 https://rtvelivestream.akamaized.net/la1_dvr.m3u8
