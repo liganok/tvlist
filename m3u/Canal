@@ -1,20 +1,14 @@
 #EXTINF:-1 tvg-id="BBC1.uk" tvg-name="" tvg-logo="https://images.zattic.com/logos/e7db7cde3a9bf2c6e694/black/640x360.png" group-title="UK",BBC One
-http://mc2http.zattoo.com/225.222.0.1/.63 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/e7db7cde3a9bf2c6e694/black/640x360.png" group-title="UK",BBC One NI
-http://mc2http.zattoo.com/225.102.194.21/.63
+http://ztest-hls7-live.zahs.tv/HD_eiR_bbc_one/master.m3u8 
 
 #EXTINF:-1 tvg-id="BBC2.uk" tvg-name="" tvg-logo="https://images.zattic.com/logos/d1c0f2eb8a31828d80d7/black/640x360.png" group-title="UK",BBC Two
-http://mc2http.zattoo.com/225.222.0.2/.63
-
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/d1c0f2eb8a31828d80d7/black/640x360.png" group-title="UK",BBC Two NI
-http://mc2http.zattoo.com/225.102.194.22/.63
+http://ztest-hls7-live.zahs.tv/HD_eiR_bbc_two/master.m3u8 
 
 #EXTINF:-1 tvg-id="ITV1.uk" tvg-name="" tvg-logo="https://images.zattic.com/logos/d0fe0d3aebb8f801587d/black/640x360.png" group-title="UK",ITV 1
 http://mc2http.zattoo.com/225.222.18.100/.63
 
 #EXTINF:-1 tvg-id="Channel4.uk" tvg-name="" tvg-logo="https://images.zattic.com/logos/a7226a136a3d8af20cff/black/640x360.png" group-title="UK",CHANNEL 4
-http://mc2http.zattoo.com/225.222.28.1/.63
+http://ztest-hls7-live.zahs.tv/HD_channel4/master.m3u8
 
 #EXTINF:-1 tvg-id="Channel5.uk" tvg-name="" tvg-logo="https://images.zattic.com/logos/54a6ea6b3836821f9eab/black/640x360.png" group-title="UK",CHANNEL 5
 http://mc2http.zattoo.com/225.222.6.50/.63
@@ -45,6 +39,8 @@ http://mc2http.zattoo.com/239.192.1.239:5501/.351
 
 #EXTINF:-1 tvg-id="PremierSports2.uk" tvg-name="" tvg-logo="https://www.premiersports.com/assets/components/mor/General/img/premier-sports-logo.png" group-title="UK",Premier Sport 2
 http://mc2http.zattoo.com/239.192.1.240:5501/.351
+
+
 
 #EXTINF:-1 tvg-id="TurkmaxGurme.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/750ea3d3a22fcac23ab1/black/640x360.png" group-title="TR",BEIN GURME
 http://ztest-hls7-live.zahs.tv/bein_gurme_tr/master.m3u8
@@ -120,6 +116,8 @@ http://ztest-hls7-live.zahs.tv/UHD_rmc_sport_uhd_fr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/21e69fe17aeea22a5b6e/black/640x360.png" group-title="UHD",RTL UHD
 http://mc2http.zattoo.com/224.78.193.13/.23
 
+
+
 #EXTINF:-1 tvg-id="CNN.us"" tvg-name="" tvg-logo="https://images.zattic.com/logos/9ff53034eab3535b79c7/black/640x360.png" group-title="US",CNN
 http://mc2http.fll.zattoo.com/239.1.11.53:8208/.95
 
@@ -162,9 +160,10 @@ http://mc2http.fll.zattoo.com/239.1.23.64:8208/.95
 http://mc2http.fll.zattoo.com/239.1.17.114:8208/.95
 
 #EXTINF:-1 tvg-id="beINSports.us" tvg-name="" tvg-logo="https://images.zattic.com/logos/60c65baf8dd2ac7ed358/black/640x360.png" group-title="US",BEIN SPORTS
-https://midas.fubo.tv/v1/master/6c9193257c0eed8ca3f1eabccc4444f9477500f1/production/v4/master.m3u8?ads._fw_h_user_agent=Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+11_2_1%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F88.0.4324.150+Safari%2F537.36&ads._fw_ip=50.228.255.104&ads._fw_is_lat=&ads._fw_station=88749&ads._fw_vcid2=fuboTV%3A5f601696bb51a60001f6333e&ads.device=desktop&ads.fw_device_id=_fw_did%3D1&ads.fw_nw_id=393638&ads.fw_playback_type=live&ads.fw_site=fubo_desktop_live&ads.fw_site_section=fubo_web_desktop_live&alternate-feed=0&callsign=BEIN1HD&device=ALL&hdnts=ip%3D50.228.255.104~st%3D1613692044~exp%3D1613778444~acl%3D%2F%2A~data%3D1613778444~hmac%3D916a7c00456f1ae33e80156a7acec8692cbd0bd22e1d61b73c8187a55f781708&is_kvtdb=0&watchToken=eyJhbGciOiJIUzI1NiIsInRva2VuVHlwZSI6IlVzYUJhc2VXYXRjaFRva2VuIiwidHlwIjoiSldUIn0.eyJ3YXRjaFRva2VuIjp7ImNhbGxTaWduIjoiQkVJTjFIRCIsImRldmljZSI6IkFMTCIsImJhbmR3aWR0aCI6Ik1BU1RFUiIsImNvdW50cnkiOiJVU0EiLCJ1c2VySWQiOiI1ZjYwMTY5NmJiNTFhNjAwMDFmNjMzM2UiLCJyZXF1ZXN0VHlwZSI6ImxpdmUiLCJyZWdpb24iOiJ3ZXN0In0sImhvbWVaaXAiOiI5MTM2MiIsImdlb1ppcCI6IjA4MDU0In0.q9X80ovy8QyqpyDiMjWzp07VN6G_Uu-BlUz53KXmg9k
+http://mc2http.fll.zattoo.com/239.1.13.34:8208/.95
+
 #EXTINF:-1 tvg-id="beINSportsEnEspanol.us" tvg-name="" tvg-logo="https://images.zattic.com/logos/d8e2d9a402d6d6ce3f75/black/640x360.png" group-title="US",BEIN SPORTS Ñ
-https://midas.fubo.tv/v1/master/6c9193257c0eed8ca3f1eabccc4444f9477500f1/production/v4/master.m3u8?ads._fw_h_user_agent=Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+11_2_1%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F88.0.4324.150+Safari%2F537.36&ads._fw_ip=50.228.255.104&ads._fw_is_lat=&ads._fw_station=119429&ads._fw_vcid2=fuboTV%3A5f601696bb51a60001f6333e&ads.device=desktop&ads.fw_device_id=_fw_did%3D1&ads.fw_nw_id=393638&ads.fw_playback_type=live&ads.fw_site=fubo_desktop_live&ads.fw_site_section=fubo_web_desktop_live&alternate-feed=0&callsign=BEIN2&device=ALL&hdnts=ip%3D50.228.255.104~st%3D1613692623~exp%3D1613779023~acl%3D%2F%2A~data%3D1613779023~hmac%3D8f90364569760fd003ac8e50946cf65b018540c389d01daf45c92347e2dedc8f&is_kvtdb=0&watchToken=eyJhbGciOiJIUzI1NiIsInRva2VuVHlwZSI6IlVzYUJhc2VXYXRjaFRva2VuIiwidHlwIjoiSldUIn0.eyJ3YXRjaFRva2VuIjp7ImNhbGxTaWduIjoiQkVJTjIiLCJkZXZpY2UiOiJBTEwiLCJiYW5kd2lkdGgiOiJNQVNURVIiLCJjb3VudHJ5IjoiVVNBIiwidXNlcklkIjoiNWY2MDE2OTZiYjUxYTYwMDAxZjYzMzNlIiwicmVxdWVzdFR5cGUiOiJsaXZlIiwicmVnaW9uIjoiZWFzdCJ9LCJob21lWmlwIjoiOTEzNjIiLCJnZW9aaXAiOiIwODA1NCJ9.TI4V7_lbZaY4cd0CeBG5NRXgc2p78f3b_Efv1jQRlcw
+http://mc2http.fll.zattoo.com/239.1.11.22:8208/.95
 
 #EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="" tvg-logo="https://images.zattic.com/logos/8c7a2638975d2a89cf97/black/640x360.png" group-title="US",MLB Network
 http://mc2http.fll.zattoo.com/239.1.22.16:8208/.95
@@ -202,5 +201,21 @@ http://mc2http.fll.zattoo.com/239.1.22.20:8208/.95
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/6623bba80c1a440f05a7/black/640x360.png" group-title="US",Galavision
 http://mc2http.fll.zattoo.com/239.1.24.35:8208/.95
 
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/bcf615e12b1a1476113e/black/640x360.png" group-title="ES",TV3
 https://directes-tv-cat.ccma.cat/cat/ngrp:tv3_web/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/324_%28CCMA%29_logo.svg/1200px-324_%28CCMA%29_logo.svg.png" group-title="ES",324
+https://directes-tv-cat.ccma.cat/cat/ngrp:324_web/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/c7aa313179179a231e6a/black/640x360.png" group-title="ES",LA 1
+https://rtvelivestream.akamaized.net/la1_dvr.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/785180ce8c3c5b0795bb/black/640x360.png" group-title="ES",LA 2
+https://rtvelivestream.akamaized.net/la2_dvr.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/93b42a0d35defc25ca42/black/640x360.png" group-title="ES",24h
+https://rtvelivestream.akamaized.net/24h_dvr.m3u8
+
+
