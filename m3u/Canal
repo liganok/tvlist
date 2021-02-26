@@ -97,7 +97,7 @@ http://mc2http.zattoo.com/225.215.6.103/.63
 http://mc2http.zattoo.com/225.215.5.125/.63
 
 #EXTINF:-1 tvg-id="FBTV.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/deb180fa237fb75c9513/black/640x360.png" group-title="TR",Fenerbahçe TV
-http://ztest-hls7-live.zahs.tv/fenerbahce_tv_tr/master.m3u8
+http://mc2http.zattoo.com/224.215.8.201/.23
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/f3deea613885c67943de/black/640x360.png" group-title="TR",POWER TÜRK
 http://mc2http.zattoo.com/225.215.8.101/.63
