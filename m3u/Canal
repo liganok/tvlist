@@ -46,7 +46,7 @@ http://mc2http.zattoo.com/239.192.1.240:5501/.351
 http://mc2http.zattoo.com/225.215.12.108/.63
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/85091362415fe9bbaedc/black/640x360.png" group-title="TR",BEIN IZ
-http://mc2http.zattoo.com/225.215.12.107/.63
+http://mc2http.zattoo.com/224.215.12.107/.23
 
 #EXTINF:-1 tvg-id="MoviemaxTurk.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/29c9e51b1cde3eef870b/black/640x360.png" group-title="TR",BEIN MOVIES TÜRK
 http://mc2http.zattoo.com/225.215.12.106/.63
@@ -94,7 +94,7 @@ http://mc2http.zattoo.com/225.215.8.1/.63
 http://mc2http.zattoo.com/225.215.6.103/.63
 
 #EXTINF:-1 tvg-id="TRTSpor2.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/2913931117c9c6ee7d40/black/640x360.png" group-title="TR",TRT Spor 2
-http://mc2http.zattoo.com/225.215.5.106/.63
+http://mc2http.zattoo.com/225.215.5.125/.63
 
 #EXTINF:-1 tvg-id="FBTV.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/deb180fa237fb75c9513/black/640x360.png" group-title="TR",Fenerbahçe TV
 http://ztest-hls7-live.zahs.tv/fenerbahce_tv_tr/master.m3u8
