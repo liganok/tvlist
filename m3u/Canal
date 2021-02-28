@@ -212,3 +212,5 @@ https://rtvelivestream.akamaized.net/la1_dvr.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/785180ce8c3c5b0795bb/black/640x360.png" group-title="ES",LA 2
 https://rtvelivestream.akamaized.net/la2_dvr.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/94/News_of_the_World_film_poster.png" group-title="MOVIES",News of the World
+afp://Shebos AirPort Time Capsule._afpovertcp._tcp.local/Data/iTunes/iTunes Media/Movies/News of the World/News of the World.m4v
