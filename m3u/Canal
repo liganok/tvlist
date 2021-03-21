@@ -217,3 +217,57 @@ https://rtvelivestream.akamaized.net/la2_dvr.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/94/News_of_the_World_film_poster.png" group-title="MOVIES",News of the World
 afp://Shebos AirPort Time Capsule._afpovertcp._tcp.local/Data/iTunes/iTunes Media/Movies/News of the World/News of the World.m4v
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Special",TV8
+http://bornw1ld.cyou:8080/OVOmainoneWgTkI/468TGE75ffji6453/154210.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TR",beIN Sports 1
+http://bornw1ld.cyou:8080/OVOmainoneWgTkI/468TGE75ffji6453/154335.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Special",Kanal D
+http://bornw1ld.cyou:8080/OVOmainoneWgTkI/468TGE75ffji6453/154316.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Special",CNN Türk
+http://bornw1ld.cyou:8080/OVOmainoneWgTkI/468TGE75ffji6453/154304.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Special",Spor Smart 1
+http://bornw1ld.cyou:8080/OVOmainoneWgTkI/468TGE75ffji6453/154293.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Special",Movistar LaLiga
+http://bornw1ld.cyou:8080/OVOmainoneWgTkI/468TGE75ffji6453/154377.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Special",La 1
+http://bornw1ld.cyou:8080/OVOmainoneWgTkI/468TGE75ffji6453/154438.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Special",NBC Sports California
+http://bornw1ld.cyou:8080/OVOmainoneWgTkI/468TGE75ffji6453/137762.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Special",BT Sport 1
+http://bornw1ld.cyou:8080/OVOmainoneWgTkI/468TGE75ffji6453/164183.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Special",BT Sport 2
+http://bornw1ld.cyou:8080/OVOmainoneWgTkI/468TGE75ffji6453/164186.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Special",BT Sport 3
+http://bornw1ld.cyou:8080/OVOmainoneWgTkI/468TGE75ffji6453/164189.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Special",Sky Sports Main Event
+http://bornw1ld.cyou:8080/OVOmainoneWgTkI/468TGE75ffji6453/163366.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Special",Sky Sports Premier League
+http://bornw1ld.cyou:8080/OVOmainoneWgTkI/468TGE75ffji6453/163370.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Special",Sky Sports Football
+http://bornw1ld.cyou:8080/OVOmainoneWgTkI/468TGE75ffji6453/163368.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Special",Sky Sports News
+http://bornw1ld.cyou:8080/OVOmainoneWgTkI/468TGE75ffji6453/163364.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Special",La Liga TV
+http://bornw1ld.cyou:8080/OVOmainoneWgTkI/468TGE75ffji6453/164232.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Special",TUDN
+http://bornw1ld.cyou:8080/OVOmainoneWgTkI/468TGE75ffji6453/137837.ts
+
