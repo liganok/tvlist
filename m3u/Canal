@@ -61,13 +61,13 @@ http://ztest-hls7-live.zahs.tv/cnn_turk/master.m3u8
 https://mn-nl.mncdn.com/blutv_ntv/smil:ntv_sd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/924cd55335a718069e1e/black/640x360.png" group-title="TR",HALK TV
-http://mc2http.zattoo.com/225.215.1.135/.63
+http://ztest-hls7-live.zahs.tv/HD_halk_tv_tr/master.m3u8 
 
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/3e90536bb751990bf093/black/640x360.png" group-title="TR",TRT 1
-http://mc2http.zattoo.com/225.215.6.101/.63
+http://ztest-hls7-live.zahs.tv/HD_trt1_tr/master.m3u8
 
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/4d010eef74f1c05cd364/black/640x360.png" group-title="TR",TRT 2
-http://mc2http.zattoo.com/225.215.5.106/.63
+http://ztest-hls7-live.zahs.tv/HD_trt2_tr/master.m3u8
 
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/1e8c04a9d49ffcc04503/black/640x360.png" group-title="TR",KANAL D
 https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_sd.smil/playlist.m3u8
@@ -85,36 +85,30 @@ https://mn-nl.mncdn.com/blutv_star/smil:star_sd.smil/playlist.m3u8
 https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_sd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tv100.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/c00da9370a97d2b79461/black/640x360.png" group-title="TR",TV 100
-http://mc2http.zattoo.com/225.215.11.232/.63
+http://ztest-hls7-live.zahs.tv/HD_tv_100_tr/master.m3u8
 
 #EXTINF:-1 tvg-id="BEYAZTV.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/0668ed4475e1848b5ca0/black/640x360.png" group-title="TR",BEYAZ TV
-http://mc2http.zattoo.com/225.215.8.1/.63
+http://ztest-hls7-live.zahs.tv/HD_beyaz_tv_tr/master.m3u8
 
 #EXTINF:-1 tvg-id="TRT3.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/b6a74d38677c0f673456/black/640x360.png" group-title="TR",TRT Spor
-http://mc2http.zattoo.com/225.215.6.103/.63
+http://ztest-hls7-live.zahs.tv/HD_trt_spor_tr/master.m3u8
 
 #EXTINF:-1 tvg-id="TRTSpor2.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/2913931117c9c6ee7d40/black/640x360.png" group-title="TR",TRT Spor 2
-http://mc2http.zattoo.com/225.215.5.125/.63
+http://ztest-hls7-live.zahs.tv/HD_trt_spor2_tr/master.m3u8
 
 #EXTINF:-1 tvg-id="FBTV.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/deb180fa237fb75c9513/black/640x360.png" group-title="TR",Fenerbahçe TV
-http://mc2http.zattoo.com/224.215.8.201/.23
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/f3deea613885c67943de/black/640x360.png" group-title="TR",POWER TÜRK
-http://mc2http.zattoo.com/225.215.8.101/.63
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/5a2b2088510c7c7007fc/black/640x360.png" group-title="TR",beIN Sports 1
-https://dt-live-bc-beinsports01.akamaized.net/beinsports01/beinsports01.isml/playlistppv.m3u8?hdnts=ip=46.88.92.108~st=1614686400~exp=1614700800~acl=/*~id=ac59299685%7C1614707561089~hmac=59ab9423cb4f50ed580a11e6a8e3691ba5b10945b90872c42605283caf69a969
+http://ztest-hls7-live.zahs.tv/fenerbahce_tv_tr/master.m3u8
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/b5c02236036fbd24b7fb/black/640x360.png" group-title="UHD",SKY SPORT BUNDESLIGA UHD
-https://zh2-5-hls7-live.zahs.tv/UHD_sky_sport_bundesliga/m.m3u8?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCNRWHE4TORBVII4TIRRTGI2TKLJRGBCEIMCBGQZEEM2DGVCUIN2FEZZWSZZ5GI3F6YJVGZQTSYZXGE2DAMBWG5RDEODDHBTDKYZSGRSGIMBVGJRDEMBVEZ3D2MA
+http://mc2http.zattoo.com/224.1.0.15/.23
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/48ad0a94712c47358eb2/black/640x360.png" group-title="UHD",SKY SPORT UHD
-https://zba8-2-hls7-live.zahs.tv/UHD_sky_sport/m.m3u8?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCNRWHE4TOQ2CIVBDSNRWGQ4EELJTGVBDAQSFHE3TCQJQGI2DQN2FEZZWSZZ5GE2V6OLGMIZGCZDGHFRGIOBVHE3TGNBSGQ3GKM3EGI4WEM3DME2DEMTCEZ3D2MA
+http://mc2http.zattoo.com/225.78.79.53/.63
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/688b0a64daff7b8acc35/black/640x360.png" group-title="UHD",RMC SPORT UHD
-https://zh2-0-hls7-live.zahs.tv/UHD_rmc_sport_uhd_fr/m.m3u8?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCNRWHE4TOQRXII4TMNSFGUYDELJSIY3TEMJTGMYEGQJZIQ4TGNBZEZZWSZZ5GIZF6MRSHE4WINTBMJSDGN3FGA4DSYJRMNSDQMRSGM3DEOBZMVRWEY3FEZ3D2MA
+http://mc2http.zattoo.com/ 225.72.27.21/.63
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/21e69fe17aeea22a5b6e/black/640x360.png" group-title="UHD",RTL UHD
 http://mc2http.zattoo.com/224.78.193.13/.23
@@ -203,71 +197,4 @@ http://mc2http.fll.zattoo.com/239.1.22.20:8208/.95
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/6623bba80c1a440f05a7/black/640x360.png" group-title="US",Galavision
 http://mc2http.fll.zattoo.com/239.1.24.35:8208/.95
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/bcf615e12b1a1476113e/black/640x360.png" group-title="ES",TV3
-https://directes-tv-cat.ccma.cat/cat/ngrp:tv3_web/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/c7aa313179179a231e6a/black/640x360.png" group-title="ES",LA 1
-https://rtvelivestream.akamaized.net/la1_dvr.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/785180ce8c3c5b0795bb/black/640x360.png" group-title="ES",LA 2
-https://rtvelivestream.akamaized.net/la2_dvr.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/94/News_of_the_World_film_poster.png" group-title="MOVIES",News of the World
-afp://Shebos AirPort Time Capsule._afpovertcp._tcp.local/Data/iTunes/iTunes Media/Movies/News of the World/News of the World.m4v
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Special",TV8
-http://bornw1ld.cyou:8080/OVOmainoneWgTkI/468TGE75ffji6453/154210.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TR",beIN Sports 1
-http://bornw1ld.cyou:8080/OVOmainoneWgTkI/468TGE75ffji6453/154335.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Special",Kanal D
-http://bornw1ld.cyou:8080/OVOmainoneWgTkI/468TGE75ffji6453/154316.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Special",CNN Türk
-http://bornw1ld.cyou:8080/OVOmainoneWgTkI/468TGE75ffji6453/154304.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Special",Spor Smart 1
-http://bornw1ld.cyou:8080/OVOmainoneWgTkI/468TGE75ffji6453/154293.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Special",Movistar LaLiga
-http://bornw1ld.cyou:8080/OVOmainoneWgTkI/468TGE75ffji6453/154377.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Special",La 1
-http://bornw1ld.cyou:8080/OVOmainoneWgTkI/468TGE75ffji6453/154438.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Special",NBC Sports California
-http://bornw1ld.cyou:8080/OVOmainoneWgTkI/468TGE75ffji6453/137762.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Special",BT Sport 1
-http://bornw1ld.cyou:8080/OVOmainoneWgTkI/468TGE75ffji6453/164183.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Special",BT Sport 2
-http://bornw1ld.cyou:8080/OVOmainoneWgTkI/468TGE75ffji6453/164186.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Special",BT Sport 3
-http://bornw1ld.cyou:8080/OVOmainoneWgTkI/468TGE75ffji6453/164189.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Special",Sky Sports Main Event
-http://bornw1ld.cyou:8080/OVOmainoneWgTkI/468TGE75ffji6453/163366.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Special",Sky Sports Premier League
-http://bornw1ld.cyou:8080/OVOmainoneWgTkI/468TGE75ffji6453/163370.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Special",Sky Sports Football
-http://bornw1ld.cyou:8080/OVOmainoneWgTkI/468TGE75ffji6453/163368.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Special",Sky Sports News
-http://bornw1ld.cyou:8080/OVOmainoneWgTkI/468TGE75ffji6453/163364.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Special",La Liga TV
-http://bornw1ld.cyou:8080/OVOmainoneWgTkI/468TGE75ffji6453/164232.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Special",TUDN
-http://bornw1ld.cyou:8080/OVOmainoneWgTkI/468TGE75ffji6453/137837.ts
 
