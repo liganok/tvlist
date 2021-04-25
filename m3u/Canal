@@ -212,3 +212,6 @@ http://192.168.2.121:8001/1:0:19:1C67:47:46:E080000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fi/3/30/C-more-sport-2.svg" group-title="DK",C TV 2 Sport 2
 http://192.168.2.121:8001/1:0:19:1BA6:44:46:E080000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fi/3/30/C-more-sport-2.svg" group-title="DK",WOW! 4K
+http://192.168.2.121:8001/1:0:1F:1C6F:54:46:E080000:0:0:0:
