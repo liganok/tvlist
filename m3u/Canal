@@ -198,3 +198,6 @@ http://mc2http.fll.zattoo.com/239.1.22.20:8208/.95
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/6623bba80c1a440f05a7/black/640x360.png" group-title="US",Galavision
 http://mc2http.fll.zattoo.com/239.1.24.35:8208/.95
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fi/3/30/C-more-sport-2.svg" group-title="DK",C More Sport 2
+http://192.168.2.121:8001/1:0:19:1C12:1:46:E080000:0:0:0:
+
