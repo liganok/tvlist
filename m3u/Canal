@@ -198,20 +198,20 @@ http://mc2http.fll.zattoo.com/239.1.22.20:8208/.95
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/6623bba80c1a440f05a7/black/640x360.png" group-title="US",Galavision
 http://mc2http.fll.zattoo.com/239.1.24.35:8208/.95
 
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fi/3/30/C-more-sport-2.svg" group-title="ESP",La 1
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ESP",La 1
 http://-sid:92bb434032a145c4f9a3520e5850a8fd689bd998aac66b484527b0db7dbcc649@192.168.178.22:8001/1:0:19:7863:41A:1:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fi/3/30/C-more-sport-2.svg" group-title="ESP",La 1 720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ESP",La 1 720p
 http://-sid:92bb434032a145c4f9a3520e5850a8fd689bd998aac66b484527b0db7dbcc649@192.168.178.22:8002/1:0:19:7863:41A:1:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fi/3/30/C-more-sport-2.svg" group-title="ESP",Movistar LaLiga 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ESP",Movistar LaLiga 1
 http://-sid:92bb434032a145c4f9a3520e5850a8fd689bd998aac66b484527b0db7dbcc649@192.168.178.22:8001/1:0:19:7853:41A:1:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fi/3/30/C-more-sport-2.svg" group-title="DK",Movistar LaLiga 1 720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ESP",Movistar LaLiga 1 720p
 http://-sid:92bb434032a145c4f9a3520e5850a8fd689bd998aac66b484527b0db7dbcc649@192.168.178.22:8002/1:0:19:7853:41A:1:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fi/3/30/C-more-sport-2.svg" group-title="ESP",DAZN 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ESP",DAZN 1 HD
 http://-sid:92bb434032a145c4f9a3520e5850a8fd689bd998aac66b484527b0db7dbcc649@192.168.178.22:8001/1:0:19:7855:41A:1:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fi/3/30/C-more-sport-2.svg" group-title="ESP",Dazn 1 HD 720p 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ESP",Dazn 1 HD 720p 
 http://-sid:92bb434032a145c4f9a3520e5850a8fd689bd998aac66b484527b0db7dbcc649@192.168.178.22:8002/1:0:19:7855:41A:1:C00000:0:0:0:
