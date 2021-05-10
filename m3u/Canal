@@ -198,6 +198,7 @@ http://mc2http.fll.zattoo.com/239.1.22.20:8208/.95
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/6623bba80c1a440f05a7/black/640x360.png" group-title="US",Galavision
 http://mc2http.fll.zattoo.com/239.1.24.35:8208/.95
 
+
 EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Test",TRT Belgesel
 http://-sid:d67e101d5c781ae90ddc77034a99c34858c22157a5936456ea33d2838f8c55e2@192.168.178.22:8001/1:0:11:2142:4FB0:7E:460000:0:0:0:
 
