@@ -43,16 +43,16 @@ http://mc2http.zattoo.com/239.192.0.103:5501/.355
 http://mc2http.zattoo.com/239.192.0.95:5501/.355
 
 #EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="" tvg-logo="https://images.zattic.com/logos/7b7c2fe9aa6995935e0f/black/640x360.png" group-title="UK",BT Sport 1
-http://mc2http.zattoo.com/239.192.1.180:5501/.355
+http://mc2http.zattoo.com/239.192.0.180:5501/.355
 
 #EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="" tvg-logo="https://images.zattic.com/logos/1c14a528e8dc3a51b331/black/640x360.png" group-title="UK",BT Sport 2
-http://mc2http.zattoo.com/239.192.1.181:5501/.355
+http://mc2http.zattoo.com/239.192.0.181:5501/.355
 
 #EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="" tvg-logo="https://images.zattic.com/logos/047fa4036ee9eb46d4dc/black/640x360.png" group-title="UK",BT Sport 3
-http://mc2http.zattoo.com/239.192.1.182:5501/.355
+http://mc2http.zattoo.com/239.192.0.182:5501/.355
 
 #EXTINF:-1 tvg-id="BTSportESPN.uk" tvg-name="" tvg-logo="https://images.zattic.com/logos/648e62757028a65e962e/black/640x360.png" group-title="UK",BT Sport ESPN
-http://mc2http.zattoo.com/239.192.1.183:5501/.355
+http://mc2http.zattoo.com/239.192.0.183:5501/.355
 
 #EXTINF:-1 tvg-id="PremierSports.uk" tvg-name="" tvg-logo="https://www.premiersports.com/assets/components/mor/General/img/premier-sports-logo.png" group-title="UK",Premier Sport 1
 http://mc2http.zattoo.com/239.192.1.239:5501/.355
@@ -125,10 +125,10 @@ http://ztest-hls7-live.zahs.tv/fenerbahce_tv_tr/master.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/b5c02236036fbd24b7fb/black/640x360.png" group-title="UHD",SKY SPORT BUNDESLIGA UHD
-http://ztest-hls7-live.zahs.tv/UHD_sky_sport_bundesliga/master.m3u8
+http://mc2http.zattoo.com/225.78.79.52/.63
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/48ad0a94712c47358eb2/black/640x360.png" group-title="UHD",SKY SPORT UHD
-http://ztest-hls7-live.zahs.tv/UHD_sky_sport/master.m3u8
+hhttp://mc2http.zattoo.com/224.1.0.15/.23
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/688b0a64daff7b8acc35/black/640x360.png" group-title="UHD",RMC SPORT UHD
 http://ztest-hls7-live.zahs.tv/UHD_rmc_sport_uhd_fr/master.m3u8
