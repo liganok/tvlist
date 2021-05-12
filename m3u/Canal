@@ -125,16 +125,19 @@ http://ztest-hls7-live.zahs.tv/fenerbahce_tv_tr/master.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/b5c02236036fbd24b7fb/black/640x360.png" group-title="UHD",SKY SPORT BUNDESLIGA UHD
-http://mc2http.zattoo.com/225.78.79.52/.63
+http://mc2http.zattoo.com/224.1.0.15/.23
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/48ad0a94712c47358eb2/black/640x360.png" group-title="UHD",SKY SPORT UHD
-hhttp://mc2http.zattoo.com/224.1.0.15/.23
+http://mc2http.zattoo.com/224.78.79.53/.23
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/688b0a64daff7b8acc35/black/640x360.png" group-title="UHD",RMC SPORT UHD
-http://ztest-hls7-live.zahs.tv/UHD_rmc_sport_uhd_fr/master.m3u8
+http://mc2http.zattoo.com/225.72.27.21/.63
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/21e69fe17aeea22a5b6e/black/640x360.png" group-title="UHD",RTL UHD
 http://mc2http.zattoo.com/224.78.193.13/.23
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://de.astra.ses/sites/default/files/inline-images/UHD1Logo.png" group-title="UHD",UHD 1
+http://mc2http.zattoo.com/224.78.84.1/.23
 
 
 
