@@ -94,13 +94,13 @@ http://ztest-hls7-live.zahs.tv/HD_trt1_tr/master.m3u8
 http://ztest-hls7-live.zahs.tv/HD_trt2_tr/master.m3u8
 
 #EXTINF:-1 tvg-id="TRTBelgeselHD.tr" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/TRT_Belgesel_kurumsal_logo_%282015-2019%29.png" group-title="TR",TRT Belgesel
-http://192.168.8.124:8002/1:0:11:2142:4FB0:7E:460000:0:0:0:
+http://192.168.8.124:8001/1:0:11:2142:4FB0:7E:460000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/TRT_M%C3%BCzik_logo.svg/1200px-TRT_M%C3%BCzik_logo.svg.png" group-title="TR",TRT Müzik
-http://192.168.8.124:8002/1:0:19:2970:7919:42E:1A40000:0:0:0:
+http://192.168.8.124:8001/1:0:19:2970:7919:42E:1A40000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tvyayinizle.com/upload/tv/o_eba-tv-lise-logo_20200509193008.png" group-title="TR",TRT EBA Lise
-http://192.168.8.124:8002/1:0:11:61D:C418:7E:460000:0:0:0:
+http://192.168.8.124:8001/1:0:11:61D:C418:7E:460000:0:0:0:
 
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/1e8c04a9d49ffcc04503/black/640x360.png" group-title="TR",KANAL D
 https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_sd.smil/playlist.m3u8
