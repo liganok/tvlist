@@ -2,23 +2,65 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/rwwwxv1441657735.png" group-title="ESP",La 1
 http://192.168.8.124:8002/1:0:19:7863:41A:1:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://svgshare.com/i/XHK.svg" group-title="ESP",Movistar La Liga 
-http://192.168.8.124:8001/1:0:19:750F:420:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Antena3_Atresmedia.png" group-title="ESP",Antenna 3
+http://192.168.8.124:8002/1:0:19:7534:426:1:C00000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/Movistar_LaLiga.png" group-title="ESP",Movistar La Liga 
+http://192.168.8.124:8002/1:0:19:750F:420:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/Movistar_LaLiga_1.png" group-title="ESP",Movistar La Liga 1
-http://192.168.8.124:8001/1:0:19:7853:41A:1:C00000:0:0:0:
+http://192.168.8.124:8002/1:0:19:7853:41A:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/Movistar_LaLiga_2.png" group-title="ESP",Movistar La Liga 2
-http://192.168.8.124:8001/1:0:19:74CD:3F8:1:C00000:0:0:0:
+http://192.168.8.124:8002/1:0:19:74CD:3F8:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/Movistar_LaLiga_3.png" group-title="ESP",Movistar La Liga 3
-http://192.168.8.124:8001/1:0:19:74D3:3F8:1:C00000:0:0:0:
+http://192.168.8.124:8002/1:0:19:74D3:3F8:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/hhb7im1615315057.png" group-title="ESP",DAZN 1
-http://192.168.8.124:8001/1:0:19:7855:41A:1:C00000:0:0:0:
+http://192.168.8.124:8002/1:0:19:7855:41A:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/g8hxob1615314936.png" group-title="ESP",DAZN 2
-http://192.168.8.124:8001/1:0:19:785F:41A:1:C00000:0:0:0:
+http://192.168.8.124:8002/1:0:19:785F:41A:1:C00000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/movistar_deportes.png" group-title="ESP",Movistar Deportes
+http://192.168.8.124:8002/1:0:19:7828:428:1:C00000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/8jpqlr1485860734.png" group-title="ESP",Movistar Deportes 1
+http://192.168.8.124:8002/1:0:19:7532:426:1:C00000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/d4lw7d1615316983.png" group-title="ESP",Movistar Campeones
+http://192.168.8.124:8002/1:0:19:78B4:3EC:1:C00000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/Movistar_Liga_de_Campeones_1.png" group-title="ESP",Movistar Campeones 1
+http://192.168.8.124:8002/1:0:19:74D5:3F8:1:C00000:0:0:0:
+
+#######
+
+###DE###
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/hhb7im1615315057.png" group-title="DE",DAZN Bar 1
+http://192.168.8.124:8002/1:0:19:84:9:85:C00000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/g8hxob1615314936.png" group-title="DE",DAZN Bar 2
+http://192.168.8.124:8002/1:0:19:7A:10:85:C00000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/Eurosport_2_Extra_Germany.png" group-title="DE",Eurosport 2 Xtra
+http://192.168.8.124:8002/1:0:19:30D7:413:1:C00000:0:0:0:
+
+#######
+
+###IR###
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Iran_International.svg/1200px-Iran_International.svg.png" group-title="IR",Iran International
+http://192.168.8.124:8002/1:0:1:1F5:384:13E:820000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://w7.pngwing.com/pngs/61/152/png-transparent-islamic-republic-of-iran-news-network-islamic-republic-of-iran-broadcasting-hot-bird-irib-quran-others-blue-text-logo.png" group-title="IR",IRIB News Network
+http://192.168.8.124:8001/1:0:1:5E2:2C24:13E:820000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/QURANTV1399.png/1200px-QURANTV1399.png" group-title="IR",IRIB Quran
+http://192.168.8.124:8001/1:0:1:5E4:2C24:13E:820000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png" group-title="IR",iFilm
+http://192.168.8.124:8001/1:0:1:5EA:2C24:13E:820000:0:0:0:
 
 #######
 
@@ -93,11 +135,11 @@ http://ztest-hls7-live.zahs.tv/HD_trt1_tr/master.m3u8
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/4d010eef74f1c05cd364/black/640x360.png" group-title="TR",TRT 2
 http://ztest-hls7-live.zahs.tv/HD_trt2_tr/master.m3u8
 
-#EXTINF:-1 tvg-id="TRTBelgeselHD.tr" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/TRT_Belgesel_kurumsal_logo_%282015-2019%29.png" group-title="TR",TRT Belgesel
-http://192.168.8.124:8001/1:0:11:2142:4FB0:7E:460000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/TRT_Belgesel_kurumsal_logo_%282015-2019%29.png" group-title="TR",TRT Belgesel
+http://192.168.8.124:8002/1:0:19:296C:7919:42E:1A40000:0:0:0:
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TR",TRT Müzik
-http://192.168.8.124:8001/1:0:19:2970:7919:42E:1A40000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/TRT_M%C3%BCzik_logo.svg/2560px-TRT_M%C3%BCzik_logo.svg.png" group-title="TR",TRT Müzik
+http://192.168.8.124:8002/1:0:19:2970:7919:42E:1A40000:0:0:0:
 
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/1e8c04a9d49ffcc04503/black/640x360.png" group-title="TR",KANAL D
 https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_sd.smil/playlist.m3u8
