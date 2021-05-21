@@ -53,14 +53,38 @@ http://192.168.8.124:8002/1:0:19:30D7:413:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Iran_International.svg/1200px-Iran_International.svg.png" group-title="IR",Iran International
 http://192.168.8.124:8002/1:0:1:1F5:384:13E:820000:0:0:0:
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://w7.pngwing.com/pngs/61/152/png-transparent-islamic-republic-of-iran-news-network-islamic-republic-of-iran-broadcasting-hot-bird-irib-quran-others-blue-text-logo.png" group-title="IR",IRIB News Network
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dma-media.com/wp-content/uploads/2018/06/BBC-Persian-900x600.jpg" group-title="IR",BBC PERSIAN
+http://192.168.8.124:8002/1:0:19:39D1:1FA4:13E:820000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.imgbin.com/24/10/0/iran-lion-and-sun-simaye-azadi-flag-of-iran-tbN8sWeh.jpg" group-title="IR",SIMAYE AZADI
+http://192.168.8.124:8002/1:0:19:51A:3D54:13E:820000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/IRIBTV1.svg" group-title="IR",IRIB 1
+http://192.168.8.124:8001/1:0:1:5F1:2C24:13E:820000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/IRIB_TV2_logo.svg/1200px-IRIB_TV2_logo.svg.png" group-title="IR",IRIB 2
+http://192.168.8.124:8001/1:0:1:5F2:2C24:13E:820000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/IRIB_TV3_LOGO.png/1280px-IRIB_TV3_LOGO.png" group-title="IR",IRIB 3
+http://192.168.8.124:8001/1:0:1:5F3:2C24:13E:820000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://w7.pngwing.com/pngs/61/152/png-transparent-islamic-republic-of-iran-news-network-islamic-republic-of-iran-broadcasting-hot-bird-irib-quran-others-blue-text-logo.png" group-title="IR",IRIB NEWS
 http://192.168.8.124:8001/1:0:1:5E2:2C24:13E:820000:0:0:0:
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/QURANTV1399.png/1200px-QURANTV1399.png" group-title="IR",IRIB Quran
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/QURANTV1399.png/1200px-QURANTV1399.png" group-title="IR",IRIB QURAN
 http://192.168.8.124:8001/1:0:1:5E4:2C24:13E:820000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pmc.tv/assets/upload/pmc.png" group-title="IR",PMC
+http://192.168.8.124:8001/1:0:1:1C39:1C20:13E:820000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png" group-title="IR",iFilm
 http://192.168.8.124:8001/1:0:1:5EA:2C24:13E:820000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png" group-title="IR",iFilm ENGLISH
+http://192.168.8.124:8001/1:0:1:5FD:2C24:13E:820000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.parsatv.com/index_files/channels/sahar.png" group-title="IR",SAHAR AZERI
+http://192.168.8.124:8001/1:0:1:5F7:2C24:13E:820000:0:0:0:
 
 #######
 
