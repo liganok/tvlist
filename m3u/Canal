@@ -59,7 +59,7 @@ http://192.168.8.124:8002/1:0:19:39D1:1FA4:13E:820000:0:0:0:
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.imgbin.com/24/10/0/iran-lion-and-sun-simaye-azadi-flag-of-iran-tbN8sWeh.jpg" group-title="IR",SIMAYE AZADI
 http://192.168.8.124:8002/1:0:19:51A:3D54:13E:820000:0:0:0:
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/IRIBTV1.svg" group-title="IR",IRIB 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.favpng.com/10/16/7/irib-tv1-irib-tv3-broadcasting-advertising-television-png-favpng-2mqV5YuNnq7PZfUpmA1W3yZeB.jpg" group-title="IR",IRIB 1
 http://192.168.8.124:8001/1:0:1:5F1:2C24:13E:820000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/IRIB_TV2_logo.svg/1200px-IRIB_TV2_logo.svg.png" group-title="IR",IRIB 2
@@ -68,7 +68,7 @@ http://192.168.8.124:8001/1:0:1:5F2:2C24:13E:820000:0:0:0:
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/IRIB_TV3_LOGO.png/1280px-IRIB_TV3_LOGO.png" group-title="IR",IRIB 3
 http://192.168.8.124:8001/1:0:1:5F3:2C24:13E:820000:0:0:0:
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://w7.pngwing.com/pngs/61/152/png-transparent-islamic-republic-of-iran-news-network-islamic-republic-of-iran-broadcasting-hot-bird-irib-quran-others-blue-text-logo.png" group-title="IR",IRIB NEWS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/TV.06.png/1200px-TV.06.png" group-title="IR",IRINN NEWS
 http://192.168.8.124:8001/1:0:1:5E2:2C24:13E:820000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/QURANTV1399.png/1200px-QURANTV1399.png" group-title="IR",IRIB QURAN
