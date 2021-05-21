@@ -29,10 +29,10 @@ http://192.168.8.124:8002/1:0:19:7828:428:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/8jpqlr1485860734.png" group-title="ESP",Movistar Deportes 1
 http://192.168.8.124:8002/1:0:19:7532:426:1:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/d4lw7d1615316983.png" group-title="ESP",Movistar Campeones
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/d4lw7d1615316983.png" group-title="ESP",Movistar Liga de Campeones
 http://192.168.8.124:8002/1:0:19:78B4:3EC:1:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/Movistar_Liga_de_Campeones_1.png" group-title="ESP",Movistar Campeones 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/Movistar_Liga_de_Campeones_1.png" group-title="ESP",Movistar Liga de Campeones 1
 http://192.168.8.124:8002/1:0:19:74D5:3F8:1:C00000:0:0:0:
 
 #######
