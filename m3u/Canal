@@ -418,5 +418,5 @@ http://dimoZattoo:Atasehir34@192.168.178.157:9981/stream/channelid/2135172732?ti
 #EXTINF:-1 tvg-id="07ca0d440498c816cf1c475046a838aa" group-title="Kabel",TVE (spa)
 http://dimoZattoo:Atasehir34@192.168.178.157:9981/stream/channelid/1141754375?ticket=3E781422F0409CCDA1972C27ADD2E9BED587095C&profile=pass
 #EXTINF:-1 tvg-id="74bb87a4e59995941c8d7fa314e51be5" group-title="Kabel",ZDF HD
-http://dimoZattoo:Atasehir34@192.168.178.157:9981/stream/channelid/612875124?ticket=17E96DD2E9B69B326CDAE6D02D6CD4C7B3B0F62F&profile=pass
+http://dimoVPN:Atasehir34@192.168.1.50:9981/stream/channel/698c918ae4ee50e357de7d52deddc6b1?profile=webtv-h264-aac-matroska
 #######
