@@ -368,7 +368,7 @@ http://mc2http.fll.zattoo.com/239.1.24.35:8208/.95
 
 ###Kabel###
 #EXTINF:-1 tvg-id="990c3918172acd1cb0facd60e0efbae3" group-title="Kabel",3sat HD
-http://192.168.178.157:9981/stream/channelid/406391961?ticket=EC17261DCC32FF3CEEBC61AA69BA12116A46BAD0&profile=pass
+http://dimoZattoo:Atasehir34@192.168.178.157:9981/stream/channelid/406391961?ticket=EC17261DCC32FF3CEEBC61AA69BA12116A46BAD0&profile=pass
 #EXTINF:-1 tvg-id="9c8dd7afa6d23ce8a208d164ff3664ae" group-title="Kabel",BeIN Movies (tur)
 http://192.168.178.157:9981/stream/channelid/802655644?ticket=2DB06541E78B1E364CA038534B81ABB0F5046226&profile=pass
 #EXTINF:-1 tvg-id="5d2ab32e266892e2a6d1d6322c9e4f39" group-title="Kabel",Das Erste HD
