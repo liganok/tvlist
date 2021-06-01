@@ -370,53 +370,53 @@ http://mc2http.fll.zattoo.com/239.1.24.35:8208/.95
 #EXTINF:-1 tvg-id="990c3918172acd1cb0facd60e0efbae3" group-title="Kabel",3sat HD
 http://dimoZattoo:Atasehir34@192.168.178.157:9981/stream/channelid/406391961?ticket=EC17261DCC32FF3CEEBC61AA69BA12116A46BAD0&profile=pass
 #EXTINF:-1 tvg-id="9c8dd7afa6d23ce8a208d164ff3664ae" group-title="Kabel",BeIN Movies (tur)
-http://192.168.178.157:9981/stream/channelid/802655644?ticket=2DB06541E78B1E364CA038534B81ABB0F5046226&profile=pass
+http://dimoZattoo:Atasehir34@192.168.178.157:9981/stream/channelid/802655644?ticket=2DB06541E78B1E364CA038534B81ABB0F5046226&profile=pass
 #EXTINF:-1 tvg-id="5d2ab32e266892e2a6d1d6322c9e4f39" group-title="Kabel",Das Erste HD
-http://192.168.178.157:9981/stream/channelid/783493725?ticket=9845ECF20A849F022394823C0FECB52D6EBD3C3A&profile=pass
+http://dimoZattoo:Atasehir34@192.168.178.157:9981/stream/channelid/783493725?ticket=9845ECF20A849F022394823C0FECB52D6EBD3C3A&profile=pass
 #EXTINF:-1 tvg-id="5671f9f3f636323f870de4fbd4ac87ba" group-title="Kabel",DAZN 1
-http://192.168.178.157:9981/stream/channelid/1945727318?ticket=12FBA58CC1EE9ECAD9A6902344FE16EDDB7FA523&profile=pass
+http://dimoZattoo:Atasehir34@192.168.178.157:9981/stream/channelid/1945727318?ticket=12FBA58CC1EE9ECAD9A6902344FE16EDDB7FA523&profile=pass
 #EXTINF:-1 tvg-id="992c3f30905452493efe59d7a46edebc" group-title="Kabel",DAZN 2
-http://192.168.178.157:9981/stream/channelid/809446553?ticket=2BED458150D84F89F0AF3E70BE59BEEF504FD944&profile=pass
+http://dimoZattoo:Atasehir34@192.168.178.157:9981/stream/channelid/809446553?ticket=2BED458150D84F89F0AF3E70BE59BEEF504FD944&profile=pass
 #EXTINF:-1 tvg-id="5fc279e20e2d16cb96b84d35c2331812" group-title="Kabel",Euro D (tur)
-http://192.168.178.157:9981/stream/channelid/1652146783?ticket=7E6D618B26A6947A2B38E58F43F87712A4D43582&profile=pass
+http://dimoZattoo:Atasehir34@192.168.178.157:9981/stream/channelid/1652146783?ticket=7E6D618B26A6947A2B38E58F43F87712A4D43582&profile=pass
 #EXTINF:-1 tvg-id="d7f3fac907c2951d03e060edd80c0e86" group-title="Kabel",Habertürk (tur)
-http://192.168.178.157:9981/stream/channelid/1241183191?ticket=45A8969226F5B5809882E2C6308A5B791D3BAD8F&profile=pass
+http://dimoZattoo:Atasehir34@192.168.178.157:9981/stream/channelid/1241183191?ticket=45A8969226F5B5809882E2C6308A5B791D3BAD8F&profile=pass
 #EXTINF:-1 tvg-id="396c8efcaaebaf26f21fff2b394673d6" group-title="Kabel",Halk Tv (tur)
-http://192.168.178.157:9981/stream/channelid/2089708601?ticket=167B889ACC31896FB27A850FBF115B1FC4CECADB&profile=pass
+http://dimoZattoo:Atasehir34@192.168.178.157:9981/stream/channelid/2089708601?ticket=167B889ACC31896FB27A850FBF115B1FC4CECADB&profile=pass
 #EXTINF:-1 tvg-id="9d42faf4f5537df3d4ebf2d24255822f" group-title="Kabel",ONE HD
-http://192.168.178.157:9981/stream/channelid/1962558109?ticket=C89C41E923FC6406DED5030897A37B701E652938&profile=pass
+http://dimoZattoo:Atasehir34@192.168.178.157:9981/stream/channelid/1962558109?ticket=C89C41E923FC6406DED5030897A37B701E652938&profile=pass
 #EXTINF:-1 tvg-id="ad26dc5c013fb73d5fadd39c636f4818" group-title="Kabel",ProSieben HD
-http://192.168.178.157:9981/stream/channelid/1557931693?ticket=CFC06899742C60336BAFE5CFDF2DB9C528D55002&profile=pass
+http://dimoZattoo:Atasehir34@192.168.178.157:9981/stream/channelid/1557931693?ticket=CFC06899742C60336BAFE5CFDF2DB9C528D55002&profile=pass
 #EXTINF:-1 tvg-id="ce8a9ab7c52053d6120be528b77c4159" group-title="Kabel",ProSieben MAXX HD
-http://192.168.178.157:9981/stream/channelid/932874958?ticket=56F9A77A1879CC6653FA232C3B972331D938BF54&profile=pass
+http://dimoZattoo:Atasehir34@192.168.178.157:9981/stream/channelid/932874958?ticket=56F9A77A1879CC6653FA232C3B972331D938BF54&profile=pass
 #EXTINF:-1 tvg-id="db9e2e863fc3adf038c7ae2f1a689f84" group-title="Kabel",rbb Berlin HD
-http://192.168.178.157:9981/stream/channelid/103718619?ticket=0E63235A42FEB67807470B03317AC6A515806BC9&profile=pass
+http://dimoZattoo:Atasehir34@192.168.178.157:9981/stream/channelid/103718619?ticket=0E63235A42FEB67807470B03317AC6A515806BC9&profile=pass
 #EXTINF:-1 tvg-id="07aeec82e837d2063d23003f26747836" group-title="Kabel",RTL HD
-http://192.168.178.157:9981/stream/channelid/49065479?ticket=2BAD7F003ECE22243836CE6F403716C8ACF53D78&profile=pass
+http://dimoZattoo:Atasehir34@192.168.178.157:9981/stream/channelid/49065479?ticket=2BAD7F003ECE22243836CE6F403716C8ACF53D78&profile=pass
 #EXTINF:-1 tvg-id="45262a89b39320fd673be2ae0a02a75e" group-title="Kabel",SAT.1 HD
-http://192.168.178.157:9981/stream/channelid/153757253?ticket=51D9B6F3B85E3C659BE55941C824D6906A645408&profile=pass
+http://dimoZattoo:Atasehir34@192.168.178.157:9981/stream/channelid/153757253?ticket=51D9B6F3B85E3C659BE55941C824D6906A645408&profile=pass
 #EXTINF:-1 tvg-id="163482efe26373980c86a9d1065abf95" group-title="Kabel",Sky Atlantic HD
-http://192.168.178.157:9981/stream/channelid/1870803990?ticket=803F6364496FAC90747A288A63101CCBD49EA699&profile=pass
+http://dimoZattoo:Atasehir34@192.168.178.157:9981/stream/channelid/1870803990?ticket=803F6364496FAC90747A288A63101CCBD49EA699&profile=pass
 #EXTINF:-1 tvg-id="fe5d9f4e867461cd9c06d88e40df5985" group-title="Kabel",Sky Sport 1 HD
-http://192.168.178.157:9981/stream/channelid/1319067134?ticket=AAFAF502897F1FE8E4239F4FD071604B46164B64&profile=pass
+http://dimoZattoo:Atasehir34@192.168.178.157:9981/stream/channelid/1319067134?ticket=AAFAF502897F1FE8E4239F4FD071604B46164B64&profile=pass
 #EXTINF:-1 tvg-id="6ea2ab5030a4eefe14fd593a92740e93" group-title="Kabel",Sky Sport Bundesliga 1 HD
-http://192.168.178.157:9981/stream/channelid/1353425518?ticket=3CD5D6785496C930AFFE9AB9C082F43C20FB8D56&profile=pass
+http://dimoZattoo:Atasehir34@192.168.178.157:9981/stream/channelid/1353425518?ticket=3CD5D6785496C930AFFE9AB9C082F43C20FB8D56&profile=pass
 #EXTINF:-1 tvg-id="43a73d4a64bb7bd7bf1166c66a739565" group-title="Kabel",Sky Sport Bundesliga UHD
-http://192.168.178.157:9981/stream/channelid/1245554499?ticket=AE19EC439C716FA31DB365B83DED183DBAFA0607&profile=pass
+http://dimoZattoo:Atasehir34@192.168.178.157:9981/stream/channelid/1245554499?ticket=AE19EC439C716FA31DB365B83DED183DBAFA0607&profile=pass
 #EXTINF:-1 tvg-id="d270eef6a385c49795c66f3b0856bd02" group-title="Kabel",Sky Sport F1 HD
-http://192.168.178.157:9981/stream/channelid/1995337938?ticket=5ECB20E00BA2A617ECF92F5F23251A722891A16D&profile=pass
+http://dimoZattoo:Atasehir34@192.168.178.157:9981/stream/channelid/1995337938?ticket=5ECB20E00BA2A617ECF92F5F23251A722891A16D&profile=pass
 #EXTINF:-1 tvg-id="a12d9851655656e25997fb1cc41af3b6" group-title="Kabel",Sky Sport News HD
-http://192.168.178.157:9981/stream/channelid/1368927649?ticket=B25F968C0481805B9D8FC94F46EBF0A0EB5005EB&profile=pass
+http://dimoZattoo:Atasehir34@192.168.178.157:9981/stream/channelid/1368927649?ticket=B25F968C0481805B9D8FC94F46EBF0A0EB5005EB&profile=pass
 #EXTINF:-1 tvg-id="a542f5cebbf0fb72a69f0ceac81a15bb" group-title="Kabel",SPORT1 HD
-http://192.168.178.157:9981/stream/channelid/1324696229?ticket=F2B90EDD28BD7D4BDEB38054119467E185768700&profile=pass
+http://dimoZattoo:Atasehir34@192.168.178.157:9981/stream/channelid/1324696229?ticket=F2B90EDD28BD7D4BDEB38054119467E185768700&profile=pass
 #EXTINF:-1 tvg-id="56125720f5b593c617c0f1eae19ef575" group-title="Kabel",SPORT1+ HD
-http://192.168.178.157:9981/stream/channelid/542577238?ticket=E544EF1DB34A998E580F9571730D451F70D15477&profile=pass
+http://dimoZattoo:Atasehir34@192.168.178.157:9981/stream/channelid/542577238?ticket=E544EF1DB34A998E580F9571730D451F70D15477&profile=pass
 #EXTINF:-1 tvg-id="8cae4695a1a3b9820cfe64c478496f4c" group-title="Kabel",SPORTDIGITAL FUSSBALL  HD
-http://192.168.178.157:9981/stream/channelid/356953740?ticket=8F274787F9C2558641FFFA58B592F382491CB318&profile=pass
+http://dimoZattoo:Atasehir34@192.168.178.157:9981/stream/channelid/356953740?ticket=8F274787F9C2558641FFFA58B592F382491CB318&profile=pass
 #EXTINF:-1 tvg-id="7c2644ff0a1ceac15c83f10a4c52a3dd" group-title="Kabel",TV8 Int (tur)
-http://192.168.178.157:9981/stream/channelid/2135172732?ticket=39550A5F32FF0565644AD8C288AE939EC55BF156&profile=pass
+http://dimoZattoo:Atasehir34@192.168.178.157:9981/stream/channelid/2135172732?ticket=39550A5F32FF0565644AD8C288AE939EC55BF156&profile=pass
 #EXTINF:-1 tvg-id="07ca0d440498c816cf1c475046a838aa" group-title="Kabel",TVE (spa)
-http://192.168.178.157:9981/stream/channelid/1141754375?ticket=3E781422F0409CCDA1972C27ADD2E9BED587095C&profile=pass
+http://dimoZattoo:Atasehir34@192.168.178.157:9981/stream/channelid/1141754375?ticket=3E781422F0409CCDA1972C27ADD2E9BED587095C&profile=pass
 #EXTINF:-1 tvg-id="74bb87a4e59995941c8d7fa314e51be5" group-title="Kabel",ZDF HD
-http://192.168.178.157:9981/stream/channelid/612875124?ticket=17E96DD2E9B69B326CDAE6D02D6CD4C7B3B0F62F&profile=pass
+http://dimoZattoo:Atasehir34@192.168.178.157:9981/stream/channelid/612875124?ticket=17E96DD2E9B69B326CDAE6D02D6CD4C7B3B0F62F&profile=pass
 #######
