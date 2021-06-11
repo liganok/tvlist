@@ -217,7 +217,7 @@ http://ztest-hls7-live.zahs.tv/HD_halk_tv_tr/master.m3u8
 http://mc2http.zattoo.com/225.215.1.200/.63
 
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/3e90536bb751990bf093/black/640x360.png" group-title="TR",TRT 1
-http://ztest-hls7-live.zahs.tv/HD_trt1_tr/master.m3u8
+http://mc2http.zattoo.com/225.215.6.101/.63
 
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/4d010eef74f1c05cd364/black/640x360.png" group-title="TR",TRT 2
 http://ztest-hls7-live.zahs.tv/HD_trt2_tr/master.m3u8
