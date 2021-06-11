@@ -213,6 +213,9 @@ https://mn-nl.mncdn.com/blutv_ntv/smil:ntv_sd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/924cd55335a718069e1e/black/640x360.png" group-title="TR",HALK TV
 http://ztest-hls7-live.zahs.tv/HD_halk_tv_tr/master.m3u8 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/TRT_4K.png/revision/latest?cb=20161116180659" group-title="TR",TRT 4K
+http://ztest-hls7-live.zahs.tv/UHD_test_jumpy_5/master.m3u8
+
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/3e90536bb751990bf093/black/640x360.png" group-title="TR",TRT 1
 http://ztest-hls7-live.zahs.tv/HD_trt1_tr/master.m3u8
 
