@@ -134,10 +134,10 @@ http://192.168.8.124:8001/1:0:1:5F7:2C24:13E:820000:0:0:0:
 #######
 
 #EXTINF:-1 tvg-id="BBC1.uk" tvg-name="" tvg-logo="https://images.zattic.com/logos/e7db7cde3a9bf2c6e694/black/640x360.png" group-title="UK",BBC One
-http://ztest-hls7-live.zahs.tv/HD_eiR_bbc_one/master.m3u8 
+http://mc2http.zattoo.com/225.222.0.1/.63
 
 #EXTINF:-1 tvg-id="BBC2.uk" tvg-name="" tvg-logo="https://images.zattic.com/logos/d1c0f2eb8a31828d80d7/black/640x360.png" group-title="UK",BBC Two
-http://ztest-hls7-live.zahs.tv/HD_eiR_bbc_two/master.m3u8 
+http://mc2http.zattoo.com/225.222.0.2/.6
 
 #EXTINF:-1 tvg-id="ITV1.uk" tvg-name="" tvg-logo="https://images.zattic.com/logos/d0fe0d3aebb8f801587d/black/640x360.png" group-title="UK",ITV 1
 http://mc2http.zattoo.com/225.222.18.100/.63
