@@ -381,7 +381,7 @@ http://dimoZattoo:Atasehir34@192.168.178.157:9981/stream/channelid/406391961?tic
 #EXTINF:-1 tvg-id="9c8dd7afa6d23ce8a208d164ff3664ae" group-title="Kabel",BeIN Movies (tur)
 http://dimoZattoo:Atasehir34@192.168.178.157:9981/stream/channelid/802655644?ticket=2DB06541E78B1E364CA038534B81ABB0F5046226&profile=pass
 #EXTINF:-1 tvg-id="5d2ab32e266892e2a6d1d6322c9e4f39" group-title="Kabel",Das Erste HD
-http://dimoZattoo:Atasehir34@192.168.178.157:9981/stream/channelid/783493725?ticket=9845ECF20A849F022394823C0FECB52D6EBD3C3A&profile=pass
+http://192.168.8.125:8002/1:0:19:283D:3FB:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="5671f9f3f636323f870de4fbd4ac87ba" group-title="Kabel",DAZN 1
 http://dimoZattoo:Atasehir34@192.168.178.157:9981/stream/channelid/1945727318?ticket=12FBA58CC1EE9ECAD9A6902344FE16EDDB7FA523&profile=pass
 #EXTINF:-1 tvg-id="992c3f30905452493efe59d7a46edebc" group-title="Kabel",DAZN 2
