@@ -187,19 +187,7 @@ http://mc2http.zattoo.com/239.192.1.240:5501/.355
 http://ztest-hls7-live.zahs.tv/HD_bein_gurme_tr/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/85091362415fe9bbaedc/black/640x360.png" group-title="TR",BEIN IZ
-http://mc2http.zattoo.com/224.215.12.107/.23
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/059cfdaa23bdecaf13eb/black/640x360.png" group-title="TR",DISCOVERY
-http://192.168.8.124:8002/1:0:19:76D:9:42:1A40000:0:0:0:
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/b69910c8fd461d95a19f/black/640x360.png" group-title="TR",DISCOVERY SCIENCE
-http://192.168.8.124:8002/1:0:19:779:9:42:1A40000:0:0:0:
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.dsmartgo.com.tr//content/d/9U/12174/Thumbnail.png?v=636987852865799359" group-title="TR",DIZI SMART PREMIUM
-http://192.168.8.124:8002/1:0:19:775:9:42:1A40000:0:0:0:
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.dsmartgo.com.tr//content/k/F2/11913/Thumbnail.png?v=636987852570463393" group-title="TR",DIZI SMART MAX
-http://192.168.8.124:8002/1:0:19:77A:9:42:1A40000:0:0:0:
+http://ztest-hls7-live.zahs.tv/HD_bein_iz_tr/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.dsmartgo.com.tr//content/e/ZI/13863/Thumbnail.png?v=636987856299906443" group-title="TR",MOVIE SMART TÜRK
 http://192.168.8.124:8002/1:0:19:777:9:42:1A40000:0:0:0:
