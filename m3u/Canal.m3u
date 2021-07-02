@@ -1,102 +1,102 @@
 ###ESP###
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/rwwwxv1441657735.png" group-title="ESP",La 1
-http://192.168.8.124:8001/1:0:19:7863:41A:1:C00000:0:0:0:
+http://192.168.8.125:8002/1:0:19:7863:41A:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ESP",Telecinco
-http://192.168.8.124:8001/1:0:19:7536:426:1:C00000:0:0:0:
+http://192.168.8.125:8001/1:0:19:7536:426:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ESP",Telecinco Low
-http://192.168.8.124:8002/1:0:19:7536:426:1:C00000:0:0:0:
+http://192.168.8.125:8002/1:0:19:7536:426:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Antena3_Atresmedia.png" group-title="ESP",Antenna 3
-http://192.168.8.124:8002/1:0:19:7534:426:1:C00000:0:0:0:
+http://192.168.8.125:8002/1:0:19:7534:426:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/Movistar_LaLiga.png" group-title="ESP",Movistar La Liga 
-http://192.168.8.124:8001/1:0:19:750F:420:1:C00000:0:0:0:
+http://192.168.8.125:8002/1:0:19:750F:420:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/Movistar_LaLiga_1.png" group-title="ESP",Movistar La Liga 1
-http://192.168.8.124:8001/1:0:19:7853:41A:1:C00000:0:0:0:
+http://192.168.8.125:8002/1:0:19:7853:41A:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/Movistar_LaLiga_2.png" group-title="ESP",Movistar La Liga 2
-http://192.168.8.124:8002/1:0:19:74CD:3F8:1:C00000:0:0:0:
+http://192.168.8.125:8002/1:0:19:74CD:3F8:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/Movistar_LaLiga_3.png" group-title="ESP",Movistar La Liga 3
-http://192.168.8.124:8001/1:0:19:74D3:3F8:1:C00000:0:0:0:
+http://192.168.8.125:8002/1:0:19:74D3:3F8:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/hhb7im1615315057.png" group-title="ESP",DAZN 1
-http://192.168.8.124:8001/1:0:19:7855:41A:1:C00000:0:0:0:
+http://192.168.8.125:8002/1:0:19:7855:41A:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/g8hxob1615314936.png" group-title="ESP",DAZN 2
-http://192.168.8.124:8001/1:0:19:785F:41A:1:C00000:0:0:0:
+http://192.168.8.125:8002/1:0:19:785F:41A:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/movistar_deportes.png" group-title="ESP",Movistar Deportes
-http://192.168.8.124:8001/1:0:19:7828:428:1:C00000:0:0:0:
+http://192.168.8.125:8002/1:0:19:7828:428:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/8jpqlr1485860734.png" group-title="ESP",Movistar Deportes 1
-http://192.168.8.124:8001/1:0:19:7532:426:1:C00000:0:0:0:
+http://192.168.8.125:8002/1:0:19:7532:426:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/d4lw7d1615316983.png" group-title="ESP",Movistar Liga de Campeones
-http://192.168.8.124:8001/1:0:19:78B4:3EC:1:C00000:0:0:0:
+http://192.168.8.125:8002/1:0:19:78B4:3EC:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/Movistar_Liga_de_Campeones_1.png" group-title="ESP",Movistar Liga de Campeones 1
-http://192.168.8.124:8001/1:0:19:74D5:3F8:1:C00000:0:0:0:
+http://192.168.8.125:8002/1:0:19:74D5:3F8:1:C00000:0:0:0:
 
 #######
 
 ###BG###
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/BNT_1_logo.svg/2880px-BNT_1_logo.svg.png" group-title="BG",БНТ 1
-http://192.168.8.124:8001/1:0:1:67:1:D5:1C20000:0:0:0:
+http://192.168.8.125:8001/1:0:1:67:1:D5:1C20000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/BNT_2_logo.svg/2880px-BNT_2_logo.svg.png" group-title="BG",БНТ 2
-http://192.168.8.124:8001/1:0:1:72:1:D5:1C20000:0:0:0:
+http://192.168.8.125:8001/1:0:1:72:1:D5:1C20000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/BNT_3_logo.svg/2880px-BNT_3_logo.svg.png" group-title="BG",БНТ 3
-http://192.168.8.124:8002/1:0:19:138:4:D5:1C20000:0:0:0:
+http://192.168.8.125:8002/1:0:19:138:4:D5:1C20000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BNT_4_logo.svg/2880px-BNT_4_logo.svg.png" group-title="BG",БНТ 4
-http://192.168.8.124:8001/1:0:1:21:3:D5:1C20000:0:0:0:
+http://192.168.8.125:8001/1:0:1:21:3:D5:1C20000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/BTV-logo.png" group-title="BG",bTV
-http://192.168.8.124:8002/1:0:19:13E:4:D5:1C20000:0:0:0:
+http://192.168.8.125:8002/1:0:19:13E:4:D5:1C20000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/BTV_Action_2015_logo.png" group-title="BG",bTV Action
-http://192.168.8.124:8002/1:0:19:13F:4:D5:1C20000:0:0:0:
+http://192.168.8.125:8002/1:0:19:13F:4:D5:1C20000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/NOVA_logo.svg/1920px-NOVA_logo.svg.png" group-title="BG",NOVA
-http://192.168.8.124:8002/1:0:19:130:4:D5:1C20000:0:0:0:
+http://192.168.8.125:8002/1:0:19:130:4:D5:1C20000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/RING_2015_logo.png" group-title="BG",RING
-http://192.168.8.124:8002/1:0:19:140:4:D5:1C20000:0:0:0:
+http://192.168.8.125:8002/1:0:19:140:4:D5:1C20000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Diema_Sport_HD_logo.png" group-title="BG",DIEMA Sport
-http://192.168.8.124:8002/1:0:19:88:1:D5:1C20000:0:0:0:
+http://192.168.8.125:8002/1:0:19:88:1:D5:1C20000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/DS2_logo.png" group-title="BG",DIEMA Sport 2
-http://192.168.8.124:8002/1:0:19:14A:4:D5:1C20000:0:0:0:
+http://192.168.8.125:8002/1:0:19:14A:4:D5:1C20000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://maxsport.live/css/es_demo/maxsport/img/max-sport-1-logo-290x80px.png" group-title="BG",MAX Sport 1
-http://192.168.8.124:8002/1:0:19:13AC:6:D5:1C20000:0:0:0:
+http://192.168.8.125:8002/1:0:19:13AC:6:D5:1C20000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://maxsport.live/css/es_demo/maxsport/img/max-sport-2-logo-290x80px.png" group-title="BG",MAX Sport 2
-http://192.168.8.124:8002/1:0:19:13AD:6:D5:1C20000:0:0:0:
+http://192.168.8.125:8002/1:0:19:13AD:6:D5:1C20000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://maxsport.live/css/es_demo/maxsport/img/max-sport-3-logo-290x80px.png" group-title="BG",MAX Sport 3
-http://192.168.8.124:8002/1:0:19:139:4:D5:1C20000:0:0:0:
+http://192.168.8.125:8002/1:0:19:139:4:D5:1C20000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://maxsport.live/css/es_demo/maxsport/img/max-sport-4-logo-290x80px.png" group-title="BG",MAX Sport 4
-http://192.168.8.124:8002/1:0:19:138A:6:D5:1C20000:0:0:0:
+http://192.168.8.125:8002/1:0:19:138A:6:D5:1C20000:0:0:0:
 
 #######
 
 ###DE###
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/hhb7im1615315057.png" group-title="DE",DAZN Bar 1
-http://192.168.8.124:8001/1:0:19:84:9:85:C00000:0:0:0:
+http://192.168.8.125:8002/1:0:19:84:9:85:C00000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/g8hxob1615314936.png" group-title="DE",DAZN Bar 2
-http://192.168.8.124:8001/1:0:19:7A:10:85:C00000:0:0:0:
+http://192.168.8.125:8002/1:0:19:7A:10:85:C00000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/Eurosport_2_Extra_Germany.png" group-title="DE",Eurosport 2 Xtra
-http://192.168.8.124:8001/1:0:19:30D7:413:1:C00000:0:0:0:
+http://192.168.8.125:8002/1:0:19:30D7:413:1:C00000:0:0:0:
 
 #######
 
@@ -217,10 +217,10 @@ http://mc2http.zattoo.com/225.215.6.101/.63
 http://ztest-hls7-live.zahs.tv/HD_trt2_tr/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/TRT_Belgesel_kurumsal_logo_%282015-2019%29.png" group-title="TR",TRT Belgesel
-http://172.27.232.235:8002/1:0:19:296C:7919:42E:1A40000:0:0:0:
+http://192.168.8.125:8002/1:0:19:296C:7919:42E:1A40000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/TRT_M%C3%BCzik_logo.svg/2560px-TRT_M%C3%BCzik_logo.svg.png" group-title="TR",TRT Müzik
-http://172.27.232.235:8002/1:0:19:2970:7919:42E:1A40000:0:0:0:
+http://192.168.8.125:8002/1:0:19:2970:7919:42E:1A40000:0:0:0:
 
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/1e8c04a9d49ffcc04503/black/640x360.png" group-title="TR",KANAL D
 https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_sd.smil/playlist.m3u8
@@ -250,13 +250,13 @@ http://ztest-hls7-live.zahs.tv/HD_trt_spor_tr/master.m3u8
 http://ztest-hls7-live.zahs.tv/HD_trt_spor2_tr/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=604" group-title="TR",S SPORT
-http://192.168.8.124:8001/1:0:19:770:9:42:1A40000:0:0:0:
+http://192.168.8.125:8002/1:0:19:770:9:42:1A40000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=605" group-title="TR",S SPORT 2
-http://192.168.8.124:8001/1:0:19:76E:9:42:1A40000:0:0:0:
+http://192.168.8.125:8002/1:0:19:76E:9:42:1A40000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.dsmartgo.com.tr//content/p/el/11909/Thumbnail.png?v=636989786506964094" group-title="TR",SPOR SMART
-http://192.168.8.124:8001/1:0:19:76F:9:42:1A40000:0:0:0:
+http://192.168.8.125:8002/1:0:19:76F:9:42:1A40000:0:0:0:
 
 #EXTINF:-1 tvg-id="FBTV.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/deb180fa237fb75c9513/black/640x360.png" group-title="TR",Fenerbahçe TV
 http://ztest-hls7-live.zahs.tv/fenerbahce_tv_tr/master.m3u8
