@@ -217,10 +217,10 @@ http://mc2http.zattoo.com/225.215.6.101/.63
 http://ztest-hls7-live.zahs.tv/HD_trt2_tr/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/TRT_Belgesel_kurumsal_logo_%282015-2019%29.png" group-title="TR",TRT Belgesel
-http://192.168.8.125:8002/1:0:19:296C:7919:42E:1A40000:0:0:0:
+http://192.168.8.125:8002/1:0:11:2142:4FB0:7E:460000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/TRT_M%C3%BCzik_logo.svg/2560px-TRT_M%C3%BCzik_logo.svg.png" group-title="TR",TRT Müzik
-http://192.168.8.125:8002/1:0:19:2970:7919:42E:1A40000:0:0:0:
+http://192.168.8.125:8001/1:0:1:213E:4FB0:7E:460000:0:0:0:
 
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/1e8c04a9d49ffcc04503/black/640x360.png" group-title="TR",KANAL D
 https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_sd.smil/playlist.m3u8
