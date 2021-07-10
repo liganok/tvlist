@@ -11,6 +11,9 @@ http://192.168.8.125:8002/1:0:19:7534:426:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/Movistar_LaLiga.png" group-title="ESP",Movistar La Liga 
 http://192.168.8.125:8002/1:0:19:750F:420:1:C00000:0:0:0:
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/Movistar_LaLiga.png" group-title="ESP",Movistar La Liga FHD
+http://192.168.8.125:8001/1:0:19:750F:420:1:C00000:0:0:0:
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/Movistar_LaLiga_1.png" group-title="ESP",Movistar La Liga 1
 http://192.168.8.125:8002/1:0:19:7853:41A:1:C00000:0:0:0:
 
