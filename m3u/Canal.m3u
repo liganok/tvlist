@@ -374,31 +374,31 @@ http://mc2http.fll.zattoo.com/239.1.24.35:8208/.95
 
 ###Sport###
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-chno="520" tvg-logo="http://192.168.8.125/images/default_picon.png" tvg-id="1:0:1:208:27:36:CE40000:0:0:0:" tvg-name="Eleven Sports 1",Eleven Sports 1
+#EXTINF:-1 tvg-chno="520" tvg-logo="http://192.168.8.125/images/default_picon.png" tvg-id="1:0:1:208:27:36:CE40000:0:0:0:" tvg-name="Eleven Sports 1" group-title="Sport",Eleven Sports 1
 #EXTVLCOPT:program=520
 http://192.168.8.125:8001/1:0:1:208:27:36:CE40000:0:0:0:
-#EXTINF:-1 tvg-chno="30308" tvg-logo="http://192.168.8.125/images/default_picon.png" tvg-id="1:0:19:7664:2BF:600:E080000:0:0:0:" tvg-name="Arena4 HD",Arena4 HD
+#EXTINF:-1 tvg-chno="30308" tvg-logo="http://192.168.8.125/images/default_picon.png" tvg-id="1:0:19:7664:2BF:600:E080000:0:0:0:" tvg-name="Arena4 HD" group-title="Sport",Arena4 HD
 #EXTVLCOPT:program=30308
 http://192.168.8.125:8001/1:0:19:7664:2BF:600:E080000:0:0:0:
-#EXTINF:-1 tvg-chno="3503" tvg-logo="http://192.168.8.125/images/default_picon.png" tvg-id="1:0:1:DAF:2D50:13E:820000:0:0:0:" tvg-name="Sportklub HD",Sportklub HD
+#EXTINF:-1 tvg-chno="3503" tvg-logo="http://192.168.8.125/images/default_picon.png" tvg-id="1:0:1:DAF:2D50:13E:820000:0:0:0:" tvg-name="Sportklub HD" group-title="Sport",Sportklub HD
 #EXTVLCOPT:program=3503
 http://192.168.8.125:8001/1:0:1:DAF:2D50:13E:820000:0:0:0:
-#EXTINF:-1 tvg-chno="86" tvg-logo="http://192.168.8.125/images/default_picon.png" tvg-id="1:0:16:56:2:40:A00000:0:0:0:" tvg-name="SportKlub 1 HD.",SportKlub 1 HD.
+#EXTINF:-1 tvg-chno="86" tvg-logo="http://192.168.8.125/images/default_picon.png" tvg-id="1:0:16:56:2:40:A00000:0:0:0:" tvg-name="SportKlub 1 HD." group-title="Sport",SportKlub 1 HD.
 #EXTVLCOPT:program=86
 http://192.168.8.125:8001/1:0:16:56:2:40:A00000:0:0:0:
-#EXTINF:-1 tvg-chno="4148" tvg-logo="http://192.168.8.125/images/default_picon.png" tvg-id="1:0:16:1034:451:35:C00000:0:0:0:" tvg-name="Eleven Sports Pro League 1 FR",Eleven Sports Pro League 1 FR
+#EXTINF:-1 tvg-chno="4148" tvg-logo="http://192.168.8.125/images/default_picon.png" tvg-id="1:0:16:1034:451:35:C00000:0:0:0:" tvg-name="Eleven Sports Pro League 1 FR" group-title="Sport",Eleven Sports Pro League 1 FR
 #EXTVLCOPT:program=4148
 http://192.168.8.125:8001/1:0:16:1034:451:35:C00000:0:0:0:
-#EXTINF:-1 tvg-chno="4126" tvg-logo="http://192.168.8.125/images/default_picon.png" tvg-id="1:0:16:101E:451:35:C00000:0:0:0:" tvg-name="Elevensports1",Elevensports1
+#EXTINF:-1 tvg-chno="4126" tvg-logo="http://192.168.8.125/images/default_picon.png" tvg-id="1:0:16:101E:451:35:C00000:0:0:0:" tvg-name="Elevensports1" group-title="Sport",Elevensports1
 #EXTVLCOPT:program=4126
 http://192.168.8.125:8001/1:0:16:101E:451:35:C00000:0:0:0:
-#EXTINF:-1 tvg-chno="4106" tvg-logo="http://192.168.8.125/images/default_picon.png" tvg-id="1:0:16:100A:451:35:C00000:0:0:0:" tvg-name="Elevensports 1 FR",Elevensports 1 FR
+#EXTINF:-1 tvg-chno="4106" tvg-logo="http://192.168.8.125/images/default_picon.png" tvg-id="1:0:16:100A:451:35:C00000:0:0:0:" tvg-name="Elevensports 1 FR" group-title="Sport",Elevensports 1 FR
 #EXTVLCOPT:program=4106
 http://192.168.8.125:8001/1:0:16:100A:451:35:C00000:0:0:0:
-#EXTINF:-1 tvg-chno="20960" tvg-logo="http://192.168.8.125/images/default_picon.png" tvg-id="1:0:19:51E0:C96:3:EB0000:0:0:0:" tvg-name="Ziggo Sport Select HD",Ziggo Sport Select HD
+#EXTINF:-1 tvg-chno="20960" tvg-logo="http://192.168.8.125/images/default_picon.png" tvg-id="1:0:19:51E0:C96:3:EB0000:0:0:0:" tvg-name="Ziggo Sport Select HD" group-title="Sport",Ziggo Sport Select HD
 #EXTVLCOPT:program=20960
 http://192.168.8.125:8001/1:0:19:51E0:C96:3:EB0000:0:0:0:
-#EXTINF:-1 tvg-chno="20925" tvg-logo="http://192.168.8.125/images/default_picon.png" tvg-id="1:0:16:51BD:C96:3:EB0000:0:0:0:" tvg-name="Ziggo Sport Voetbal",Ziggo Sport Voetbal
+#EXTINF:-1 tvg-chno="20925" tvg-logo="http://192.168.8.125/images/default_picon.png" tvg-id="1:0:16:51BD:C96:3:EB0000:0:0:0:" tvg-name="Ziggo Sport Voetbal" group-title="Sport",Ziggo Sport Voetbal
 #EXTVLCOPT:program=20925
 http://192.168.8.125:8001/1:0:16:51BD:C96:3:EB0000:0:0:0:
 #######
