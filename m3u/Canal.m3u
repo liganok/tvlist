@@ -69,7 +69,7 @@ http://192.168.8.125:8002/1:0:19:130:4:D5:1C20000:0:0:0:
 http://192.168.8.125:8002/1:0:19:140:4:D5:1C20000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Diema_Sport_HD_logo.png" group-title="BG",DIEMA Sport
-http://192.168.8.125:8002/1:0:19:88:1:D5:1C20000:0:0:0:
+http://192.168.8.125:8001/1:0:19:88:1:D5:1C20000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/DS2_logo.png" group-title="BG",DIEMA Sport 2
 http://192.168.8.125:8002/1:0:19:14A:4:D5:1C20000:0:0:0:
