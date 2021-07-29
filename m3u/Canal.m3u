@@ -255,15 +255,6 @@ http://ztest-hls7-live.zahs.tv/HD_trt_spor_tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTSpor2.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/2913931117c9c6ee7d40/black/640x360.png" group-title="TR",TRT Spor 2
 http://ztest-hls7-live.zahs.tv/HD_trt_spor2_tr/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=604" group-title="TR",S SPORT
-http://192.168.8.125:8001/1:0:19:770:9:42:1A40000:0:0:0:
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=605" group-title="TR",S SPORT 2
-http://192.168.8.125:8001/1:0:19:76E:9:42:1A40000:0:0:0:
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.dsmartgo.com.tr//content/p/el/11909/Thumbnail.png?v=636989786506964094" group-title="TR",SPOR SMART
-http://192.168.8.125:8001/1:0:19:76F:9:42:1A40000:0:0:0:
-
 #EXTINF:-1 tvg-id="FBTV.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/deb180fa237fb75c9513/black/640x360.png" group-title="TR",Fenerbahçe TV
 http://ztest-hls7-live.zahs.tv/fenerbahce_tv_tr/master.m3u8
 
@@ -370,31 +361,54 @@ http://mc2http.fll.zattoo.com/239.1.22.20:8208/.95
 http://mc2http.fll.zattoo.com/239.1.24.35:8208/.95
 
 ###Sport###
-#EXTINF:-1 tvg-chno="7058" tvg-logo="http://192.168.8.125/images/default_picon.png" tvg-id="1:0:19:1B92:41:46:E080000:0:0:0:" tvg-name="TV3 Sport HD (D)" group-title="Sport",TV3 Sport HD (D)
-#EXTVLCOPT:program=7058
-http://192.168.8.125:8001/1:0:19:1B92:41:46:E080000:0:0:0:
-#EXTINF:-1 tvg-chno="30308" tvg-logo="http://192.168.8.125/images/default_picon.png" tvg-id="1:0:19:7664:2BF:600:E080000:0:0:0:" tvg-name="Arena4 HD" group-title="Sport",Arena4 HD
-#EXTVLCOPT:program=30308
-http://192.168.8.125:8001/1:0:19:7664:2BF:600:E080000:0:0:0:
-#EXTINF:-1 tvg-chno="3503" tvg-logo="http://192.168.8.125/images/default_picon.png" tvg-id="1:0:1:DAF:2D50:13E:820000:0:0:0:" tvg-name="Sportklub HD" group-title="Sport",Sportklub HD
-#EXTVLCOPT:program=3503
-http://192.168.8.125:8001/1:0:1:DAF:2D50:13E:820000:0:0:0:
-#EXTINF:-1 tvg-chno="86" tvg-logo="http://192.168.8.125/images/default_picon.png" tvg-id="1:0:16:56:2:40:A00000:0:0:0:" tvg-name="SportKlub 1 HD." group-title="Sport",SportKlub 1 HD.
-#EXTVLCOPT:program=86
-http://192.168.8.125:8001/1:0:16:56:2:40:A00000:0:0:0:
-#EXTINF:-1 tvg-chno="4148" tvg-logo="http://192.168.8.125/images/default_picon.png" tvg-id="1:0:16:1034:451:35:C00000:0:0:0:" tvg-name="Eleven Sports Pro League 1 FR" group-title="Sport",Eleven Sports Pro League 1 FR
-#EXTVLCOPT:program=4148
-http://192.168.8.125:8001/1:0:16:1034:451:35:C00000:0:0:0:
-#EXTINF:-1 tvg-chno="20960" tvg-logo="http://192.168.8.125/images/default_picon.png" tvg-id="1:0:19:51E0:C96:3:EB0000:0:0:0:" tvg-name="Ziggo Sport Select HD" group-title="Sport",Ziggo Sport Select HD
-#EXTVLCOPT:program=20960
-http://192.168.8.125:8001/1:0:19:51E0:C96:3:EB0000:0:0:0:
-#EXTINF:-1 tvg-chno="6092" tvg-logo="http://192.168.8.125/images/default_picon.png" tvg-id="1:0:19:17CC:C82:3:EB0000:0:0:0:" tvg-name="ESPN HD" group-title="Sport",ESPN HD
-#EXTVLCOPT:program=6092
-http://192.168.8.125:8001/1:0:19:17CC:C82:3:EB0000:0:0:0:
-#EXTINF:-1 tvg-chno="7164" tvg-logo="http://192.168.8.125/images/default_picon.png" tvg-id="1:0:19:1BFC:C88:3:EB0000:0:0:0:" tvg-name="ESPN 2 HD" group-title="Sport",ESPN 2 HD
-#EXTVLCOPT:program=7164
-http://192.168.8.125:8001/1:0:19:1BFC:C88:3:EB0000:0:0:0:
-#EXTINF:-1 tvg-chno="6068" tvg-logo="http://192.168.8.125/images/default_picon.png" tvg-id="1:0:19:17B4:C82:3:EB0000:0:0:0:" tvg-name="ESPN 4 HD" group-title="Sport",ESPN 4 HD
-#EXTVLCOPT:program=6068
-http://192.168.8.125:8001/1:0:19:17B4:C82:3:EB0000:0:0:0:
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/7/78/TV3_Sport_%282019-.n.v.%29.png/revision/latest?cb=20190226185314" group-title="Sport",[0,8E] TV3 Sport
+http://192.168.8.125:8002/1:0:19:1B92:41:46:E080000:0:0:0:
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/a/a3/Arena_4_Network_4.png/revision/latest/scale-to-width-down/235?cb=20200410160344" group-title="Sport",[0,8E] Arena4 HD
+http://192.168.8.125:8002/1:0:19:7664:2BF:600:E080000:0:0:0:
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Sportklub_logo.png" group-title="Sport",[13E] Sportklub HD
+http://192.168.8.125:8002/1:0:1:DAF:2D50:13E:820000:0:0:0:
+
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/arena1_logo.png" group-title="Sport",[16E] Arena Sport 1
+http://192.168.8.125:8002/1:0:19:79:9F60:16E:A00000:0:0:0:
+
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/arena2_logo.png" group-title="Sport",[16E] Arena Sport 2
+http://192.168.8.125:8002/1:0:19:50:2:40:A00000:0:0:0:
+
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/arena6_logo.png" group-title="Sport",[16E] Arena Sport 6
+http://192.168.8.125:8002/1:0:16:7F:2:40:A00000:0:0:0:
+
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_7_HR_logo.png" group-title="Sport",[16E] Arena Sport 7
+http://192.168.8.125:8002/1:0:19:51:2:40:A00000:0:0:0:
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Sport1_hu.png" group-title="Sport",[16E] Sport 1
+http://192.168.8.125:8002/1:0:19:78:9F60:16E:A00000:0:0:0:
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/482/711/png-transparent-sport-klub-sports-association-television-channel-sky-sports-sk-ii-television-text-trademark.png" group-title="Sport",[16E] SportKlub 1
+http://192.168.8.125:8002/1:0:16:56:2:40:A00000:0:0:0:
+
+#EXTINF:-1 tvg-logo="http://watch.elevensports.be/watch_eleven_be/wp-content/uploads/2020/07/ELEVEN_PrimaryLogo_White.png" group-title="Sport",[19,2E] Eleven Sports Pro League 1
+http://192.168.8.125:8002/1:0:16:1034:451:35:C00000:0:0:0:
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/Ziggo_Sport_Select.png" group-title="Sport",[23,5E] Ziggo Sport Select
+http://192.168.8.125:8002/1:0:19:51E0:C96:3:EB0000:0:0:0:
+
+#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2018/01/ESPN_logo.png" group-title="Sport",[23,5E] ESPN
+http://192.168.8.125:8002/1:0:19:17CC:C82:3:EB0000:0:0:0:
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="Sport",[23,5E] ESPN 2
+http://192.168.8.125:8002/1:0:19:1BFC:C88:3:EB0000:0:0:0:
+
+#EXTINF:-1 tvg-logo="https://fiber.nl/wp-content/uploads/tvicon-ESPN-4-International.png" group-title="Sport",[23,5E] ESPN 4
+http://192.168.8.125:8002/1:0:19:17B4:C82:3:EB0000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=604" group-title="Sport",[42E] S SPORT
+http://192.168.8.125:8002/1:0:19:770:9:42:1A40000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=605" group-title="Sport",[42E] S SPORT 2
+http://192.168.8.125:8002/1:0:19:76E:9:42:1A40000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.dsmartgo.com.tr//content/p/el/11909/Thumbnail.png?v=636989786506964094" group-title="Sport",[42E] SPOR SMART
+http://192.168.8.125:8002/1:0:19:76F:9:42:1A40000:0:0:0:
 #######
