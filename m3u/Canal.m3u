@@ -65,12 +65,6 @@ http://192.168.8.125:8001/1:0:19:130:4:D5:1C20000:0:0:0:
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/RING_2015_logo.png" group-title="BG",RING
 http://192.168.8.125:8001/1:0:19:140:4:D5:1C20000:0:0:0:
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Diema_Sport_HD_logo.png" group-title="BG",DIEMA Sport
-http://192.168.8.125:8001/1:0:19:88:1:D5:1C20000:0:0:0:
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/DS2_logo.png" group-title="BG",DIEMA Sport 2
-http://192.168.8.125:8001/1:0:19:14A:4:D5:1C20000:0:0:0:
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://maxsport.live/css/es_demo/maxsport/img/max-sport-1-logo-290x80px.png" group-title="BG",MAX Sport 1
 http://192.168.8.125:8001/1:0:19:13AC:6:D5:1C20000:0:0:0:
 
@@ -411,4 +405,14 @@ http://192.168.8.125:8002/1:0:19:76E:9:42:1A40000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.dsmartgo.com.tr//content/p/el/11909/Thumbnail.png?v=636989786506964094" group-title="Sport",[42E] SPOR SMART
 http://192.168.8.125:8002/1:0:19:76F:9:42:1A40000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Diema_Sport_HD_logo.png" group-title="Sport",[45E] DIEMA Sport
+http://192.168.8.125:8002/1:0:19:88:1:D5:1C20000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/DS2_logo.png" group-title="Sport",[45E] DIEMA Sport 2
+http://192.168.8.125:8002/1:0:19:14A:4:D5:1C20000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/Diema-sport-3-hd-logo-black.png/revision/latest?cb=20210701075906" group-title="Sport",[45E] DIEMA Sport 3
+http://192.168.8.125:8002/1:0:19:75:1:D5:1C20000:0:0:0:
+
 #######
