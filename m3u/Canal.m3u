@@ -376,6 +376,9 @@ http://192.168.8.125:8002/1:0:16:7F:2:40:A00000:0:0:0:
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_7_HR_logo.png" group-title="Sport",[16E] Arena Sport 7
 http://192.168.8.125:8002/1:0:19:51:2:40:A00000:0:0:0:
 
+#EXTINF:-1 tvg-logo="https://www.digisport.sk/wp-content/themes/digisport/img/logos/premier-sport.png" group-title="Sport",[16E] Premier Sport
+http://192.168.8.125:8002/1:0:19:7DE:9E98:16E:A00000:0:0:0:
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Sport1_hu.png" group-title="Sport",[16E] Sport 1
 http://192.168.8.125:8002/1:0:19:78:9F60:16E:A00000:0:0:0:
 
