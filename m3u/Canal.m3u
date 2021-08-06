@@ -195,7 +195,7 @@ https://mn-nl.mncdn.com/blutv_ntv/smil:ntv_sd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/924cd55335a718069e1e/black/640x360.png" group-title="TR",HALK TV
 http://192.168.8.125:8001/1:0:1:C693:7BD6:42E:1A40000:0:0:0: 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://banner2.cleanpng.com/20180525/lll/kisspng-tele1-television-turkey-trksat-news-5b0833cf337807.1381190015272642072108.jpg" group-title="TR",TELE 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/T/tele1-kanali-logo-D4DE153D5D-seeklogo.com.png" group-title="TR",TELE 1
 http://192.168.8.125:8001/1:0:1:529:3:42:1A40000:0:0:0: 
 
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/3e90536bb751990bf093/black/640x360.png" group-title="TR",TRT 1
