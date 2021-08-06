@@ -1,6 +1,6 @@
 ###ESP###
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/rwwwxv1441657735.png" group-title="ESP",La 1
-http://192.168.8.125:8001/1:0:19:7863:41A:1:C00000:0:0:0:
+http://192.168.8.125:8002/1:0:19:7863:41A:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ESP",Telecinco
 http://192.168.8.125:8001/1:0:19:7536:426:1:C00000:0:0:0:
