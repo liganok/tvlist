@@ -187,16 +187,16 @@ http://ztest-hls7-live.zahs.tv/HD_bein_movies_turk_tr/master.m3u8
 http://ztest-hls7-live.zahs.tv/haber_turk/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/de4ffcbdf7cd11892adc/black/640x360.png" group-title="TR",CNN TÜRK
-http://ztest-hls7-live.zahs.tv/cnn_turk/master.m3u8
+http://192.168.8.125:8001/1:0:1:515:3:42:1A40000:0:0:0:
 
 #EXTINF:-1 tvg-id="NTV.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/8fee9d93961659ace84c/black/640x360.png" group-title="TR",NTV
 https://mn-nl.mncdn.com/blutv_ntv/smil:ntv_sd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/924cd55335a718069e1e/black/640x360.png" group-title="TR",HALK TV
-http://ztest-hls7-live.zahs.tv/HD_halk_tv_tr/master.m3u8 
+http://192.168.8.125:8001/1:0:1:C693:7BD6:42E:1A40000:0:0:0: 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/TRT_4K.png/revision/latest?cb=20161116180659" group-title="TR",TRT 4K
-http://mc2http.zattoo.com/225.215.1.200/.63
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://banner2.cleanpng.com/20180525/lll/kisspng-tele1-television-turkey-trksat-news-5b0833cf337807.1381190015272642072108.jpg" group-title="TR",TELE 1
+http://192.168.8.125:8001/1:0:1:529:3:42:1A40000:0:0:0: 
 
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/3e90536bb751990bf093/black/640x360.png" group-title="TR",TRT 1
 http://mc2http.zattoo.com/225.215.6.101/.63
@@ -205,19 +205,10 @@ http://mc2http.zattoo.com/225.215.6.101/.63
 http://ztest-hls7-live.zahs.tv/HD_trt2_tr/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/TRT_Belgesel_kurumsal_logo_%282015-2019%29.png" group-title="TR",TRT Belgesel
-http://192.168.8.125:8001/1:0:11:2142:4FB0:7E:460000:0:0:0:
+http://192.168.8.125:8002/1:0:19:296C:7919:42E:1A40000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/TRT_M%C3%BCzik_logo.svg/2560px-TRT_M%C3%BCzik_logo.svg.png" group-title="TR",TRT Müzik
-http://192.168.8.125:8001/1:0:1:213E:4FB0:7E:460000:0:0:0:
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdnvideo.eba.gov.tr/assets/img/ec-images/tab-icon/TRT-eba-lise-logo.png" group-title="TR",TRT EBA Lise
-http://192.168.8.125:8001/1:0:11:61D:C418:7E:460000:0:0:0:
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdnvideo.eba.gov.tr/assets/img/ec-images/tab-icon/TRT-eba-ortaokul-logo.png" group-title="TR",TRT EBA Ortaokul
-http://192.168.8.125:8001/1:0:11:61C:C418:7E:460000:0:0:0:
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdnvideo.eba.gov.tr/assets/img/ec-images/tab-icon/TRT-eba-ilkokul-logo.png" group-title="TR",TRT EBA İlkokul
-http://192.168.8.125:8001/1:0:11:61B:C418:7E:460000:0:0:0:
+http://192.168.8.125:8002/1:0:19:2970:7919:42E:1A40000:0:0:0:
 
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/1e8c04a9d49ffcc04503/black/640x360.png" group-title="TR",KANAL D
 https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_sd.smil/playlist.m3u8
@@ -235,10 +226,10 @@ https://mn-nl.mncdn.com/blutv_star/smil:star_sd.smil/playlist.m3u8
 https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_sd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tv100.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/c00da9370a97d2b79461/black/640x360.png" group-title="TR",TV 100
-http://ztest-hls7-live.zahs.tv/HD_tv_100_tr/master.m3u8
+http://192.168.8.125:8001/1:0:1:C9B0:76C1:42E:1A40000:0:0:0:
 
 #EXTINF:-1 tvg-id="BEYAZTV.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/0668ed4475e1848b5ca0/black/640x360.png" group-title="TR",BEYAZ TV
-http://ztest-hls7-live.zahs.tv/HD_beyaz_tv_tr/master.m3u8
+http://192.168.8.125:8001/1:0:19:C801:A3AE:42E:1A40000:0:0:0:
 
 #EXTINF:-1 tvg-id="TRT3.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/b6a74d38677c0f673456/black/640x360.png" group-title="TR",TRT Spor
 http://ztest-hls7-live.zahs.tv/HD_trt_spor_tr/master.m3u8
@@ -247,7 +238,7 @@ http://ztest-hls7-live.zahs.tv/HD_trt_spor_tr/master.m3u8
 http://ztest-hls7-live.zahs.tv/HD_trt_spor2_tr/master.m3u8
 
 #EXTINF:-1 tvg-id="FBTV.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/deb180fa237fb75c9513/black/640x360.png" group-title="TR",Fenerbahçe TV
-http://ztest-hls7-live.zahs.tv/fenerbahce_tv_tr/master.m3u8
+http://192.168.8.125:8001/1:0:1:C60D:A3AD:42E:1A40000:0:0:0:
 
 
 
