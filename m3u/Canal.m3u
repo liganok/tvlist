@@ -232,7 +232,7 @@ https://mn-nl.mncdn.com/blutv_startv_dvr/live.m3u8
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/660x660/5dc2bcd9866ac31da061879f" group-title="TR",TV 8
 https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_sd.smil/playlist.m3u8
 
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.ucankus.com/images/ucankus-v2-logo-footer.png" group-title="TR",UÇANKUŞ
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.ucankus.com/images/ucankus-v2-logo-footer.png" group-title="TR",UCANKUS
 https://mn-nl.mncdn.com/blutv_ucankus/ucankus_sd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tv100.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/c00da9370a97d2b79461/black/640x360.png" group-title="TR",TV 100
