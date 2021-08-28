@@ -1,7 +1,7 @@
 ###ESP###
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/rwwwxv1441657735.png" group-title="ESP",La 1
-http://192.168.8.125:8002/1:0:19:7863:41A:1:C00000:0:0:0:
+http://192.168.8.125:8001/1:0:19:7863:41A:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ESP",Telecinco
 http://192.168.8.125:8001/1:0:19:7536:426:1:C00000:0:0:0:
@@ -82,10 +82,10 @@ http://192.168.8.125:8001/1:0:19:138A:6:D5:1C20000:0:0:0:
 
 ###DE###
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/hhb7im1615315057.png" group-title="DE",DAZN Bar 1
-http://192.168.8.125:8001/1:0:19:84:9:85:C00000:0:0:0:
+http://192.168.8.125:8002/1:0:19:84:9:85:C00000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/g8hxob1615314936.png" group-title="DE",DAZN Bar 2
-http://192.168.8.125:8001/1:0:19:7A:10:85:C00000:0:0:0:
+http://192.168.8.125:8002/1:0:19:7A:10:85:C00000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/Eurosport_2_Extra_Germany.png" group-title="DE",Eurosport 2 Xtra
 http://192.168.8.125:8001/1:0:19:30D7:413:1:C00000:0:0:0:
@@ -197,7 +197,7 @@ https://mn-nl.mncdn.com/blutv_ntv/smil:ntv_sd.smil/playlist.m3u8
 http://ztest-hls7-live.zahs.tv/HD_halk_tv_tr/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/T/tele1-kanali-logo-D4DE153D5D-seeklogo.com.png" group-title="TR",TELE 1
-http://192.168.8.125:8001/1:0:1:529:3:42:1A40000:0:0:0: 
+https://mn-nl.mncdn.com/blutv_tele1_dvr/live.m3u8
 
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/3e90536bb751990bf093/black/640x360.png" group-title="TR",TRT 1
 http://ztest-hls7-live.zahs.tv/HD_trt1_tr/master.m3u8
@@ -206,25 +206,34 @@ http://ztest-hls7-live.zahs.tv/HD_trt1_tr/master.m3u8
 http://ztest-hls7-live.zahs.tv/HD_trt2_tr/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/TRT_Belgesel_kurumsal_logo_%282015-2019%29.png" group-title="TR",TRT Belgesel
-http://192.168.8.125:8002/1:0:19:296C:7919:42E:1A40000:0:0:0:
+https://mn-nl.mncdn.com/blutv_trtbelgesel_dvr/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/TRT_M%C3%BCzik_logo.svg/2560px-TRT_M%C3%BCzik_logo.svg.png" group-title="TR",TRT Müzik
-http://192.168.8.125:8002/1:0:19:2970:7919:42E:1A40000:0:0:0:
+https://mn-nl.mncdn.com/blutv_trtmuzik2/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/f3deea613885c67943de/black/640x360.png" group-title="TR",POWER TÜRK
+https://mn-nl.mncdn.com/blutv_powerturk/powerturk_sd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/547baf16b4402dae61f2/black/640x360.png" group-title="TR",DREAM TÜRK
+https://mn-nl.mncdn.com/blutv_dreamturk/dreamturk_sd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/1e8c04a9d49ffcc04503/black/640x360.png" group-title="TR",KANAL D
-https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_sd.smil/playlist.m3u8
+https://mn-nl.mncdn.com/blutv_kanald_dvr/live.m3u8
 
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/f0f053a142f2bc8ba77e/black/640x360.png" group-title="TR",SHOW TV
-https://mn-nl.mncdn.com/blutv_showtv/smil:show_sd.smil/playlist.m3u8
+https://mn-nl.mncdn.com/blutv_showtv_dvr/live.m3u8
 
 #EXTINF:-1 tvg-id="Fox.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/37dc1e51f3aad78eab68/black/640x360.png" group-title="TR",FOX
-https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_sd.smil/playlist.m3u8
+https://mn-nl.mncdn.com/blutv_foxtv_dvr/live.m3u8
 
 #EXTINF:-1 tvg-id="Start.tr" tvg-name="" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/890x890/5dc2be53866ac331e0feb20e" group-title="TR",STAR
-https://mn-nl.mncdn.com/blutv_star/smil:star_sd.smil/playlist.m3u8
+https://mn-nl.mncdn.com/blutv_startv_dvr/live.m3u8
 
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/660x660/5dc2bcd9866ac31da061879f" group-title="TR",TV 8
 https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_sd.smil/playlist.m3u8
+
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.ucankus.com/images/ucankus-v2-logo-footer.png" group-title="TR",UÇANKUŞ
+https://mn-nl.mncdn.com/blutv_ucankus/ucankus_sd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tv100.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/c00da9370a97d2b79461/black/640x360.png" group-title="TR",TV 100
 http://ztest-hls7-live.zahs.tv/HD_tv_100_tr/master.m3u8
