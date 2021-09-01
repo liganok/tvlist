@@ -202,9 +202,6 @@ http://192.168.8.125:8001/1:0:11:1D70:C3B4:7E:460000:0:0:0:
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/1/24-tv-logo-33D3C57D1B-seeklogo.com.png" group-title="TR",24 TV
 http://192.168.8.125:8001/1:0:11:1E82:5208:7E:460000:0:0:0:
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://radionigeria.gov.ng/wp-content/uploads/2018/03/360_tv.png" group-title="TR",360 TV
-http://ztest-hls7-live.zahs.tv/HD_halk_tv_tr/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/T/tele1-kanali-logo-D4DE153D5D-seeklogo.com.png" group-title="TR",TELE 1
 https://mn-nl.mncdn.com/blutv_tele1_dvr/live.m3u8
 
@@ -239,7 +236,7 @@ http://192.168.8.125:8001/1:0:11:1EE1:51A4:7E:460000:0:0:0:
 https://mn-nl.mncdn.com/blutv_startv_dvr/live.m3u8
 
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/660x660/5dc2bcd9866ac31da061879f" group-title="TR",TV 8
-http://192.168.8.125:8001/1:0:11:1EE4:51A4:7E:460000:0:0:0:
+http://192.168.8.125:8002/1:0:11:1EE4:51A4:7E:460000:0:0:0:
 
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/atv_turkiye.png" group-title="TR",ATV
 http://192.168.8.125:8001/1:0:11:1EED:51A4:7E:460000:0:0:0:
@@ -254,7 +251,7 @@ http://ztest-hls7-live.zahs.tv/HD_tv_100_tr/master.m3u8
 http://ztest-hls7-live.zahs.tv/HD_beyaz_tv_tr/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/5a2b2088510c7c7007fc/black/640x360.png" group-title="TR",BEIN SPORTS 1
-http://192.168.8.125:8001/1:0:11:CA:526C:7E:460000:0:0:0:
+http://192.168.8.125:8002/1:0:11:CA:526C:7E:460000:0:0:0:
 
 #EXTINF:-1 tvg-id="TRT3.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/b6a74d38677c0f673456/black/640x360.png" group-title="TR",TRT Spor
 http://ztest-hls7-live.zahs.tv/HD_trt_spor_tr/master.m3u8
