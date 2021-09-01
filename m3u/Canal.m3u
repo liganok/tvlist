@@ -241,7 +241,7 @@ http://192.168.8.125:8002/1:0:11:1EE4:51A4:7E:460000:0:0:0:
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/atv_turkiye.png" group-title="TR",ATV
 http://192.168.8.125:8001/1:0:11:1EED:51A4:7E:460000:0:0:0:
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/cefa5461cdaa120b28cb/black/640x360.png" group-title="TR",TEVE 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.aydinpost.com/images/haberler/2020/10/teve2-frekans-ayarlari-teve2-canli-yayin-teve2-uydudan-nasil-izlenir-teve2-digiturk-tivibu-ve-d-smart-hangi-kanalda_9jThLnDh9k.jpg" group-title="TR",TEVE 2
 http://192.168.8.125:8001/1:0:11:1E7E:5208:7E:460000:0:0:0:
 
 #EXTINF:-1 tvg-id="Tv100.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/c00da9370a97d2b79461/black/640x360.png" group-title="TR",TV 100
