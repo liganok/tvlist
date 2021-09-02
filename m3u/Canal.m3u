@@ -175,6 +175,9 @@ http://mc2http.zattoo.com/239.192.1.240:5501/.355
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/5a2b2088510c7c7007fc/black/640x360.png" group-title="TR",BEIN SPORTS 1
+http://192.168.8.125:8002/1:0:11:CA:526C:7E:460000:0:0:0:
+
 #EXTINF:-1 tvg-id="TurkmaxGurme.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/750ea3d3a22fcac23ab1/black/640x360.png" group-title="TR",BEIN GURME
 http://ztest-hls7-live.zahs.tv/HD_bein_gurme_tr/master.m3u8
 
@@ -226,12 +229,6 @@ http://192.168.8.125:8002/1:0:11:2142:4FB0:7E:460000:0:0:0:
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/TRT_M%C3%BCzik_logo.svg/2560px-TRT_M%C3%BCzik_logo.svg.png" group-title="TR",TRT Müzik
 http://192.168.8.125:8001/1:0:1:213E:4FB0:7E:460000:0:0:0:
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/f3deea613885c67943de/black/640x360.png" group-title="TR",POWER TÜRK
-https://mn-nl.mncdn.com/blutv_powerturk/powerturk_sd.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/547baf16b4402dae61f2/black/640x360.png" group-title="TR",DREAM TÜRK
-https://mn-nl.mncdn.com/blutv_dreamturk/dreamturk_sd.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/1e8c04a9d49ffcc04503/black/640x360.png" group-title="TR",KANAL D
 https://mn-nl.mncdn.com/blutv_kanald_dvr/live.m3u8
 
@@ -259,9 +256,6 @@ http://ztest-hls7-live.zahs.tv/HD_tv_100_tr/master.m3u8
 #EXTINF:-1 tvg-id="BEYAZTV.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/0668ed4475e1848b5ca0/black/640x360.png" group-title="TR",BEYAZ TV
 http://ztest-hls7-live.zahs.tv/HD_beyaz_tv_tr/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/5a2b2088510c7c7007fc/black/640x360.png" group-title="TR",BEIN SPORTS 1
-http://192.168.8.125:8002/1:0:11:CA:526C:7E:460000:0:0:0:
-
 #EXTINF:-1 tvg-id="TRT3.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/b6a74d38677c0f673456/black/640x360.png" group-title="TR",TRT Spor
 http://ztest-hls7-live.zahs.tv/HD_trt_spor_tr/master.m3u8
 
@@ -270,6 +264,12 @@ http://192.168.8.125:8001/1:0:11:213D:4FB0:7E:460000:0:0:0:
 
 #EXTINF:-1 tvg-id="FBTV.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/deb180fa237fb75c9513/black/640x360.png" group-title="TR",Fenerbahçe TV
 http://192.168.8.125:8002/1:0:11:2072:52D0:7E:460000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/f3deea613885c67943de/black/640x360.png" group-title="TR",POWER TÜRK
+https://mn-nl.mncdn.com/blutv_powerturk/powerturk_sd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/547baf16b4402dae61f2/black/640x360.png" group-title="TR",DREAM TÜRK
+https://mn-nl.mncdn.com/blutv_dreamturk/dreamturk_sd.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/b5c02236036fbd24b7fb/black/640x360.png" group-title="UHD",SKY SPORT BUNDESLIGA UHD
