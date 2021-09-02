@@ -208,7 +208,7 @@ http://192.168.8.125:8001/1:0:11:1E82:5208:7E:460000:0:0:0:
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/proxy/e4t65PtU6Crbu-Yvk1FLtT76N_yq5Pg5NFY3HKrXV08RQTEw5MzFJ7ptvM1ynYUNeiMfH275mOIoFAss_3xqXfT49ZnKyX5yCEfT4m-v1YJzoQ-7mnCr7YLafqmwcQ" group-title="TR",HABER GLOBAL
 http://192.168.8.125:8001/1:0:11:271:C47C:7E:460000:0:0:0:
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.albayrakmedya.com/wp-content/uploads/tvnet/tvnet-logo.png" group-title="TR",TVNET
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Tvnet_Logo.jpg" group-title="TR",TVNET
 http://192.168.8.125:8001/1:0:11:1100:C670:7E:460000:0:0:0:
 
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/TRT_Haber_logosu_%282013-2020%29.png" group-title="TR",TRT HABER
