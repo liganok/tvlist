@@ -400,9 +400,6 @@ http://192.168.10.38:8001/1:0:16:7F:2:40:A00000:0:0:0:
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_7_HR_logo.png" group-title="Sport",[16E] Arena Sport 7 (HR)
 http://192.168.10.38:8001/1:0:19:51:2:40:A00000:0:0:0:
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Sport1_hu.png" group-title="Sport",[16E] Sport 1 (CZ)
-http://192.168.10.38:8001/1:0:19:78:9F60:16E:A00000:0:0:0:
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/SK_1.png/revision/latest?cb=20171216060443" group-title="Sport",[16E] SportKlub 1
 http://192.168.10.38:8001/1:0:16:56:2:40:A00000:0:0:0:
 
@@ -420,6 +417,12 @@ http://192.168.10.38:8001/1:0:19:1BFC:C88:3:EB0000:0:0:0:
 
 #EXTINF:-1 tvg-logo="https://fiber.nl/wp-content/uploads/tvicon-ESPN-4-International.png" group-title="Sport",[23.5E] ESPN 4
 http://192.168.10.38:8001/1:0:19:17B4:C82:3:EB0000:0:0:0:
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Sport1_hu.png" group-title="Sport",[23.5E] Sport 1 (CZ)
+http://192.168.10.38:8001/1:0:19:334B:C93:3:EB0000:0:0:0:
+
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/sport_2_cz_logo.png" group-title="Sport",[23.5E] Sport 2 (CZ)
+http://192.168.10.38:8001/1:0:19:318:C94:3:EB0000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=604" group-title="Sport",[42E] S SPORT
 http://192.168.10.38:8001/1:0:19:770:9:42:1A40000:0:0:0:
