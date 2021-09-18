@@ -37,7 +37,7 @@ http://192.168.10.38:8001/1:0:19:7828:428:1:C00000:0:0:0:
 http://192.168.10.38:8001/1:0:19:7532:426:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/d4lw7d1615316983.png" group-title="ESP",Movistar Liga de Campeones
-http://192.168.10.38:8002/1:0:19:78B4:3EC:1:C00000:0:0:0:
+http://192.168.10.38:8001/1:0:19:78B4:3EC:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/Movistar_Liga_de_Campeones_1.png" group-title="ESP",Movistar Liga de Campeones 1
 http://192.168.10.38:8001/1:0:19:74D5:3F8:1:C00000:0:0:0:
@@ -85,10 +85,10 @@ http://192.168.10.38:8001/1:0:19:138A:6:D5:1C20000:0:0:0:
 
 ###DE###
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/hhb7im1615315057.png" group-title="DE",DAZN Bar 1
-http://192.168.10.38:8002/1:0:19:84:9:85:C00000:0:0:0:
+http://192.168.10.38:8001/1:0:19:84:9:85:C00000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/g8hxob1615314936.png" group-title="DE",DAZN Bar 2
-http://192.168.10.38:8002/1:0:19:7A:10:85:C00000:0:0:0:
+http://192.168.10.38:8001/1:0:19:7A:10:85:C00000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/Eurosport_2_Extra_Germany.png" group-title="DE",Eurosport 2 Xtra
 http://192.168.10.38:8001/1:0:19:30D7:413:1:C00000:0:0:0:
@@ -179,7 +179,7 @@ http://mc2http.zattoo.com/239.192.1.240:5501/.355
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/5a2b2088510c7c7007fc/black/640x360.png" group-title="TR",BEIN SPORTS 1
-http://192.168.10.38:8002/1:0:11:CA:526C:7E:460000:0:0:0:
+http://192.168.10.38:8001/1:0:11:CA:526C:7E:460000:0:0:0:
 
 #EXTINF:-1 tvg-id="TurkmaxGurme.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/750ea3d3a22fcac23ab1/black/640x360.png" group-title="TR",BEIN GURME
 http://ztest-hls7-live.zahs.tv/HD_bein_gurme_tr/master.m3u8
@@ -224,7 +224,7 @@ http://192.168.10.38:8001/1:0:11:2141:4FB0:7E:460000:0:0:0:
 http://ztest-hls7-live.zahs.tv/HD_trt1_tr/master.m3u8
 
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/4d010eef74f1c05cd364/black/640x360.png" group-title="TR",TRT 2
-http://192.168.10.38:8002/1:0:11:2136:4FB0:7E:460000:0:0:0:
+http://192.168.10.38:8001/1:0:11:2136:4FB0:7E:460000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/TRT_Belgesel_kurumsal_logo_%282015-2019%29.png" group-title="TR",TRT Belgesel
 http://192.168.10.38:8002/1:0:11:2142:4FB0:7E:460000:0:0:0:
@@ -245,7 +245,7 @@ http://192.168.10.38:8001/1:0:11:1EE1:51A4:7E:460000:0:0:0:
 https://mn-nl.mncdn.com/blutv_startv_dvr/live.m3u8
 
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/660x660/5dc2bcd9866ac31da061879f" group-title="TR",TV 8
-http://192.168.10.38:8002/1:0:11:1EE4:51A4:7E:460000:0:0:0:
+http://192.168.10.38:8001/1:0:11:1EE4:51A4:7E:460000:0:0:0:
 
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/atv_turkiye.png" group-title="TR",ATV
 http://192.168.10.38:8001/1:0:11:1EED:51A4:7E:460000:0:0:0:
@@ -266,7 +266,7 @@ http://ztest-hls7-live.zahs.tv/HD_trt_spor_tr/master.m3u8
 http://192.168.10.38:8001/1:0:11:213D:4FB0:7E:460000:0:0:0:
 
 #EXTINF:-1 tvg-id="FBTV.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/deb180fa237fb75c9513/black/640x360.png" group-title="TR",Fenerbahçe TV
-http://192.168.10.38:8002/1:0:11:2072:52D0:7E:460000:0:0:0:
+http://192.168.10.38:8001/1:0:11:2072:52D0:7E:460000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/f3deea613885c67943de/black/640x360.png" group-title="TR",POWER TÜRK
 https://mn-nl.mncdn.com/blutv_powerturk/powerturk_sd.smil/playlist.m3u8
