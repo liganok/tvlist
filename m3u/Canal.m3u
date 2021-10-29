@@ -251,7 +251,7 @@ https://mn-nl.mncdn.com/blutv_startv_dvr/live.m3u8
 http://192.168.10.38:8002/1:0:11:1EE4:51A4:7E:460000:0:0:0:
 
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/atv_turkiye.png" group-title="TR",ATV
-http://192.168.10.38:8001/1:0:11:1EED:51A4:7E:460000:0:0:0:
+http://192.168.10.38:8002/1:0:11:1EED:51A4:7E:460000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.aydinpost.com/images/haberler/2020/10/teve2-frekans-ayarlari-teve2-canli-yayin-teve2-uydudan-nasil-izlenir-teve2-digiturk-tivibu-ve-d-smart-hangi-kanalda_9jThLnDh9k.jpg" group-title="TR",TEVE 2
 http://192.168.10.38:8001/1:0:11:1E7E:5208:7E:460000:0:0:0:
