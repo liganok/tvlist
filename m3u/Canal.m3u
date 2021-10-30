@@ -450,3 +450,39 @@ http://192.168.10.38:8001/1:0:19:75:1:D5:1C20000:0:0:0:
 ###Arabic###
 #EXTINF:-1 tvg-logo="" group-title="Arabic",[13E] Arryadia
 http://192.168.10.38:8001/1:0:1:A:2E18:B0:820000:0:0:0:
+
+#######
+
+###Portugal###
+#EXTINF:-1 tvg-logo="" group-title="Portugal",RTP 1
+http://192.168.10.38:8001/1:0:1:97:65:53:CE40000:0:0:0:
+
+#EXTINF:-1 tvg-logo="" group-title="Portugal",RTP 2
+http://192.168.10.38:8001/1:0:1:98:65:53:CE40000:0:0:0:
+
+#EXTINF:-1 tvg-logo="" group-title="Portugal",SPORT TV 1
+http://192.168.10.38:8001/1:0:1:579:68:53:CE40000:0:0:0:
+
+#EXTINF:-1 tvg-logo="" group-title="Portugal",SPORT TV 2
+http://192.168.10.38:8001/1:0:1:57A:68:53:CE40000:0:0:0:
+
+#EXTINF:-1 tvg-logo="" group-title="Portugal",SPORT TV 3
+http://192.168.10.38:8001/1:0:1:57B:68:53:CE40000:0:0:0:
+
+#EXTINF:-1 tvg-logo="" group-title="Portugal",SPORT TV 4
+http://192.168.10.38:8001/1:0:1:135:26:36:CE40000:0:0:0:
+
+#EXTINF:-1 tvg-logo="" group-title="Portugal",SPORT TV 5
+http://192.168.10.38:8001/1:0:1:17B5:26:36:CE40000:0:0:0:
+
+#EXTINF:-1 tvg-logo="" group-title="Portugal",SPORT TV 6
+http://192.168.10.38:8001/1:0:1:17B6:26:36:CE40000:0:0:0:
+
+#EXTINF:-1 tvg-logo="" group-title="Portugal",Eleven Sports 1
+http://192.168.10.38:8001/1:0:1:209:27:36:CE40000:0:0:0:
+
+#EXTINF:-1 tvg-logo="" group-title="Portugal",Eleven Sports 2
+http://192.168.10.38:8001/1:0:1:1C9:68:53:CE40000:0:0:0:
+
+#EXTINF:-1 tvg-logo="" group-title="Portugal",Eleven Sports 3
+http://192.168.10.38:8001/1:0:1:1D0:68:53:CE40000:0:0:0:
