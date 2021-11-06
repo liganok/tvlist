@@ -96,6 +96,12 @@ http://192.168.10.38:8002/1:0:19:7A:10:85:C00000:0:0:0:
 #EXTINF:-1 group-title="DE",Sky Sport News
 http://ztest-hls7-live.zahs.tv/HD_sky_sport_news_de/master.m3u8
 
+#EXTINF:-1 group-title="DE",Sky Sport 1
+http://192.168.10.38:8002/1:0:19:81:6:85:C00000:0:0:0:
+
+#EXTINF:-1 group-title="DE",Sky Sport Bundesliga 1
+http://192.168.10.38:8002/1:0:19:69:C:85:C00000:0:0:0:
+
 #######
 
 ###IR###
