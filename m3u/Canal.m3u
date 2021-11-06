@@ -72,17 +72,17 @@ http://192.168.10.38:8001/1:0:19:130:4:D5:1C20000:0:0:0:
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/RING_2015_logo.png" group-title="BG",RING
 http://192.168.10.38:8001/1:0:19:140:4:D5:1C20000:0:0:0:
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://maxsport.live/css/es_demo/maxsport/img/max-sport-1-logo-290x80px.png" group-title="BG",MAX Sport 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BG",MAX Sport 1
 http://192.168.10.38:8001/1:0:19:13AC:6:D5:1C20000:0:0:0:
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://maxsport.live/css/es_demo/maxsport/img/max-sport-2-logo-290x80px.png" group-title="BG",MAX Sport 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BG",MAX Sport 2
 http://192.168.10.38:8001/1:0:19:13AD:6:D5:1C20000:0:0:0:
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://maxsport.live/css/es_demo/maxsport/img/max-sport-3-logo-290x80px.png" group-title="BG",MAX Sport 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BG",MAX Sport 3
 http://192.168.10.38:8001/1:0:19:139:4:D5:1C20000:0:0:0:
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://maxsport.live/css/es_demo/maxsport/img/max-sport-4-logo-290x80px.png" group-title="BG",MAX Sport 4
-http://192.168.10.38:8001/1:0:19:138A:6:D5:1C20000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BG",MAX Sport 4
+http://192.168.10.38:8001/1:0:19:6C:C:85:C00000:0:0:0:
 
 #######
 
@@ -93,7 +93,8 @@ http://192.168.10.38:8002/1:0:19:84:9:85:C00000:0:0:0:
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/g8hxob1615314936.png" group-title="DE",DAZN 2
 http://192.168.10.38:8002/1:0:19:7A:10:85:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/Eurosport_2_Extra_Germany.png" group-title="DE",Eurosport 2 Xtra
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DE",Sky Sport News
+#EXTVLCOPT:program=108
 http://192.168.10.38:8001/1:0:19:30D7:413:1:C00000:0:0:0:
 
 #######
