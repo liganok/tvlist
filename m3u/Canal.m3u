@@ -63,26 +63,14 @@ http://192.168.10.38:8001/1:0:1:21:3:D5:1C20000:0:0:0:
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/BTV-logo.png" group-title="BG",bTV
 http://192.168.10.38:8001/1:0:19:13E:4:D5:1C20000:0:0:0:
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/BTV_Action_2015_logo.png" group-title="BG",bTV Action
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/xquxqt1441478239.png" group-title="BG",bTV Action
 http://192.168.10.38:8001/1:0:19:13F:4:D5:1C20000:0:0:0:
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/NOVA_logo.svg/1920px-NOVA_logo.svg.png" group-title="BG",NOVA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/xuqwvv1444741605.png" group-title="BG",NOVA
 http://192.168.10.38:8001/1:0:19:130:4:D5:1C20000:0:0:0:
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/RING_2015_logo.png" group-title="BG",RING
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/yqyxrw1444741632.png" group-title="BG",RING
 http://192.168.10.38:8001/1:0:19:140:4:D5:1C20000:0:0:0:
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BG",MAX Sport 1
-http://192.168.10.38:8001/1:0:19:13AC:6:D5:1C20000:0:0:0:
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BG",MAX Sport 2
-http://192.168.10.38:8001/1:0:19:13AD:6:D5:1C20000:0:0:0:
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BG",MAX Sport 3
-http://192.168.10.38:8001/1:0:19:139:4:D5:1C20000:0:0:0:
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BG",MAX Sport 4
-http://192.168.10.38:8001/1:0:19:6C:C:85:C00000:0:0:0:
 
 #######
 
@@ -96,10 +84,10 @@ http://192.168.10.38:8002/1:0:19:7A:10:85:C00000:0:0:0:
 #EXTINF:-1 group-title="DE",Sky Sport News
 http://ztest-hls7-live.zahs.tv/HD_sky_sport_news_de/master.m3u8
 
-#EXTINF:-1 tvg-id="Sky.Sport.1.de" group-title="DE",Sky Sport 1
+#EXTINF:-1 tvg-id="Sky.Sport.1.de" tvg-logo="https://www.thesportsdb.com/images/media/logo/Sky_Sport_1_HD.png" group-title="DE",Sky Sport 1
 http://192.168.10.38:8002/1:0:19:81:6:85:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="Sky.Fussball.Bundesliga.de" group-title="DE",Sky Sport Bundesliga 1
+#EXTINF:-1 tvg-id="Sky.Fussball.Bundesliga.de" tvg-logo="https://www.thesportsdb.com/images/media/logo/Sky_Bundesliga_1.png" group-title="DE",Sky Sport Bundesliga 1
 http://192.168.10.38:8002/1:0:19:69:C:85:C00000:0:0:0:
 
 #######
@@ -158,13 +146,13 @@ http://ztest-hls7-live.zahs.tv/HD_channel4/master.m3u8
 #EXTINF:-1 tvg-id="Channel5.uk" tvg-name="" tvg-logo="https://images.zattic.com/logos/54a6ea6b3836821f9eab/black/640x360.png" group-title="UK",CHANNEL 5
 http://mc2http.zattoo.com/225.222.6.50/.63
 
-#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-name="" tvg-logo="" group-title="UK",Sky Sports Main Event
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/mp44981502554837.png" group-title="UK",Sky Sports Main Event
 http://mc2http.zattoo.com/239.192.0.76:5501/.355
 
-#EXTINF:-1 tvg-id="SkySpFball.uk" tvg-name="" tvg-logo="" group-title="UK",Sky Sports Football
+#EXTINF:-1 tvg-id="SkySpFball.uk" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/lnd1p01502554851.png" group-title="UK",Sky Sports Football
 http://mc2http.zattoo.com/239.192.0.103:5501/.355
 
-#EXTINF:-1 tvg-id="SkySpPL.uk" tvg-name="" tvg-logo="" group-title="UK",Sky Sports Premier League
+#EXTINF:-1 tvg-id="SkySpPL.uk" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/7e2lv21502554825.png" group-title="UK",Sky Sports Premier League
 http://mc2http.zattoo.com/239.192.0.95:5501/.355
 
 #EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="" tvg-logo="https://images.zattic.com/logos/7b7c2fe9aa6995935e0f/black/640x360.png" group-title="UK",BT Sport 1
@@ -179,10 +167,10 @@ http://mc2http.zattoo.com/239.192.0.182:5501/.355
 #EXTINF:-1 tvg-id="BTSportESPN.uk" tvg-name="" tvg-logo="https://images.zattic.com/logos/648e62757028a65e962e/black/640x360.png" group-title="UK",BT Sport ESPN
 http://mc2http.zattoo.com/239.192.0.183:5501/.355
 
-#EXTINF:-1 tvg-id="PremierSports.uk" tvg-name="" tvg-logo="" group-title="UK",Premier Sport 1
+#EXTINF:-1 tvg-id="PremierSports.uk" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/Premier_Sports.png" group-title="UK",Premier Sport 1
 http://mc2http.zattoo.com/239.192.1.239:5501/.355
 
-#EXTINF:-1 tvg-id="PremierSports2.uk" tvg-name="" tvg-logo="" group-title="UK",Premier Sport 2
+#EXTINF:-1 tvg-id="PremierSports2.uk" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/frtowu1600893109.png" group-title="UK",Premier Sport 2
 http://mc2http.zattoo.com/239.192.1.240:5501/.355
 
 
@@ -426,13 +414,13 @@ http://192.168.10.38:8001/1:0:19:76E:9:42:1A40000:0:0:0:
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.dsmartgo.com.tr//content/p/el/11909/Thumbnail.png?v=636989786506964094" group-title="Sport",[42E] SPOR SMART
 http://192.168.10.38:8001/1:0:19:76F:9:42:1A40000:0:0:0:
 
-#EXTINF:-1 tvg-id="Diema.Sport.HD.bg" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Diema_Sport_HD_logo.png" group-title="Sport",[45E] DIEMA Sport
+#EXTINF:-1 tvg-id="Diema.Sport.HD.bg" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/0xxcqo1627492559.png" group-title="Sport",[45E] DIEMA Sport
 http://192.168.10.38:8001/1:0:19:88:1:D5:1C20000:0:0:0:
 
-#EXTINF:-1 tvg-id="Diema.Sport.2.HD.bg" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/DS2_logo.png" group-title="Sport",[45E] DIEMA Sport 2
+#EXTINF:-1 tvg-id="Diema.Sport.2.HD.bg" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/efa11r1627492687.png" group-title="Sport",[45E] DIEMA Sport 2
 http://192.168.10.38:8001/1:0:19:14A:4:D5:1C20000:0:0:0:
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/Diema-sport-3-hd-logo-black.png/revision/latest?cb=20210701075906" group-title="Sport",[45E] DIEMA Sport 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/wlk12t1627492656.png" group-title="Sport",[45E] DIEMA Sport 3
 http://192.168.10.38:8001/1:0:19:75:1:D5:1C20000:0:0:0:
 
 #######
