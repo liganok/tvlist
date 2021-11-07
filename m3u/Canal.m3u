@@ -87,19 +87,19 @@ http://192.168.10.38:8001/1:0:19:6C:C:85:C00000:0:0:0:
 #######
 
 ###DE###
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/hhb7im1615315057.png" group-title="DE",DAZN 1
+#EXTINF:-1 tvg-id="DAZN.1.de" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/hhb7im1615315057.png" group-title="DE",DAZN 1
 http://192.168.10.38:8002/1:0:19:84:9:85:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/g8hxob1615314936.png" group-title="DE",DAZN 2
+#EXTINF:-1 tvg-id="DAZN.2.de" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/g8hxob1615314936.png" group-title="DE",DAZN 2
 http://192.168.10.38:8002/1:0:19:7A:10:85:C00000:0:0:0:
 
 #EXTINF:-1 group-title="DE",Sky Sport News
 http://ztest-hls7-live.zahs.tv/HD_sky_sport_news_de/master.m3u8
 
-#EXTINF:-1 group-title="DE",Sky Sport 1
+#EXTINF:-1 tvg-id="Sky.Sport.1.de" group-title="DE",Sky Sport 1
 http://192.168.10.38:8002/1:0:19:81:6:85:C00000:0:0:0:
 
-#EXTINF:-1 group-title="DE",Sky Sport Bundesliga 1
+#EXTINF:-1 tvg-id="Sky.Fussball.Bundesliga.de" group-title="DE",Sky Sport Bundesliga 1
 http://192.168.10.38:8002/1:0:19:69:C:85:C00000:0:0:0:
 
 #######
@@ -369,19 +369,19 @@ http://mc2http.fll.zattoo.com/239.1.22.20:8208/.95
 http://mc2http.fll.zattoo.com/239.1.24.35:8208/.95
 
 ###Sport###
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/7/78/TV3_Sport_%282019-.n.v.%29.png/revision/latest?cb=20190226185314" group-title="Sport",[0.8E] TV3 Sport (DK)
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/7/78/TV3_Sport_%282019-.n.v.%29.png/revision/latest?cb=20190226185314" group-title="Sport",[0.8E] TV3 Sport (DK)
 http://192.168.10.38:8001/1:0:19:1B92:41:46:E080000:0:0:0:
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/a/a3/Arena_4_Network_4.png/revision/latest/scale-to-width-down/235?cb=20200410160344" group-title="Sport",[0.8E] Arena4 (HU)
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/a/a3/Arena_4_Network_4.png/revision/latest/scale-to-width-down/235?cb=20200410160344" group-title="Sport",[0.8E] Arena4 (HU)
 http://192.168.10.38:8001/1:0:19:7664:2BF:600:E080000:0:0:0:
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Sportklub_logo.png" group-title="Sport",[13E] Sportklub (PL)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Sportklub_logo.png" group-title="Sport",[13E] Sportklub (PL)
 http://192.168.10.38:8001/1:0:1:DAF:2D50:13E:820000:0:0:0:
 
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/arena1_logo.png" group-title="Sport",[16E] Arena Sport 1 (SK)
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/arena1_logo.png" group-title="Sport",[16E] Arena Sport 1 (SK)
 http://192.168.10.38:8001/1:0:19:79:9F60:16E:A00000:0:0:0:
 
-#EXTINF:-1 tvg-logo="https://www.digisport.sk/wp-content/themes/digisport/img/logos/premier-sport.png" group-title="Sport",[16E] Premier Sport (SK)
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.digisport.sk/wp-content/themes/digisport/img/logos/premier-sport.png" group-title="Sport",[16E] Premier Sport (SK)
 http://192.168.10.38:8001/1:0:19:7DE:9E98:16E:A00000:0:0:0:
 
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/arena2_logo.png" group-title="Sport",[16E] Arena Sport 2 (HR)
@@ -399,16 +399,16 @@ http://192.168.10.38:8001/1:0:16:56:2:40:A00000:0:0:0:
 #EXTINF:-1 tvg-logo="http://watch.elevensports.be/watch_eleven_be/wp-content/uploads/2020/07/ELEVEN_PrimaryLogo_White.png" group-title="Sport",[19.2E] Eleven Sports Pro League 1
 http://192.168.10.38:8001/1:0:16:1034:451:35:C00000:0:0:0:
 
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/Ziggo_Sport_Select.png" group-title="Sport",[23.5E] Ziggo Sport Select
+#EXTINF:-1 tvg-id="Ziggo.Sport.Select.nl" tvg-logo="https://www.thesportsdb.com/images/media/logo/Ziggo_Sport_Select.png" group-title="Sport",[23.5E] Ziggo Sport Select
 http://192.168.10.38:8001/1:0:19:51E0:C96:3:EB0000:0:0:0:
 
-#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2018/01/ESPN_logo.png" group-title="Sport",[23.5E] ESPN
+#EXTINF:-1 tvg-id="ESPN.nl" tvg-logo="https://logos-download.com/wp-content/uploads/2018/01/ESPN_logo.png" group-title="Sport",[23.5E] ESPN
 http://192.168.10.38:8001/1:0:19:17CC:C82:3:EB0000:0:0:0:
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="Sport",[23.5E] ESPN 2
+#EXTINF:-1 tvg-id="ESPN.2.nl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="Sport",[23.5E] ESPN 2
 http://192.168.10.38:8001/1:0:19:1BFC:C88:3:EB0000:0:0:0:
 
-#EXTINF:-1 tvg-logo="https://fiber.nl/wp-content/uploads/tvicon-ESPN-4-International.png" group-title="Sport",[23.5E] ESPN 4
+#EXTINF:-1 tvg-id="ESPN.4.nl" tvg-logo="https://fiber.nl/wp-content/uploads/tvicon-ESPN-4-International.png" group-title="Sport",[23.5E] ESPN 4
 http://192.168.10.38:8001/1:0:19:17B4:C82:3:EB0000:0:0:0:
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Sport1_hu.png" group-title="Sport",[23.5E] Sport 1 (CZ)
@@ -426,10 +426,10 @@ http://192.168.10.38:8001/1:0:19:76E:9:42:1A40000:0:0:0:
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.dsmartgo.com.tr//content/p/el/11909/Thumbnail.png?v=636989786506964094" group-title="Sport",[42E] SPOR SMART
 http://192.168.10.38:8001/1:0:19:76F:9:42:1A40000:0:0:0:
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Diema_Sport_HD_logo.png" group-title="Sport",[45E] DIEMA Sport
+#EXTINF:-1 tvg-id="Diema.Sport.HD.bg" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Diema_Sport_HD_logo.png" group-title="Sport",[45E] DIEMA Sport
 http://192.168.10.38:8001/1:0:19:88:1:D5:1C20000:0:0:0:
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/DS2_logo.png" group-title="Sport",[45E] DIEMA Sport 2
+#EXTINF:-1 tvg-id="Diema.Sport.2.HD.bg" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/DS2_logo.png" group-title="Sport",[45E] DIEMA Sport 2
 http://192.168.10.38:8001/1:0:19:14A:4:D5:1C20000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/Diema-sport-3-hd-logo-black.png/revision/latest?cb=20210701075906" group-title="Sport",[45E] DIEMA Sport 3
