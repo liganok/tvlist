@@ -464,3 +464,10 @@ http://192.168.10.38:8001/1:0:1:1C9:68:53:CE40000:0:0:0:
 
 #EXTINF:-1 tvg-id="ELEVEN.SPORTS.3.pt" tvg-logo="" group-title="Portugal",Eleven Sports 3
 http://192.168.10.38:8001/1:0:1:1D0:68:53:CE40000:0:0:0:
+
+#######
+
+###Schweiz###
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Switzerland",Blue Sport 1
+https://tvoosa-pez0412.sctv.ch/http_adaptive_streaming/LNJBLFAAKAFOGJBG.m3u8
