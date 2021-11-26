@@ -1,5 +1,4 @@
 ###ESP###
-
 #EXTINF:-1 tvg-id="LA.1.es" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/rwwwxv1441657735.png" group-title="ESP",La 1
 http://192.168.10.38:8001/1:0:19:7863:41A:1:C00000:0:0:0:
 
@@ -131,6 +130,7 @@ http://192.168.10.38:8001/1:0:1:5F7:2C24:13E:820000:0:0:0:
 
 #######
 
+###UK###
 #EXTINF:-1 tvg-id="BBC.One.HD.uk" tvg-name="" tvg-logo="https://images.zattic.com/logos/e7db7cde3a9bf2c6e694/black/640x360.png" group-title="UK",BBC One
 http://mc2http.zattoo.com/225.222.0.1/.63
 
@@ -174,7 +174,7 @@ http://mc2http.zattoo.com/239.192.1.239:5501/.355
 http://mc2http.zattoo.com/239.192.1.240:5501/.355
 
 
-
+###TR###
 #EXTINF:-1 tvg-id="beIN.SPORTS.HD.1.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/5a2b2088510c7c7007fc/black/640x360.png" group-title="TR",BEIN SPORTS 1
 http://192.168.10.38:8001/1:0:11:CA:526C:7E:460000:0:0:0:
 
@@ -272,7 +272,7 @@ https://mn-nl.mncdn.com/blutv_powerturk/powerturk_sd.smil/playlist.m3u8
 https://mn-nl.mncdn.com/blutv_dreamturk/dreamturk_sd.smil/playlist.m3u8
 
 
-
+###US###
 #EXTINF:-1 tvg-id="CNN.us"" tvg-name="" tvg-logo="https://images.zattic.com/logos/9ff53034eab3535b79c7/black/640x360.png" group-title="US",CNN
 http://mc2http.fll.zattoo.com/239.1.11.53:8208/.95
 
@@ -431,7 +431,7 @@ http://192.168.10.38:8001/1:0:1:A:2E18:B0:820000:0:0:0:
 
 #######
 
-###Portugal###
+###PT###
 #EXTINF:-1 tvg-id="RTP.1.HD.pt" tvg-logo="" group-title="Portugal",RTP 1
 http://192.168.10.38:8001/1:0:1:97:65:53:CE40000:0:0:0:
 
@@ -466,3 +466,22 @@ http://192.168.10.38:8001/1:0:1:1C9:68:53:CE40000:0:0:0:
 http://192.168.10.38:8001/1:0:1:1D0:68:53:CE40000:0:0:0:
 
 #######
+
+###UHD###
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UHD",RTL UHD
+http://192.168.10.38:8001/1:0:1F:307A:3F5:1:C00000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UHD",Pro7Sat.1 UHD
+http://192.168.10.38:8001/1:0:1F:183D:40B:1:C00000:0:0:0:
+
+#EXTINF:-1 tvg-id="UHD1.by.ASTRA.be" tvg-logo="" group-title="UHD",UHD1 by ASTRA / HD+
+http://192.168.10.38:8001/1:0:1F:2:40B:1:C00000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UHD",Rai 4K
+http://192.168.10.38:8001/1:0:1F:D4F:1450:13E:820000:0:0:0:
+
+#EXTINF:-1 tvg-id="TravelXP.4K.HDR.in" tvg-logo="" group-title="UHD",TRAVELXP 4K
+http://192.168.10.38:8001/1:0:1:11FB:2B5C:13E:820000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UHD",	Extasy 4K
+http://192.168.10.38:8001/1:0:1F:259:C418:16E:A00000:0:0:0:
