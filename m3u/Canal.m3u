@@ -485,3 +485,13 @@ http://192.168.10.38:8001/1:0:1:11FB:2B5C:13E:820000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="UHD",	Extasy 4K
 http://192.168.10.38:8001/1:0:1F:259:C418:16E:A00000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UHD",Sky Sport Bundesliga UHD
+http://mc2http.zattoo.com/224.78.79.52/.23
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UHD",Sky Sport UHD
+http://mc2http.zattoo.com/224.1.0.15/.23
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UHD",RMC Sport UHD
+http://mc2http.zattoo.com/225.72.27.21/.63
+
