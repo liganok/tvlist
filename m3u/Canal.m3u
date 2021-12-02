@@ -474,24 +474,24 @@ http://192.168.10.38:8001/1:0:1F:307A:3F5:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="UHD",Pro7Sat.1 UHD
 http://192.168.10.38:8001/1:0:1F:183D:40B:1:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="UHD1.by.ASTRA.be" tvg-logo="" group-title="UHD",UHD1 by ASTRA / HD+
+#EXTINF:-1 tvg-id="UHD1.de" tvg-logo="" group-title="UHD",UHD1 by ASTRA / HD+
 http://192.168.10.38:8001/1:0:1F:2:40B:1:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UHD",Rai 4K
+#EXTINF:-1 tvg-id="Rai4K.it" tvg-logo="" group-title="UHD",Rai 4K
 http://192.168.10.38:8001/1:0:1F:D4F:1450:13E:820000:0:0:0:
 
-#EXTINF:-1 tvg-id="TravelXP.4K.HDR.in" tvg-logo="" group-title="UHD",TRAVELXP 4K
+#EXTINF:-1 tvg-id="TravelXP4K.svn" tvg-logo="" group-title="UHD",TRAVELXP 4K
 http://192.168.10.38:8001/1:0:1:11FB:2B5C:13E:820000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="UHD",	Extasy 4K
 http://192.168.10.38:8001/1:0:1F:259:C418:16E:A00000:0:0:0:
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UHD",Sky Sport Bundesliga UHD
+#EXTINF:-1 tvg-id="SkySportBundesligaUHD.de" tvg-logo="" group-title="UHD",Sky Sport Bundesliga UHD
 http://mc2http.zattoo.com/224.78.79.52/.23
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UHD",Sky Sport UHD
+#EXTINF:-1 tvg-id="SkySportUHD.de" tvg-logo="" group-title="UHD",Sky Sport UHD
 http://mc2http.zattoo.com/224.1.0.15/.23
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UHD",RMC Sport UHD
+#EXTINF:-1 tvg-id="RMCSport4K.fr" tvg-logo="" group-title="UHD",RMC Sport UHD
 http://mc2http.zattoo.com/225.72.27.21/.63
 
