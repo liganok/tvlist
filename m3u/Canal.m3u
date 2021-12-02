@@ -131,47 +131,47 @@ http://192.168.10.38:8001/1:0:1:5F7:2C24:13E:820000:0:0:0:
 #######
 
 ###UK###
-#EXTINF:-1 tvg-id="BBC.One.HD.uk" tvg-name="" tvg-logo="https://images.zattic.com/logos/e7db7cde3a9bf2c6e694/black/640x360.png" group-title="UK",BBC One
+#EXTINF:-1 tvg-id="BBCOneHD.uk" tvg-name="" tvg-logo="https://images.zattic.com/logos/e7db7cde3a9bf2c6e694/black/640x360.png" group-title="UK",BBC One
 http://mc2http.zattoo.com/225.222.0.1/.63
 
-#EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-name="" tvg-logo="https://images.zattic.com/logos/d1c0f2eb8a31828d80d7/black/640x360.png" group-title="UK",BBC Two
+#EXTINF:-1 tvg-id="BBC2.uk" tvg-name="" tvg-logo="https://images.zattic.com/logos/d1c0f2eb8a31828d80d7/black/640x360.png" group-title="UK",BBC Two
 http://mc2http.zattoo.com/225.222.0.2/.6
 
-#EXTINF:-1 tvg-id="ITV.HD.uk" tvg-name="" tvg-logo="https://images.zattic.com/logos/d0fe0d3aebb8f801587d/black/640x360.png" group-title="UK",ITV 1
+#EXTINF:-1 tvg-id="ITV1London.uk" tvg-name="" tvg-logo="https://images.zattic.com/logos/d0fe0d3aebb8f801587d/black/640x360.png" group-title="UK",ITV 1
 http://mc2http.zattoo.com/225.222.18.100/.63
 
-#EXTINF:-1 tvg-id="Channel.4.HD.uk" tvg-name="" tvg-logo="https://images.zattic.com/logos/a7226a136a3d8af20cff/black/640x360.png" group-title="UK",CHANNEL 4
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="" tvg-logo="https://images.zattic.com/logos/a7226a136a3d8af20cff/black/640x360.png" group-title="UK",CHANNEL 4
 http://ztest-hls7-live.zahs.tv/HD_channel4/master.m3u8
 
-#EXTINF:-1 tvg-id="Channel.5.HD.uk" tvg-name="" tvg-logo="https://images.zattic.com/logos/54a6ea6b3836821f9eab/black/640x360.png" group-title="UK",CHANNEL 5
+#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="" tvg-logo="https://images.zattic.com/logos/54a6ea6b3836821f9eab/black/640x360.png" group-title="UK",CHANNEL 5
 http://mc2http.zattoo.com/225.222.6.50/.63
 
 #EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/mp44981502554837.png" group-title="UK",Sky Sports Main Event
 http://mc2http.zattoo.com/239.192.0.76:5501/.355
 
-#EXTINF:-1 tvg-id="SkySp.Fball.uk" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/lnd1p01502554851.png" group-title="UK",Sky Sports Football
+#EXTINF:-1 tvg-id="SkySpFball.uk" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/lnd1p01502554851.png" group-title="UK",Sky Sports Football
 http://mc2http.zattoo.com/239.192.0.103:5501/.355
 
-#EXTINF:-1 tvg-id="SkySp.PL.uk" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/7e2lv21502554825.png" group-title="UK",Sky Sports Premier League
+#EXTINF:-1 tvg-id="SkySpPL.uk" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/7e2lv21502554825.png" group-title="UK",Sky Sports Premier League
 http://mc2http.zattoo.com/239.192.0.95:5501/.355
 
-#EXTINF:-1 tvg-id="BT.Sport.1.HD.uk" tvg-name="" tvg-logo="https://images.zattic.com/logos/7b7c2fe9aa6995935e0f/black/640x360.png" group-title="UK",BT Sport 1
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="" tvg-logo="https://images.zattic.com/logos/7b7c2fe9aa6995935e0f/black/640x360.png" group-title="UK",BT Sport 1
 http://mc2http.zattoo.com/239.192.0.180:5501/.355
 
-#EXTINF:-1 tvg-id="BT.Sport.2.HD.uk" tvg-name="" tvg-logo="https://images.zattic.com/logos/1c14a528e8dc3a51b331/black/640x360.png" group-title="UK",BT Sport 2
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="" tvg-logo="https://images.zattic.com/logos/1c14a528e8dc3a51b331/black/640x360.png" group-title="UK",BT Sport 2
 http://mc2http.zattoo.com/239.192.0.181:5501/.355
 
-#EXTINF:-1 tvg-id="BT.Sport.3.HD.uk" tvg-name="" tvg-logo="https://images.zattic.com/logos/047fa4036ee9eb46d4dc/black/640x360.png" group-title="UK",BT Sport 3
+#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="" tvg-logo="https://images.zattic.com/logos/047fa4036ee9eb46d4dc/black/640x360.png" group-title="UK",BT Sport 3
 http://mc2http.zattoo.com/239.192.0.182:5501/.355
 
-#EXTINF:-1 tvg-id="BTSpt//ESPNHD.uk" tvg-name="" tvg-logo="https://images.zattic.com/logos/648e62757028a65e962e/black/640x360.png" group-title="UK",BT Sport ESPN
+#EXTINF:-1 tvg-id="BTSportESPN.uk" tvg-name="" tvg-logo="https://images.zattic.com/logos/648e62757028a65e962e/black/640x360.png" group-title="UK",BT Sport ESPN
 http://mc2http.zattoo.com/239.192.0.183:5501/.355
 
-#EXTINF:-1 tvg-id="Premier.1.HD.uk" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/Premier_Sports.png" group-title="UK",Premier Sport 1
-http://mc2http.zattoo.com/239.192.1.239:5501/.355
+#EXTINF:-1 tvg-id="PremierSports.uk" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/Premier_Sports.png" group-title="UK",Premier Sport 1
+http://mc2http.zattoo.com/239.192.0.239:5501/.355
 
-#EXTINF:-1 tvg-id="PPremier.2.HD.uk" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/frtowu1600893109.png" group-title="UK",Premier Sport 2
-http://mc2http.zattoo.com/239.192.1.240:5501/.355
+#EXTINF:-1 tvg-id="PremierSports2.uk" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/frtowu1600893109.png" group-title="UK",Premier Sport 2
+http://mc2http.zattoo.com/239.192.0.240:5501/.355
 
 
 ###TR###
