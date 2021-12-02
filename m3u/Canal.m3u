@@ -1,47 +1,47 @@
 ###ESP###
-#EXTINF:-1 tvg-id="LA.1.es" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/rwwwxv1441657735.png" group-title="ESP",La 1
+#EXTINF:-1 tvg-id="LA1.es" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/rwwwxv1441657735.png" group-title="ESP",La 1
 http://192.168.10.38:8001/1:0:19:7863:41A:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-id="Telecinco.es" tvg-name="" tvg-logo="" group-title="ESP",Telecinco
 http://192.168.10.38:8001/1:0:19:7536:426:1:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="Antena.3.es" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Antena3_Atresmedia.png" group-title="ESP",Antenna 3
+#EXTINF:-1 tvg-id="Antena3.es" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Antena3_Atresmedia.png" group-title="ESP",Antenna 3
 http://192.168.10.38:8001/1:0:19:7534:426:1:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="#Vamos.es" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/movistar_vamos.png" group-title="ESP",VAMOS
+#EXTINF:-1 tvg-id="Vamos.es" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/movistar_vamos.png" group-title="ESP",VAMOS
 http://192.168.10.38:8001/1:0:19:750A:420:1:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="M..LaLiga.es" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/Movistar_LaLiga.png" group-title="ESP",Movistar La Liga 
+#EXTINF:-1 tvg-id="M.LaLiga.es" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/Movistar_LaLiga.png" group-title="ESP",Movistar La Liga 
 http://192.168.10.38:8001/1:0:19:750F:420:1:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="M..LaLiga.1.es" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/Movistar_LaLiga_1.png" group-title="ESP",Movistar La Liga 1
+#EXTINF:-1 tvg-id="M.LaLiga1.es" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/Movistar_LaLiga_1.png" group-title="ESP",Movistar La Liga 1
 http://192.168.10.38:8001/1:0:19:7853:41A:1:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="M..LaLiga.2.es" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/Movistar_LaLiga_2.png" group-title="ESP",Movistar La Liga 2
+#EXTINF:-1 tvg-id="M.LaLiga2.es" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/Movistar_LaLiga_2.png" group-title="ESP",Movistar La Liga 2
 http://192.168.10.38:8001/1:0:19:74CD:3F8:1:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="M..LaLiga.3.es" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/Movistar_LaLiga_3.png" group-title="ESP",Movistar La Liga 3
+#EXTINF:-1 tvg-id="M.LaLiga3.es" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/Movistar_LaLiga_3.png" group-title="ESP",Movistar La Liga 3
 http://192.168.10.38:8001/1:0:19:74D3:3F8:1:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="DAZN.1.es" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/hhb7im1615315057.png" group-title="ESP",DAZN 1
+#EXTINF:-1 tvg-id="DAZN1.es" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/hhb7im1615315057.png" group-title="ESP",DAZN 1
 http://192.168.10.38:8001/1:0:19:7855:41A:1:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="DAZN.2.es" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/g8hxob1615314936.png" group-title="ESP",DAZN 2
+#EXTINF:-1 tvg-id="DAZN2.es" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/g8hxob1615314936.png" group-title="ESP",DAZN 2
 http://192.168.10.38:8001/1:0:19:785F:41A:1:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="Movistar.Deportes.es" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/movistar_deportes.png" group-title="ESP",Movistar Deportes
+#EXTINF:-1 tvg-id="M.Deportes.es" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/movistar_deportes.png" group-title="ESP",Movistar Deportes
 http://192.168.10.38:8001/1:0:19:7828:428:1:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="M..Deportes.1.es" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/8jpqlr1485860734.png" group-title="ESP",Movistar Deportes 1
+#EXTINF:-1 tvg-id="M.Deportes1.es" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/8jpqlr1485860734.png" group-title="ESP",Movistar Deportes 1
 http://192.168.10.38:8001/1:0:19:7532:426:1:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="M..Liga.de.Campeones.es" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/d4lw7d1615316983.png" group-title="ESP",Movistar Liga de Campeones
+#EXTINF:-1 tvg-id="M.LigaCampeones.es" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/d4lw7d1615316983.png" group-title="ESP",Movistar Liga de Campeones
 http://192.168.10.38:8001/1:0:19:78B4:3EC:1:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="M..Liga.de.Campeones.1.es" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/Movistar_Liga_de_Campeones_1.png" group-title="ESP",Movistar Liga de Campeones 1
+#EXTINF:-1 tvg-id="M.LigaCampeones1.es" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/Movistar_Liga_de_Campeones_1.png" group-title="ESP",Movistar Liga de Campeones 1
 http://192.168.10.38:8001/1:0:19:74D5:3F8:1:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="M..Liga.de.Campeones.2.es" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/Movistar_Liga_de_Campeones_2.png" group-title="ESP",Movistar Liga de Campeones 2
+#EXTINF:-1 tvg-id="M.LigaCampeones2.es" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/Movistar_Liga_de_Campeones_2.png" group-title="ESP",Movistar Liga de Campeones 2
 http://192.168.10.38:8001/1:0:19:74DB:3F8:1:C00000:0:0:0:
 
 #######
