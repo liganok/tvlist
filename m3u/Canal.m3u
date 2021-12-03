@@ -179,13 +179,13 @@ http://mc2http.zattoo.com/239.192.0.240:5501/.355
 http://192.168.10.38:8001/1:0:11:CA:526C:7E:460000:0:0:0:
 
 #EXTINF:-1 tvg-id="TurkmaxGurme.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/750ea3d3a22fcac23ab1/black/640x360.png" group-title="TR",BEIN GURME
-http://ztest-hls7-live.zahs.tv/HD_bein_gurme_tr/master.m3u8
+http://192.168.10.38:8001/1:0:11:CB:526C:7E:460000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/85091362415fe9bbaedc/black/640x360.png" group-title="TR",BEIN IZ
-http://ztest-hls7-live.zahs.tv/HD_bein_iz_tr/master.m3u8
+http://192.168.10.38:8001/1:0:11:1FB6:50DC:7E:460000:0:0:0:
 
 #EXTINF:-1 tvg-id="MoviemaxTurk.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/29c9e51b1cde3eef870b/black/640x360.png" group-title="TR",BEIN MOVIES TÜRK
-http://ztest-hls7-live.zahs.tv/HD_bein_movies_turk_tr/master.m3u8
+http://192.168.10.38:8001/1:0:11:CC:526C:7E:460000:0:0:0:
 
 #EXTINF:-1 tvg-id="HABERTURK.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/e61e6278fa0cce16a39b/black/640x360.png" group-title="TR",HABER TÜRK
 http://192.168.10.38:8001/1:0:11:258:C47C:7E:460000:0:0:0:
@@ -197,7 +197,7 @@ http://192.168.10.38:8001/1:0:11:1D6E:C3B4:7E:460000:0:0:0:
 http://192.168.10.38:8001/1:0:11:1D6F:C3B4:7E:460000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/924cd55335a718069e1e/black/640x360.png" group-title="TR",HALK TV
-http://ztest-hls7-live.zahs.tv/HD_halk_tv_tr/master.m3u8
+http://192.168.10.38:8001/1:0:11:1F50:5140:7E:460000:0:0:0:
 
 #EXTINF:-1 tvg-id="-" tvg-name="" tvg-logo="https://seeklogo.com/images/T/tele1-kanali-logo-D4DE153D5D-seeklogo.com.png" group-title="TR",TELE 1
 http://192.168.10.38:8001/1:0:11:14B9:C6D4:7E:460000:0:0:0:
