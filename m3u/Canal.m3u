@@ -78,16 +78,16 @@ http://192.168.10.38:8001/1:0:19:140:4:D5:1C20000:0:0:0:
 http://192.168.10.38:8002/1:0:19:84:9:85:C00000:0:0:0:
 
 #EXTINF:-1 tvg-id="DAZN2.de" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/g8hxob1615314936.png" group-title="DE",DAZN 2
-http://192.168.10.38:8001/1:0:19:7A:10:85:C00000:0:0:0:
+http://192.168.10.38:8002/1:0:19:7A:10:85:C00000:0:0:0:
 
 #EXTINF:-1 tvg-id="SkySportNewsHD.de" tvg-name="" group-title="DE",Sky Sport News
 http://ztest-hls7-live.zahs.tv/HD_sky_sport_news_de/master.m3u8
 
 #EXTINF:-1 tvg-id="SkySport1.de" tvg-logo="https://www.thesportsdb.com/images/media/logo/Sky_Sport_1_HD.png" group-title="DE",Sky Sport 1
-http://192.168.10.38:8001/1:0:19:81:6:85:C00000:0:0:0:
+http://192.168.10.38:8002/1:0:19:81:6:85:C00000:0:0:0:
 
 #EXTINF:-1 tvg-id="SkyBundesliga1.de" tvg-logo="https://www.thesportsdb.com/images/media/logo/Sky_Bundesliga_1.png" group-title="DE",Sky Sport Bundesliga 1
-http://192.168.10.38:8001/1:0:19:69:C:85:C00000:0:0:0:
+http://192.168.10.38:8002/1:0:19:69:C:85:C00000:0:0:0:
 
 #######
 
@@ -176,7 +176,7 @@ http://mc2http.zattoo.com/239.192.0.240:5501/.355
 
 ###TR###
 #EXTINF:-1 tvg-id="LIGTV.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/5a2b2088510c7c7007fc/black/640x360.png" group-title="TR",BEIN SPORTS 1
-http://192.168.10.38:8001/1:0:11:CA:526C:7E:460000:0:0:0:
+http://192.168.10.38:8002/1:0:11:CA:526C:7E:460000:0:0:0:
 
 #EXTINF:-1 tvg-id="TurkmaxGurme.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/750ea3d3a22fcac23ab1/black/640x360.png" group-title="TR",BEIN GURME
 http://192.168.10.38:8001/1:0:11:CB:526C:7E:460000:0:0:0:
@@ -242,10 +242,10 @@ http://192.168.10.38:8001/1:0:11:1EE1:51A4:7E:460000:0:0:0:
 https://mn-nl.mncdn.com/blutv_startv_dvr/live.m3u8
 
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/660x660/5dc2bcd9866ac31da061879f" group-title="TR",TV 8
-http://192.168.10.38:8001/1:0:11:1EE4:51A4:7E:460000:0:0:0:
+http://192.168.10.38:8002/1:0:11:1EE4:51A4:7E:460000:0:0:0:
 
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/atv_turkiye.png" group-title="TR",ATV
-http://192.168.10.38:8001/1:0:11:1EED:51A4:7E:460000:0:0:0:
+http://192.168.10.38:8002/1:0:11:1EED:51A4:7E:460000:0:0:0:
 
 #EXTINF:-1 tvg-id="TV2.tr" tvg-name="" tvg-logo="https://www.aydinpost.com/images/haberler/2020/10/teve2-frekans-ayarlari-teve2-canli-yayin-teve2-uydudan-nasil-izlenir-teve2-digiturk-tivibu-ve-d-smart-hangi-kanalda_9jThLnDh9k.jpg" group-title="TR",TEVE 2
 http://192.168.10.38:8001/1:0:11:1E7E:5208:7E:460000:0:0:0:
@@ -263,7 +263,7 @@ http://ztest-hls7-live.zahs.tv/HD_trt_spor_tr/master.m3u8
 http://192.168.10.38:8001/1:0:11:213D:4FB0:7E:460000:0:0:0:
 
 #EXTINF:-1 tvg-id="FBTV.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/deb180fa237fb75c9513/black/640x360.png" group-title="TR",Fenerbahçe TV
-http://192.168.10.38:8001/1:0:11:2072:52D0:7E:460000:0:0:0:
+http://192.168.10.38:8002/1:0:11:2072:52D0:7E:460000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/f3deea613885c67943de/black/640x360.png" group-title="TR",POWER TÜRK
 https://mn-nl.mncdn.com/blutv_powerturk/powerturk_sd.smil/playlist.m3u8
