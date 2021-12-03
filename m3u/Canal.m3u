@@ -75,7 +75,7 @@ http://192.168.10.38:8001/1:0:19:140:4:D5:1C20000:0:0:0:
 
 ###DE###
 #EXTINF:-1 tvg-id="DAZN1.de" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/hhb7im1615315057.png" group-title="DE",DAZN 1
-http://192.168.10.38:8001/1:0:19:84:9:85:C00000:0:0:0:
+http://192.168.10.38:8002/1:0:19:84:9:85:C00000:0:0:0:
 
 #EXTINF:-1 tvg-id="DAZN2.de" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/g8hxob1615314936.png" group-title="DE",DAZN 2
 http://192.168.10.38:8001/1:0:19:7A:10:85:C00000:0:0:0:
