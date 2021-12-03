@@ -47,46 +47,46 @@ http://192.168.10.38:8001/1:0:19:74DB:3F8:1:C00000:0:0:0:
 #######
 
 ###BG###
-#EXTINF:-1 tvg-id="БНТ.1.bg" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/BNT_1_logo.svg/2880px-BNT_1_logo.svg.png" group-title="BG",БНТ 1
+#EXTINF:-1 tvg-id="BNT1.bg" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/BNT_1_logo.svg/2880px-BNT_1_logo.svg.png" group-title="BG",БНТ 1
 http://192.168.10.38:8001/1:0:1:67:1:D5:1C20000:0:0:0:
 
-#EXTINF:-1 tvg-id="БНТ.2.bg" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/BNT_2_logo.svg/2880px-BNT_2_logo.svg.png" group-title="BG",БНТ 2
+#EXTINF:-1 tvg-id="BNT2.bg" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/BNT_2_logo.svg/2880px-BNT_2_logo.svg.png" group-title="BG",БНТ 2
 http://192.168.10.38:8001/1:0:1:72:1:D5:1C20000:0:0:0:
 
-#EXTINF:-1 tvg-id="БНТ.3.HD.bg" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/BNT_3_logo.svg/2880px-BNT_3_logo.svg.png" group-title="BG",БНТ 3
+#EXTINF:-1 tvg-id="BNT3.bg" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/BNT_3_logo.svg/2880px-BNT_3_logo.svg.png" group-title="BG",БНТ 3
 http://192.168.10.38:8001/1:0:19:138:4:D5:1C20000:0:0:0:
 
-#EXTINF:-1 tvg-id="БНТ.4.bg" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BNT_4_logo.svg/2880px-BNT_4_logo.svg.png" group-title="BG",БНТ 4
+#EXTINF:-1 tvg-id="BNT4.bg" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BNT_4_logo.svg/2880px-BNT_4_logo.svg.png" group-title="BG",БНТ 4
 http://192.168.10.38:8001/1:0:1:21:3:D5:1C20000:0:0:0:
 
-#EXTINF:-1 tvg-id="bTV.HD.bg" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/BTV-logo.png" group-title="BG",bTV
+#EXTINF:-1 tvg-id="bTV.bg" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/BTV-logo.png" group-title="BG",bTV
 http://192.168.10.38:8001/1:0:19:13E:4:D5:1C20000:0:0:0:
 
-#EXTINF:-1 tvg-id="bTV.Action.HD.bg" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/xquxqt1441478239.png" group-title="BG",bTV Action
+#EXTINF:-1 tvg-id="bTVAction.bg" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/xquxqt1441478239.png" group-title="BG",bTV Action
 http://192.168.10.38:8001/1:0:19:13F:4:D5:1C20000:0:0:0:
 
-#EXTINF:-1 tvg-id="Nova.Sport.HD.bg" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/xuqwvv1444741605.png" group-title="BG",NOVA
+#EXTINF:-1 tvg-id="NOVAsport.bg" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/xuqwvv1444741605.png" group-title="BG",NOVA
 http://192.168.10.38:8001/1:0:19:130:4:D5:1C20000:0:0:0:
 
-#EXTINF:-1 tvg-id="RING.HD.bg" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/yqyxrw1444741632.png" group-title="BG",RING
+#EXTINF:-1 tvg-id="RINGBG.bg" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/yqyxrw1444741632.png" group-title="BG",RING
 http://192.168.10.38:8001/1:0:19:140:4:D5:1C20000:0:0:0:
 
 #######
 
 ###DE###
-#EXTINF:-1 tvg-id="DAZN.1.de" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/hhb7im1615315057.png" group-title="DE",DAZN 1
+#EXTINF:-1 tvg-id="DAZN1.de" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/hhb7im1615315057.png" group-title="DE",DAZN 1
 http://192.168.10.38:8001/1:0:19:84:9:85:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="DAZN.2.de" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/g8hxob1615314936.png" group-title="DE",DAZN 2
+#EXTINF:-1 tvg-id="DAZN2.de" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/g8hxob1615314936.png" group-title="DE",DAZN 2
 http://192.168.10.38:8001/1:0:19:7A:10:85:C00000:0:0:0:
 
-#EXTINF:-1 group-title="DE",Sky Sport News
+#EXTINF:-1 tvg-id="SkySportNewsHD.de" tvg-name="" group-title="DE",Sky Sport News
 http://ztest-hls7-live.zahs.tv/HD_sky_sport_news_de/master.m3u8
 
-#EXTINF:-1 tvg-id="Sky.Sport.1.de" tvg-logo="https://www.thesportsdb.com/images/media/logo/Sky_Sport_1_HD.png" group-title="DE",Sky Sport 1
+#EXTINF:-1 tvg-id="SkySport1.de" tvg-logo="https://www.thesportsdb.com/images/media/logo/Sky_Sport_1_HD.png" group-title="DE",Sky Sport 1
 http://192.168.10.38:8001/1:0:19:81:6:85:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="Sky.Fussball.Bundesliga.de" tvg-logo="https://www.thesportsdb.com/images/media/logo/Sky_Bundesliga_1.png" group-title="DE",Sky Sport Bundesliga 1
+#EXTINF:-1 tvg-id="SkyBundesliga1.de" tvg-logo="https://www.thesportsdb.com/images/media/logo/Sky_Bundesliga_1.png" group-title="DE",Sky Sport Bundesliga 1
 http://192.168.10.38:8001/1:0:19:69:C:85:C00000:0:0:0:
 
 #######
@@ -199,13 +199,13 @@ http://192.168.10.38:8001/1:0:11:1D6F:C3B4:7E:460000:0:0:0:
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/924cd55335a718069e1e/black/640x360.png" group-title="TR",HALK TV
 http://ztest-hls7-live.zahs.tv/HD_halk_tv_tr/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/T/tele1-kanali-logo-D4DE153D5D-seeklogo.com.png" group-title="TR",TELE 1
+#EXTINF:-1 tvg-id="-" tvg-name="" tvg-logo="https://seeklogo.com/images/T/tele1-kanali-logo-D4DE153D5D-seeklogo.com.png" group-title="TR",TELE 1
 http://192.168.10.38:8001/1:0:11:14B9:C6D4:7E:460000:0:0:0:
 
 #EXTINF:-1 tvg-id="360.tr" tvg-name="" tvg-logo="" group-title="TR",360 TV
 http://192.168.10.38:8001/1:0:11:1D70:C3B4:7E:460000:0:0:0:
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TR",24 TV
+#EXTINF:-1 tvg-id="-" tvg-name="" tvg-logo="" group-title="TR",24 TV
 http://192.168.10.38:8001/1:0:11:1E82:5208:7E:460000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TR",HABER GLOBAL
