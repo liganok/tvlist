@@ -411,7 +411,7 @@ http://192.168.10.38:8001/1:0:19:770:9:42:1A40000:0:0:0:
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=605" group-title="Sport",[42E] S SPORT 2
 http://192.168.10.38:8001/1:0:19:76E:9:42:1A40000:0:0:0:
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.dsmartgo.com.tr//content/p/el/11909/Thumbnail.png?v=636989786506964094" group-title="Sport",[42E] SPOR SMART
+#EXTINF:-1 tvg-id="SmartSpor1.tr" tvg-name="" tvg-logo="https://img.dsmartgo.com.tr//content/p/el/11909/Thumbnail.png?v=636989786506964094" group-title="Sport",[42E] SPOR SMART
 http://192.168.10.38:8001/1:0:19:76F:9:42:1A40000:0:0:0:
 
 #EXTINF:-1 tvg-id="DiemaSport.bg" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/0xxcqo1627492559.png" group-title="Sport",[45E] DIEMA Sport
