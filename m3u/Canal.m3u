@@ -227,7 +227,7 @@ http://192.168.10.38:8001/1:0:11:2136:4FB0:7E:460000:0:0:0:
 http://192.168.10.38:8001/1:0:11:2142:4FB0:7E:460000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/TRT_M%C3%BCzik_logo.svg/2560px-TRT_M%C3%BCzik_logo.svg.png" group-title="TR",TRT Müzik
-http://192.168.10.38:8001/1:0:1:213E:4FB0:7E:460000:0:0:0:
+http://192.168.10.38:8001/1:0:19:2970:7919:42E:1A40000:0:0:0:
 
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/1e8c04a9d49ffcc04503/black/640x360.png" group-title="TR",KANAL D
 https://mn-nl.mncdn.com/blutv_kanald_dvr/live.m3u8
