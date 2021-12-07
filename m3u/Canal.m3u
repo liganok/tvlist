@@ -176,7 +176,7 @@ http://mc2http.zattoo.com/239.192.0.240:5501/.355
 
 ###TR###
 #EXTINF:-1 tvg-id="LIGTV.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/5a2b2088510c7c7007fc/black/640x360.png" group-title="TR",BEIN SPORTS 1
-http://192.168.10.38:8002/1:0:11:CA:526C:7E:460000:0:0:0:
+http://192.168.10.38:8001/1:0:11:CA:526C:7E:460000:0:0:0:
 
 #EXTINF:-1 tvg-id="TurkmaxGurme.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/750ea3d3a22fcac23ab1/black/640x360.png" group-title="TR",BEIN GURME
 http://mc2http.zattoo.com/225.215.12.108/.63
@@ -263,7 +263,7 @@ http://ztest-hls7-live.zahs.tv/HD_trt_spor_tr/master.m3u8
 http://192.168.10.38:8001/1:0:11:213D:4FB0:7E:460000:0:0:0:
 
 #EXTINF:-1 tvg-id="FBTV.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/deb180fa237fb75c9513/black/640x360.png" group-title="TR",Fenerbahçe TV
-http://192.168.10.38:8002/1:0:11:2072:52D0:7E:460000:0:0:0:
+http://192.168.10.38:8001/1:0:11:2072:52D0:7E:460000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/f3deea613885c67943de/black/640x360.png" group-title="TR",POWER TÜRK
 https://mn-nl.mncdn.com/blutv_powerturk/powerturk_sd.smil/playlist.m3u8
