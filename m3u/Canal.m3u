@@ -495,3 +495,6 @@ http://mc2http.zattoo.com/224.1.0.15/.23
 #EXTINF:-1 tvg-id="RMCSport4K.fr" tvg-logo="" group-title="UHD",RMC Sport UHD
 http://mc2http.zattoo.com/225.72.27.21/.63
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UHD",NASA UHD
+http://192.168.10.38:8001/1:0:1F:1C71:54:46:E080000:0:0:0:
+
