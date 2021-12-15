@@ -80,13 +80,13 @@ http://192.168.10.38:8001/1:0:19:84:9:85:C00000:0:0:0:
 #EXTINF:-1 tvg-id="DAZN2.de" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/g8hxob1615314936.png" group-title="DE",DAZN 2
 http://192.168.10.38:8001/1:0:19:7A:10:85:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="SkySportNewsHD.de" tvg-name="" group-title="DE",Sky Sport News
+#EXTINF:-1 tvg-id="SkySportNewsHD.de" tvg-name=" tvg-logo="https://images.zattic.com/logos/9ecdee3d1e958b53d5e4/black/640x360.png" group-title="DE",Sky Sport News
 http://ztest-hls7-live.zahs.tv/HD_sky_sport_news_de/master.m3u8
 
-#EXTINF:-1 tvg-id="SkySport1.de" tvg-logo="https://www.thesportsdb.com/images/media/logo/Sky_Sport_1_HD.png" group-title="DE",Sky Sport 1
+#EXTINF:-1 tvg-id="SkySport1.de" tvg-logo="https://images.zattic.com/logos/af1b6846263b1b703850/black/640x360.png" group-title="DE",Sky Sport 1
 http://192.168.10.38:8002/1:0:19:81:6:85:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="SkyBundesliga1.de" tvg-logo="https://www.thesportsdb.com/images/media/logo/Sky_Bundesliga_1.png" group-title="DE",Sky Sport Bundesliga 1
+#EXTINF:-1 tvg-id="SkyBundesliga1.de" tvg-logo="https://images.zattic.com/logos/0aff700c3fb3fafb4401/black/640x360.png" group-title="DE",Sky Sport Bundesliga 1
 http://192.168.10.38:8001/1:0:19:69:C:85:C00000:0:0:0:
 
 #######
@@ -498,3 +498,11 @@ http://mc2http.zattoo.com/225.72.27.21/.63
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="UHD",NASA UHD
 http://192.168.10.38:8001/1:0:1F:1C71:54:46:E080000:0:0:0:
 
+#######
+
+###Italia###
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="IT",Sky Sport Uno
+http://mc2http.zattoo.com/225.251.10.3/.63
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="IT",Sky Sport Football
+http://mc2http.zattoo.com/225.251.10.4/.63
