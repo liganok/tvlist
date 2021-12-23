@@ -469,7 +469,7 @@ http://192.168.10.38:8001/1:0:1:1D0:68:53:CE40000:0:0:0:
 
 ###UHD###
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="UHD",RTL UHD
-http://192.168.10.38:8001/1:0:1F:307A:3F5:1:C00000:0:0:0:
+http://mc2http.zattoo.com/224.78.193.13/.23
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="UHD",Pro7Sat.1 UHD
 http://192.168.10.38:8001/1:0:1F:183D:40B:1:C00000:0:0:0:
@@ -486,17 +486,20 @@ http://192.168.10.38:8001/1:0:1:11FB:2B5C:13E:820000:0:0:0:
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="UHD",	Extasy 4K
 http://192.168.10.38:8001/1:0:1F:259:C418:16E:A00000:0:0:0:
 
-#EXTINF:-1 tvg-id="SkySportBundesligaUHD.de" tvg-logo="" group-title="UHD",Sky Sport Bundesliga UHD
+#EXTINF:-1 tvg-id="SkySportBundesligaUHD.de" tvg-logo="https://images.zattic.com/logos/b5c02236036fbd24b7fb/black/640x360.png" group-title="UHD",Sky Sport Bundesliga UHD
 http://mc2http.zattoo.com/224.78.79.52/.23
 
-#EXTINF:-1 tvg-id="SkySportUHD.de" tvg-logo="" group-title="UHD",Sky Sport UHD
+#EXTINF:-1 tvg-id="SkySportUHD.de" tvg-logo="https://images.zattic.com/logos/48ad0a94712c47358eb2/black/640x360.png" group-title="UHD",Sky Sport UHD
 http://mc2http.zattoo.com/224.1.0.15/.23
 
-#EXTINF:-1 tvg-id="RMCSport4K.fr" tvg-logo="" group-title="UHD",RMC Sport UHD
+#EXTINF:-1 tvg-id="RMCSport4K.fr" tvg-logo="https://images.zattic.com/logos/688b0a64daff7b8acc35/black/640x360.png" group-title="UHD",RMC Sport UHD
 http://mc2http.zattoo.com/225.72.27.21/.63
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UHD",NASA UHD
-http://192.168.10.38:8001/1:0:1F:1C71:54:46:E080000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.zattic.com/logos/b00c1034d67c14c50b68/black/640x360.png" group-title="UHD",NASA UHD
+http://mc2http.zattoo.com/225.223.73.5/.63
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.zattic.com/logos/a1abce1038ab7712c7bd/black/640x360.png" group-title="UHD",Insight UHD
+http://mc2http.zattoo.com/224.255.103.1/.23
 
 #######
 
