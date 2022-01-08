@@ -315,7 +315,7 @@ http://ztest-hls7-live.zahs.tv/HD_tv_100_tr/master.m3u8
 #EXTINF:-1 tvg-id="BEYAZTV.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/0668ed4475e1848b5ca0/black/640x360.png" group-title="TR",BEYAZ TV
 http://ztest-hls7-live.zahs.tv/HD_beyaz_tv_tr/master.m3u8
 
-#EXTINF:-1 tvg-id="SSport.tr" tvg-name="" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=604" group-title="TR",S SPORT
+#EXTINF:-1 tvg-id="SSport.tr" tvg-name="" tvg-logo="https://cs.besmart.com.tr/phpscripts/get_station_img.php?id=1853" group-title="TR",S SPORT
 http://192.168.10.38:8001/1:0:19:770:9:42:1A40000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=605" group-title="TR",S SPORT 2
