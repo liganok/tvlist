@@ -1,8 +1,8 @@
 ###Arabic###
-#EXTINF:-1 tvg-logo="" group-title="MA",Arryadia
+#EXTINF:-1 tvg-logo="" group-title="Arabic",Arryadia
 http://192.168.10.38:8001/1:0:1:A:2E18:B0:820000:0:0:0:
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Aljazeera_mubasher.svg/300px-Aljazeera_mubasher.svg.png" group-title="QA",Al Jazeera Mubasher
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Aljazeera_mubasher.svg/300px-Aljazeera_mubasher.svg.png" group-title="Arabic",Al Jazeera Mubasher
 http://192.168.10.38:8001/1:0:1:2C2:1B58:13E:820000:0:0:0:
 
 
@@ -151,7 +151,7 @@ http://192.168.10.38:8001/1:0:19:7534:426:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="Vamos.es" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/movistar_vamos.png" group-title="ESP",#VAMOS
 http://192.168.10.38:8001/1:0:19:750A:420:1:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="Vamos.es" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/0_Movistar%2B.svg/1200px-0_Movistar%2B.svg.png" group-title="ESP",#0
+#EXTINF:-1 tvg-id="Vamos.es" tvg-name="" tvg-logo="https://culturapolis.es/wp-content/uploads/2020/03/Movistar_0.png" group-title="ESP",#0
 http://192.168.10.38:8001/1:0:19:788C:414:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-id="M.LaLiga.es" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/Movistar_LaLiga.png" group-title="ESP",Movistar La Liga 
@@ -236,15 +236,6 @@ http://192.168.10.38:8001/1:0:19:334B:C93:3:EB0000:0:0:0:
 #EXTINF:-1 tvg-id="Sport2.cz" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/sport_2_cz_logo.png" group-title="Sport",[23.5E] Sport 2 (CZ)
 http://192.168.10.38:8001/1:0:19:318:C94:3:EB0000:0:0:0:
 
-#EXTINF:-1 tvg-id="SSport.tr" tvg-name="" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=604" group-title="Sport",[42E] S SPORT
-http://192.168.10.38:8001/1:0:19:770:9:42:1A40000:0:0:0:
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=605" group-title="Sport",[42E] S SPORT 2
-http://192.168.10.38:8001/1:0:19:76E:9:42:1A40000:0:0:0:
-
-#EXTINF:-1 tvg-id="SmartSpor1.tr" tvg-name="" tvg-logo="https://img.dsmartgo.com.tr//content/p/el/11909/Thumbnail.png?v=636989786506964094" group-title="Sport",[42E] SPOR SMART
-http://192.168.10.38:8001/1:0:19:76F:9:42:1A40000:0:0:0:
-
 ###TR###
 #EXTINF:-1 tvg-id="LIGTV.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/5a2b2088510c7c7007fc/black/640x360.png" group-title="TR",BEIN SPORTS 1
 http://192.168.10.38:8001/1:0:11:CA:526C:7E:460000:0:0:0:
@@ -279,7 +270,7 @@ http://192.168.10.38:8001/1:0:11:1D70:C3B4:7E:460000:0:0:0:
 #EXTINF:-1 tvg-id="-" tvg-name="" tvg-logo="https://seeklogo.com/images/1/24-tv-logo-33D3C57D1B-seeklogo.com.png" group-title="TR",24 TV
 http://192.168.10.38:8001/1:0:11:1E82:5208:7E:460000:0:0:0:
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Haber_Global_logo.svg/2560px-Haber_Global_logo.svg.png" group-title="TR",HABER GLOBAL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.flysat-live.com/logo/Turkiye/haberglobal.png" group-title="TR",HABER GLOBAL
 http://192.168.10.38:8001/1:0:11:271:C47C:7E:460000:0:0:0:
 
 #EXTINF:-1 tvg-id="TRTHaberHD.tr" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/TRT_Haber_logosu_%282013-2020%29.png" group-title="TR",TRT HABER
