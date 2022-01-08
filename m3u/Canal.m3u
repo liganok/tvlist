@@ -2,6 +2,10 @@
 #EXTINF:-1 tvg-logo="" group-title="MA",Arryadia
 http://192.168.10.38:8001/1:0:1:A:2E18:B0:820000:0:0:0:
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Aljazeera_mubasher.svg/300px-Aljazeera_mubasher.svg.png" group-title="QA",Al Jazeera Mubasher
+http://192.168.10.38:8001/1:0:1:2C2:1B58:13E:820000:0:0:0:
+
+
 ###BG###
 #EXTINF:-1 tvg-id="BNT1.bg" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/BNT_1_logo.svg/2880px-BNT_1_logo.svg.png" group-title="BG",БНТ 1
 http://192.168.10.38:8001/1:0:1:3EB:1:1:1862FEF:0:0:0:
@@ -24,13 +28,13 @@ http://192.168.10.38:8001/1:0:1:3F4:1:1:1862FEF:0:0:0:
 #EXTINF:-1 tvg-id="RINGBG.bg" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/yqyxrw1444741632.png" group-title="BG",RING
 http://192.168.10.38:8001/1:0:1:14B:3:1:1860000:0:0:0:
 
-#EXTINF:-1 tvg-id="DiemaSport.bg" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/0xxcqo1627492559.png" group-title="Sport",DIEMA Sport
+#EXTINF:-1 tvg-id="DiemaSport.bg" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/0xxcqo1627492559.png" group-title="BG",DIEMA Sport
 http://192.168.10.38:8001/1:0:19:88:1:D5:1C20000:0:0:0:
 
-#EXTINF:-1 tvg-id="DiemaSport2.bg" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/efa11r1627492687.png" group-title="Sport",DIEMA Sport 2
+#EXTINF:-1 tvg-id="DiemaSport2.bg" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/efa11r1627492687.png" group-title="BG",DIEMA Sport 2
 http://192.168.10.38:8001/1:0:19:14A:4:D5:1C20000:0:0:0:
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/wlk12t1627492656.png" group-title="Sport",DIEMA Sport 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/wlk12t1627492656.png" group-title="BG",DIEMA Sport 3
 http://192.168.10.38:8001/1:0:19:75:1:D5:1C20000:0:0:0:
 
 ###DE###
@@ -320,13 +324,13 @@ http://ztest-hls7-live.zahs.tv/HD_tv_100_tr/master.m3u8
 #EXTINF:-1 tvg-id="BEYAZTV.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/0668ed4475e1848b5ca0/black/640x360.png" group-title="TR",BEYAZ TV
 http://ztest-hls7-live.zahs.tv/HD_beyaz_tv_tr/master.m3u8
 
-#EXTINF:-1 tvg-id="SSport.tr" tvg-name="" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=604" group-title="Sport",S SPORT
+#EXTINF:-1 tvg-id="SSport.tr" tvg-name="" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=604" group-title="TR",S SPORT
 http://192.168.10.38:8001/1:0:19:770:9:42:1A40000:0:0:0:
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=605" group-title="Sport",S SPORT 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=605" group-title="TR",S SPORT 2
 http://192.168.10.38:8001/1:0:19:76E:9:42:1A40000:0:0:0:
 
-#EXTINF:-1 tvg-id="SmartSpor1.tr" tvg-name="" tvg-logo="https://img.dsmartgo.com.tr//content/p/el/11909/Thumbnail.png?v=636989786506964094" group-title="Sport",SPOR SMART
+#EXTINF:-1 tvg-id="SmartSpor1.tr" tvg-name="" tvg-logo="https://img.dsmartgo.com.tr//content/p/el/11909/Thumbnail.png?v=636989786506964094" group-title="TR",SPOR SMART
 http://192.168.10.38:8001/1:0:19:76F:9:42:1A40000:0:0:0:
 
 #EXTINF:-1 tvg-id="TRTSPOR.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/b6a74d38677c0f673456/black/640x360.png" group-title="TR",TRT Spor
