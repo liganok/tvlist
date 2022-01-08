@@ -286,7 +286,7 @@ http://192.168.10.38:8001/1:0:11:2136:4FB0:7E:460000:0:0:0:
 http://192.168.10.38:8001/1:0:11:2142:4FB0:7E:460000:0:0:0:
 
 #EXTINF:-1 tvg-id="TRT.Müzik.tr" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/TRT_M%C3%BCzik_logo.svg/2560px-TRT_M%C3%BCzik_logo.svg.png" group-title="TR",TRT Müzik
-http://192.168.10.38:8001/1:0:19:2970:7919:42E:1A40000:0:0:0:
+http://192.168.10.38:8001/1:0:1:213E:4FB0:7E:460000:0:0:0:
 
 #EXTINF:-1 tvg-id="Kanal.D.HD.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/1e8c04a9d49ffcc04503/black/640x360.png" group-title="TR",KANAL D
 https://mn-nl.mncdn.com/blutv_kanald_dvr/live.m3u8
@@ -315,8 +315,17 @@ http://192.168.10.38:8001/1:0:11:1E7E:5208:7E:460000:0:0:0:
 #EXTINF:-1 tvg-id="TV.100.HD.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/c00da9370a97d2b79461/black/640x360.png" group-title="TR",TV 100
 http://ztest-hls7-live.zahs.tv/HD_tv_100_tr/master.m3u8
 
-#EXTINF:-1 tvg-id="BEYAZ.TV.HD.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/0668ed4475e1848b5ca0/black/640x360.png" group-title="TR",BEYAZ TV
-http://ztest-hls7-live.zahs.tv/HD_beyaz_tv_tr/master.m3u8
+#EXTINF:-1 tvg-id="TRT.EBATV.İLKOKUL.HD.tr" tvg-name="" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w120/h120/q70/8886648.png" group-title="TR",TRT Eba İlkokul
+http://192.168.10.38:8001/1:0:11:61B:C418:7E:460000:0:0:0:
+
+#EXTINF:-1 tvg-id="TRT.EBATV.ORTAOKUL.HD.tr" tvg-name="" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w120/h120/q70/8886647.png" group-title="TR",TRT Eba Ortaokul
+http://192.168.10.38:8001/1:0:11:61C:C418:7E:460000:0:0:0:
+
+#EXTINF:-1 tvg-id="TRT.EBATV.LİSE.HD.tr" tvg-name="" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w120/h120/q70/8886628.png" group-title="TR",TRT Eba Lise
+http://192.168.10.38:8001/1:0:11:61D:C418:7E:460000:0:0:0:
+
+#EXTINF:-1 tvg-id="TV.100.HD.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/c00da9370a97d2b79461/black/640x360.png" group-title="TR",TV 100
+http://ztest-hls7-live.zahs.tv/HD_tv_100_tr/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cs.besmart.com.tr/phpscripts/get_station_img.php?id=1853" group-title="TR",S SPORT
 http://192.168.10.38:8001/1:0:19:770:9:42:1A40000:0:0:0:
