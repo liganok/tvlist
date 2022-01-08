@@ -194,6 +194,9 @@ http://192.168.10.38:8001/1:0:19:1B92:41:46:E080000:0:0:0:
 #EXTINF:-1 tvg-id="Aréna4.hu" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/a/a3/Arena_4_Network_4.png/revision/latest/scale-to-width-down/235?cb=20200410160344" group-title="Sport",[0.8E] Arena4 (HU)
 http://192.168.10.38:8001/1:0:19:7664:2BF:600:E080000:0:0:0:
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F858%2Flook-sport-ro-2.png" group-title="Sport",[0.8E] Look Sport 3 (RO)
+http://192.168.10.38:8001/1:0:19:7730:2C1:600:E080000:0:0:0:
+
 #EXTINF:-1 tvg-id="SportKlub.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Sportklub_logo.png" group-title="Sport",[13E] Sportklub (PL)
 http://192.168.10.38:8001/1:0:1:DAF:2D50:13E:820000:0:0:0:
 
