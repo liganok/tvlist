@@ -327,9 +327,6 @@ http://192.168.10.38:8001/1:0:11:61C:C418:7E:460000:0:0:0:
 #EXTINF:-1 tvg-id="TRT.EBATV.LİSE.HD.tr" tvg-name="" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w120/h120/q70/8886628.png" group-title="TR",TRT Eba Lise
 http://192.168.10.38:8001/1:0:11:61D:C418:7E:460000:0:0:0:
 
-#EXTINF:-1 tvg-id="TV.100.HD.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/c00da9370a97d2b79461/black/640x360.png" group-title="TR",TV 100
-http://ztest-hls7-live.zahs.tv/HD_tv_100_tr/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cs.besmart.com.tr/phpscripts/get_station_img.php?id=1853" group-title="TR",S SPORT
 http://192.168.10.38:8001/1:0:19:770:9:42:1A40000:0:0:0:
 
@@ -347,6 +344,9 @@ http://192.168.10.38:8001/1:0:11:213D:4FB0:7E:460000:0:0:0:
 
 #EXTINF:-1 tvg-id="FB.TV.HD.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/deb180fa237fb75c9513/black/640x360.png" group-title="TR",Fenerbahçe TV
 http://192.168.10.38:8001/1:0:11:2072:52D0:7E:460000:0:0:0:
+
+#EXTINF:-1 tvg-id="beIN.SPORTS.HD.1.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/5a2b2088510c7c7007fc/black/640x360.png" group-title="TR",BEIN SPORTS 1 Test
+https://dt-live-bc-beinsports01.akamaized.net/bc/beinsports01/beinsports01.isml/playlist.m3u8?hdnts=ip=93.232.140.188~st=1642107600~exp=1642247518~acl=/*~id=ac59299685~hmac=d9de9db7d1e95f137caed49824c18a022057bb8853fa5ebacc70a175a8c2de02
 
 ###UK###
 #EXTINF:-1 tvg-id="BBCOneHD.uk" tvg-name="" tvg-logo="https://images.zattic.com/logos/e7db7cde3a9bf2c6e694/black/640x360.png" group-title="UK",BBC One
