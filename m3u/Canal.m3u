@@ -346,7 +346,10 @@ http://192.168.10.38:8001/1:0:11:213D:4FB0:7E:460000:0:0:0:
 http://192.168.10.38:8001/1:0:11:2072:52D0:7E:460000:0:0:0:
 
 #EXTINF:-1 tvg-id="beIN.SPORTS.HD.1.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/5a2b2088510c7c7007fc/black/640x360.png" group-title="TR",BEIN SPORTS 1 Test
-https://dt-live-bc-beinsports01.akamaized.net/bc/beinsports01/beinsports01.isml/playlist.m3u8?hdnts=ip=93.232.140.188~st=1642107600~exp=1642247518~acl=/*~id=ac59299685~hmac=d9de9db7d1e95f137caed49824c18a022057bb8853fa5ebacc70a175a8c2de02
+https://dt-live-bc-beinsports01.akamaized.net/ppv/beinsports01/beinsports01.isml/playlist.m3u8?hdnts=ip=93.232.140.188~st=1642176000~exp=1642189440~acl=/*~id=ac59299685~hmac=19e7f10c255e2f65cbdaa40f6f472431b4c58269c1472ad6dc9eb699a31ac326
+
+#EXTINF:-1 tvg-id="beIN.SPORTS.HD.2.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/35766ec02b06aa980179/black/640x360.png" group-title="TR",BEIN SPORTS 2 Test
+https://dt-live-bc-beinsports02.akamaized.net/ppv/beinsports02/beinsports02.isml/playlist.m3u8?hdnts=ip=93.232.140.188~st=1642176000~exp=1642189440~acl=/*~id=ac59299685~hmac=14316b7e29b67716e6ac6184d6ee01e2318fbef3a004ccc61548abd617d953c1
 
 ###UK###
 #EXTINF:-1 tvg-id="BBCOneHD.uk" tvg-name="" tvg-logo="https://images.zattic.com/logos/e7db7cde3a9bf2c6e694/black/640x360.png" group-title="UK",BBC One
