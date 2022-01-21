@@ -138,6 +138,13 @@ http://192.168.10.38:8001/1:0:1:1C9:68:53:CE40000:0:0:0:
 #EXTINF:-1 tvg-id="ELEVEN.SPORTS.3.pt" tvg-logo="" group-title="PT",Eleven Sports 3
 http://192.168.10.38:8001/1:0:1:1D0:68:53:CE40000:0:0:0:
 
+###South America###
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png" group-title="South America",Telesur
+http://192.168.10.38:8001/1:0:19:7A49:410:1:C00000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Cubavision2008.png/revision/latest?cb=20171219213901" group-title="South America",Cubavision
+http://192.168.10.38:8001/1:0:1:1B60:3FC:1:C00000:0:0:0:
+
 ###ESP###
 #EXTINF:-1 tvg-id="LA1.es" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/rwwwxv1441657735.png" group-title="ESP",La 1
 http://192.168.10.38:8001/1:0:19:7863:41A:1:C00000:0:0:0:
