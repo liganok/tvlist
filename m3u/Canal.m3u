@@ -201,29 +201,41 @@ http://192.168.10.38:8001/1:0:19:1B92:41:46:E080000:0:0:0:
 #EXTINF:-1 tvg-id="Aréna4.hu" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/a/a3/Arena_4_Network_4.png/revision/latest/scale-to-width-down/235?cb=20200410160344" group-title="Sport",[0.8E] Arena4 (HU)
 http://192.168.10.38:8001/1:0:19:7664:2BF:600:E080000:0:0:0:
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F858%2Flook-sport-ro-2.png" group-title="Sport",[0.8E] Look Sport 3 (RO)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",[0.8E] Look Sport 3 (RO)
 http://192.168.10.38:8001/1:0:19:7730:2C1:600:E080000:0:0:0:
 
-#EXTINF:-1 tvg-id="SportKlub.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Sportklub_logo.png" group-title="Sport",[13E] Sportklub (PL)
-http://192.168.10.38:8001/1:0:1:DAF:2D50:13E:820000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",[16E] Sport Klub 1 (RS)
+http://192.168.10.38:8001/1:0:16:56:2:40:A00000:0:0:0:
 
-#EXTINF:-1 tvg-id="ArenaSport1.sk" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/arena1_logo.png" group-title="Sport",[16E] Arena Sport 1 (SK)
-http://192.168.10.38:8001/1:0:19:79:9F60:16E:A00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",[16E] Sport Klub 2 (RS)
+http://192.168.10.38:8001/1:0:1:5F:1:2A3:A00000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",[16E] Sport Klub 3 (RS)
+http://192.168.10.38:8001/1:0:1:60:1:2A3:A00000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",[16E] Arena Sport 1 (HR)
+ttp://192.168.10.38:8001/1:0:19:19C:3:40:A00000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",[16E] Arena Sport 2 (HR)
+http://192.168.10.38:8001/1:0:19:710:C5A8:16E:A00000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",[16E] Arena Sport 3 (HR)
+http://192.168.10.38:8001/1:0:1:6C:1:2A3:A00000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",[16E] Arena Sport 4 (HR)
+http://192.168.10.38:8001/1:0:19:718:C5A8:16E:A00000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",[16E] Arena Sport 5 (HR)
+http://192.168.10.38:8001/1:0:19:BE:3:40:A00000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",[16E] Arena Sport 6 (HR)
+http://192.168.10.38:8001/1:0:19:719:C5A8:16E:A00000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",[16E] Arena Sport 7 (HR)
+http://192.168.10.38:8001/1:0:19:51:2:40:A00000:0:0:0:
 
 #EXTINF:-1 tvg-id="PremierSport.sk" tvg-logo="https://www.digisport.sk/wp-content/themes/digisport/img/logos/premier-sport.png" group-title="Sport",[16E] Premier Sport (SK)
 http://192.168.10.38:8001/1:0:19:7DE:9E98:16E:A00000:0:0:0:
-
-#EXTINF:-1 tvg-id="ArenaSport2.hr" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/arena2_logo.png" group-title="Sport",[16E] Arena Sport 2 (HR)
-http://192.168.10.38:8001/1:0:19:50:2:40:A00000:0:0:0:
-
-#EXTINF:-1 tvg-id="ArenaSport6.hr" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/arena6_logo.png" group-title="Sport",[16E] Arena Sport 6 (HR)
-http://192.168.10.38:8001/1:0:16:7F:2:40:A00000:0:0:0:
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_7_HR_logo.png" group-title="Sport",[16E] Arena Sport 7 (HR)
-http://192.168.10.38:8001/1:0:19:51:2:40:A00000:0:0:0:
-
-#EXTINF:-1 tvg-id="SportKlub1.rs" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/SK_1.png/revision/latest?cb=20171216060443" group-title="Sport",[16E] SportKlub 1
-http://192.168.10.38:8001/1:0:16:56:2:40:A00000:0:0:0:
 
 #EXTINF:-1 tvg-id="ElevenProLeague1FR.be" tvg-logo="http://watch.elevensports.be/watch_eleven_be/wp-content/uploads/2020/07/ELEVEN_PrimaryLogo_White.png" group-title="Sport",[19.2E] Eleven Sports Pro League 1
 http://192.168.10.38:8001/1:0:16:1034:451:35:C00000:0:0:0:
