@@ -22,19 +22,19 @@ http://192.168.10.38:8001/1:0:1:4A:6:1:1860000:0:0:0:
 #EXTINF:-1 tvg-id="bTV.bg" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/BTV-logo.png" group-title="BG",bTV
 http://192.168.10.38:8001/1:0:19:CF:5:1:1860000:0:0:0:
 
-#EXTINF:-1 tvg-id="NOVAsport.bg" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/xuqwvv1444741605.png" group-title="BG",NOVA
-http://192.168.10.38:8001/1:0:1:3F4:1:1:1862FEF:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BG",NOVA
+http://192.168.10.38:8001/1:0:19:D4:5:1:1860000:0:0:0:
 
-#EXTINF:-1 tvg-id="RINGBG.bg" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/yqyxrw1444741632.png" group-title="BG",RING
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BG",RING
 http://192.168.10.38:8001/1:0:19:85:5:1:1860000:0:0:0:
 
-#EXTINF:-1 tvg-id="DiemaSport.bg" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/0xxcqo1627492559.png" group-title="BG",DIEMA Sport
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BG",DIEMA Sport
 http://192.168.10.38:8001/1:0:19:2BD:7:1:1860000:0:0:0:
 
-#EXTINF:-1 tvg-id="DiemaSport2.bg" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/efa11r1627492687.png" group-title="BG",DIEMA Sport 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BG",DIEMA Sport 2
 http://192.168.10.38:8001/1:0:19:2BE:7:1:1860000:0:0:0:
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/wlk12t1627492656.png" group-title="BG",DIEMA Sport 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BG",DIEMA Sport 3
 http://192.168.10.38:8001/1:0:19:CD:5:1:1860000:0:0:0:
 
 ###DE###
