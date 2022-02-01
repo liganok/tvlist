@@ -19,7 +19,7 @@ http://192.168.10.38:8001/1:0:19:2C2:7:1:1860000:0:0:0:
 #EXTINF:-1 tvg-id="BNT4.bg" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BNT_4_logo.svg/2880px-BNT_4_logo.svg.png" group-title="BG",БНТ 4
 http://192.168.10.38:8001/1:0:1:4A:6:1:1860000:0:0:0:
 
-#EXTINF:-1 tvg-id="bTV.bg" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/BTV-logo.png" group-title="BG",bTV
+#EXTINF:-1 tvg-id="bTV.bg" tvg-name="" tvg-logo="" group-title="BG",bTV
 http://192.168.10.38:8001/1:0:19:CF:5:1:1860000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BG",NOVA BG
