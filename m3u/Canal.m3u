@@ -22,7 +22,7 @@ http://192.168.10.38:8001/1:0:1:4A:6:1:1860000:0:0:0:
 #EXTINF:-1 tvg-id="bTV.bg" tvg-name="" tvg-logo="" group-title="BG",bTV
 http://192.168.10.38:8001/1:0:19:CF:5:1:1860000:0:0:0:
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BG",NOVA BG
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BG",NOVA
 http://192.168.10.38:8001/1:0:19:D4:5:1:1860000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BG",RING
