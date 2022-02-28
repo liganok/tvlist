@@ -48,7 +48,7 @@ http://192.168.10.38:8001/1:0:19:7A:10:85:C00000:0:0:0:
 http://ztest-hls7-live.zahs.tv/HD_sky_sport_news_de/master.m3u8
 
 #EXTINF:-1 tvg-id="SkySport1.de" tvg-logo="https://images.zattic.com/logos/af1b6846263b1b703850/black/640x360.png" group-title="DE",Sky Sport 1
-http://192.168.10.38:8002/1:0:19:81:6:85:C00000:0:0:0:
+http://192.168.10.38:8001/1:0:19:81:6:85:C00000:0:0:0:
 
 #EXTINF:-1 tvg-id="SkyBundesliga1.de" tvg-logo="https://images.zattic.com/logos/0aff700c3fb3fafb4401/black/640x360.png" group-title="DE",Sky Sport Bundesliga 1
 http://192.168.10.38:8001/1:0:19:69:C:85:C00000:0:0:0:
@@ -339,10 +339,10 @@ http://192.168.10.38:8001/1:0:11:1EE1:51A4:7E:460000:0:0:0:
 https://mn-nl.mncdn.com/blutv_startv_dvr/live.m3u8
 
 #EXTINF:-1 tvg-id="TV8.HD.tr" tvg-name="" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/660x660/5dc2bcd9866ac31da061879f" group-title="TR",TV 8
-http://192.168.10.38:8002/1:0:11:1EE4:51A4:7E:460000:0:0:0:
+http://192.168.10.38:8001/1:0:11:1EE4:51A4:7E:460000:0:0:0:
 
 #EXTINF:-1 tvg-id="ATV.HD.tr" tvg-name="" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/atv_turkiye.png" group-title="TR",ATV
-http://192.168.10.38:8002/1:0:11:1EED:51A4:7E:460000:0:0:0:
+http://192.168.10.38:8001/1:0:11:1EED:51A4:7E:460000:0:0:0:
 
 #EXTINF:-1 tvg-id="Uçan.Kuş.TV.tr" tvg-name="" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=344" group-title="TR",UçanKuş
 https://mn-nl.mncdn.com/blutv_ucankus2/live_720p2000000kbps/index.m3u8
