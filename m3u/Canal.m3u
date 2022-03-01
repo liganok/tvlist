@@ -233,7 +233,7 @@ http://192.168.10.38:8001/1:0:1:60:1:2A3:A00000:0:0:0:
 http://192.168.10.38:8001/1:0:19:19C:3:40:A00000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",[16E] Arena Sport 2 (HR)
-http://192.168.10.38:8001/1:0:19:710:C5A8:16E:A00000:0:0:0:
+http://192.168.10.38:8001/1:0:19:50:2:40:A00000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",[16E] Arena Sport 3 (HR)
 http://192.168.10.38:8001/1:0:1:6C:1:2A3:A00000:0:0:0:
@@ -245,13 +245,10 @@ http://192.168.10.38:8001/1:0:19:718:C5A8:16E:A00000:0:0:0:
 http://192.168.10.38:8001/1:0:19:BE:3:40:A00000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",[16E] Arena Sport 6 (HR)
-http://192.168.10.38:8001/1:0:19:719:C5A8:16E:A00000:0:0:0:
+http://192.168.10.38:8001/1:0:16:7F:2:40:A00000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",[16E] Arena Sport 7 (HR)
 http://192.168.10.38:8001/1:0:19:51:2:40:A00000:0:0:0:
-
-#EXTINF:-1 tvg-id="PremierSport.sk" tvg-logo="https://www.digisport.sk/wp-content/themes/digisport/img/logos/premier-sport.png" group-title="Sport",[16E] Premier Sport (SK)
-http://192.168.10.38:8001/1:0:19:7DE:9E98:16E:A00000:0:0:0:
 
 #EXTINF:-1 tvg-id="ElevenProLeague1FR.be" tvg-logo="http://watch.elevensports.be/watch_eleven_be/wp-content/uploads/2020/07/ELEVEN_PrimaryLogo_White.png" group-title="Sport",[19.2E] Eleven Sports Pro League 1
 http://192.168.10.38:8001/1:0:16:1034:451:35:C00000:0:0:0:
