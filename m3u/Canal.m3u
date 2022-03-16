@@ -120,6 +120,9 @@ http://mc2http.zattoo.com/225.176.3.108/.63
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="RU",Rossiya 24
 http://192.168.10.38:8001/1:0:1:6AE:3138:13E:820000:0:0:0:
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RU",NTV
+http://192.168.10.38:8001/1:0:1:6B1:3138:13E:820000:0:0:0:
+
 ###PT###
 #EXTINF:-1 tvg-id="RTP.1.HD.pt" tvg-logo="" group-title="PT",RTP 1
 http://192.168.10.38:8001/1:0:1:97:65:53:CE40000:0:0:0:
