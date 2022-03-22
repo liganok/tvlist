@@ -327,7 +327,7 @@ http://192.168.10.38:8001/1:0:11:2136:4FB0:7E:460000:0:0:0:
 http://192.168.10.38:8001/1:0:11:2142:4FB0:7E:460000:0:0:0:
 
 #EXTINF:-1 tvg-id="TRT.Müzik.tr" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/TRT_M%C3%BCzik_logo.svg/2560px-TRT_M%C3%BCzik_logo.svg.png" group-title="TR",TRT Müzik
-http://192.168.10.38:8001/1:0:1:213E:4FB0:7E:460000:0:0:0:
+http://192.168.10.38:8001/1:0:19:2970:7919:42E:1A40000:0:0:0:
 
 #EXTINF:-1 tvg-id="Kanal.D.HD.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/1e8c04a9d49ffcc04503/black/640x360.png" group-title="TR",KANAL D
 https://mn-nl.mncdn.com/blutv_kanald_dvr/live.m3u8
@@ -380,14 +380,11 @@ http://ztest-hls7-live.zahs.tv/HD_trt_spor_tr/master.m3u8
 #EXTINF:-1 tvg-id="TRT.Spor.2.HD.tr" tvg-name="" tvg-logo="http://trtkurumsal.trt.net.tr/Uploads/image/png/2021-05-19-16.06.31/58f9cdd55a694f5ba0acb1c1110dc4b1.png" group-title="TR",TRT Spor Yildiz
 http://192.168.10.38:8001/1:0:11:213D:4FB0:7E:460000:0:0:0:
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TR",TRT3 Spor
+http://192.168.10.38:8001/1:0:11:213B:4FB0:7E:460000:0:0:0:
+
 #EXTINF:-1 tvg-id="FB.TV.HD.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/deb180fa237fb75c9513/black/640x360.png" group-title="TR",Fenerbahçe TV
 http://192.168.10.38:8001/1:0:11:2072:52D0:7E:460000:0:0:0:
-
-#EXTINF:-1 tvg-id="beIN.SPORTS.HD.1.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/5a2b2088510c7c7007fc/black/640x360.png" group-title="TR",BEIN SPORTS 1 Test
-https://dt-live-bc-beinsports01.akamaized.net/ppv/beinsports01/beinsports01.isml/playlist.m3u8?hdnts=ip=93.232.140.188~st=1642176000~exp=1642189440~acl=/*~id=ac59299685~hmac=19e7f10c255e2f65cbdaa40f6f472431b4c58269c1472ad6dc9eb699a31ac326
-
-#EXTINF:-1 tvg-id="beIN.SPORTS.HD.2.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/35766ec02b06aa980179/black/640x360.png" group-title="TR",BEIN SPORTS 2 Test
-https://dt-live-bc-beinsports02.akamaized.net/ppv/beinsports02/beinsports02.isml/playlist.m3u8?hdnts=ip=93.232.140.188~st=1642176000~exp=1642189440~acl=/*~id=ac59299685~hmac=14316b7e29b67716e6ac6184d6ee01e2318fbef3a004ccc61548abd617d953c1
 
 ###UK###
 #EXTINF:-1 tvg-id="BBCOneHD.uk" tvg-name="" tvg-logo="https://images.zattic.com/logos/e7db7cde3a9bf2c6e694/black/640x360.png" group-title="UK",BBC One
@@ -534,6 +531,9 @@ http://192.168.10.38:8001/1:0:1F:D4F:1450:13E:820000:0:0:0:
 
 #EXTINF:-1 tvg-id="TravelXP4K.svn" tvg-logo="" group-title="UHD",TRAVELXP 4K
 http://192.168.10.38:8001/1:0:1:11FB:2B5C:13E:820000:0:0:0:
+
+#EXTINF:-1 tvg-id="TravelXP4K.svn" tvg-logo="" group-title="UHD",4K Heritage
+http://192.168.10.38:8001/1:0:1:7B:C:A:E080000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="UHD",	Extasy 4K
 http://192.168.10.38:8001/1:0:1F:259:C418:16E:A00000:0:0:0:
