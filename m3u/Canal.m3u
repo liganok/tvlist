@@ -281,11 +281,14 @@ http://192.168.10.38:8001/1:0:19:318:C94:3:EB0000:0:0:0:
 #EXTINF:-1 tvg-id="beIN.SPORTS.HD.1.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/5a2b2088510c7c7007fc/black/640x360.png" group-title="TR",BEIN SPORTS 1
 http://192.168.10.38:8001/1:0:11:CA:526C:7E:460000:0:0:0:
 
+#EXTINF:-1 tvg-id="beIN.HD.tr" tvg-name="" tvg-logo="" group-title="TR",BEIN
+http://192.168.10.38:8001/1:0:11:1E80:5208:7E:460000:0:0:0:
+
 #EXTINF:-1 tvg-id="beIN.GURME.HD.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/750ea3d3a22fcac23ab1/black/640x360.png" group-title="TR",BEIN GURME
-http://mc2http.zattoo.com/225.215.12.108/.63
+http://192.168.10.38:8001/1:0:11:CB:526C:7E:460000:0:0:0:
 
 #EXTINF:-1 tvg-id="beIN.İZ.HD.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/85091362415fe9bbaedc/black/640x360.png" group-title="TR",BEIN IZ
-http://mc2http.zattoo.com/225.215.12.107/.63
+http://192.168.10.38:8001/1:0:11:1FB6:50DC:7E:460000:0:0:0:
 
 #EXTINF:-1 tvg-id="beIN.MOVIES.TURK.HD.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/29c9e51b1cde3eef870b/black/640x360.png" group-title="TR",BEIN MOVIES TÜRK
 http://mc2http.zattoo.com/225.215.12.106/.63
@@ -300,7 +303,7 @@ http://192.168.10.38:8001/1:0:11:1D6E:C3B4:7E:460000:0:0:0:
 http://192.168.10.38:8001/1:0:11:1D6F:C3B4:7E:460000:0:0:0:
 
 #EXTINF:-1 tvg-id="Halk.TV.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/924cd55335a718069e1e/black/640x360.png" group-title="TR",HALK TV
-http://mc2http.zattoo.com/225.215.1.135/.63
+http://192.168.10.38:8001/1:0:11:1F50:5140:7E:460000:0:0:0:
 
 #EXTINF:-1 tvg-id="TELE.1.HD.tr" tvg-name="" tvg-logo="https://seeklogo.com/images/T/tele1-kanali-logo-D4DE153D5D-seeklogo.com.png" group-title="TR",TELE 1
 http://192.168.10.38:8001/1:0:11:14B9:C6D4:7E:460000:0:0:0:
@@ -385,6 +388,9 @@ http://192.168.10.38:8001/1:0:11:213B:4FB0:7E:460000:0:0:0:
 
 #EXTINF:-1 tvg-id="FB.TV.HD.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/deb180fa237fb75c9513/black/640x360.png" group-title="TR",Fenerbahçe TV
 http://192.168.10.38:8001/1:0:11:2072:52D0:7E:460000:0:0:0:
+
+#EXTINF:-1 tvg-id="GS.TV.HD.tr" tvg-name="" tvg-logo="" group-title="TR",GS TV
+http://192.168.10.38:8001/1:0:11:14B8:C6D4:7E:460000:0:0:0:
 
 ###UK###
 #EXTINF:-1 tvg-id="BBCOneHD.uk" tvg-name="" tvg-logo="https://images.zattic.com/logos/e7db7cde3a9bf2c6e694/black/640x360.png" group-title="UK",BBC One
