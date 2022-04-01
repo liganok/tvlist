@@ -330,7 +330,7 @@ http://192.168.10.38:8001/1:0:11:2142:4FB0:7E:460000:0:0:0:
 http://192.168.10.38:8001/1:0:19:2970:7919:42E:1A40000:0:0:0:
 
 #EXTINF:-1 tvg-id="Kanal.D.HD.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/1e8c04a9d49ffcc04503/black/640x360.png" group-title="TR",KANAL D
-https://mn-nl.mncdn.com/blutv_kanald_dvr/live.m3u8
+https://kanalddvr.blutv.com/blutv_kanald_dvr2/live_720p2000000/index.m3u8
 
 #EXTINF:-1 tvg-id="Show.TV.HD.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/f0f053a142f2bc8ba77e/black/640x360.png" group-title="TR",SHOW TV
 http://192.168.10.38:8001/1:0:11:26B:C47C:7E:460000:0:0:0:
@@ -339,7 +339,7 @@ http://192.168.10.38:8001/1:0:11:26B:C47C:7E:460000:0:0:0:
 http://192.168.10.38:8001/1:0:11:1EE1:51A4:7E:460000:0:0:0:
 
 #EXTINF:-1 tvg-id="Star.TV.HD.tr" tvg-name="" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/890x890/5dc2be53866ac331e0feb20e" group-title="TR",STAR
-https://mn-nl.mncdn.com/blutv_startv_dvr/live.m3u8
+https://startvdvr.blutv.com/blutv_startv_dvr2/live_720p2000000kbps/index.m3u8
 
 #EXTINF:-1 tvg-id="TV8.HD.tr" tvg-name="" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/660x660/5dc2bcd9866ac31da061879f" group-title="TR",TV 8
 http://192.168.10.38:8001/1:0:11:1EE4:51A4:7E:460000:0:0:0:
