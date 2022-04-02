@@ -115,7 +115,7 @@ http://mc2http.zattoo.com/225.251.10.4/.63
 
 ###Russia###
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="RU",Первый канал
-http://mc2http.zattoo.com/225.176.3.108/.63
+http://192.168.10.38:8001/1:0:1:2010:24B8:13E:820000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="RU",Россия-24
 http://192.168.10.38:8001/1:0:1:6AE:3138:13E:820000:0:0:0:
@@ -321,7 +321,7 @@ http://192.168.10.38:8001/1:0:11:271:C47C:7E:460000:0:0:0:
 http://192.168.10.38:8001/1:0:11:2141:4FB0:7E:460000:0:0:0:
 
 #EXTINF:-1 tvg-id="TRT.1.HD.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/3e90536bb751990bf093/black/640x360.png" group-title="TR",TRT 1
-http://mc2http.zattoo.com/225.215.6.101/.63
+http://192.168.10.38:8001/1:0:11:26C:C47C:7E:460000:0:0:0:
 
 #EXTINF:-1 tvg-id="TRT.2.HD.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/4d010eef74f1c05cd364/black/640x360.png" group-title="TR",TRT 2
 http://192.168.10.38:8001/1:0:11:2136:4FB0:7E:460000:0:0:0:
