@@ -63,6 +63,27 @@ http://192.168.10.38:8001/1:0:1:14:2:212C:1860000:0:0:0:
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ERT3_logo_2020.svg/487px-ERT3_logo_2020.svg.png" group-title="GR",ERT 3
 http://192.168.10.38:8001/1:0:1:23:2:212C:1860000:0:0:0:
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="GR",Nova Sports Start
+http://mc2http.zattoo.com/231.50.0.174/.1146
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="GR",Nova Sports Prime
+http://mc2http.zattoo.com/231.50.0.30/.1144
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="GR",Nova Sports 2
+http://mc2http.zattoo.com/231.50.0.31/.1144
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="GR",Nova Sports 3
+http://mc2http.zattoo.com/231.50.0.32/.1146
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="GR",Nova Sports 4
+http://mc2http.zattoo.com/231.50.0.33/.1146
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="GR",Nova Sports 5
+http://mc2http.zattoo.com/231.50.0.34/.1146
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="GR",Nova Sports 6
+http://mc2http.zattoo.com/231.50.0.175/.1146
+
 ###IR###
 #EXTINF:-1 tvg-id="IranIntl.uk" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Iran_International.svg/1200px-Iran_International.svg.png" group-title="IR",Iran International
 http://192.168.10.38:8001/1:0:1:1F5:384:13E:820000:0:0:0:
