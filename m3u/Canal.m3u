@@ -582,3 +582,7 @@ http://mc2http.zattoo.com/225.223.73.5/.63
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.zattic.com/logos/a1abce1038ab7712c7bd/black/640x360.png" group-title="UHD",Insight UHD
 http://mc2http.zattoo.com/224.255.103.1/.23
+
+###Test###
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Test",Sport 1 AT
+http://mc2http.zattoo.com/239.0.0.7:5570/.206
