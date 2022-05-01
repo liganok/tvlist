@@ -20,9 +20,11 @@ http://192.168.10.38:8001/1:0:1:6:2E18:B0:820000:0:0:0:
 #EXTINF:-1 tvg-logo="" group-title="Arabic",Tamazight (8)
 http://192.168.10.38:8001/1:0:1:F1:2E18:B0:820000:0:0:0:
 
+#EXTINF:-1 tvg-logo="" group-title="Arabic",MBC
+http://192.168.10.38:8001/1:0:1:1:1:1:D7AD3F:0:0:0:
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Aljazeera_mubasher.svg/300px-Aljazeera_mubasher.svg.png" group-title="Arabic",Al Jazeera Mubasher
 http://192.168.10.38:8001/1:0:1:2C2:1B58:13E:820000:0:0:0:
-
 
 ###BG###
 #EXTINF:-1 tvg-id="BNT1.bg" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/BNT_1_logo.svg/2880px-BNT_1_logo.svg.png" group-title="BG",БНТ 1
@@ -146,11 +148,60 @@ http://192.168.10.38:8001/1:0:1:D:1D36:1D36:2080000:0:0:0:
 http://192.168.10.38:8001/1:0:1:B:2506:2506:2080000:0:0:0:
 
 ###Italia###
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="IT",Sky Sport Uno
-http://mc2http.zattoo.com/225.251.10.3/.63
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="IT",Sky Sport Football
-http://mc2http.zattoo.com/225.251.10.4/.63
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="IT",Rai 1
+http://192.168.10.38:8001/1:0:19:D49:1450:13E:820000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="IT",Rai 2
+http://192.168.10.38:8001/1:0:19:D4A:1450:13E:820000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="IT",Rai 3
+http://192.168.10.38:8001/1:0:19:D4B:1450:13E:820000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="IT",Rai 4
+http://192.168.10.38:8001/1:0:19:D4D:1450:13E:820000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="IT",Rai 5
+http://192.168.10.38:8001/1:0:19:4534:30D4:13E:820000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="IT",Rai Gulp
+http://192.168.10.38:8001/1:0:19:4530:30D4:13E:820000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="IT",Rai News 24
+http://192.168.10.38:8001/1:0:19:452F:30D4:13E:820000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="IT",Rai Premium
+http://192.168.10.38:8001/1:0:19:214A:3070:13E:820000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="IT",Rai Scuola
+http://192.168.10.38:8001/1:0:19:2149:3070:13E:820000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="IT",Rai Movie
+http://192.168.10.38:8001/1:0:19:D4E:1450:13E:820000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="IT",Rai Sport +
+http://192.168.10.38:8001/1:0:19:4532:30D4:13E:820000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="IT",Rai Storia
+http://192.168.10.38:8001/1:0:19:2146:3070:13E:820000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="IT",20 Mediaset
+http://192.168.10.38:8001/1:0:19:78:4B0:110:820000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="IT",Italia 1
+http://192.168.10.38:8001/1:0:19:79:4B0:110:820000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="IT",Canale 5
+http://192.168.10.38:8001/1:0:19:7A:4B0:110:820000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="IT",Rete 4
+http://192.168.10.38:8001/1:0:19:7B:4B0:110:820000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="IT",La 7
+http://192.168.10.38:8001/1:0:19:4F:1770:110:820000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="IT",27 Twentyseven
+http://192.168.10.38:8001/1:0:19:87:4B0:110:820000:0:0:0:
 
 ###Russia###
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="RU",Первый канал
