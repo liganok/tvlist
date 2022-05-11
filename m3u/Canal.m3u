@@ -372,14 +372,11 @@ http://192.168.10.38:8001/1:0:19:318:C94:3:EB0000:0:0:0:
 #EXTINF:-1 tvg-id="beIN.SPORTS.HD.1.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/5a2b2088510c7c7007fc/black/640x360.png" group-title="TR",BEIN SPORTS 1
 http://192.168.10.38:8001/1:0:11:CA:526C:7E:460000:0:0:0:
 
-#EXTINF:-1 tvg-id="beIN.HD.tr" tvg-name="" tvg-logo="" group-title="TR",BEIN
-http://192.168.10.38:8001/1:0:11:1E80:5208:7E:460000:0:0:0:
-
 #EXTINF:-1 tvg-id="beIN.GURME.HD.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/750ea3d3a22fcac23ab1/black/640x360.png" group-title="TR",BEIN GURME
-http://192.168.10.38:8001/1:0:11:CB:526C:7E:460000:0:0:0:
+http://mc2http.zattoo.com/225.215.12.108/.63
 
 #EXTINF:-1 tvg-id="beIN.İZ.HD.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/85091362415fe9bbaedc/black/640x360.png" group-title="TR",BEIN IZ
-http://192.168.10.38:8001/1:0:11:1FB6:50DC:7E:460000:0:0:0:
+http://mc2http.zattoo.com/225.215.12.107/.63
 
 #EXTINF:-1 tvg-id="beIN.MOVIES.TURK.HD.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/29c9e51b1cde3eef870b/black/640x360.png" group-title="TR",BEIN MOVIES TÜRK
 http://mc2http.zattoo.com/225.215.12.106/.63
@@ -394,7 +391,7 @@ http://192.168.10.38:8001/1:0:11:1D6E:C3B4:7E:460000:0:0:0:
 http://192.168.10.38:8001/1:0:11:1D6F:C3B4:7E:460000:0:0:0:
 
 #EXTINF:-1 tvg-id="Halk.TV.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/924cd55335a718069e1e/black/640x360.png" group-title="TR",HALK TV
-http://192.168.10.38:8001/1:0:11:1F50:5140:7E:460000:0:0:0:
+http://mc2http.zattoo.com/225.215.1.135/.63
 
 #EXTINF:-1 tvg-id="TELE.1.HD.tr" tvg-name="" tvg-logo="https://seeklogo.com/images/T/tele1-kanali-logo-D4DE153D5D-seeklogo.com.png" group-title="TR",TELE 1
 http://192.168.10.38:8001/1:0:11:14B9:C6D4:7E:460000:0:0:0:
@@ -412,7 +409,7 @@ http://192.168.10.38:8001/1:0:11:271:C47C:7E:460000:0:0:0:
 http://192.168.10.38:8001/1:0:11:2141:4FB0:7E:460000:0:0:0:
 
 #EXTINF:-1 tvg-id="TRT.1.HD.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/3e90536bb751990bf093/black/640x360.png" group-title="TR",TRT 1
-http://192.168.10.38:8001/1:0:11:26C:C47C:7E:460000:0:0:0:
+http://mc2http.zattoo.com/225.215.6.101/.63
 
 #EXTINF:-1 tvg-id="TRT.2.HD.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/4d010eef74f1c05cd364/black/640x360.png" group-title="TR",TRT 2
 http://192.168.10.38:8001/1:0:11:2136:4FB0:7E:460000:0:0:0:
@@ -448,7 +445,7 @@ https://mn-nl.mncdn.com/blutv_ucankus2/live_720p2000000kbps/index.m3u8
 http://192.168.10.38:8001/1:0:11:1E7E:5208:7E:460000:0:0:0:
 
 #EXTINF:-1 tvg-id="TV.100.HD.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/c00da9370a97d2b79461/black/640x360.png" group-title="TR",TV 100
-http://ztest-hls7-live.zahs.tv/HD_tv_100_tr/master.m3u8
+http://mc2http.zattoo.com/225.215.11.232/.63
 
 #EXTINF:-1 tvg-id="TRT.EBATV.İLKOKUL.HD.tr" tvg-name="" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w120/h120/q70/8886648.png" group-title="TR",TRT Eba İlkokul
 http://192.168.10.38:8001/1:0:11:61B:C418:7E:460000:0:0:0:
@@ -469,7 +466,7 @@ http://192.168.10.38:8001/1:0:19:76E:9:42:1A40000:0:0:0:
 http://192.168.10.38:8001/1:0:19:76F:9:42:1A40000:0:0:0:
 
 #EXTINF:-1 tvg-id="TRT.SPOR.HD.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/b6a74d38677c0f673456/black/640x360.png" group-title="TR",TRT Spor
-http://ztest-hls7-live.zahs.tv/HD_trt_spor_tr/master.m3u8
+http://mc2http.zattoo.com/225.215.6.103/.63
 
 #EXTINF:-1 tvg-id="TRT.Spor.2.HD.tr" tvg-name="" tvg-logo="http://trtkurumsal.trt.net.tr/Uploads/image/png/2021-05-19-16.06.31/58f9cdd55a694f5ba0acb1c1110dc4b1.png" group-title="TR",TRT Spor Yildiz
 http://192.168.10.38:8001/1:0:11:213D:4FB0:7E:460000:0:0:0:
