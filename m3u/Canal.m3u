@@ -317,8 +317,17 @@ http://192.168.10.38:8001/1:0:19:1B92:41:46:E080000:0:0:0:
 #EXTINF:-1 tvg-id="Aréna4.hu" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/a/a3/Arena_4_Network_4.png/revision/latest/scale-to-width-down/235?cb=20200410160344" group-title="Sport",[0.8E] Arena4 (HU)
 http://192.168.10.38:8001/1:0:19:7664:2BF:600:E080000:0:0:0:
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",[0.8E] Look Sport 3 (RO)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",[0.8E] Prima Sport 1 (RO)
+http://192.168.10.38:8001/1:0:19:772F:2C1:600:E080000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",[0.8E] Prima Sport 2 (RO)
+http://192.168.10.38:8001/1:0:19:7672:2BF:600:E080000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",[0.8E] Prima Sport 3 (RO)
 http://192.168.10.38:8001/1:0:19:7730:2C1:600:E080000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",[0.8E] Prima Sport 4 (RO)
+http://192.168.10.38:8001/1:0:19:7663:2BF:600:E080000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",[16E] Sport Klub 1 (RS)
 http://192.168.10.38:8001/1:0:16:56:2:40:A00000:0:0:0:
@@ -329,11 +338,17 @@ http://192.168.10.38:8001/1:0:1:5F:1:2A3:A00000:0:0:0:
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",[16E] Sport Klub 3 (RS)
 http://192.168.10.38:8001/1:0:1:60:1:2A3:A00000:0:0:0:
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",[16E] Arena Sport 1 (HR)
+http://192.168.10.38:8001/1:0:19:19C:3:40:A00000:0:0:0:
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",[16E] Arena Sport 2 (HR)
 http://192.168.10.38:8001/1:0:19:710:C5A8:16E:A00000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",[16E] Arena Sport 4 (HR)
 http://192.168.10.38:8001/1:0:19:718:C5A8:16E:A00000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",[16E] Arena Sport 5 (HR)
+http://192.168.10.38:8001/1:0:19:BE:3:40:A00000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",[16E] Arena Sport 6 (HR)
 http://192.168.10.38:8001/1:0:19:719:C5A8:16E:A00000:0:0:0:
@@ -367,6 +382,21 @@ http://192.168.10.38:8001/1:0:19:334B:C93:3:EB0000:0:0:0:
 
 #EXTINF:-1 tvg-id="Sport2.cz" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/sport_2_cz_logo.png" group-title="Sport",[23.5E] Sport 2 (CZ)
 http://192.168.10.38:8001/1:0:19:318:C94:3:EB0000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",[39E] Orange Sport 1 (RO)
+http://192.168.10.38:8001/1:0:19:11D:2:1C:1860000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",[39E] Orange Sport 2 (RO)
+http://192.168.10.38:8001/1:0:19:11F:3:1C:1860000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",[39E] Orange Sport 3 (RO)
+http://192.168.10.38:8001/1:0:19:19A:3:1C:1860000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",[39E] Orange Sport 4 (RO)
+http://192.168.10.38:8001/1:0:19:19B:3:1C:1860000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",[52E] Turkmenistan Sport 4 (TM)
+http://192.168.10.38:8001/1:0:1:CF:1:1:208B00F:0:0:0:
 
 ###TR###
 #EXTINF:-1 tvg-id="beIN.SPORTS.HD.1.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/5a2b2088510c7c7007fc/black/640x360.png" group-title="TR",BEIN SPORTS 1
