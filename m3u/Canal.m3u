@@ -233,15 +233,6 @@ http://192.168.10.38:8001/1:0:1:57A:68:53:CE40000:0:0:0:
 #EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" tvg-logo="" group-title="PT",SPORT TV 3
 http://192.168.10.38:8001/1:0:1:57B:68:53:CE40000:0:0:0:
 
-#EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" tvg-logo="" group-title="PT",SPORT TV 4
-http://192.168.10.38:8001/1:0:1:1783:26:36:CE40000:0:0:0:
-
-#EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" tvg-logo="" group-title="PT",SPORT TV 5
-http://192.168.10.38:8001/1:0:1:ED9:26:36:CE40000:0:0:0:
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PT",SPORT TV 6
-http://192.168.10.38:8001/1:0:1:EDB:26:36:CE40000:0:0:0:
-
 #EXTINF:-1 tvg-id="ELEVEN.SPORTS.1.pt" tvg-logo="" group-title="PT",Eleven Sports 1
 http://192.168.10.38:8001/1:0:1:209:27:36:CE40000:0:0:0:
 
@@ -262,17 +253,26 @@ http://192.168.10.38:8001/1:0:1:1B60:3FC:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="LA1.es" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/rwwwxv1441657735.png" group-title="ESP",La 1
 http://192.168.10.38:8001/1:0:19:7863:41A:1:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="" tvg-logo="" group-title="ESP",Telecinco
-http://192.168.10.38:8001/1:0:19:7536:426:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ESP",La 2
+http://192.168.10.38:8001/1:0:1:7474:3F0:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-id="Antena3.es" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Antena3_Atresmedia.png" group-title="ESP",Antenna 3
 http://192.168.10.38:8001/1:0:19:7534:426:1:C00000:0:0:0:
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ESP",Cuatro
+http://192.168.10.38:8001/1:0:19:7535:426:1:C00000:0:0:0:
+
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="" tvg-logo="" group-title="ESP",Telecinco
+http://192.168.10.38:8001/1:0:19:7536:426:1:C00000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ESP",La Sexta
+http://192.168.10.38:8001/1:0:19:7537:426:1:C00000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://culturapolis.es/wp-content/uploads/2020/03/Movistar_0.png" group-title="ESP",#0
+http://192.168.10.38:8001/1:0:19:788C:414:1:C00000:0:0:0:
+
 #EXTINF:-1 tvg-id="Vamos.es" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/movistar_vamos.png" group-title="ESP",#VAMOS
 http://192.168.10.38:8001/1:0:19:750A:420:1:C00000:0:0:0:
-
-#EXTINF:-1 tvg-id="Vamos.es" tvg-name="" tvg-logo="https://culturapolis.es/wp-content/uploads/2020/03/Movistar_0.png" group-title="ESP",#0
-http://192.168.10.38:8001/1:0:19:788C:414:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-id="M.LaLiga.es" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/Movistar_LaLiga.png" group-title="ESP",Movistar La Liga 
 http://192.168.10.38:8001/1:0:19:750F:420:1:C00000:0:0:0:
@@ -285,12 +285,6 @@ http://192.168.10.38:8001/1:0:19:74CD:3F8:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-id="M.LaLiga3.es" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/Movistar_LaLiga_3.png" group-title="ESP",Movistar La Liga 3
 http://192.168.10.38:8001/1:0:19:74D3:3F8:1:C00000:0:0:0:
-
-#EXTINF:-1 tvg-id="DAZN1.es" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/hhb7im1615315057.png" group-title="ESP",DAZN 1
-http://192.168.10.38:8001/1:0:19:7855:41A:1:C00000:0:0:0:
-
-#EXTINF:-1 tvg-id="DAZN2.es" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/g8hxob1615314936.png" group-title="ESP",DAZN 2
-http://192.168.10.38:8001/1:0:19:785F:41A:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-id="M.Deportes.es" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/movistar_deportes.png" group-title="ESP",Movistar Deportes
 http://192.168.10.38:8001/1:0:19:7828:428:1:C00000:0:0:0:
@@ -306,6 +300,24 @@ http://192.168.10.38:8001/1:0:19:74D5:3F8:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-id="M.LigaCampeones2.es" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/Movistar_Liga_de_Campeones_2.png" group-title="ESP",Movistar Liga de Campeones 2
 http://192.168.10.38:8001/1:0:19:74DB:3F8:1:C00000:0:0:0:
+
+#EXTINF:-1 tvg-id="DAZN1.es" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/hhb7im1615315057.png" group-title="ESP",DAZN 1
+http://192.168.10.38:8001/1:0:19:7855:41A:1:C00000:0:0:0:
+
+#EXTINF:-1 tvg-id="DAZN2.es" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/g8hxob1615314936.png" group-title="ESP",DAZN 2
+http://192.168.10.38:8001/1:0:19:785F:41A:1:C00000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ESP",DAZN 3
+http://192.168.10.38:8001/1:0:19:74D8:3F8:1:C00000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ESP",DAZN 4
+http://192.168.10.38:8001/1:0:19:74D6:3F8:1:C00000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ESP",DAZN F1
+http://192.168.10.38:8001/1:0:19:7531:426:1:C00000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ESP",Barça TV
+http://192.168.10.38:8001/1:0:1:74A0:41C:1:C00000:0:0:0:
 
 ###Sport###
 #EXTINF:-1 tvg-id="TV3Sport1.dk" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/7/78/TV3_Sport_%282019-.n.v.%29.png/revision/latest?cb=20190226185314" group-title="Sport",[0.8E] TV3 Sport (DK)
