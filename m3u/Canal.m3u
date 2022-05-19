@@ -84,9 +84,6 @@ http://192.168.10.38:8001/1:0:1:28:2:212C:1860000:0:0:0:
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/ERT2_logo_2020.svg/2560px-ERT2_logo_2020.svg.png" group-title="GR",ERT 2
 http://192.168.10.38:8001/1:0:1:14:2:212C:1860000:0:0:0:
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ERT3_logo_2020.svg/487px-ERT3_logo_2020.svg.png" group-title="GR",ERT 3
-http://192.168.10.38:8001/1:0:1:23:2:212C:1860000:0:0:0:
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="GR",Nova Sports Start
 http://mc2http.zattoo.com/231.50.0.174/.1146
 
@@ -333,16 +330,19 @@ http://192.168.10.38:8001/1:0:19:7663:2BF:600:E080000:0:0:0:
 http://192.168.10.38:8001/1:0:16:56:2:40:A00000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",[16E] Sport Klub 2 (RS)
-http://192.168.10.38:8001/1:0:1:5F:1:2A3:A00000:0:0:0:
+http://192.168.10.38:8001/1:0:16:5F:1:40:A00000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",[16E] Sport Klub 3 (RS)
-http://192.168.10.38:8001/1:0:1:60:1:2A3:A00000:0:0:0:
+http://192.168.10.38:8001/1:0:16:60:1:40:A00000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",[16E] Arena Sport 1 (HR)
 http://192.168.10.38:8001/1:0:19:19C:3:40:A00000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",[16E] Arena Sport 2 (HR)
 http://192.168.10.38:8001/1:0:19:710:C5A8:16E:A00000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",[16E] Arena Sport 3 (HR)
+http://192.168.10.38:8001/1:0:19:6C:1:40:A00000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",[16E] Arena Sport 4 (HR)
 http://192.168.10.38:8001/1:0:19:718:C5A8:16E:A00000:0:0:0:
