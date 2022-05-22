@@ -678,7 +678,7 @@ http://192.168.10.38:8001/1:0:1F:259:C418:16E:A00000:0:0:0:
 http://mc2http.zattoo.com/224.78.79.52/.23
 
 #EXTINF:-1 tvg-id="SkySportUHD.de" tvg-logo="https://images.zattic.com/logos/48ad0a94712c47358eb2/black/640x360.png" group-title="UHD",Sky Sport UHD
-http://mc2http.zattoo.com/225.78.79.52/.63
+http://mc2http.zattoo.com/224.78.79.53/.23
 
 #EXTINF:-1 tvg-id="RMCSport4K.fr" tvg-logo="https://images.zattic.com/logos/688b0a64daff7b8acc35/black/640x360.png" group-title="UHD",RMC Sport UHD
 http://mc2http.zattoo.com/225.72.27.21/.63
