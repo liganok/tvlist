@@ -651,10 +651,10 @@ http://mc2http.fll.zattoo.com/239.1.24.35:8208/.95
 
 ###UHD###
 
-#EXTINF:-1 tvg-id="TravelXP4K.svn" tvg-logo="" group-title="UHD",[0.8W]4K Heritage
+#EXTINF:-1 tvg-id="TravelXP4K.svn" tvg-logo="" group-title="UHD",[0.8W]4K Heritage (FTA)
 http://192.168.10.38:8001/1:0:1:7B:C:A:E080000:0:0:0:
 
-#EXTINF:-1 tvg-id="TravelXP4K.svn" tvg-logo="" group-title="UHD",[13E]4K Heritage
+#EXTINF:-1 tvg-id="TravelXP4K.svn" tvg-logo="" group-title="UHD",[13E]HotBird 4K1 (FTA)
 http://192.168.10.38:8001/1:0:1:11:2BC:13E:820000:0:0:0:
 
 #EXTINF:-1 tvg-id="TravelXP4K.svn" tvg-logo="" group-title="UHD",[13E]TRAVELXP 4K
@@ -666,7 +666,7 @@ http://192.168.10.38:8001/1:0:1:BC5:20D0:13E:820000:0:0:0:
 #EXTINF:-1 tvg-id="Rai4K.it" tvg-logo="" group-title="UHD",[13E] Rai 4K
 http://192.168.10.38:8001/1:0:1F:D4F:1450:13E:820000:0:0:0:
 
-#EXTINF:-1 tvg-id="Rai4K.it" tvg-logo="" group-title="UHD",[13E] Fashion TV 4K
+#EXTINF:-1 tvg-id="Rai4K.it" tvg-logo="" group-title="UHD",[13E] Fashion TV 4K (FTA)
 http://192.168.10.38:8001/1:0:1:BC4:20D0:13E:820000:0:0:0:
 
 #EXTINF:-1 tvg-id="Rai4K.it" tvg-logo="" group-title="UHD",[13E] MyZen 4K
@@ -687,13 +687,19 @@ http://192.168.10.38:8001/1:0:1F:183D:40B:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="UHD1.de" tvg-logo="" group-title="UHD",[19.2E] UHD1 by ASTRA / HD+
 http://192.168.10.38:8001/1:0:1F:2:40B:1:C00000:0:0:0:
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UHD",[19.2E]SES UHD Demo (FTA)
+http://192.168.10.38:8001/1:0:1F:1:40B:1:C00000:0:0:0:
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="UHD",[19.2E] Canal+
 http://192.168.10.38:8001/1:0:1F:2661:460:1:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UHD",[28.2E]SES UHD Demo
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UHD",[19.2E] QVC UHD (FTA)
+http://192.168.10.38:8001/1:0:1F:1086:3EE:1:C00000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UHD",[28.2E]SES UHD Demo (FTA)
 http://192.168.10.38:8001/1:0:1F:1CEA:7F6:2:11A0000:0:0:0:
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UHD",[28.2E]Astra UHD Demo
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UHD",[28.2E]Astra UHD Demo (FTA)
 http://192.168.10.38:8001/1:0:1F:1CE8:7F6:2:11A0000:0:0:0:
 
 #EXTINF:-1 tvg-id="SkySportBundesligaUHD.de" tvg-logo="https://images.zattic.com/logos/b5c02236036fbd24b7fb/black/640x360.png" group-title="UHD",Sky Sport Bundesliga UHD
