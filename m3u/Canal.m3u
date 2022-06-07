@@ -650,29 +650,51 @@ http://mc2http.fll.zattoo.com/239.1.22.20:8208/.95
 http://mc2http.fll.zattoo.com/239.1.24.35:8208/.95
 
 ###UHD###
+
+#EXTINF:-1 tvg-id="TravelXP4K.svn" tvg-logo="" group-title="UHD",[0.8W]4K Heritage
+http://192.168.10.38:8001/1:0:1:7B:C:A:E080000:0:0:0:
+
+#EXTINF:-1 tvg-id="TravelXP4K.svn" tvg-logo="" group-title="UHD",[13E]4K Heritage
+http://192.168.10.38:8001/1:0:1:11:2BC:13E:820000:0:0:0:
+
+#EXTINF:-1 tvg-id="TravelXP4K.svn" tvg-logo="" group-title="UHD",[13E]TRAVELXP 4K
+http://192.168.10.38:8001/1:0:1:11FB:2B5C:13E:820000:0:0:0:
+
+#EXTINF:-1 tvg-id="TravelXP4K.svn" tvg-logo="" group-title="UHD",[13E]Love Nature 4K
+http://192.168.10.38:8001/1:0:1:BC5:20D0:13E:820000:0:0:0:
+
+#EXTINF:-1 tvg-id="Rai4K.it" tvg-logo="" group-title="UHD",[13E] Rai 4K
+http://192.168.10.38:8001/1:0:1F:D4F:1450:13E:820000:0:0:0:
+
+#EXTINF:-1 tvg-id="Rai4K.it" tvg-logo="" group-title="UHD",[13E] Fashion TV 4K
+http://192.168.10.38:8001/1:0:1:BC4:20D0:13E:820000:0:0:0:
+
+#EXTINF:-1 tvg-id="Rai4K.it" tvg-logo="" group-title="UHD",[13E] MyZen 4K
+http://192.168.10.38:8001/1:0:1:BE0:20D0:13E:820000:0:0:0:
+
+#EXTINF:-1 tvg-id="Rai4K.it" tvg-logo="" group-title="UHD",[13E] Eleven Sports 1 4K
+http://192.168.10.38:8001/1:0:1F:113F:2AF8:13E:820000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UHD",[16E]	Extasy 4K
+http://192.168.10.38:8001/1:0:1F:259:C418:16E:A00000:0:0:0:
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="UHD",RTL UHD
 http://mc2http.zattoo.com/224.78.193.13/.23
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UHD",Pro7Sat.1 UHD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UHD",[19.2E] Pro7Sat.1 UHD
 http://192.168.10.38:8001/1:0:1F:183D:40B:1:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="UHD1.de" tvg-logo="" group-title="UHD",UHD1 by ASTRA / HD+
+#EXTINF:-1 tvg-id="UHD1.de" tvg-logo="" group-title="UHD",[19.2E] UHD1 by ASTRA / HD+
 http://192.168.10.38:8001/1:0:1F:2:40B:1:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UHD",Canal+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UHD",[19.2E] Canal+
 http://192.168.10.38:8001/1:0:1F:2661:460:1:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="Rai4K.it" tvg-logo="" group-title="UHD",Rai 4K
-http://192.168.10.38:8001/1:0:1F:D4F:1450:13E:820000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UHD",[28.2E]SES UHD Demo
+http://192.168.10.38:8001/1:0:1F:1CEA:7F6:2:11A0000:0:0:0:
 
-#EXTINF:-1 tvg-id="TravelXP4K.svn" tvg-logo="" group-title="UHD",TRAVELXP 4K
-http://192.168.10.38:8001/1:0:1:11FB:2B5C:13E:820000:0:0:0:
-
-#EXTINF:-1 tvg-id="TravelXP4K.svn" tvg-logo="" group-title="UHD",4K Heritage
-http://192.168.10.38:8001/1:0:1:7B:C:A:E080000:0:0:0:
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UHD",	Extasy 4K
-http://192.168.10.38:8001/1:0:1F:259:C418:16E:A00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UHD",[28.2E]Astra UHD Demo
+http://192.168.10.38:8001/1:0:1F:1CE8:7F6:2:11A0000:0:0:0:
 
 #EXTINF:-1 tvg-id="SkySportBundesligaUHD.de" tvg-logo="https://images.zattic.com/logos/b5c02236036fbd24b7fb/black/640x360.png" group-title="UHD",Sky Sport Bundesliga UHD
 http://mc2http.zattoo.com/224.78.79.52/.23
@@ -691,7 +713,3 @@ http://mc2http.zattoo.com/225.223.73.5/.63
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.zattic.com/logos/a1abce1038ab7712c7bd/black/640x360.png" group-title="UHD",Insight UHD
 http://mc2http.zattoo.com/224.255.103.1/.23
-
-###Test###
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Test",Sport 1 AT
-http://mc2http.zattoo.com/239.0.0.7:5570/.206
