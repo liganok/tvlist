@@ -424,13 +424,13 @@ http://192.168.10.38:8001/1:0:1:CF:1:1:208B00F:0:0:0:
 http://192.168.10.38:8001/1:0:11:CA:526C:7E:460000:0:0:0:
 
 #EXTINF:-1 tvg-id="beIN.GURME.HD.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/750ea3d3a22fcac23ab1/black/640x360.png" group-title="TR",BEIN GURME
-http://192.168.10.38:8001/1:0:11:CB:526C:7E:460000:0:0:0:
+http://mc2http.zattoo.com/225.215.12.108/.63
 
 #EXTINF:-1 tvg-id="beIN.İZ.HD.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/85091362415fe9bbaedc/black/640x360.png" group-title="TR",BEIN IZ
-http://192.168.10.38:8001/1:0:11:1FB6:50DC:7E:460000:0:0:0:
+http://mc2http.zattoo.com/225.215.12.107/.63
 
 #EXTINF:-1 tvg-id="beIN.MOVIES.TURK.HD.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/29c9e51b1cde3eef870b/black/640x360.png" group-title="TR",BEIN MOVIES TÜRK
-http://192.168.10.38:8001/1:0:11:CC:526C:7E:460000:0:0:0:
+http://mc2http.zattoo.com/225.215.12.106/.63
 
 #EXTINF:-1 tvg-id="HABERTURK.HD.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/e61e6278fa0cce16a39b/black/640x360.png" group-title="TR",HABER TÜRK
 http://192.168.10.38:8001/1:0:11:258:C47C:7E:460000:0:0:0:
@@ -442,7 +442,7 @@ http://192.168.10.38:8001/1:0:11:1D6E:C3B4:7E:460000:0:0:0:
 http://192.168.10.38:8001/1:0:11:1D6F:C3B4:7E:460000:0:0:0:
 
 #EXTINF:-1 tvg-id="Halk.TV.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/924cd55335a718069e1e/black/640x360.png" group-title="TR",HALK TV
-http://192.168.10.38:8001/1:0:11:1F50:5140:7E:460000:0:0:0:
+http://mc2http.zattoo.com/225.215.1.135/.63
 
 #EXTINF:-1 tvg-id="TELE.1.HD.tr" tvg-name="" tvg-logo="https://seeklogo.com/images/T/tele1-kanali-logo-D4DE153D5D-seeklogo.com.png" group-title="TR",TELE 1
 http://192.168.10.38:8001/1:0:11:14B9:C6D4:7E:460000:0:0:0:
@@ -460,7 +460,7 @@ http://192.168.10.38:8001/1:0:11:271:C47C:7E:460000:0:0:0:
 http://192.168.10.38:8001/1:0:11:2141:4FB0:7E:460000:0:0:0:
 
 #EXTINF:-1 tvg-id="TRT.1.HD.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/3e90536bb751990bf093/black/640x360.png" group-title="TR",TRT 1
-http://192.168.10.38:8001/1:0:11:26C:C47C:7E:460000:0:0:0:
+http://mc2http.zattoo.com/225.215.6.101/.63
 
 #EXTINF:-1 tvg-id="TRT.2.HD.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/4d010eef74f1c05cd364/black/640x360.png" group-title="TR",TRT 2
 http://192.168.10.38:8001/1:0:11:2136:4FB0:7E:460000:0:0:0:
@@ -517,7 +517,7 @@ http://192.168.10.38:8001/1:0:19:76E:9:42:1A40000:0:0:0:
 http://192.168.10.38:8001/1:0:19:76F:9:42:1A40000:0:0:0:
 
 #EXTINF:-1 tvg-id="TRT.SPOR.HD.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/b6a74d38677c0f673456/black/640x360.png" group-title="TR",TRT Spor
-http://192.168.10.38:8001/1:0:11:2143:4FB0:7E:460000:0:0:0:
+http://mc2http.zattoo.com/225.215.6.103/.63
 
 #EXTINF:-1 tvg-id="TRT.Spor.2.HD.tr" tvg-name="" tvg-logo="http://trtkurumsal.trt.net.tr/Uploads/image/png/2021-05-19-16.06.31/58f9cdd55a694f5ba0acb1c1110dc4b1.png" group-title="TR",TRT Spor Yildiz
 http://192.168.10.38:8001/1:0:11:213D:4FB0:7E:460000:0:0:0:
@@ -660,25 +660,31 @@ http://mc2http.fll.zattoo.com/239.1.24.35:8208/.95
 
 ###UHD###
 
-#EXTINF:-1 tvg-id="TravelXP4K.svn" tvg-logo="" group-title="UHD",[0.8W]4K Heritage (FTA)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UHD",[30W]Funbox UHD
+http://mc2http.zattoo.com/224.3.6.1/.23
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UHD",[0.8W]4K Heritage (FTA)
 http://192.168.10.38:8001/1:0:1:7B:C:A:E080000:0:0:0:
 
-#EXTINF:-1 tvg-id="TravelXP4K.svn" tvg-logo="" group-title="UHD",[13E]HotBird 4K1 (FTA)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UHD",[13E]HotBird 4K1 (FTA)
 http://192.168.10.38:8001/1:0:1:11:2BC:13E:820000:0:0:0:
 
-#EXTINF:-1 tvg-id="TravelXP4K.svn" tvg-logo="" group-title="UHD",[13E]TRAVELXP 4K
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UHD",[13E]TRAVELXP 4K
 http://192.168.10.38:8001/1:0:1:11FB:2B5C:13E:820000:0:0:0:
 
-#EXTINF:-1 tvg-id="TravelXP4K.svn" tvg-logo="" group-title="UHD",[13E]Love Nature 4K
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UHD",[13E]Love Nature 4K
 http://192.168.10.38:8001/1:0:1:BC5:20D0:13E:820000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UHD",[13E]Ultra Nature 4K
+http://mc2http.zattoo.com/228.1.1.121:5000/.425
 
 #EXTINF:-1 tvg-id="Rai4K.it" tvg-logo="" group-title="UHD",[13E] Rai 4K
 http://192.168.10.38:8001/1:0:1F:D4F:1450:13E:820000:0:0:0:
 
-#EXTINF:-1 tvg-id="Rai4K.it" tvg-logo="" group-title="UHD",[13E] Fashion TV 4K (FTA)
-http://192.168.10.38:8001/1:0:1:BC4:20D0:13E:820000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UHD",[13E] Fashion TV 4K (FTA)
+http://mc2http.zattoo.com/225.72.28.1/.63
 
-#EXTINF:-1 tvg-id="Rai4K.it" tvg-logo="" group-title="UHD",[13E] MyZen 4K
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UHD",[13E] MyZen 4K
 http://192.168.10.38:8001/1:0:1:BE0:20D0:13E:820000:0:0:0:
 
 #EXTINF:-1 tvg-id="Rai4K.it" tvg-logo="" group-title="UHD",[13E] Eleven Sports 1 4K
@@ -694,10 +700,10 @@ http://mc2http.zattoo.com/224.78.193.13/.23
 http://192.168.10.38:8001/1:0:1F:183D:40B:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-id="UHD1.de" tvg-logo="" group-title="UHD",[19.2E] UHD1 by ASTRA / HD+
-http://192.168.10.38:8001/1:0:1F:2:40B:1:C00000:0:0:0:
+http://mc2http.zattoo.com/225.78.84.1/.63
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="UHD",[19.2E]SES UHD Demo (FTA)
-http://192.168.10.38:8001/1:0:1F:1:40B:1:C00000:0:0:0:
+http://mc2http.zattoo.com/225.3.0.1/.63
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="UHD",[19.2E] Canal+
 http://192.168.10.38:8001/1:0:1F:2661:460:1:C00000:0:0:0:
