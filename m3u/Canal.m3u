@@ -734,3 +734,8 @@ http://mc2http.zattoo.com/225.223.73.5/.63
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.zattic.com/logos/a1abce1038ab7712c7bd/black/640x360.png" group-title="UHD",Insight UHD
 http://mc2http.zattoo.com/224.255.103.1/.23
+
+###Test###
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Test",[30W]Test Akamai
+https://dt-live-bc.akamaized.net/bc/bmactionorg/bmactionorgd.isml/playlist.m3u8?hdnts=ip=93.232.141.199~st=1657459420~exp=1657632220~acl=/*~id=ac59299685%7C1657556620548~hmac=b96541948957c0a99f71483f242e50f219a084cecbd23ace0957b351a5dd10df
