@@ -424,7 +424,7 @@ http://192.168.10.38:8001/1:0:1:CF:1:1:208B00F:0:0:0:
 
 ###TR###
 #EXTINF:-1 tvg-id="beIN.SPORTS.HD.1.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/5a2b2088510c7c7007fc/black/640x360.png" group-title="TR",BEIN SPORTS 1
-http://192.168.10.38:8001/1:0:11:CA:526C:7E:460000:0:0:0:
+http://192.168.10.38:8001/1:0:11:3725:4E85:2A:1A40000:0:0:0:
 
 #EXTINF:-1 tvg-id="beIN.GURME.HD.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/750ea3d3a22fcac23ab1/black/640x360.png" group-title="TR",BEIN GURME
 http://mc2http.zattoo.com/225.215.12.108/.63
@@ -451,16 +451,16 @@ http://mc2http.zattoo.com/225.215.1.135/.63
 http://192.168.10.38:8001/1:0:11:14B9:C6D4:7E:460000:0:0:0:
 
 #EXTINF:-1 tvg-id="360.HD.tr" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/360_tv.png" group-title="TR",360 TV
-http://192.168.10.38:8001/1:0:11:1D70:C3B4:7E:460000:0:0:0:
+http://192.168.10.38:8001/1:0:1:413D:A2E7:42E:1A40000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/1/24-tv-logo-33D3C57D1B-seeklogo.com.png" group-title="TR",24 TV
-http://192.168.10.38:8001/1:0:11:1E82:5208:7E:460000:0:0:0:
+ttp://192.168.10.38:8001/1:0:1:413C:A2E7:42E:1A40000:0:0:0:
 
 #EXTINF:-1 tvg-id="HABER.GLOBAL.HD.tr" tvg-name="" tvg-logo="https://www.flysat-live.com/logo/Turkiye/haberglobal.png" group-title="TR",HABER GLOBAL
-http://192.168.10.38:8001/1:0:11:271:C47C:7E:460000:0:0:0:
+http://192.168.10.38:8001/1:0:19:CA6B:7B0E:42E:1A40000:0:0:0:
 
 #EXTINF:-1 tvg-id="TRT.Haber.HD.tr" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/TRT_Haber_logosu_%282013-2020%29.png" group-title="TR",TRT HABER
-http://192.168.10.38:8001/1:0:11:2141:4FB0:7E:460000:0:0:0:
+http://192.168.10.38:8001/1:0:19:296A:7919:42E:1A40000:0:0:0:
 
 #EXTINF:-1 tvg-id="TRT.1.HD.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/3e90536bb751990bf093/black/640x360.png" group-title="TR",TRT 1
 http://mc2http.zattoo.com/225.215.6.101/.63
@@ -478,16 +478,16 @@ http://192.168.10.38:8001/1:0:19:2970:7919:42E:1A40000:0:0:0:
 https://mn-nl.mncdn.com/blutv_kanald2/live.m3u8
 
 #EXTINF:-1 tvg-id="Show.TV.HD.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/f0f053a142f2bc8ba77e/black/640x360.png" group-title="TR",SHOW TV
-http://192.168.10.38:8001/1:0:11:26B:C47C:7E:460000:0:0:0:
+https://showtvdvr.blutv.com/blutv_showtv_dvr2/live.m3u8
 
 #EXTINF:-1 tvg-id="FOX.HD.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/37dc1e51f3aad78eab68/black/640x360.png" group-title="TR",FOX
-http://192.168.10.38:8001/1:0:11:1EE1:51A4:7E:460000:0:0:0:
+http://192.168.10.38:8001/1:0:11:4210:A929:2A:1A40000:0:0:0:
 
 #EXTINF:-1 tvg-id="Star.TV.HD.tr" tvg-name="" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/890x890/5dc2be53866ac331e0feb20e" group-title="TR",STAR
 https://mn-nl.mncdn.com/blutv_startv2/live.m3u8
 
 #EXTINF:-1 tvg-id="TV8.HD.tr" tvg-name="" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/660x660/5dc2bcd9866ac31da061879f" group-title="TR",TV 8
-http://192.168.10.38:8001/1:0:11:1EE4:51A4:7E:460000:0:0:0:
+https://59c7ea6bec1c6.streamlock.net/filbox/tv8.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDE4IDEwOjExOjA2IFBNJmhhc2hfdmFsdWU9cGtzUElvZjBwOUFIcDZRenpxQmxLdz09JnZhbGlkbWludXRlcz01
 
 #EXTINF:-1 tvg-id="ATV.HD.tr" tvg-name="" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/atv_turkiye.png" group-title="TR",ATV
 http://192.168.10.38:8001/1:0:11:1EED:51A4:7E:460000:0:0:0:
