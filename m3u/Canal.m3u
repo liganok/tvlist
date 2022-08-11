@@ -740,8 +740,8 @@ http://mc2http.zattoo.com/224.255.103.1/.23
 
 ###Test###
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Test",beIN Sports News Mena
-https://bein.akamaized.net/besmenasportsnews/index.m3u8?hdnts=ip=95.181.234.143~st=1658571459~exp=1658578659~acl=/besmenasportsnews/*~data=env=beinmena-production~hmac=d8f16e3d250feffb4fadc5ac3bcfb1d232693ce050618450354c2af7b8a4ae0b
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Test",Wohnzimmer
+http://192.168.2.139:8081
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Test",beIN Sports Mena
 https://bein.akamaized.net/besmenasports/index.m3u8?hdnts=ip=95.181.234.143~st=1658571483~exp=1658578683~acl=/besmenasports/*~data=env=beinmena-production~hmac=f0a0710c16e9a75cb2c34d22c34ecd349e6ae10d36d8932465aadd007a589b9f
