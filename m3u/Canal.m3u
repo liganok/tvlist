@@ -420,18 +420,6 @@ http://192.168.10.38:8001/1:0:19:778:C6D4:16E:A00000:0:0:0:
 #EXTINF:-1 tvg-id="ElevenProLeague1FR.be" tvg-logo="http://watch.elevensports.be/watch_eleven_be/wp-content/uploads/2020/07/ELEVEN_PrimaryLogo_White.png" group-title="Sport",[19.2E] Eleven Sports Pro League 1
 http://192.168.10.38:8001/1:0:16:1034:451:35:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="ZiggoSportSelect.nl" tvg-logo="https://www.thesportsdb.com/images/media/logo/Ziggo_Sport_Select.png" group-title="Sport",[23.5E] Ziggo Sport Select
-http://192.168.10.38:8001/1:0:19:51E0:C96:3:EB0000:0:0:0:
-
-#EXTINF:-1 tvg-id="ESPN.nl" tvg-logo="https://logos-download.com/wp-content/uploads/2018/01/ESPN_logo.png" group-title="Sport",[23.5E] ESPN
-http://192.168.10.38:8001/1:0:19:17CC:C82:3:EB0000:0:0:0:
-
-#EXTINF:-1 tvg-id="ESPN2.nl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="Sport",[23.5E] ESPN 2
-http://192.168.10.38:8001/1:0:19:1BFC:C88:3:EB0000:0:0:0:
-
-#EXTINF:-1 tvg-id="ESPN4.nl" tvg-logo="https://fiber.nl/wp-content/uploads/tvicon-ESPN-4-International.png" group-title="Sport",[23.5E] ESPN 4
-http://192.168.10.38:8001/1:0:19:17B4:C82:3:EB0000:0:0:0:
-
 #EXTINF:-1 tvg-id="Sport1.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Sport1_hu.png" group-title="Sport",[23.5E] Sport 1 (CZ)
 http://192.168.10.38:8001/1:0:19:334B:C93:3:EB0000:0:0:0:
 
