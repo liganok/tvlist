@@ -213,6 +213,37 @@ http://192.168.10.38:8001/1:0:19:4F:1770:110:820000:0:0:0:
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="IT",27 Twentyseven
 http://192.168.10.38:8001/1:0:19:87:4B0:110:820000:0:0:0:
 
+###Netherlands###
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NL",NPO 1
+http://mc2http.zattoo.com/239.3.4.17:2000/.1156
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NL",NPO 2
+http://mc2http.zattoo.com/239.3.4.103:2000/.1156
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NL",NPO 3
+http://mc2http.zattoo.com/239.3.4.104:2000/.1156
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NL",ESPN
+http://mc2http.zattoo.com/239.3.10.1:2000/.1156
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NL",ESPN 2
+http://mc2http.zattoo.com/239.3.10.2:2000/.1156
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NL",ESPN 3
+http://mc2http.zattoo.com/239.3.10.3:2000/.1156
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NL",ESPN 4
+http://mc2http.zattoo.com/239.3.10.4:2000/.1156
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NL",Ziggo Sport Docu
+http://mc2http.zattoo.com/239.3.14.13:2000/.1156
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NL",Ziggo Sport Select
+http://mc2http.zattoo.com/239.3.14.98:2000/.1156
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NL",Ziggo Sport Voetbal
+http://mc2http.zattoo.com/239.3.14.15:2000/.1156
+
 ###Russia###
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="RU",Первый канал
 http://192.168.10.38:8001/1:0:1:1:8:1:D840000:0:0:0:
