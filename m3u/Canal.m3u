@@ -590,17 +590,35 @@ http://mc2http.zattoo.com/239.192.0.103:5501/.355
 #EXTINF:-1 tvg-id="SkySpPL.uk" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/7e2lv21502554825.png" group-title="UK",Sky Sports Premier League
 http://mc2http.zattoo.com/239.192.0.95:5501/.355
 
-#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="" tvg-logo="https://images.zattic.com/logos/7b7c2fe9aa6995935e0f/black/640x360.png" group-title="UK",BT Sport 1
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="" tvg-logo="" group-title="UK",BT Sport 1
 http://mc2http.zattoo.com/239.192.0.180:5501/.355
 
-#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="" tvg-logo="https://images.zattic.com/logos/1c14a528e8dc3a51b331/black/640x360.png" group-title="UK",BT Sport 2
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="" tvg-logo="" group-title="UK",BT Sport 2
 http://mc2http.zattoo.com/239.192.0.181:5501/.355
 
-#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="" tvg-logo="https://images.zattic.com/logos/047fa4036ee9eb46d4dc/black/640x360.png" group-title="UK",BT Sport 3
+#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="" tvg-logo="" group-title="UK",BT Sport 3
 http://mc2http.zattoo.com/239.192.0.182:5501/.355
 
-#EXTINF:-1 tvg-id="BTSportESPN.uk" tvg-name="" tvg-logo="https://images.zattic.com/logos/648e62757028a65e962e/black/640x360.png" group-title="UK",BT Sport ESPN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="UK",BT Sport 4
 http://mc2http.zattoo.com/239.192.0.183:5501/.355
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="UK",BT Sport 5
+http://mc2http.zattoo.com/239.192.0.141:5501/.355
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="UK",BT Sport 6
+http://mc2http.zattoo.com/239.192.0.142:5501/.355
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="UK",BT Sport 7
+http://mc2http.zattoo.com/239.192.0.143:5501/.355
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="UK",BT Sport 8
+http://mc2http.zattoo.com/239.192.0.144:5501/.355
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="UK",BT Sport 9
+http://mc2http.zattoo.com/239.192.0.145:5501/.355
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="UK",BT Sport 10
+http://mc2http.zattoo.com/239.192.0.146:5501/.355
 
 #EXTINF:-1 tvg-id="PremierSports.uk" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/Premier_Sports.png" group-title="UK",Premier Sport 1
 http://mc2http.zattoo.com/239.192.0.239:5501/.355
