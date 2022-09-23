@@ -246,16 +246,13 @@ http://mc2http.zattoo.com/239.3.14.15:2000/.1156
 
 ###Russia###
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="RU",Первый канал
-http://192.168.10.38:8001/1:0:1:1:8:1:D840000:0:0:0:
+http://192.168.10.38:8001/1:0:1:39A:5:3:2080000:0:0:0:
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RU",Россия-24
-http://192.168.10.38:8001/1:0:1:6AE:3138:13E:820000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RU",Россия 1
+http://192.168.10.38:8001/1:0:1:39B:5:3:2080000:0:0:0:
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RU",РТР-Планета
-http://192.168.10.38:8001/1:0:1:6AC:3138:13E:820000:0:0:0:
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RU",НТВ
-http://192.168.10.38:8001/1:0:1:6B1:3138:13E:820000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RU",НТВ Мир
+http://192.168.10.38:8001/1:0:1:39C:5:3:2080000:0:0:0:
 
 ###PT###
 #EXTINF:-1 tvg-id="RTP.1.HD.pt" tvg-logo="" group-title="PT",RTP 1
@@ -296,7 +293,7 @@ http://192.168.10.38:8001/1:0:1:1D0:68:53:CE40000:0:0:0:
 http://192.168.10.38:8001/1:0:19:7A49:410:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Cubavision2008.png/revision/latest?cb=20171219213901" group-title="South America",Cubavision
-http://192.168.10.38:8001/1:0:1:1B60:3FC:1:C00000:0:0:0:
+http://192.168.10.38:8001/1:0:19:1647:42C:1:C00000:0:0:0:
 
 ###ESP###
 #EXTINF:-1 tvg-id="LA1.es" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/rwwwxv1441657735.png" group-title="ESP",TV3
@@ -359,6 +356,12 @@ http://192.168.10.38:8001/1:0:19:7855:41A:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="DAZN2.es" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/g8hxob1615314936.png" group-title="ESP",DAZN 2
 http://192.168.10.38:8001/1:0:19:785F:41A:1:C00000:0:0:0:
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ESP",DAZN La Liga
+http://192.168.10.38:8001/1:0:19:7884:414:1:C00000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ESP",DAZN La Liga 2
+http://192.168.10.38:8001/1:0:19:74CE:3F8:1:C00000:0:0:0:
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ESP",DAZN 3
 http://192.168.10.38:8001/1:0:19:74D8:3F8:1:C00000:0:0:0:
 
@@ -367,6 +370,12 @@ http://192.168.10.38:8001/1:0:19:74D6:3F8:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ESP",DAZN F1
 http://192.168.10.38:8001/1:0:19:7531:426:1:C00000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ESP",Liga Smart Bank
+http://192.168.10.38:8001/1:0:19:74D6:3F8:1:C00000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ESP",Liga Smart Bank 2
+ttp://192.168.10.38:8001/1:0:19:74D8:3F8:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ESP",Barça TV
 http://192.168.10.38:8001/1:0:1:74A0:41C:1:C00000:0:0:0:
