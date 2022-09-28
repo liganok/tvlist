@@ -21,14 +21,19 @@ http://192.168.10.38:8001/1:0:1:6:2E18:B0:820000:0:0:0:
 http://192.168.10.38:8001/1:0:1:F1:2E18:B0:820000:0:0:0:
 
 #EXTINF:-1 tvg-logo="" group-title="Arabic",MBC
-http://192.168.10.38:8001/1:0:1:1:1:1:D7AD3F:0:0:0:
+
+#EXTINF:-1 tvg-logo="" group-title="Arabic",Al Jazeera
+http://192.168.10.38:8001/1:0:19:641:2454:13E:820000:0:0:0:
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Aljazeera_mubasher.svg/300px-Aljazeera_mubasher.svg.png" group-title="Arabic",Al Jazeera Mubasher
 http://192.168.10.38:8001/1:0:1:2C2:1B58:13E:820000:0:0:0:
 
+#EXTINF:-1 tvg-logo="" group-title="Arabic",Al Arabia
+http://192.168.10.38:8001/1:0:19:2529:13EF:13E:820000:0:0:0:
+
 ###BG###
 #EXTINF:-1 tvg-id="BNT1.bg" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/BNT_1_logo.svg/2880px-BNT_1_logo.svg.png" group-title="BG",БНТ 1
-http://192.168.10.38:8001/1:0:1:3EB:1:1:1862FEF:0:0:0:
+http://192.168.10.38:8001/1:0:1:3EB:1:2BE:1860000:0:0:0:
 
 #EXTINF:-1 tvg-id="BNT2.bg" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/BNT_2_logo.svg/2880px-BNT_2_logo.svg.png" group-title="BG",БНТ 2
 http://192.168.10.38:8001/1:0:1:6:3:1:1860000:0:0:0:
@@ -62,20 +67,20 @@ http://192.168.10.38:8001/1:0:19:CD:5:1:1860000:0:0:0:
 http://mc2http.zattoo.com/225.44.1.1/.63
 
 ###DE###
-#EXTINF:-1 tvg-id="DAZN1.de" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/hhb7im1615315057.png" group-title="DE",DAZN 1
-http://192.168.10.38:8001/1:0:19:84:9:85:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DE",DAZN 1
 
-#EXTINF:-1 tvg-id="DAZN2.de" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/g8hxob1615314936.png" group-title="DE",DAZN 2
-http://192.168.10.38:8001/1:0:19:7A:10:85:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="SkySportNewsHD.de" tvg-name=" tvg-logo="https://images.zattic.com/logos/9ecdee3d1e958b53d5e4/black/640x360.png" group-title="DE",Sky Sport News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DE",DAZN 2
+
+
+#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://images.zattic.com/logos/9ecdee3d1e958b53d5e4/black/640x360.png" group-title="DE",Sky Sport News
 http://ztest-hls7-live.zahs.tv/HD_sky_sport_news_de/master.m3u8
 
-#EXTINF:-1 tvg-id="SkySport1.de" tvg-logo="https://images.zattic.com/logos/af1b6846263b1b703850/black/640x360.png" group-title="DE",Sky Sport 1
-http://192.168.10.38:8001/1:0:19:81:6:85:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.zattic.com/logos/af1b6846263b1b703850/black/640x360.png" group-title="DE",Sky Sport 1
 
-#EXTINF:-1 tvg-id="SkyBundesliga1.de" tvg-logo="https://images.zattic.com/logos/0aff700c3fb3fafb4401/black/640x360.png" group-title="DE",Sky Sport Bundesliga 1
-http://192.168.10.38:8001/1:0:19:69:C:85:C00000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.zattic.com/logos/0aff700c3fb3fafb4401/black/640x360.png" group-title="DE",Sky Sport Bundesliga 1
+
 
 ###GR###
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="GR",ERT 1
@@ -94,25 +99,25 @@ http://192.168.10.38:8001/1:0:1:3:1:212C:1860000:0:0:0:
 http://192.168.10.38:8001/1:0:1:CE4:69:212C:1860000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="GR",Nova Sports Start
-http://mc2http.zattoo.com/231.50.0.174/.1146
+http://ztest-hls7-live.zahs.tv/HD_novasports_start_cy/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="GR",Nova Sports Prime
-http://mc2http.zattoo.com/231.50.0.30/.1146
+http://ztest-hls7-live.zahs.tv/HD_novasports_prime_cy/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="GR",Nova Sports 2
-http://mc2http.zattoo.com/231.50.0.31/.1146
+http://ztest-hls7-live.zahs.tv/HD_novasports_2_cy/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="GR",Nova Sports 3
-http://mc2http.zattoo.com/231.50.0.32/.1146
+http://ztest-hls7-live.zahs.tv/HD_novasports_3_cy/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="GR",Nova Sports 4
-http://mc2http.zattoo.com/231.50.0.33/.1146
+http://ztest-hls7-live.zahs.tv/HD_novasports_4_cy/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="GR",Nova Sports 5
-http://mc2http.zattoo.com/231.50.0.34/.1146
+http://ztest-hls7-live.zahs.tv/HD_novasports_5_cy/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="GR",Nova Sports 6
-http://mc2http.zattoo.com/231.50.0.175/.1146
+http://ztest-hls7-live.zahs.tv/HD_novasports_6_cy/master.m3u8
 
 ###IR###
 #EXTINF:-1 tvg-id="IranIntl.uk" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Iran_International.svg/1200px-Iran_International.svg.png" group-title="IR",Iran International
@@ -296,7 +301,7 @@ http://192.168.10.38:8001/1:0:19:7A49:410:1:C00000:0:0:0:
 http://192.168.10.38:8001/1:0:19:1647:42C:1:C00000:0:0:0:
 
 ###ESP###
-#EXTINF:-1 tvg-id="LA1.es" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/rwwwxv1441657735.png" group-title="ESP",TV3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/rwwwxv1441657735.png" group-title="ESP",TV3
 https://directes-test.ccma.cat/live-origin/tv3-hls/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ESP",La 1
@@ -305,13 +310,13 @@ http://192.168.10.38:8001/1:0:19:7863:41A:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ESP",La 2
 http://192.168.10.38:8001/1:0:1:7474:3F0:1:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="Antena3.es" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Antena3_Atresmedia.png" group-title="ESP",Antenna 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Antena3_Atresmedia.png" group-title="ESP",Antenna 3
 http://192.168.10.38:8001/1:0:19:7534:426:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ESP",Cuatro
 http://192.168.10.38:8001/1:0:19:7535:426:1:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="" tvg-logo="" group-title="ESP",Telecinco
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ESP",Telecinco
 http://192.168.10.38:8001/1:0:19:7536:426:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ESP",La Sexta
@@ -320,35 +325,29 @@ http://192.168.10.38:8001/1:0:19:7537:426:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://culturapolis.es/wp-content/uploads/2020/03/Movistar_0.png" group-title="ESP",#0
 http://192.168.10.38:8001/1:0:19:788C:414:1:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="Vamos.es" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/movistar_vamos.png" group-title="ESP",#VAMOS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/movistar_vamos.png" group-title="ESP",#VAMOS
 http://192.168.10.38:8001/1:0:19:750A:420:1:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="M.LaLiga.es" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/Movistar_LaLiga.png" group-title="ESP",Movistar La Liga 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/Movistar_LaLiga.png" group-title="ESP",Movistar La Liga 
 http://192.168.10.38:8001/1:0:19:750F:420:1:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="M.LaLiga1.es" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/Movistar_LaLiga_1.png" group-title="ESP",Movistar La Liga 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/Movistar_LaLiga_1.png" group-title="ESP",Movistar La Liga 2
 http://192.168.10.38:8001/1:0:19:7853:41A:1:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="M.LaLiga2.es" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/Movistar_LaLiga_2.png" group-title="ESP",Movistar La Liga 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/Movistar_LaLiga_2.png" group-title="ESP",Movistar La Liga 3
 http://192.168.10.38:8001/1:0:19:74CD:3F8:1:C00000:0:0:0:
-
-#EXTINF:-1 tvg-id="M.LaLiga3.es" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/Movistar_LaLiga_3.png" group-title="ESP",Movistar La Liga 3
-http://192.168.10.38:8001/1:0:19:74D3:3F8:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-id="M.Deportes.es" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/movistar_deportes.png" group-title="ESP",Movistar Deportes
 http://192.168.10.38:8001/1:0:19:7828:428:1:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="M.Deportes1.es" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/8jpqlr1485860734.png" group-title="ESP",Movistar Deportes 1
+#EXTINF:-1 tvg-id="M.Deportes1.es" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/8jpqlr1485860734.png" group-title="ESP",Movistar Deportes 2
 http://192.168.10.38:8001/1:0:19:7532:426:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-id="M.LigaCampeones.es" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/d4lw7d1615316983.png" group-title="ESP",Movistar Liga de Campeones
 http://192.168.10.38:8001/1:0:19:78B4:3EC:1:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="M.LigaCampeones1.es" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/Movistar_Liga_de_Campeones_1.png" group-title="ESP",Movistar Liga de Campeones 1
+#EXTINF:-1 tvg-id="M.LigaCampeones1.es" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/Movistar_Liga_de_Campeones_1.png" group-title="ESP",Movistar Liga de Campeones 2
 http://192.168.10.38:8001/1:0:19:74D5:3F8:1:C00000:0:0:0:
-
-#EXTINF:-1 tvg-id="M.LigaCampeones2.es" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/logo/Movistar_Liga_de_Campeones_2.png" group-title="ESP",Movistar Liga de Campeones 2
-http://192.168.10.38:8001/1:0:19:74DB:3F8:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-id="DAZN1.es" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/hhb7im1615315057.png" group-title="ESP",DAZN 1
 http://192.168.10.38:8001/1:0:19:7855:41A:1:C00000:0:0:0:
@@ -361,15 +360,6 @@ http://192.168.10.38:8001/1:0:19:7884:414:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ESP",DAZN La Liga 2
 http://192.168.10.38:8001/1:0:19:74CE:3F8:1:C00000:0:0:0:
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ESP",DAZN 3
-http://192.168.10.38:8001/1:0:19:74D8:3F8:1:C00000:0:0:0:
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ESP",DAZN 4
-http://192.168.10.38:8001/1:0:19:74D6:3F8:1:C00000:0:0:0:
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ESP",DAZN F1
-http://192.168.10.38:8001/1:0:19:7531:426:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ESP",Liga Smart Bank
 http://192.168.10.38:8001/1:0:19:74D6:3F8:1:C00000:0:0:0:
@@ -451,7 +441,7 @@ http://192.168.10.38:8001/1:0:19:318:C94:3:EB0000:0:0:0:
 http://192.168.10.38:8001/1:0:19:11D:2:1C:1860000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",[39E] Orange Sport 2 (RO)
-http://192.168.10.38:8001/1:0:19:11F:3:1C:1860000:0:0:0:
+http://192.168.10.38:8001/1:0:19:191:3:1C:1860000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",[39E] Orange Sport 3 (RO)
 http://192.168.10.38:8001/1:0:19:19A:3:1C:1860000:0:0:0:
@@ -463,101 +453,101 @@ http://192.168.10.38:8001/1:0:19:19B:3:1C:1860000:0:0:0:
 http://192.168.10.38:8001/1:0:1:CF:1:1:208B00F:0:0:0:
 
 ###TR###
-#EXTINF:-1 tvg-id="beIN.SPORTS.HD.1.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/5a2b2088510c7c7007fc/black/640x360.png" group-title="TR",BEIN SPORTS 1
-http://192.168.10.38:8001/1:0:11:3725:4E85:2A:1A40000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/5a2b2088510c7c7007fc/black/640x360.png" group-title="TR",BEIN SPORTS 1
 
-#EXTINF:-1 tvg-id="beIN.GURME.HD.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/750ea3d3a22fcac23ab1/black/640x360.png" group-title="TR",BEIN GURME
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/750ea3d3a22fcac23ab1/black/640x360.png" group-title="TR",BEIN GURME
 http://mc2http.zattoo.com/225.215.12.108/.63
 
-#EXTINF:-1 tvg-id="beIN.İZ.HD.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/85091362415fe9bbaedc/black/640x360.png" group-title="TR",BEIN IZ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/85091362415fe9bbaedc/black/640x360.png" group-title="TR",BEIN IZ
 http://mc2http.zattoo.com/225.215.12.107/.63
 
-#EXTINF:-1 tvg-id="beIN.MOVIES.TURK.HD.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/29c9e51b1cde3eef870b/black/640x360.png" group-title="TR",BEIN MOVIES TÜRK
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/29c9e51b1cde3eef870b/black/640x360.png" group-title="TR",BEIN MOVIES TÜRK
 http://mc2http.zattoo.com/225.215.12.106/.63
 
-#EXTINF:-1 tvg-id="HABERTURK.HD.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/e61e6278fa0cce16a39b/black/640x360.png" group-title="TR",HABER TÜRK
-http://192.168.10.38:8001/1:0:11:258:C47C:7E:460000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/e61e6278fa0cce16a39b/black/640x360.png" group-title="TR",HABER TÜRK
+http://mc2http.zattoo.com/225.215.6.200/.63
 
-#EXTINF:-1 tvg-id="CNN.TÜRK.HD.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/de4ffcbdf7cd11892adc/black/640x360.png" group-title="TR",CNN TÜRK
-http://192.168.10.38:8001/1:0:11:1D6E:C3B4:7E:460000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/de4ffcbdf7cd11892adc/black/640x360.png" group-title="TR",CNN TÜRK
+http://mc2http.zattoo.com/225.215.2.1/.63
 
-#EXTINF:-1 tvg-id="NTV.HD.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/8fee9d93961659ace84c/black/640x360.png" group-title="TR",NTV
-http://192.168.10.38:8001/1:0:11:1D6F:C3B4:7E:460000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/8fee9d93961659ace84c/black/640x360.png" group-title="TR",NTV
 
-#EXTINF:-1 tvg-id="Halk.TV.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/924cd55335a718069e1e/black/640x360.png" group-title="TR",HALK TV
-http://mc2http.zattoo.com/225.215.1.135/.63
 
-#EXTINF:-1 tvg-id="TELE.1.HD.tr" tvg-name="" tvg-logo="https://seeklogo.com/images/T/tele1-kanali-logo-D4DE153D5D-seeklogo.com.png" group-title="TR",TELE 1
-http://192.168.10.38:8001/1:0:11:14B9:C6D4:7E:460000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/924cd55335a718069e1e/black/640x360.png" group-title="TR",HALK TV
+http://mc2http.zattoo.com/224.215.11.100/.23
 
-#EXTINF:-1 tvg-id="360.HD.tr" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/360_tv.png" group-title="TR",360 TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/T/tele1-kanali-logo-D4DE153D5D-seeklogo.com.png" group-title="TR",TELE 1
+http://192.168.10.38:8001/1:0:1:529:3:42:1A40000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/360_tv.png" group-title="TR",360 TV
 http://192.168.10.38:8001/1:0:1:413D:A2E7:42E:1A40000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/1/24-tv-logo-33D3C57D1B-seeklogo.com.png" group-title="TR",24 TV
 ttp://192.168.10.38:8001/1:0:1:413C:A2E7:42E:1A40000:0:0:0:
 
-#EXTINF:-1 tvg-id="HABER.GLOBAL.HD.tr" tvg-name="" tvg-logo="https://www.flysat-live.com/logo/Turkiye/haberglobal.png" group-title="TR",HABER GLOBAL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.flysat-live.com/logo/Turkiye/haberglobal.png" group-title="TR",HABER GLOBAL
 http://192.168.10.38:8001/1:0:19:CA6B:7B0E:42E:1A40000:0:0:0:
 
-#EXTINF:-1 tvg-id="TRT.Haber.HD.tr" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/TRT_Haber_logosu_%282013-2020%29.png" group-title="TR",TRT HABER
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/TRT_Haber_logosu_%282013-2020%29.png" group-title="TR",TRT HABER
 http://192.168.10.38:8001/1:0:19:296A:7919:42E:1A40000:0:0:0:
 
-#EXTINF:-1 tvg-id="TRT.1.HD.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/3e90536bb751990bf093/black/640x360.png" group-title="TR",TRT 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/3e90536bb751990bf093/black/640x360.png" group-title="TR",TRT 1
 http://mc2http.zattoo.com/225.215.6.101/.63
 
-#EXTINF:-1 tvg-id="TRT.2.HD.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/4d010eef74f1c05cd364/black/640x360.png" group-title="TR",TRT 2
-http://192.168.10.38:8001/1:0:11:2136:4FB0:7E:460000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/4d010eef74f1c05cd364/black/640x360.png" group-title="TR",TRT 2
 
-#EXTINF:-1 tvg-id="TRT.Belgesel.HD.tr" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/TRT_Belgesel_kurumsal_logo_%282015-2019%29.png" group-title="TR",TRT Belgesel
-http://192.168.10.38:8001/1:0:11:2142:4FB0:7E:460000:0:0:0:
 
-#EXTINF:-1 tvg-id="TRT.Müzik.tr" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/TRT_M%C3%BCzik_logo.svg/2560px-TRT_M%C3%BCzik_logo.svg.png" group-title="TR",TRT Müzik
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/TRT_Belgesel_kurumsal_logo_%282015-2019%29.png" group-title="TR",TRT Belgesel
+http://192.168.10.38:8001/1:0:19:296C:7919:42E:1A40000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/TRT_M%C3%BCzik_logo.svg/2560px-TRT_M%C3%BCzik_logo.svg.png" group-title="TR",TRT Müzik
 http://192.168.10.38:8001/1:0:19:2970:7919:42E:1A40000:0:0:0:
 
-#EXTINF:-1 tvg-id="Kanal.D.HD.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/1e8c04a9d49ffcc04503/black/640x360.png" group-title="TR",KANAL D
-https://mn-nl.mncdn.com/blutv_kanald2/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/1e8c04a9d49ffcc04503/black/640x360.png" group-title="TR",KANAL D
 
-#EXTINF:-1 tvg-id="Show.TV.HD.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/f0f053a142f2bc8ba77e/black/640x360.png" group-title="TR",SHOW TV
-https://showtvdvr.blutv.com/blutv_showtv_dvr2/live.m3u8
 
-#EXTINF:-1 tvg-id="FOX.HD.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/37dc1e51f3aad78eab68/black/640x360.png" group-title="TR",FOX
-http://192.168.10.38:8001/1:0:11:4210:A929:2A:1A40000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/f0f053a142f2bc8ba77e/black/640x360.png" group-title="TR",SHOW TV
 
-#EXTINF:-1 tvg-id="Star.TV.HD.tr" tvg-name="" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/890x890/5dc2be53866ac331e0feb20e" group-title="TR",STAR
-https://mn-nl.mncdn.com/blutv_startv2/live.m3u8
 
-#EXTINF:-1 tvg-id="TV8.HD.tr" tvg-name="" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/660x660/5dc2bcd9866ac31da061879f" group-title="TR",TV 8
-https://59c7ea6bec1c6.streamlock.net/filbox/tv8.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDE4IDEwOjExOjA2IFBNJmhhc2hfdmFsdWU9cGtzUElvZjBwOUFIcDZRenpxQmxLdz09JnZhbGlkbWludXRlcz01
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/37dc1e51f3aad78eab68/black/640x360.png" group-title="TR",FOX
 
-#EXTINF:-1 tvg-id="ATV.HD.tr" tvg-name="" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/atv_turkiye.png" group-title="TR",ATV
-http://192.168.10.38:8001/1:0:11:1EED:51A4:7E:460000:0:0:0:
 
-#EXTINF:-1 tvg-id="Uçan.Kuş.TV.tr" tvg-name="" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=344" group-title="TR",UçanKuş
-https://mn-nl.mncdn.com/blutv_ucankus2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/890x890/5dc2be53866ac331e0feb20e" group-title="TR",STAR
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/660x660/5dc2bcd9866ac31da061879f" group-title="TR",TV 8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/atv_turkiye.png" group-title="TR",ATV
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=344" group-title="TR",UçanKuş
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TR",Beyaz TV
 http://mc2http.zattoo.com/225.215.8.1/.63
 
-#EXTINF:-1 tvg-id="Teve2.HD.tr" tvg-name="" tvg-logo="https://www.aydinpost.com/images/haberler/2020/10/teve2-frekans-ayarlari-teve2-canli-yayin-teve2-uydudan-nasil-izlenir-teve2-digiturk-tivibu-ve-d-smart-hangi-kanalda_9jThLnDh9k.jpg" group-title="TR",TEVE 2
-http://192.168.10.38:8001/1:0:11:1E7E:5208:7E:460000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.aydinpost.com/images/haberler/2020/10/teve2-frekans-ayarlari-teve2-canli-yayin-teve2-uydudan-nasil-izlenir-teve2-digiturk-tivibu-ve-d-smart-hangi-kanalda_9jThLnDh9k.jpg" group-title="TR",TEVE 2
+http://mc2http.zattoo.com/239.64.1.2:1234/.206
 
-#EXTINF:-1 tvg-id="TV.100.HD.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/c00da9370a97d2b79461/black/640x360.png" group-title="TR",TV 100
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/c00da9370a97d2b79461/black/640x360.png" group-title="TR",TV 100
 http://mc2http.zattoo.com/225.215.11.232/.63
 
-#EXTINF:-1 tvg-id="TRT.EBATV.İLKOKUL.HD.tr" tvg-name="" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w120/h120/q70/8886648.png" group-title="TR",TRT Eba İlkokul
-http://192.168.10.38:8001/1:0:11:61B:C418:7E:460000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w120/h120/q70/8886648.png" group-title="TR",TRT Eba İlkokul
+http://192.168.10.38:8001/1:0:1:C865:9CA5:42E:1A40000:0:0:0:
 
-#EXTINF:-1 tvg-id="TRT.EBATV.ORTAOKUL.HD.tr" tvg-name="" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w120/h120/q70/8886647.png" group-title="TR",TRT Eba Ortaokul
-http://192.168.10.38:8001/1:0:11:61C:C418:7E:460000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w120/h120/q70/8886647.png" group-title="TR",TRT Eba Ortaokul
+http://192.168.10.38:8001/1:0:1:C866:9CA5:42E:1A40000:0:0:0:
 
-#EXTINF:-1 tvg-id="TRT.EBATV.LİSE.HD.tr" tvg-name="" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w120/h120/q70/8886628.png" group-title="TR",TRT Eba Lise
-http://192.168.10.38:8001/1:0:11:61D:C418:7E:460000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w120/h120/q70/8886628.png" group-title="TR",TRT Eba Lise
+http://192.168.10.38:8001/1:0:1:C867:9CA5:42E:1A40000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cs.besmart.com.tr/phpscripts/get_station_img.php?id=1853" group-title="TR",S SPORT
-http://192.168.10.38:8001/1:0:19:770:9:42:1A40000:0:0:0:
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=605" group-title="TR",S SPORT 2
-http://192.168.10.38:8001/1:0:19:76E:9:42:1A40000:0:0:0:
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.dsmartgo.com.tr//content/p/el/11909/Thumbnail.png?v=636989786506964094" group-title="TR",SPOR SMART
 http://192.168.10.38:8001/1:0:19:76F:9:42:1A40000:0:0:0:
@@ -565,17 +555,17 @@ http://192.168.10.38:8001/1:0:19:76F:9:42:1A40000:0:0:0:
 #EXTINF:-1 tvg-id="TRT.SPOR.HD.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/b6a74d38677c0f673456/black/640x360.png" group-title="TR",TRT Spor
 http://mc2http.zattoo.com/225.215.6.103/.63
 
-#EXTINF:-1 tvg-id="TRT.Spor.2.HD.tr" tvg-name="" tvg-logo="http://trtkurumsal.trt.net.tr/Uploads/image/png/2021-05-19-16.06.31/58f9cdd55a694f5ba0acb1c1110dc4b1.png" group-title="TR",TRT Spor Yildiz
-http://192.168.10.38:8001/1:0:11:213D:4FB0:7E:460000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://trtkurumsal.trt.net.tr/Uploads/image/png/2021-05-19-16.06.31/58f9cdd55a694f5ba0acb1c1110dc4b1.png" group-title="TR",TRT Spor Yildiz
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TR",TRT3 Spor
-http://192.168.10.38:8001/1:0:11:213B:4FB0:7E:460000:0:0:0:
 
-#EXTINF:-1 tvg-id="FB.TV.HD.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/deb180fa237fb75c9513/black/640x360.png" group-title="TR",Fenerbahçe TV
-http://192.168.10.38:8001/1:0:11:2072:52D0:7E:460000:0:0:0:
 
-#EXTINF:-1 tvg-id="GS.TV.HD.tr" tvg-name="" tvg-logo="" group-title="TR",GS TV
-http://192.168.10.38:8001/1:0:11:14B8:C6D4:7E:460000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/deb180fa237fb75c9513/black/640x360.png" group-title="TR",Fenerbahçe TV
+http://mc2http.zattoo.com/225.215.8.201/.63
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TR",GS TV
+
 
 ###UK###
 #EXTINF:-1 tvg-id="BBCOneHD.uk" tvg-name="" tvg-logo="https://images.zattic.com/logos/e7db7cde3a9bf2c6e694/black/640x360.png" group-title="UK",BBC One
@@ -787,8 +777,8 @@ http://mc2http.zattoo.com/224.78.79.52/.23
 #EXTINF:-1 tvg-id="SkySportUHD.de" tvg-logo="https://images.zattic.com/logos/48ad0a94712c47358eb2/black/640x360.png" group-title="UHD",Sky Sport UHD
 http://mc2http.zattoo.com/224.78.79.53/.23
 
-#EXTINF:-1 tvg-id="RMCSport4K.fr" tvg-logo="https://images.zattic.com/logos/688b0a64daff7b8acc35/black/640x360.png" group-title="UHD",RMC Sport UHD
-http://mc2http.zattoo.com/225.72.27.21/.63
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.zattic.com/logos/688b0a64daff7b8acc35/black/640x360.png" group-title="UHD",RMC Sport UHD
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="UHD",Eurosport 4K
 http://mc2http.zattoo.com/235.16.0.153:6000/.350
@@ -801,8 +791,4 @@ http://mc2http.zattoo.com/224.255.103.1/.23
 
 ###Test###
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Test",Wohnzimmer
-http://192.168.2.139:8081
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Test",beIN Sports Mena
-https://bein.akamaized.net/besmenasports/index.m3u8?hdnts=ip=95.181.234.143~st=1658571483~exp=1658578683~acl=/besmenasports/*~data=env=beinmena-production~hmac=f0a0710c16e9a75cb2c34d22c34ecd349e6ae10d36d8932465aadd007a589b9f
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Test",
