@@ -96,7 +96,7 @@ http://192.168.10.38:8001/1:0:1:2:1:212C:1860000:0:0:0:
 http://192.168.10.38:8001/1:0:1:3:1:212C:1860000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="GR",ANT1
-http://192.168.10.38:8001/1:0:1:CE4:69:212C:1860000:0:0:0:
+http://192.168.10.38:8001/1:0:1:514:65:212C:1860000:0:0:0:
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="GR",Nova Sports Start
 http://ztest-hls7-live.zahs.tv/HD_novasports_start_cy/master.m3u8
