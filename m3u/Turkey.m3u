@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml.gz, https://iptv-org.github.io/epg/guides/tr/dsmart.com.tr.epg.xml.gz"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml.gz"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/5a2b2088510c7c7007fc/black/640x360.png" group-title="TR",BEIN SPORTS 1
 
 
