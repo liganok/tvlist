@@ -259,17 +259,11 @@ http://192.168.10.38:8001/1:0:1:39B:5:3:2080000:0:0:0:
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="RU",НТВ Мир
 http://192.168.10.38:8001/1:0:1:39C:5:3:2080000:0:0:0:
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RU",SPORT-1
-http://192.168.10.38:8001/1:0:1:321:4:3:2080000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RU",Setanta Sport 1
+http://192.168.10.38:8001/1:0:1:32C:4:3:2080000:0:0:0:
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RU",SPORT-2
-http://192.168.10.38:8001/1:0:1:322:4:3:2080000:0:0:0:
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RU",SPORT-3
-http://192.168.10.38:8001/1:0:1:323:4:3:2080000:0:0:0:
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RU",SPORT-4
-http://192.168.10.38:8001/1:0:1:324:4:3:2080000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RU",Setanta Sport 2
+http://192.168.10.38:8001/1:0:1:32D:4:3:2080000:0:0:0:
 
 ###PT###
 #EXTINF:-1 tvg-id="RTP.1.HD.pt" tvg-logo="" group-title="PT",RTP 1
