@@ -1,1 +1,113 @@
+###TR###
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/5a2b2088510c7c7007fc/black/640x360.png" group-title="TR",BEIN SPORTS 1
 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/750ea3d3a22fcac23ab1/black/640x360.png" group-title="TR",BEIN GURME
+http://mc2http.zattoo.com/225.215.12.108/.63
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/85091362415fe9bbaedc/black/640x360.png" group-title="TR",BEIN IZ
+http://mc2http.zattoo.com/225.215.12.107/.63
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/29c9e51b1cde3eef870b/black/640x360.png" group-title="TR",BEIN MOVIES TÜRK
+http://mc2http.zattoo.com/225.215.12.106/.63
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/e61e6278fa0cce16a39b/black/640x360.png" group-title="TR",HABER TÜRK
+http://mc2http.zattoo.com/225.215.6.200/.63
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/de4ffcbdf7cd11892adc/black/640x360.png" group-title="TR",CNN TÜRK
+http://mc2http.zattoo.com/225.215.2.1/.63
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/8fee9d93961659ace84c/black/640x360.png" group-title="TR",NTV
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/924cd55335a718069e1e/black/640x360.png" group-title="TR",HALK TV
+http://192.168.10.38:8001/1:0:19:C693:7BD6:42E:1A40000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/T/tele1-kanali-logo-D4DE153D5D-seeklogo.com.png" group-title="TR",TELE 1
+http://192.168.10.38:8001/1:0:1:529:3:42:1A40000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/360_tv.png" group-title="TR",360 TV
+http://192.168.10.38:8001/1:0:1:413D:A2E7:42E:1A40000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/1/24-tv-logo-33D3C57D1B-seeklogo.com.png" group-title="TR",24 TV
+http://192.168.10.38:8001/1:0:1:413C:A2E7:42E:1A40000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.flysat-live.com/logo/Turkiye/haberglobal.png" group-title="TR",HABER GLOBAL
+http://192.168.10.38:8001/1:0:19:CA6B:7B0E:42E:1A40000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/TRT_Haber_logosu_%282013-2020%29.png" group-title="TR",TRT HABER
+http://192.168.10.38:8001/1:0:19:296A:7919:42E:1A40000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/3e90536bb751990bf093/black/640x360.png" group-title="TR",TRT 1
+http://mc2http.zattoo.com/225.215.6.101/.63
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/4d010eef74f1c05cd364/black/640x360.png" group-title="TR",TRT 2
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/TRT_Belgesel_kurumsal_logo_%282015-2019%29.png" group-title="TR",TRT Belgesel
+http://192.168.10.38:8001/1:0:19:296C:7919:42E:1A40000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/TRT_M%C3%BCzik_logo.svg/2560px-TRT_M%C3%BCzik_logo.svg.png" group-title="TR",TRT Müzik
+http://192.168.10.38:8001/1:0:19:2970:7919:42E:1A40000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/1e8c04a9d49ffcc04503/black/640x360.png" group-title="TR",KANAL D
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/f0f053a142f2bc8ba77e/black/640x360.png" group-title="TR",SHOW TV
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/37dc1e51f3aad78eab68/black/640x360.png" group-title="TR",FOX
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/890x890/5dc2be53866ac331e0feb20e" group-title="TR",STAR
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/660x660/5dc2bcd9866ac31da061879f" group-title="TR",TV 8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/atv_turkiye.png" group-title="TR",ATV
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=344" group-title="TR",UçanKuş
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TR",Beyaz TV
+http://mc2http.zattoo.com/225.215.8.1/.63
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.aydinpost.com/images/haberler/2020/10/teve2-frekans-ayarlari-teve2-canli-yayin-teve2-uydudan-nasil-izlenir-teve2-digiturk-tivibu-ve-d-smart-hangi-kanalda_9jThLnDh9k.jpg" group-title="TR",TEVE 2
+http://mc2http.zattoo.com/239.64.1.2:1234/.206
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/c00da9370a97d2b79461/black/640x360.png" group-title="TR",TV 100
+http://mc2http.zattoo.com/225.215.11.232/.63
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w120/h120/q70/8886648.png" group-title="TR",TRT Eba İlkokul
+http://192.168.10.38:8001/1:0:1:C865:9CA5:42E:1A40000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w120/h120/q70/8886647.png" group-title="TR",TRT Eba Ortaokul
+http://192.168.10.38:8001/1:0:1:C866:9CA5:42E:1A40000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w120/h120/q70/8886628.png" group-title="TR",TRT Eba Lise
+http://192.168.10.38:8001/1:0:1:C867:9CA5:42E:1A40000:0:0:0:
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cs.besmart.com.tr/phpscripts/get_station_img.php?id=1853" group-title="TR",S SPORT
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=605" group-title="TR",S SPORT 2
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.dsmartgo.com.tr//content/p/el/11909/Thumbnail.png?v=636989786506964094" group-title="TR",SPOR SMART
+http://192.168.10.38:8001/1:0:19:76F:9:42:1A40000:0:0:0:
+
+#EXTINF:-1 tvg-id="TRT.SPOR.HD.tr" tvg-name="" tvg-logo="https://images.zattic.com/logos/b6a74d38677c0f673456/black/640x360.png" group-title="TR",TRT Spor
+http://mc2http.zattoo.com/225.215.6.103/.63
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://trtkurumsal.trt.net.tr/Uploads/image/png/2021-05-19-16.06.31/58f9cdd55a694f5ba0acb1c1110dc4b1.png" group-title="TR",TRT Spor Yildiz
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TR",TRT3 Spor
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.zattic.com/logos/deb180fa237fb75c9513/black/640x360.png" group-title="TR",Fenerbahçe TV
+http://mc2http.zattoo.com/225.215.8.201/.63
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TR",GS TV
